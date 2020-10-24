@@ -15,11 +15,10 @@ instagram: https://instagram.com/EmilyWyattSmiley
 # pinterest: https://pinterest.com/
 email: emilywyattsmiley@gmail.com
 
-# Hero Section
-hero: true # To enable the section hero, use the value true. To turn off use the value false.
-hero-title: first2
-hero-subtitle: fdja
-hero-image: images/14.jpg # Add background image in section hero
+hero: true
+# hero-title:
+# hero-subtitle:
+hero-image: images/header.jpg
 
 # Footer
 # footer-image: images/14.jpg # Add background image in footer
