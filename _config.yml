@@ -20,8 +20,7 @@ hero: true
 # hero-subtitle:
 hero-image: images/header.jpg
 
-# Footer
-# footer-image: images/14.jpg # Add background image in footer
+footer-image: images/footer.jpg
 
 # Comment Section (Disqus)
 # disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
