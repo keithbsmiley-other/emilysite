@@ -25,10 +25,8 @@ footer-image: images/footer.jpg
 # Comment Section (Disqus)
 # disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
-# Google Analytics
-google-analytics: "" # Add your identifier. For example UA-99631805-1.
+google-analytics: "UA-181261181-1"
 
-# Newsletter
 mailchimp: "video.us2.list-manage.com/subscribe/post?u=e0b714d71f1c63bef4dce8b45&amp;id=68e1aa30fb"
 
 # Build settings
