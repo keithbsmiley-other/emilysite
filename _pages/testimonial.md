@@ -11,7 +11,7 @@ image: images/testimonials.jpg
 
 *I’ve had the awesome experience taking Emily’s power flow classes since she started teaching virtually. I have gotten so much out of taking her classes both for my body and mind. Emily is a wonderful and experienced teacher. It shows in her thoughtful sequencing and cues. She challenges me to get deeper in a pose and really highlights which muscle groups are being engaged; all the while encouraging me to do what feels best in my own body. I always feel energized and stronger after taking her class. I highly recommend her classes, you won’t be disappointed!* --Kim--
 
-*I took my first Zoom Stretch lesson with Emily today, and I already have some relief in my lower back!  This has been an ongoing issue of mine. I am glad I found someone who can direct me into correct movement. Thanks Emily!* --Denise--
+*I took my first private Zoom Stretch lesson with Emily today, and I already have some relief in my lower back!  This has been an ongoing issue of mine. I am glad I found someone who can direct me into correct movement. Thanks Emily!* --Denise--
 
 *What I like is Emily’s style. She lets you know the next excercise that’s coming before she gets to it. That enables me to prepare and mentally be ready.  She provides that push you need during the workout to keep you motivated. I am looking forward to my next pump class. Thanks Emily.* --Dave--
 
