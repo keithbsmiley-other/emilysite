@@ -7,7 +7,7 @@ image:  images/Sad-plate.jpg
 
 Just as there have always been, there are a lot of fad diets out right now.[^1] Trust me, I know, because I've tried most of them. The Atkins diet is a big one. As is the ketogenic diet, the South Beach diet, and the Zone diet, to name a few.[^2]
 
-My point is there's a metric shit ton of them out there, and a lot of people have idea what it is they need (I blame listicles), or don't need, to actually put into their body. So, I'm here to help clarify a few things.
+My point is there's a metric shit ton of them out there, and a lot of people have no idea what it is they need, or don't need, to actually put into their body. So, I'm here to help clarify a few things.
 
 As someone who struggles with self image, jumps on fad diets for, sometimes, years at a time, and then epically plunges into the black abyss that is binge eating sugary treats, I can say with full confidence:
 
