@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Fad Diets, Macros, and The Flotsam and Jetsam of Misinformation Floating Around On the Inter-waves
-date:   2020-10-24
-image:  images/Sad-plate.jpg
+date:   2020-11-1
+image:  images/Sad-plate.jpt
 ---
 
 Just as there have always been, there are a lot of fad diets out right now.[^1] Trust me, I know, because I've tried most of them. The Atkins diet is a big one. As is the ketogenic diet, the South Beach diet, and the Zone diet, to name a few.[^2]
