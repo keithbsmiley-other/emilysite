@@ -5,7 +5,7 @@ permalink: /about
 image: images/emily.jpg
 ---
 
-Like most journeys, my trek into the fitness world has been a windy one. I believed I found my path last year when I started coaching and leading teacher trainings for budding yoga teachers. I loved guiding others along their own paths, and watching them grow along the way. Unforuntely, like it had for countless others, 2020 had something else in mind for me. I lost my stable teaching job, and, suddenly, I found myself wandering somewhat aimlessly once again. I had the knowledge. I had the experience. I just didn't know where to put it, or who would want it, anymore. 
+Like most journeys, my trek into the fitness world has been a windy one. I believed I found my path last year when I started coaching and leading teacher trainings for budding yoga teachers. I loved guiding others along their own paths, and watching them grow along the way. Unforuntely, like it had for countless others, 2020 had something else in mind for me. I lost my stable teaching job, and, suddenly, I found myself wandering somewhat aimlessly once again. I had the knowledge. I had the experience. I just didn't know where to put it, or who would want it. 
 
 In July, a student, and friend, reached out to me. I lead a part of her teacher training experience in early 2019, and she wanted me to help continue to build her teaching chops. After a few sessions, I realized *she* was now the one guiding *me*. She rekindled something I had forgotten about myself: I love to help others feel *good*. 
 
