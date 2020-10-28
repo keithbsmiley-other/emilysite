@@ -323,7 +323,7 @@ I'm here to help.[^36]
 
 [^2]:	Notice how I didn't include veganism, vegetarianism, pescatarianism, etc? Don't @ me, bro.
 
-[^3]:	Lee, Ryan W Y, Michael J Corley, Alina Pang, Gaye Arakaki, Lisa Abbott, Michael Nishimoto, Rob Miyamoto, et al. Modified Ketogenic Gluten-Free Diet with MCT Improves Behavior in Children with Autism Spectrum Disorder. Physiology & behavior. U.S. National Library of Medicine, May 1, 2018. \[\[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5863039/.]{.underline}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5863039/)
+[^3]:	Lee, Ryan W Y, Michael J Corley, Alina Pang, Gaye Arakaki, Lisa Abbott, Michael Nishimoto, Rob Miyamoto, et al. Modified Ketogenic Gluten-Free Diet with MCT Improves Behavior in Children with Autism Spectrum Disorder. Physiology & behavior. U.S. National Library of Medicine, May 1, 2018. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5863039/.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5863039/)
 
 [^4]:	I mean Keith Raneire supposedly cured Tourette's Syndrome, but we all didn't join his sex cult.
 
@@ -335,31 +335,31 @@ I'm here to help.[^36]
 
 [^8]:	Sure, some artificial sugars are okay. Monk Fruit extract, for example. But when you start looking at Xylitol, Aspartame, etc., shit gets real, fast.
 
-[^9]:	"Dietary Fats." \[\[www.heart.org.]{.underline}](http://www.heart.org./) Accessed October 21, 2020. \[\[https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats.]{.underline}](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats.)
+[^9]:	"Dietary Fats." [www.heart.org.](http://www.heart.org./) Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats.)
 
-[^10]:	"Trans Fats." \[\[www.heart.org.]{.underline}](http://www.heart.org./) Accessed October 21, 2020. \[\[https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.]{.underline}](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.)
+[^10]:	"Trans Fats." [www.heart.org.](http://www.heart.org./) Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.)
 
 [^11]:	So really, your grandma probably did use trans fat in her cooking. At least we did in the south. Boy howdy, did we love our Cisco.
 
-[^12]:	"Trans Fats." \[\[www.heart.org.]{.underline}](http://www.heart.org./) Accessed October 21, 2020. \[\[https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.]{.underline}](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.)
+[^12]:	"Trans Fats." [www.heart.org.](http://www.heart.org./) Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.)
 
-[^13]:	This was actually extremely important during World War II when specific foods were rationed (butter). Margarine was formed through the creation of trans fat. "Trans Fat." *Encyclopedia Britannica*. Encyclopedia Britannica, inc. Accessed October 21, 2020. \[\[https://www.britannica.com/science/trans-fat.]{.underline}](https://www.britannica.com/science/trans-fat.)
+[^13]:	This was actually extremely important during World War II when specific foods were rationed (butter). Margarine was formed through the creation of trans fat. "Trans Fat." *Encyclopedia Britannica*. Encyclopedia Britannica, inc. Accessed October 21, 2020. [https://www.britannica.com/science/trans-fat.](https://www.britannica.com/science/trans-fat.)
 
 [^14]:	The Food and Drug Administration gave food-makers three years to phase out artificial trans fat in 2015. In 2018, food-makers were given one more year to remove the compound.
 
-Dewey, Caitlin. "Analysis | Artificial Trans Fats, Widely Linked to Heart Disease, Are Officially Banned." *The Washington Post.* WP Company, April 27, 2019. \[\[https://www.washingtonpost.com/news/wonk/wp/2018/06/18/artificial-trans-fats-widely-linked-to-heart-disease-are-officially-banned/]{.underline}](https://www.washingtonpost.com/news/wonk/wp/2018/06/18/artificial-trans-fats-widely-linked-to-heart-disease-are-officially-banned/).
+Dewey, Caitlin. "Analysis | Artificial Trans Fats, Widely Linked to Heart Disease, Are Officially Banned." *The Washington Post.* WP Company, April 27, 2019. [https://www.washingtonpost.com/news/wonk/wp/2018/06/18/artificial-trans-fats-widely-linked-to-heart-disease-are-officially-banned/.](https://www.washingtonpost.com/news/wonk/wp/2018/06/18/artificial-trans-fats-widely-linked-to-heart-disease-are-officially-banned/)
 
-[^15]:	"Learn the Facts about Fats." Mayo Clinic. Mayo Foundation for Medical Education and Research, February 1, 2019. \[\[https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fat/art-20045550.]{.underline}](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fat/art-20045550.)
+[^15]:	"Learn the Facts about Fats." Mayo Clinic. Mayo Foundation for Medical Education and Research, February 1, 2019. [https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fat/art-20045550.](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fat/art-20045550)
 
 [^16]:	I'm just kidding. I don't actually know if Cheetos have trans fat in them. But I am sure Big Snack is a villain in a children's movie. Has to be. If it's not I'll happily write that after school special. PBS: Hollar at cha girl.
 
-[^17]:	"Saturated Fat." \[\[www.heart.org.]{.underline}](http://www.heart.org./) Accessed October 21, 2020. \[\[https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/saturated-fats.]{.underline}](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/saturated-fats.)
+[^17]:	"Saturated Fat." [www.heart.org.](http://www.heart.org/) Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/saturated-fats.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/saturated-fats)
 
 [^18]:	Astrup, A., et al., T*he role of reducing intakes of saturated fat in the prevention of cardiovascular disease: where does the evidence stand in 2010?* Am J Clin Nutr, 2011. 93(4): p. 684-8.
 
-[^19]:	Publishing, Harvard Health. "The Truth about Fats: the Good, the Bad, and the in-Between." Harvard Health. Accessed October 21, 2020. \[\[https://www.health.harvard.edu/staying-healthy/the-truth-about-fats-bad-and-good.]{.underline}](https://www.health.harvard.edu/staying-healthy/the-truth-about-fats-bad-and-good.)
+[^19]:	Publishing, Harvard Health. "The Truth about Fats: the Good, the Bad, and the in-Between." Harvard Health. Accessed October 21, 2020. [https://www.health.harvard.edu/staying-healthy/the-truth-about-fats-bad-and-good.](https://www.health.harvard.edu/staying-healthy/the-truth-about-fats-bad-and-good)
 
-[^20]:	Lopez-Jimenez, Francisco. "Are Omega-6 Fatty Acids Linked to Heart Disease?" Mayo Clinic. Mayo Foundation for Medical Education and Research, October 19, 2019. \[\[https://www.mayoclinic.org/diseases-conditions/heart-disease/expert-answers/omega-6/faq-20058172.]{.underline}](https://www.mayoclinic.org/diseases-conditions/heart-disease/expert-answers/omega-6/faq-20058172.)
+[^20]:	Lopez-Jimenez, Francisco. "Are Omega-6 Fatty Acids Linked to Heart Disease?" Mayo Clinic. Mayo Foundation for Medical Education and Research, October 19, 2019. [https://www.mayoclinic.org/diseases-conditions/heart-disease/expert-answers/omega-6/faq-20058172.](https://www.mayoclinic.org/diseases-conditions/heart-disease/expert-answers/omega-6/faq-20058172)
 
 [^21]:	Ibid.
 
@@ -381,17 +381,17 @@ Note your findings.
 
 Dollars to donuts the broccoli leaves you feeling fuller. Why? It’s a complex carbohydrate that takes *forever* to digest. Not to mention the amount of fiber that comes with half a cup of broccoli. Yowza.
 
-[^27]:	Royal Society of New Zealand. "How The Body Metabolizes Sugar." SugarScience.UCSF.edu, November 16, 2016. \[\[https://sugarscience.ucsf.edu/sugar-metabolism.html.]{.underline}](https://sugarscience.ucsf.edu/sugar-metabolism.html.)
+[^27]:	Royal Society of New Zealand. "How The Body Metabolizes Sugar." SugarScience.UCSF.edu, November 16, 2016. [https://sugarscience.ucsf.edu/sugar-metabolism.html.](https://sugarscience.ucsf.edu/sugar-metabolism.html)
 
 [^28]:	Ibid.
 
 [^29]:	Legally, I can't say that for certain. I don't know your life. My dog, Katy, loves to poop, though. I'm taking my lead from her.
 
-[^30]:	Pendick, Daniel. "How Much Protein Do You Need Every Day?," June 25, 2019. \[\[https://www.health.harvard.edu/blog/how-much-protein-do-you-need-every-day-201506188096.]{.underline}](https://www.health.harvard.edu/blog/how-much-protein-do-you-need-every-day-201506188096.)
+[^30]:	Pendick, Daniel. "How Much Protein Do You Need Every Day?," June 25, 2019. [https://www.health.harvard.edu/blog/how-much-protein-do-you-need-every-day-201506188096.](https://www.health.harvard.edu/blog/how-much-protein-do-you-need-every-day-201506188096)
 
 [^31]:	TM
 
-[^32]:	McCall, Pete. "Things to Know About How the Body Uses Protein to Repair Muscle Tissue," March 5, 2018. \[\[https://www.acefitness.org/education-and-resources/professional/expert-articles/6960/9-things-to-know-about-how-the-body-uses-protein-to-repair-muscle-tissue/]{.underline}](https://www.acefitness.org/education-and-resources/professional/expert-articles/6960/9-things-to-know-about-how-the-body-uses-protein-to-repair-muscle-tissue/) .
+[^32]:	McCall, Pete. "Things to Know About How the Body Uses Protein to Repair Muscle Tissue," March 5, 2018. [https://www.acefitness.org/education-and-resources/professional/expert-articles/6960/9-things-to-know-about-how-the-body-uses-protein-to-repair-muscle-tissue/.](https://www.acefitness.org/education-and-resources/professional/expert-articles/6960/9-things-to-know-about-how-the-body-uses-protein-to-repair-muscle-tissue/)
 
 [^33]:	Ibid.
 
