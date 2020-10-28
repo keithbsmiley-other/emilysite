@@ -29,7 +29,7 @@ Okay, first things first. Your body *needs* *fat*. There, I said it. I would sho
 
 Fats give your body energy. They support cell growth. They help you produce hormones, and absorb nutrients. They protect your organs, *and* they keep you warm.[^7]
 
-(If you're a low-fat evangelical, I've got bad news for you. Most low-fat products are loaded with sugar, or, worse yet, artificial sugar [^8]. That's the only way food manufacturers can get the populace to eat their products. So, you know, eat fats.)
+(If you're a low-fat evangelical, I've got bad news for you. Most low-fat products are loaded with sugar, or, worse yet, artificial sugar.[^8] That's the only way food manufacturers can get the populace to eat their products. So, you know, eat fats.)
 
 But, like all good things, too many fats can be bad for you. Additionally, some fats are healthier than others. So, let's break this shit down.
 
