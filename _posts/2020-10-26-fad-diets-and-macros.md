@@ -86,7 +86,7 @@ Where can you find saturated fat:
 
 Think about it like this: foods high in saturated fat will, typically, be a solid at room temperature.
 
-I'll be completely honest, a handful of recent studies have found that saturated fat might not be bad for you after all. Which, I'm sure at least a few of you are yelling that exact fact at me right now as you read this.
+I'll be completely honest, a handful of recent studies have found that saturated fat might not be bad for you after all; which, I'm sure at least a few of you are yelling that exact fact at me right now as you read this.
 
 Well, stop it. I'm not trying to steal your saved up bacon grease, and I don't like getting screamed at. See what you made me do? You made me end my sentence in a preposition. Calm yourself. Read on.
 
