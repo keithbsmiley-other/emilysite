@@ -51,7 +51,7 @@ Pretty much everyone used to. That's a lie. Not *everyone*. (Maybe your grandma 
 
 Healthier fats---like unsaturated fats---have a really short shelf life. They go rancid very quickly. This was extremely problematic for grocery stores, food manufacturers, and households alike, especially before refrigerators were commonplace (1930s-1940s).
 
-In the early 1900s, a German chemist figured out how to hydrogenate liquid fat to produce a semi-solid fat. Thus, giving birth to trans fats. The hydrogenation technique let food stay on the shelf for longer, and it was cheap and easy to put into food. Therefore, food manufacturers immediately started utilizing hydrogenated fats, or trans fat.[^10] (Fun fact, the first product to contain trans fat was Crisco vegetable shortening.)[^11][^12]
+In the early 1900s, a German chemist figured out how to hydrogenate liquid fat to produce a semi-solid fat. Thus, giving birth to trans fats. The hydrogenation technique let food stay on the shelf for longer, and it was cheap and easy to put into food. Therefore, food manufacturers immediately started utilizing hydrogenated fats, or trans fat.[^10] (Fun fact, the first product to contain trans fat was Crisco vegetable shortening.)[^11] [^12]
 
 Trans fats became really big over the next eighty years. "By the 1980s, many food manufacturers and restaurants had stopped using tallow and lard, replacing these fats with trans fat-based products, which had similar smoke points and were thought to be healthier."[^13] Spoiler alert: they were not.
 
