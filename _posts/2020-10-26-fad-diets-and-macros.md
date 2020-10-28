@@ -84,7 +84,7 @@ Where can you find saturated fat:
 -   palm oil
 -   dairy products (whole and reduced fat milk, butter, etc. Also, sorry Wisconsin, this includes cheese.)
 
-Think about it like this: foods high in saturated fat will, typically, be a solid in room temperature.
+Think about it like this: foods high in saturated fat will, typically, be a solid at room temperature.
 
 I'll be completely honest, a handful of recent studies have found that saturated fat might not be bad for you after all. Which, I'm sure at least a few of you are yelling that exact fact at me right now as you read this.
 
