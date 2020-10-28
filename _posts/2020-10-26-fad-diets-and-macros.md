@@ -331,19 +331,19 @@ I'm here to help.[^36]
 
 [^6]:	Some sources may argue that there are other macronutrients. The National Academy of Sports Medicine (or NASM) argues that alcohol is a macronutrient. While others argue that Water and Fiber should be included in the list as separate items. For the sake of simplicity, this article will focus on the three macros that every one can agree on.
 
-[^7]:	"Dietary Fats." www.heart.org. Accessed October 21, 2020. https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats.
+[^7]:	"Dietary Fats." www.heart.org. Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats)
 
 [^8]:	Sure, some artificial sugars are okay. Monk Fruit extract, for example. But when you start looking at Xylitol, Aspartame, etc., shit gets real, fast.
 
-[^9]:	"Dietary Fats." [www.heart.org.](http://www.heart.org./) Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats.)
+[^9]:	"Dietary Fats." [www.heart.org.](http://www.heart.org./) Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats)
 
-[^10]:	"Trans Fats." [www.heart.org.](http://www.heart.org./) Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.)
+[^10]:	"Trans Fats." [www.heart.org.](http://www.heart.org./) Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat)
 
 [^11]:	So really, your grandma probably did use trans fat in her cooking. At least we did in the south. Boy howdy, did we love our Cisco.
 
-[^12]:	"Trans Fats." [www.heart.org.](http://www.heart.org./) Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.)
+[^12]:	"Trans Fats." [www.heart.org.](http://www.heart.org./) Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat)
 
-[^13]:	This was actually extremely important during World War II when specific foods were rationed (butter). Margarine was formed through the creation of trans fat. "Trans Fat." *Encyclopedia Britannica*. Encyclopedia Britannica, inc. Accessed October 21, 2020. [https://www.britannica.com/science/trans-fat.](https://www.britannica.com/science/trans-fat.)
+[^13]:	This was actually extremely important during World War II when specific foods were rationed (butter). Margarine was formed through the creation of trans fat. "Trans Fat." *Encyclopedia Britannica*. Encyclopedia Britannica, inc. Accessed October 21, 2020. [https://www.britannica.com/science/trans-fat.](https://www.britannica.com/science/trans-fat)
 
 [^14]:	The Food and Drug Administration gave food-makers three years to phase out artificial trans fat in 2015. In 2018, food-makers were given one more year to remove the compound.
 
