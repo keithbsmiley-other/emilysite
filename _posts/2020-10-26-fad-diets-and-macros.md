@@ -39,7 +39,7 @@ Let's start with the least healthy type of fat and move our way up, shall we?
 
 ### Trans fat
 
-The least healthy of the fats is trans fat. Small amounts of trans fat occur in animal protein (meat and dairy products). Those aren't the sources you really need to worry about, because the dosage is so low. It's the artificial stuff that's the real problem for most of us (and when I say most of us, I mean most of us globally. Trans fats are a problem all over the world, not just in the U.S.)
+The least healthy of the fats is trans fat. Small amounts of trans fat occur in animal protein (meat and dairy products). Those aren't the sources you really need to worry about, because the dosage is so low. It's the artificial stuff that's the real problem for most of us (and when I say most of us, I mean most of us globally. Trans fats are a problem all over the world. Not just in the U.S.)
 
 Trans fat increases bad cholesterol (LDL) and, *actively lowers good cholesterol* (HDL). It is linked to creating inflammation in the body and increases you risk for heart disease and stroke. It can even contribute to insulin resistance.[^9] (Psst, insulin resistance is a fancy way of saying pre-diabetes or full blown Type 2 Diabetes depending on individual glucose levels.) So, again for effect:
 
