@@ -17,7 +17,7 @@ As someone who struggles with self image, jumps on fad diets for, sometimes, yea
 
 Most fad diets aren't sustainable. They're exhausting. A lot of them aren't even actually healthy. And, let's be honest, most of them aren't very yummy.
 
-So, to truly understand why fad diets are the absolute worst, we must educate ourselves. This article will focus on the fad diets that specifically alienate macros, or macronutrients, since those are the diets that are so right now.[^5]
+So, to truly understand why fad diets are the absolute worst, we must educate ourselves. This article will focus on the fad diets that specifically alienate macros, or macronutrients, since those are the diets that are so popular right now.[^5]
 
 Macros are named such because you need a lot of each of them. There are three main macros: Fats, Carbohydrates, and Protein.[^6]
 
