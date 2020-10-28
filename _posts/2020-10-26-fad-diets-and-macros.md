@@ -90,7 +90,7 @@ I'll be completely honest, a handful of recent studies have found that saturated
 
 Well, stop it. I'm not trying to steal your saved up bacon grease, and I don't like getting screamed at. See what you made me do? You made me end my sentence in a preposition. Calm yourself. Read on.
 
-Most scientists and most studies agree that saturated fat can increase your LDL cholesterol. (Stop yelling.) However, there are at least three studies that I'm aware of that argue saturated fat might not increase your risk for heart disease. (See I'm agreeing with you). Those same reports, though, concluded that you absolutely can *lower* your bad cholesterol if you replace saturated fat with polyunsaturated or monounsaturated fat (see next section).
+Most scientists, and most studies, agree that saturated fat can increase your LDL cholesterol. (Stop yelling.) However, there are at least three studies, that I'm aware of, that argue saturated fat might not increase your risk for heart disease. (See I'm agreeing with you). Those same reports, though, concluded that you absolutely can *lower* your bad cholesterol if you replace saturated fat with polyunsaturated or monounsaturated fat (see next section).
 
 So, say you're sautéing vegetables for dinner, and you have the choice between butter and olive oil to lube up that pan. Do you go for something that may or may not be bad for you and your family? Or do you grab something that is definitely going to benefit their heart health?[^19]
 
