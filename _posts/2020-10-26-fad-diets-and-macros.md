@@ -74,7 +74,7 @@ TL;DR: Actively avoid trans fat to the best of your ability---especially outside
 
 ### Saturated Fat
 
-Like trans fats, saturated fats can raise your LDL cholesterol, but there's a caveat. Saturated fat can only significantly raises your LDL cholesterol if *eaten in excess*. The American Heart Association recommends limiting your saturated fat intake to five to six percent of your caloric intake.[^17] Others have said to limit your caloric intake to no more than ten percent of your total daily calories.[^18]
+Like trans fats, saturated fats can raise your LDL cholesterol, but there's a caveat. Saturated fat can only significantly raise your LDL cholesterol if *eaten in excess*. The American Heart Association recommends limiting your saturated fat intake to five to six percent of your caloric intake.[^17] Others have said to limit your caloric intake to no more than ten percent of your total daily calories.[^18]
 
 Where can you find saturated fat:
 
