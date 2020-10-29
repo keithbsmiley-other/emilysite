@@ -231,7 +231,7 @@ And before you say anything, yeah, fruit is technically also pure sugar.
 
 ### Fiber
 
-I've been mentioning fiber a lot in this section of the article. That's because it's really freaking important. Fiber is what makes you poop. And before you get all grossed out let me let you in on a little secret: everybody poops. We all need to poop. It's a bodily function. Get over it.
+I've been mentioning fiber a lot in this section of the article. That's because it's really freaking important. Fiber is what makes you poop. And before you get all grossed out, let me let you in on a little secret: everybody poops. We all need to poop. It's a bodily function. Get over it.
 
 The thing that really got to me when I was on the keto diet is that it severely limits how much fiber you can take in, because the carbs are so limited. Hard-core high-fat, low-carb dieters *include* fiber in their carb intake. Which is absolutely insane, because some of that fiber is literally called "insoluble fiber". It's food that your body can't physically break down and absorb. It's only purpose is to push your actual shit through your intestines and out your poop hole.
 
