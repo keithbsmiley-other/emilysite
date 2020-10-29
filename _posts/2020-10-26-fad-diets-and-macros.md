@@ -263,7 +263,7 @@ TL;DR: Eat whole fruits and vegetables. Don't skip them. Eat your fiber. Poop. Y
 
 I feel like protein is the one macronutrient every one can agree we need. Your hair and nails are made of protein. It helps promote healthy skin. It is an essential building block of both bones and muscles. Some proteins in our bodies are hormones, and some act as messengers for other molecules that are key reactions inside the body.
 
-Additionally, protein is the only macronutrient that the body cannot actively store. Carbohydrates are broken down to sugar and stored as glycogen. Fat is broken down and stored in the body as lipids. There are no back-up reserves of protein in the body. They are essential to our diets. We have to eat it in order to survive.
+Additionally, protein is the only macronutrient that the body cannot actively store. Carbohydrates are broken down to sugar, and stored as glycogen. Fat is broken down, and stored in the body as lipids. There are no back-up reserves of protein in the body. It is essential to our diets. We have to eat it in order to survive.
 
 That being said, you don't need as much of it as you might think. The current Recommended Dietary Allowance (RDA) for protein is point eight grams of protein per kilogram of body weight (though nutritionists seem to debate that number more and more often).[^30]
 
