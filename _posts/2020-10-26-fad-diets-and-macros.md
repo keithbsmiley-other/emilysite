@@ -317,7 +317,7 @@ You just need to be healthy.
 
 I'm here to help.[^36]
 
-[^1]:	I just fell down a pretty epic rabbit hole on the history of dieting. Guess what! Dieting got big when some (male) Presbyterian minister in the 1800s decided people (read as: women) should eat plain foods to maintain good health and "morality". Homeboy literally believed spices and sugar led to sexual excess and civil disorder. So, expect me to write an article on that in the near future.
+[^1]:	I just fell down a pretty epic rabbit hole on the history of dieting. Guess what! Dieting has been going on for thousands of years, but eliminating specifc foods from one's diet got big when some (male) Presbyterian minister in the 1800s decided people (read as: women) should eat plain foods to maintain good health and "morality". Homeboy literally believed spices and sugar led to sexual excess and civil disorder. So, expect me to write an article on that in the near future.
 
 [^2]:	Notice how I didn't include veganism, vegetarianism, pescatarianism, etc? Don't @ me, bro.
 
