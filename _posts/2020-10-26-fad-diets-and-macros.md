@@ -164,7 +164,7 @@ My point: When people eat high-fat diets they aren't necessarily eating the *rig
 
 Again, all of this is in an effort to lose weight. Most people don't jump on the high-fat, low-carb bandwagon due to an underlying medical condition. So keep that in mind when I say this:
 
-Even if you eat the correct kind of fat, high-fat low-carb diets are still really bad for you.[^22]
+Even if you eat the correct kind of fat, high-fat, low-carb diets are still really bad for you.[^22]
 
 ## Carbohydrates
 
