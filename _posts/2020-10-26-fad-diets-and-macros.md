@@ -285,7 +285,7 @@ So, why drink protein after a big workout? Why do weightlifters need more protei
 
 Something to keep in mind:
 
-> You absolutely, one-hundred percent can over eat protein. It is stored in your body mostly as fat. So, supplement with caution.
+> You absolutely, one-hundred percent can over eat protein. It is stored in your body mostly as fat. Supplement with caution.
 
 So, going back to fad macro-based diets. Honestly, protein is the one I don't really have a problem with in regards to fad diets. Protein should comprise fifteen to thirty percent of your daily caloric intake. Most fad diets are actually spot on in this macro dosage. If you're looking at a high-protein, low-carbohydrate diet, I'd say refer back to the section where I go on and on about not getting enough nutrients from just protein and fat.
 
