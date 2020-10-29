@@ -325,7 +325,7 @@ I'm here to help.[^36]
 
 [^4]:	I mean Keith Raneire supposedly cured Tourette's Syndrome, but we all didn't join his sex cult.
 
-[^5]:	Unfortunately, most of them only focus on macro, rather than well-rounded nutrient intake---hence the being unhealthy.
+[^5]:	Unfortunately, most of them only focus on macros, rather than well-rounded nutrient intake---hence the being unhealthy.
 
 [^6]:	Some sources may argue that there are other macronutrients. The National Academy of Sports Medicine (or NASM) argues that alcohol is a macronutrient. While others argue that Water and Fiber should be included in the list as separate items. For the sake of simplicity, this article will focus on the three macros that every one can agree on.
 
