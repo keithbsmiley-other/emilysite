@@ -18,3 +18,5 @@ image: images/testimonials.jpg
 *Emily’s classes always make me feel super balanced and grounded. It’s so obvious that she plans her sequences thoughtfully, and takes the time to guide you through each pose with clear cues. I have always appreciated how her classes feel both challenging and natural. And fun! I love taking Emily’s classes and would recommend to yogis of any experience level.* --Lillian--
 
 *I took the Pump class with Emily and let me tell you, it kicked my butt! In a good way, of course. Emily is super knowledgeable about anatomy and works on target areas as well as cardio. I felt like I worked it all by the end and the cool down was such a gift to my mind and my body. You will sleep like a rock! Go get pumped!* --Madeleine--
+
+*“Emily’s attention to detail when teaching a yoga or fitness class is unparalleled to any instructor I’ve had. She makes classes fun and safe, and I always come out more informed about my body. I really appreciate the thoughtfulness she puts into each class, and I know she genuinely cares about her students. I would highly recommend any of her classes!”* --Maggie--
