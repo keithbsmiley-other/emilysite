@@ -268,7 +268,7 @@ Just do your due diligence to learn what a healthy plant-based diet looks like, 
 
 	Adele Hite, PhD MPH RD. “‘Broccoli Has More Protein than Steak’-and Other Crap.” Eathropology, 15 Feb. 2014, [eathropology.com/2013/04/08/broccoli-has-more-protein-than-steak-and-other-crap/.](https://eathropology.com/2013/04/08/broccoli-has-more-protein-than-steak-and-other-crap/) 
 
-[^27]:	“Iron Deficiency Anemia.” Mayo Clinic, Mayo Foundation for Medical Education and Research, 18 Oct. 2019, [www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/symptoms-causes/syc-20355034.](www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/symptoms-causes/syc-20355034%20) 
+[^27]:	“Iron Deficiency Anemia.” Mayo Clinic, Mayo Foundation for Medical Education and Research, 18 Oct. 2019, [www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/symptoms-causes/syc-20355034.](https://www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/symptoms-causes/syc-20355034) 
 
 [^28]:	Sleep well tonight!
 
