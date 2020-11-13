@@ -153,7 +153,7 @@ Let’s talk about blood.
 
 Your red blood cells contain a protein called hemoglobin. Hemoglobin carries oxygen from the lungs to the rest of your body. Without enough iron, your body can’t produce enough hemoglobin.[^27]
 
-The lack of hemoglobin (or red blood cells) is called anemia. 
+This lack of hemoglobin (or red blood cells) is called anemia. 
 
 > Not to scare you or anything, but anemia is essentially when you begin to suffocate from within your own body.[^28]
 
@@ -172,11 +172,11 @@ Symptoms include:
 
 How do you become dietarily anemic? If the food(s) you’re consuming lack(s) iron, folic acid, and/or vitamin B12, mainly. You know what has all of those things? Animal protein.
 
-See a pattern? Typically the foods that are high in protein are high in iron. I’m not saying that meat-eaters don’t suffer from iron-deficiency anemia. Some people have a harder time absorbing iron than others. However, it’s far less likely to happen when eating an animal-protein diet simply because you’re getting more of it in animal protein.
+See a pattern? Typically the foods that are high in protein are high in iron. I’m not saying that meat-eaters don’t suffer from iron-deficiency anemia. Some people have a harder time absorbing iron than others. However, it’s far less likely to happen when eating an animal-protein diet simply because you’re exposing your body to more absorption opportunities.
 
 A recent study in the Journal of Nutrition & Food Sciences compared the overall health of vegetarian and non-vegetarian women. It found that vegetarian women had significantly lower BMIs than those that had animal-protein diets. “However, all vegetarian women had some degree of iron deficiency anemia—60% were mildly anemic, and 40% were moderately anemic. Non-vegetarians experienced far less iron-deficiency anemia, with 47% mildly anemic and only 7% moderately anemic.”[^31]
 
-The RDA for iron varies greatly depending on age group, hormonal changes, etc. However, to simplify, we’ll say the median dietary intake of iron is 16-18 mg/day for (adult) men, and 12 mg-day for (adult) women.[^32] The RDA for vegans ands vegetarians is 1.8 times higher.[^33]
+The RDA for iron varies greatly depending on age group, hormonal changes, etc. However, to simplify, we’ll say the median dietary intake of iron is 16-18 mg/day for (adult) men, and 12 mg/day for (adult) women.[^32] The RDA for vegans ands vegetarians is 1.8 times higher.[^33]
 
 Why is it so much higher? Well, dear reader, I’ll tell you. 
 
@@ -186,33 +186,33 @@ You got it! Heme iron is more bioavailable!
 
 > “The bioavailability of iron is approximately 14% to 18% from mixed diets that include substantial amounts of meat, seafood, and vitamin C (as ascorbic acid, which enhances the bioavailability of nonheme iron) and 5% to 12% from vegetarian diets.[^36] In addition to ascorbic acid, meat, poultry, and seafood can enhance nonheme iron absorption, whereas phytate (present in grains and beans) and certain polyphenols in some non-animal foods (such as cereals and legumes) have the opposite effect.)[^37]
 
-This means, my herbivorous homies, it’s best to get your iron from dark, leafy greens. Grains and beans tend to work against your iron absorption. Just plan on eating a lot of dark, leafy greens to maximize absorption.[^38]
+This means, my herbivorous homies, it’s best to get your iron from dark, leafy greens. Grains and beans tend to work against your iron absorption. Just plan on eating *a lot* of dark, leafy greens to maximize absorption.[^38]
 
-Including:
+Plants-based foods containing lots of iron:
 - Spinach
-	- Legumes
-	- Pumpkin Seeds
-	- Quinoa
-	- Broccoli 
-	- Tofu
-	- Kidney beans
-	- Kale
-	- Cabbage
-	- Raisins
-	- Dates
-	- Apricots
+- Legumes
+- Pumpkin Seeds
+- Quinoa
+- Broccoli 
+- Tofu
+- Kidney beans
+- Kale
+- Cabbage
+- Raisins
+- Dates
+- Apricots
 
 ## So, What’s My Point?
 
 Let me start off by saying this: If done correctly, a vegan or vegetarian diet is good for the environment, good for your heart health, and, as far as animal ethics are concerned, extremely commendable.
 
-But, I’m also not going to sit here and pull what my nutrition professor did, and uneviquicolly state that vegetarian and vegan diets are the healthiest diets you can possibly eat. There’s just a too big of an addendum to be added to that statement. 
+But, I’m also not going to sit here and pull what my nutrition professor did, and uneviquicolly state that vegetarian and vegan diets are the healthiest diets you can possibly eat. There’s just a too big of an caveat to be added to that statement. 
 
 Whenever you cut a huge source of nutrients out of your diet, you have to make up for it by eating with extreme intention. You have to be aware of everything you put in your body.[^39] Yes, arguably, you should be doing this anyway. But, who are we kidding?  I’m a nutrition coach, and I had Halloween candy for my second breakfast.[^40] 
 
 What I’m getting at is this: If you have the will power to be a vegetarian or vegan or whatever combination of plant-based you want to be, I support you whole-heartedly. 
 
-Just do your due diligence. Make educated decisions, and make everything you eat count.[^41] 
+Just do your due diligence to learn what a healthy plant-based diet looks like, make educated decisions, and let everything you eat count.[^41] 
 
 [^1]:	¿Dónde está la biblioteca?
 
