@@ -71,7 +71,7 @@ The body can synthesize nonessential animo acids in most cells from glucose and 
 
 Basically, the cells in your body take the basic carbon structure of an amino acid, and, through the Kreb’s Cycle, allow enzymes to attach other molecules to the skeleton to create a non-essential amino acid. Your body literally creates more complex carbon-based materials within itself. If that’s not amazing, I honestly don’t know what is. (I’ll admit, this was a bit of a tangent, but I mean, come on!) 
 
-Anyway, you still need protein to get those essential amino acids. Now, here’s where it gets complicated:You can have complete and incomplete proteins. Meaning, there are proteins out there that have *some* of the essential amino acids, but not all of them. 
+Anyway, you still need protein to get those essential amino acids. Now, here’s where it gets complicated: You can have complete and incomplete proteins. Meaning, there are proteins out there that have *some* of the essential amino acids, but not all of them. 
 
 Let me explain.
 
@@ -79,15 +79,15 @@ Let me explain.
 
 A complete protein is a protein that has all nine essential amino acids. You are most likely to find complete proteins in animal-based proteins: fish, poultry, meat, dairy products, and eggs. 
 
-An incomplete protein contains some, but not all, essential amino acids. Most grains, like rice, are too low in lysine to be considered complete, however, beans are higher in lysine. Badda. Bing. Badda. Boom. You’ve got all the essential amino acids. Plant-based foods such as this are commonly referred to as complementary proteins.[^12]
+An incomplete protein contains some, but not all, essential amino acids. Most grains, like rice, are too low in lysine to be considered complete; however, legumes like beans are higher in lysine. Badda. Bing. Badda. Boom. You’ve got all the essential amino acids. Plant-based foods such as this are commonly referred to as complementary proteins.[^12]
 
-And here’s where it gets really crazy: You don’t even have to eat rice and beans in the same meal (but I mean c’mon, a veggie burrito is where it’s at). It’s less about what you eat in one meal, and more about what you eat over the course of the day.
+Want to know something really cool? You don’t even have to eat rice and beans in the same meal (but I mean c’mon, a veggie burrito is where it’s at). It’s less about what you eat in one meal, and more about what you eat over the course of the day.
 
-So here is where, for me anyway, being a vegan or vegetarian would get extremely complicated. You have to be so incredibly cognizant of what you eat. You really need to know what are plant-based complete proteins and what are plant-based complimentary proteins. It’s also helpful to keep track of what you’ve eaten all day to ensure you get all of the protein your body requires (we’ll talk protein RDAs in a bit).
+So here is where, for me anyway, being a vegan or vegetarian would get extremely complicated. You have to be so incredibly cognizant of what you eat. You really need to know what are plant-based complete proteins and what are plant-based complimentary proteins. It’s also helpful to keep track of what you’ve eaten all day to ensure you get all of the amino acids your body requires (we’ll talk protein RDAs in a bit). That's just a lot to think about on a daily basis.
 
-I’m not saying it’s impossible. Obviously, it’s not. I’m not even saying it’s *that* hard when you really get it down. But the barrier of entry is pretty high for those that don’t know much about nutrition. 
+I’m not saying it’s impossible. Obviously, it’s not. People do it successfully all the time. I’m not even saying it’s *that* hard when you really get it down. But the barrier of entry is pretty high for those that don’t know much about nutrition. 
 
-### Plant-Based Complete Proteins:
+### Examples of Plant-Based Complete Proteins:
 -  Quinoa
 - Soy
 - Buckwheat
@@ -97,7 +97,7 @@ I’m not saying it’s impossible. Obviously, it’s not. I’m not even saying
 - Amaranth
 - Ezekiel bread
 
-### Plant-based Complementary Proteins:
+### Examples of Plant-based Complementary Proteins:
 - Hummus and pita
 - Nut butter and whole grain bread
 - Beans and rice[^13]
@@ -232,7 +232,7 @@ Just do your due diligence. Make educated decisions, and make everything you eat
 
 [^13]:	Remember, you don’t have to eat complimentary proteins at the same time. You just have to eat them throughout the same day. Your body will do the work for you, because it’s the coolest product of evolution outside of the platypus and whatever star dust created Jeff Goldblum.
 
-[^14]:	145 if I keep eating this Halloween candy.
+[^14]:	145 lbs if I keep eating this Halloween candy.
 
 [^15]:	If anyone out there has read that broccoli has more protein than steak, unread it. It’s a lie. A dirty, dirty lie. Also, broccoli is not a complete protein. So there’s that.
 
