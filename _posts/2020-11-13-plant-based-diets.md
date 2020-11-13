@@ -109,7 +109,9 @@ A quick reminder: for non-athletes, the RDA (Recommended Daily Allowance) for pr
 Honestly, that’s not that much. 
 
 There’s 38 grams of protein in 1 cup of chicken. 
-There’s 40 grams of protein in .5 fillet of salmon.
+
+There’s 40 grams of protein in half fillet of salmon.
+
 There’s 62 grams of protein in 1 steak (that weighs about 251g).[^15]
 
 However:
