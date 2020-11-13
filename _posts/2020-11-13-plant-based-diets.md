@@ -11,11 +11,11 @@ Like most, my undergraduate university required a handful of required general ed
 
 Now, I was not that into nutrition at the time. I thought eating a peanut butter and jelly sandwich was eating *healthily*.[^3]
 
-I don’t remember a lot about the class, I’m not going to lie. The professor lost me when she required us to memorize the purpose and deficiencies of all the major vitamins.[^4] Anyhoo, one of the things I do remember, is that she said being a vegetarian is one of the healthiest diets you can possibly maintain.
+I don’t remember a lot about the class, I’m not going to lie. The professor lost me when she required us to memorize the purposes and deficiencies of all the major vitamins.[^4] Anyhoo, one of the things I do remember, is that she said being a vegetarian is one of the healthiest diets you can possibly maintain.
 
 Undergrad-Emily was unimpressed. Who, in college, can afford to buy fresh produce? I mean honestly. 
 
-Currently, I both agree and disagree with my old nutrition professor. With the assumption that, as a vegan or vegetarian, you eat more fruits and vegetables, being a plant-based diet can be extremely beneficial. But, there’s a lot of foods that are technically vegan and vegetarian that are not good for you.
+Currently, I both agree and disagree with my old nutrition professor. With the assumption that, as a vegan or vegetarian, you eat mostly fruits, vegetables, and grains. In fact, being a plant-based diet *can be* extremely beneficial. But, there’s a lot of foods that are technically vegan and vegetarian that are not good for you.
 
 Seriously, I once had a friend of mine tell me about how amazing her vegan experience was over beer and Oreos. 
 
@@ -56,11 +56,14 @@ That being said there are three categories of amino acids.
 
 ### Essential Amino Acids
 - Histidine
+- Isoleucine
+- Leucine
 - Lysine
 - Methionine
 - Phenylalanine
 - Threonine
-- Tyuptophan[^9]
+- Tyuptophan
+- Valine[^9]
 
 The body can synthesize nonessential animo acids in most cells from glucose and other essential amino acids.[^10] It’s actually pretty fascinating if you start digging into it. 
 
@@ -219,9 +222,7 @@ Just do your due diligence. Make educated decisions, and make everything you eat
 
 [^8]:	"Protein." The Nutrition Source. October 19, 2020. Accessed November 10, 2020. https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/.
 
-[^9]:	To name a few. 
-
-	National Academy of Sports Medicine, “NASM Nutrition Certification Content” Accessed November 11, 2020, [https://nasmu.nasm.org/pluginfile.php/791769/mod\_scorm/content/7/chapter/6/lesson/1/page/3.](https://nasmu.nasm.org/pluginfile.php/791769/mod_scorm/content/7/chapter/6/lesson/1/page/3)
+[^9]:	National Academy of Sports Medicine, “NASM Nutrition Certification Content” Accessed November 11, 2020.
 
 [^10]:	Puigserver, Pere. “Signaling Transduction and Metabolomics.” HEMATOLOGY: Basic Principles and Practice, ELSEVIER, 2017, pp. 68–78. 
 
