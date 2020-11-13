@@ -116,12 +116,13 @@ There’s 62 grams of protein in 1 steak (that weighs about 251g).[^15]
 
 However:
 
-There’s 8 grams of (complete) protein in 1 cup of quinoa. 
+There’s 8 grams of (complete) protein in 1 cup of quinoa.
+
 There’s 9 grams of (complete) protein in one cup of cooked green peas.
 
-I mean, sure, I could eat 6 cups of quinoa in a day to ensure I get enough protein, but do I want to? Also, have you even eaten a lot of quinoa in one day? Yeah, me neither, it’s a lot of freaking food. It’s also a lot of calories.[^16] 
+I mean, sure, I could eat 6 cups of quinoa in a day to ensure I get enough protein, but do I want to? Also, have you even eaten a lot of quinoa in one day? Yeah, me neither, it’s a lot of freaking food. It's also a lot of calories.[^16] 
 
-I watched a lecture yesterday with a professor, Dr. Neal Barnard, MD, in which he discusses “protein anxiety”. He says, “If I am on a 2,000 calorie diet, and all I eat is broccoli I’ll have consumed 146 grams of protein.[^17] If all I eat is lentils, I’ll have consumed 157 grams of protein”. He went on and on like this for a while. Then he says, “The A.N.D. (Academy of Nutrition and Dietetics) weighed in on this and said, ‘Vegetarian and Vegan diets typically meet or exceed the recommended protein intakes...(then he paraphrases) as long as you’re eating food.’ He then equates “protein anxiety” to not getting enough oxygen when breathing air. Obviously, he’s being a little snark machine here saying if you breath air you are getting enough oxygen; therefore, if you eat food you get enough protein.[^18] He’s not wrong. Protein deficiency in the United State just doesn’t happen, like at all.[^19] The body may not run on all four cylinders (or whatever the hell the saying is), but it’ll be...fine.
+I watched a lecture yesterday with a professor, Dr. Neal Barnard, MD, in which he discusses “protein anxiety”. Essentially, he says the most common question he gets when he mentions eating a plant-based diet is: But where do you get your protein?  He explains, “If I am on a 2,000 calorie diet, and all I eat is broccoli I’ll have consumed 146 grams of protein.[^17] If all I eat is lentils, I’ll have consumed 157 grams of protein”. He went on and on like this for a while. Then he says, “The A.N.D. (Academy of Nutrition and Dietetics) weighed in on this and said, ‘Vegetarian and Vegan diets typically meet or exceed the recommended protein intakes...(then he paraphrases) as long as you’re eating food.’ He then equates “protein anxiety” to not getting enough oxygen when breathing air. Obviously, he’s being a little snark machine here saying if you breath air you are getting enough oxygen; therefore, if you eat food you get enough protein.[^18] He’s not wrong. Protein deficiency in the United State just doesn’t happen, like at all.[^19] The body may not run on all four cylinders (or whatever the hell the saying is), but it’ll be...fine.
 
 But here’s where I disagree.[^20] Mostly because Oreos and (many) beers are vegan. Most pre-packaged pasta is vegan. A metric shit ton of candy is vegan.[^21] A plethora of spirits are vegan. Taco Bell’s bean burritos (sans cheese) are vegan. Pillsbury crescent rolls are vegan. Pop Tarts. Krissy Kream Fruit Pies. Thomas bagels.
 
