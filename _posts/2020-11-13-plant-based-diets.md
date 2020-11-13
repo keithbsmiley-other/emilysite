@@ -256,7 +256,7 @@ Just do your due diligence to learn what a healthy plant-based diet looks like, 
 
 [^21]:	Skittles, Sour Patch Kids, Twizzlers, Swedish Fish, Oreos, Air Heads, Dots, Fireballs, Nerds, Pixy Stix, Sweet Tarts, Jolly Ranchers....you get the idea.
 
-[^22]:	Publishing, Harvard Health. “The Sweet Danger of Sugar.” Harvard Health, [www.health.harvard.edu/heart-health/the-sweet-danger-of-sugar.](www.health.harvard.edu/heart-health/the-sweet-danger-of-sugar) 
+[^22]:	Publishing, Harvard Health. “The Sweet Danger of Sugar.” Harvard Health, [www.health.harvard.edu/heart-health/the-sweet-danger-of-sugar.](https://www.health.harvard.edu/heart-health/the-sweet-danger-of-sugar) 
 
 [^23]:	And we *like it* like a lot. Like, almost at addict levels. In fact, I think I’ll have another fun-size Twix bar while I writing this. Ah, yea, that hits the spot.
 
