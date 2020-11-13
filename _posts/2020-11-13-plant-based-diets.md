@@ -260,7 +260,7 @@ Just do your due diligence to learn what a healthy plant-based diet looks like, 
 
 [^23]:	And we *like it* like a lot. Like, almost at addict levels. In fact, I think I’ll have another fun-size Twix bar while I writing this. Ah, yea, that hits the spot.
 
-[^24]:	“Adult Obesity Facts.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 29 June 2020, [www.cdc.gov/obesity/data/adult.html](www.cdc.gov/obesity/data/adult.html). 
+[^24]:	“Adult Obesity Facts.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 29 June 2020, [www.cdc.gov/obesity/data/adult.html.](www.cdc.gov/obesity/data/adult.html) 
 
 [^25]:	Ibid.
 
