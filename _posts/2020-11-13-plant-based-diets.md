@@ -228,7 +228,7 @@ Just do your due diligence to learn what a healthy plant-based diet looks like, 
 
 [^7]:	Ibid.
 
-[^8]:	"Protein." The Nutrition Source. October 19, 2020. Accessed November 10, 2020. https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/.
+[^8]:	"Protein." The Nutrition Source. October 19, 2020. Accessed November 10, 2020. [https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/.](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/)
 
 [^9]:	National Academy of Sports Medicine, “NASM Nutrition Certification Content” Accessed November 11, 2020.
 
@@ -236,7 +236,7 @@ Just do your due diligence to learn what a healthy plant-based diet looks like, 
 
 [^11]:	“Protein.” Human Biochemistry, by Gerald Litwack, Elsevier/Academic Press, 2018, pp. 63–94. 
 
-[^12]:	National Academy of Sports Medicine, “NASM Nutrition Certification Content” Accessed November 11, 2020, [https://nasmu.nasm.org/pluginfile.php/791769/mod\_scorm/content/7/chapter/6/lesson/1/page/3.(https://nasmu.nasm.org/pluginfile.php/791769/mod_scorm/content/7/chapter/6/lesson/1/page/3)
+[^12]:	National Academy of Sports Medicine, “NASM Nutrition Certification Content” Accessed November 11, 2020.
 
 [^13]:	Remember, you don’t have to eat complimentary proteins at the same time. You just have to eat them throughout the same day. Your body will do the work for you, because it’s the coolest product of evolution outside of the platypus and whatever star dust created Jeff Goldblum.
 
