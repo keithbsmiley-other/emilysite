@@ -282,7 +282,7 @@ Just do your due diligence to learn what a healthy plant-based diet looks like, 
 
 	Institute of Medicine (US) Panel on Micronutrients. “Iron.” Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc., U.S. National Library of Medicine, 1 Jan. 1970, [www.ncbi.nlm.nih.gov/books/NBK222309/.](www.ncbi.nlm.nih.gov/books/NBK222309/) 
 
-[^33]:	“Office of Dietary Supplements - Iron.” NIH Office of Dietary Supplements, U.S. Department of Health and Human Services, [ods.od.nih.gov/factsheets/Iron-HealthProfessional/.](www.ods.od.nih.gov/factsheets/Iron-HealthProfessional/.) 
+[^33]:	“Office of Dietary Supplements - Iron.” NIH Office of Dietary Supplements, U.S. Department of Health and Human Services, [ods.od.nih.gov/factsheets/Iron-HealthProfessional/.](www.ods.od.nih.gov/factsheets/Iron-HealthProfessional/) 
 
 [^34]:	Ibid.
 
