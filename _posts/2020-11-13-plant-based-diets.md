@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Veganism & Vegetarianism: Protein Anxiety, Iron Deficiency, and Conscientious Eating
+title: "Veganism & Vegetarianism: Protein Anxiety, Iron Deficiency, and Conscientious Eating"
 image: veggies.jpeg
 date:   2020-11-13 
 ---
