@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  Veganism & Vegetarianism: Protein Anxiety, Iron Deficiency, and Conscientious Eating
+image: veggies.jpeg
 date:   2020-11-13 
 ---
+
 # Veganism & Vegetarianism: Protein Anxiety, Iron Deficiency, and Conscientious Eating
 
 Like most, my undergraduate university required a handful of required general education courses. So many courses in history. So many in math. So many in a foreign language.[^1] And, so many in science. They offered nutrition as one of the sciences, and I, a journalism major, thought it might be the easier of my options.[^2]
