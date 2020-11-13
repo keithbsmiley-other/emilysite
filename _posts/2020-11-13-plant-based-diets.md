@@ -108,16 +108,13 @@ A quick reminder: for non-athletes, the RDA (Recommended Daily Allowance) for pr
 
 Honestly, that’s not that much. 
 
-There’s 38 grams of protein in 1 cup of chicken. 
-
-There’s 40 grams of protein in half fillet of salmon.
-
+There’s 38 grams of protein in 1 cup of chicken. <br/>
+There’s 40 grams of protein in half fillet of salmon. <br/>
 There’s 62 grams of protein in 1 steak (that weighs about 251g).[^15]
 
 However:
 
-There’s 8 grams of (complete) protein in 1 cup of quinoa.
-
+There’s 8 grams of (complete) protein in 1 cup of quinoa.<br/>
 There’s 9 grams of (complete) protein in one cup of cooked green peas.
 
 I mean, sure, I could eat 6 cups of quinoa in a day to ensure I get enough protein, but do I want to? Also, have you even eaten a lot of quinoa in one day? Yeah, me neither, it’s a lot of freaking food. It's also a lot of calories.[^16] 
