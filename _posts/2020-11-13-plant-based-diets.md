@@ -137,11 +137,19 @@ Emotional eating, and other things we literally all do because we’re not freak
 
 ## Iron
 
-Sure, protein deficiency is something that is extremely uncommon in the States. But you know what does happen in the U.S. that is commonly associated with abstaining from animal-protein? Iron-deficiency. 
+Iron deficiency is, actually, on the rise in the United States. I am certainly not trying to imply that it's on the rise due to an increase in plant-based diets. A lot of the iron deficiency is due to poor diets in general. But a plant based diet *might* actually work against you here.
+
+Okay, this is about to get a little more in-depth. Let's take a quick break.
+
+Stand up. Shake it out. Dance around.
+
+You look ridiculous, and I absolutely love it.
+
+Okay, sit back down.
 
 Deep breath in. Deep breath out. 
 
-Let’s talk about blood really quick.
+Let’s talk about blood.
 
 Your red blood cells contain a protein called hemoglobin. Hemoglobin carries oxygen from the lungs to the rest of your body. Without enough iron, your body can’t produce enough hemoglobin.[^27]
 
