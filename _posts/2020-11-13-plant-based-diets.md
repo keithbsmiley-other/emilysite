@@ -121,19 +121,19 @@ I mean, sure, I could eat 6 cups of quinoa in a day to ensure I get enough prote
 
 I watched a lecture yesterday with a professor, Dr. Neal Barnard, MD, in which he discusses “protein anxiety”. Essentially, he says the most common question he gets when he mentions eating a plant-based diet is: But where do you get your protein?  He explains, “If I am on a 2,000 calorie diet, and all I eat is broccoli I’ll have consumed 146 grams of protein.[^17] If all I eat is lentils, I’ll have consumed 157 grams of protein”. He went on and on like this for a while. Then he says, “The A.N.D. (Academy of Nutrition and Dietetics) weighed in on this and said, ‘Vegetarian and Vegan diets typically meet or exceed the recommended protein intakes...(then he paraphrases) as long as you’re eating food.’ He then equates “protein anxiety” to not getting enough oxygen when breathing air. Obviously, he’s being a little snark machine here saying if you breath air you are getting enough oxygen; therefore, if you eat food you get enough protein.[^18] He’s not wrong. Protein deficiency in the United State just doesn’t happen, like at all.[^19] The body may not run on all four cylinders (or whatever the hell the saying is), but it’ll be...fine.
 
-But here’s where I disagree.[^20] Mostly because Oreos and (many) beers are vegan. Most pre-packaged pasta is vegan. A metric shit ton of candy is vegan.[^21] A plethora of spirits are vegan. Taco Bell’s bean burritos (sans cheese) are vegan. Pillsbury crescent rolls are vegan. Pop Tarts. Krissy Kream Fruit Pies. Thomas bagels.
+But here’s where I disagree.[^20] Mostly because Oreos and (many) beer are vegan. Most pre-packaged pasta is vegan. A metric shit ton of candy is vegan.[^21] A plethora of spirits are vegan. Taco Bell’s bean burritos (sans cheese) are vegan. Pillsbury crescent rolls are vegan. Pop Tarts. Krissy Kream Fruit Pies. Thomas bagels.
 
-Anyway, I think—I hope—you get my point. If you don’t, my point is this: Sugar, the number one of “the greatest threats to cardiovascular disease” in the United States, is vegan.[^22] There’s a lot of shit out there that’s vegan, and *not healthy*. I mean, spinach is only but so tasty. You know what *is* tasty *all the time*? Pasta. Candy. Oreos. Beer. Simple carbohydrates. Sugar.
+Anyway, I think—I hope—you get my point. If you don’t, my point is this: Sugar, tone of “the greatest threats to cardiovascular disease” in the United States, is vegan.[^22] There’s a lot of shit out there that’s vegan, and *not healthy*. I mean, spinach is only but so tasty. You know what *is* tasty *all the time*? Pasta. Candy. Oreos. Beer. Simple carbohydrates. Sugar.
 
-Dr. Neal Barnard, MD, is making a giant assumption: Everyone eats as cognizantly as he does. When the fact is: Most Americans do not eat cognizantly.[^23]
+Dr. Neal Barnard, MD, and my nutrition professor is making a giant assumption: Everyone eats as cognizantly as they do. When the fact is: Most Americans do not eat cognizantly.[^23]
 
 If we did eat mindfully, would the prevalence of obesity be in nearly half of the American population?[^24] Would “obesity-related conditions including heart disease, stroke, type 2 diabetes, and certain types of cancers be (sic) some of the leading causes of preventable, premature deaths (sic)” in the United States?[^25]
 
 Answer: no.
 
-> There is more—much more—to food choices than the nutritional cotent of the food chosen![^26]
+> There is more—much more—to food choices than the nutritional cotent of the food chosen.[^26]
 
-Emotional eating, and other things we literally all do because we’re not freaking automatons aside, there’s something else I have to mention. An important piece of this puzzle that’s missing, and is directly related to veganism and vegetarianism: Iron deficiency.
+Emotional eating, and other things we literally all do because we’re not freaking automatons aside, there’s something else I haven't mentioned yet that is even more important than protein when discussing veganism and vegetarianism: Iron deficiency.
 
 ## Iron
 
