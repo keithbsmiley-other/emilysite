@@ -272,7 +272,7 @@ Just do your due diligence to learn what a healthy plant-based diet looks like, 
 
 [^28]:	Sleep well tonight!
 
-[^29]:	“Anemia.” Hematology.org, [www.hematology.org/education/patients/anemia.](www.hematology.org/education/patients/anemia) 
+[^29]:	“Anemia.” Hematology.org, [www.hematology.org/education/patients/anemia.](https://www.hematology.org/education/patients/anemia) 
 
 [^30]:	Ibid.
 
