@@ -280,7 +280,7 @@ Just do your due diligence to learn what a healthy plant-based diet looks like, 
 
 [^32]:	Hormonal changes include: pre and post menopausal, and pregnancy. Children and infants also have a different RDA which should be taken into account when encouraging vegetarian and vegan diets for those younger than 19 years of age.
 
-	Institute of Medicine (US) Panel on Micronutrients. “Iron.” Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc., U.S. National Library of Medicine, 1 Jan. 1970, [www.ncbi.nlm.nih.gov/books/NBK222309/.](www.ncbi.nlm.nih.gov/books/NBK222309/) 
+	Institute of Medicine (US) Panel on Micronutrients. “Iron.” Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc., U.S. National Library of Medicine, 1 Jan. 1970, [www.ncbi.nlm.nih.gov/books/NBK222309/.](https://www.ncbi.nlm.nih.gov/books/NBK222309/) 
 
 [^33]:	“Office of Dietary Supplements - Iron.” NIH Office of Dietary Supplements, U.S. Department of Health and Human Services, [ods.od.nih.gov/factsheets/Iron-HealthProfessional/.](www.ods.od.nih.gov/factsheets/Iron-HealthProfessional/) 
 
