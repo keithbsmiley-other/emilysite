@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  The Pros and Cons of Instgram: Positive Connection, Mental Toxicity, and Dangerous Misinformation
+title:  "The Pros and Cons of Instgram: Positive Connection, Mental Toxicity, and Dangerous Misinformation"
 date:   2020-12-09
-image:  
 ---
-
-#The Pros and Cons of Instagram: Positive Connection, Mental Toxicity, and Dangerous Misinformation
 
 Back in July a friend/student emailed me to see if I was interested in teaching her private yoga classes.(fn) I, of course, was interested. Not only had I not been teaching due to COVID layoffs at my old yoga studio, but I missed my unapologetically eclectic community of fitness and yoga San Franciscans(fn). 
 
@@ -25,7 +22,7 @@ The longer I’ve been on Instagram though, the more and more I repeatedly see t
 
 So, today I’d like to discuss something possibly controversial for someone who depends on (fitness + yoga) Instagram for her business. Today, let’s talk about the effects Instagram can have on a person, and how to cultivate a body positive, physically safe, Instagram feed.
 
-###Social Reward and Dopamine
+### Social Reward and Dopamine
 
 I’d like to start off by saying two things.
 1. I’m writing this during quarantine in the era of COVID-19, which means we, as a society, are desperate for human interaction. Most of us can’t even see our loved ones, let alone hug them. At the start of this article, I admitted to losing connection with most of my friends entirely, because I was no longer on social media. I understand the irony, and I will offer a solution, that works for me, to the COVID conundrum later on.(fn)
