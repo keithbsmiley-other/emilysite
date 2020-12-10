@@ -83,6 +83,7 @@ In fact, most addictive drugs induce the release of dopamine.
 It did not take long for the people at Facebook, Twitter, etc to realize that you can get a dopamine-driven feedback loop from your social media feeds as well. It’s manipulation and exploitation of human brain chemistry. Tristan Harris, former design ethicist at Google said, “Social media isn’t just a tool waiting to be used. It has it’s own goals, and it has it’s own means of perusing them by using your psychology against you.”[^9]
 
 Shirley Cramer CBE, Chief Exectutive, RSPH, said, 
+
 > “Social media has been described as more addictive than cigarettes and alcohol, and is now so entrenched in the lives of young people that it is no longer possible to ignore it when talking about young people’s mental health issues.”[^10]
  
 So, that is forever something to keep in mind when dealing with social media. They are exploiting your psychology for cash. They make money off of the addiction they are literally engineering to get you more and more hooked.
@@ -117,7 +118,9 @@ Instagram revolves around taking the ideal photograph or video of yourself. Vide
 
 These photos psychologically force people to compare themselves the others on these sites.[^18] “Various studies have documented widespread body and weight dissatisfaction among girls and women, and social media has been found to be a significant catalyst for the appearance concerns.”[^19] In fact, “cross-sectional data have been revealed that for both women and men, Facebook use is associated with greater (upward) social comparison and self-objectification, which are both related to lower self-esteem, poorer mental health, and body image concerns”.[^20]
 
-> In an article posted on Psychology Today’s blog, Ravi Chandra M.D., D.F.A.P.A. states, “Facebook and Instagram are correlated with dissatisfaction with body image (through social comparison), orthorexia (restrictive dietary habits, especially influenced by Instagram), idealization of thinness and other problems with body image, and substance abuse.”[^21]
+In an article posted on Psychology Today’s blog, Ravi Chandra M.D., D.F.A.P.A. states,
+
+> "Facebook and Instagram are correlated with dissatisfaction with body image (through social comparison), orthorexia (restrictive dietary habits, especially influenced by Instagram), idealization of thinness and other problems with body image, and substance abuse.”[^21]
 
 When you look at fitness Instagram, specifically, you’ll find very skinny, mostly white, women doing workouts that are either extremely difficult, highly sexualized (for some reason), and/or completely inaccessible to realistic body types. 
 
@@ -135,7 +138,7 @@ Sounds great right? People are learning how to become healthier through connecti
 
 Users can’t discern correct information from incorrect, and sometimes dangerous, information.
 
-> ”Nutritionists are concerned with the fact that so much dietary advice shared on social media is conflicting. This can...make people...adopt dietary plans that are overly restrictive and otherwise unhealthy.”[^24]
+> "Nutritionists are concerned with the fact that so much dietary advice shared on social media is conflicting. This can...make people...adopt dietary plans that are overly restrictive and otherwise unhealthy.”[^24]
 
 Most of the influencers on these social media sites aren’t qualified to make claims about nutrition or fitness. Much like social media itself, a lot of influencers aren’t trying to help others, they’re trying to make cash on your views/likes/comments. That’s literally their job—to drive followers and likes to their posts in order to receive money and goods from businesses. 
 
@@ -154,7 +157,7 @@ First off, limit your social media usage: This is just a good rule of thumb in g
 Second, curate your feed intelligently. I’m sure you’ve heard something about algorithms in relation to social media. What’s a social media algorithm? “Social media algorithms are a way of sorting posts in a users’ feed based on relevancy instead of publish time...But under the hood, algorithms involve machine learning and data science. They’re capable of parsing data and ranking posts based on criteria that, quite honestly, the average marketer will probably never truly understand.”[^26] However, sometimes, companies are transparent about what will help content rank higher and been seen as “high-quality”.[^27]
 
 Instagram clarified a few points about their algorithm back in 2019:
-> ”What shows up first in your feed is determined by what posts and accounts you engage with the most, as well as other contributing factors such as the timeliness of posts, how often you use Instagram, how many people you follow, etc.”[^28]
+> "What shows up first in your feed is determined by what posts and accounts you engage with the most, as well as other contributing factors such as the timeliness of posts, how often you use Instagram, how many people you follow, etc.”[^28]
 
 And there it is: The secret to curating your feed. Instagram will show more things like what you’ve already engaged with. Remember, their entire business plan is to keep you glued to your phone. So, for example, if you like a photo of a plant. Instagram will push more plants your way.
 
@@ -176,8 +179,8 @@ Social media, especially during the era of COVID-19, can be a great way to stay 
 However, social media can be a toxic place that decreases self-image and body positivity, and increases anxiety, depression, and, other mental disorders. It can also cause bodily harm if you follow the advice of someone unqualified.
 
 The good news is you can use Instagram’s algorithm to benefit you. 
-
->Create the feed that you want to see. 
+ 
+> Create the feed that you want to see. 
 
 Use social media as a tool to serve you, rather than the other way around.
 
