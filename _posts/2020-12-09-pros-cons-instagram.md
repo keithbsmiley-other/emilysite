@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Pros and Cons of Instgram: Positive Connection, Mental Toxicity, and Dangerous Misinformation"
+title:  "The Pros and Cons of Instagram: Positive Connection, Mental Toxicity, and Dangerous Misinformation"
 date:   2020-12-09
 image: images/Instagram.jpeg
 ---
