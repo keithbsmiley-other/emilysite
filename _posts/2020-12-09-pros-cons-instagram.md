@@ -116,7 +116,7 @@ That’s right! Instagram! [^15]
 
 Instagram revolves around taking the ideal photograph or video of yourself. Video editing, filters, etc can set unrealistic expectations and create feelings of inadequacy.[^16] I’m not even getting into the tips behind posing in specific positions or the use of lighting techniques to make it seem like these people have no cellulite, belly fat, etc.[^17] 
 
-These photos psychologically force people to compare themselves the others on these sites.[^18] “Various studies have documented widespread body and weight dissatisfaction among girls and women, and social media has been found to be a significant catalyst for the appearance concerns.”[^19] In fact, “cross-sectional data have been revealed that for both women and men, Facebook use is associated with greater (upward) social comparison and self-objectification, which are both related to lower self-esteem, poorer mental health, and body image concerns”.[^20]
+These photos psychologically force people to compare themselves to others on these sites.[^18] “Various studies have documented widespread body and weight dissatisfaction among girls and women, and social media has been found to be a significant catalyst for the appearance concerns.”[^19] In fact, “cross-sectional data have been revealed that for both women and men, Facebook use is associated with greater (upward) social comparison and self-objectification, which are both related to lower self-esteem, poorer mental health, and body image concerns”.[^20]
 
 In an article posted on Psychology Today’s blog, Ravi Chandra M.D., D.F.A.P.A. states,
 
