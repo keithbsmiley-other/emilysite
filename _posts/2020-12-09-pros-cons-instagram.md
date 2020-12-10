@@ -2,7 +2,7 @@
 layout: post
 title:  "The Pros and Cons of Instagram: Positive Connection, Mental Toxicity, and Dangerous Misinformation"
 date:   2020-12-09
-image: images/Instagram.jpeg
+image: images/instagram2.jpeg
 ---
 
 Back in July a friend/student emailed me to see if I was interested in teaching her private yoga classes.[^1] I, of course, was interested. Not only had I not been teaching due to COVID layoffs at my old yoga studio, but I missed my unapologetically eclectic community of fitness and yoga San Franciscans[^2]. 
