@@ -1,8 +1,9 @@
+---
 layout: post
-title:  Contentment, Goals, & Resolutions: An Opinion Piece
+title:  Contentment, Goals, & Resolutions
 date:   2021-1-4
 image:  images/content.jpg
-
+---
 
 My husband recently made all of my old photos accessible to my phone (rather than keeping them on a hard drive that we almost never looked at). I was scanning through these old photos when I came across our wedding photos. 
 
