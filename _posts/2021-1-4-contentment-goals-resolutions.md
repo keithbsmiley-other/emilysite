@@ -64,15 +64,15 @@ There are six stages in the Transtheroretical Model of Change.
 1. Pre-contemplation: There is absolutely no intent to make a change in the near future. In fact, people don’t even realize their behavior is problematic.[^5] (This was me in about April/May of 2020. When I was making several different cakes a week, and eating them all without a care in the world.)
 2. Contemplation: There is a recognition that something might be wrong with one’s current behavior, but ambivalence toward change may still be prevalent.[^6] (This was me in about August/September of 2020. I realized that eating all the cake wasn’t good for me, but, I mean, my pants still fit so meh.)
 3. Preparation (Determination): Change is coming within the next thirty days. Small steps toward change may be occurring.[^7] (Me now. I want to change, and I did eat only half a bagel sandwich for breakfast rather than the whole thing. I’m calling it a win.)
-4. Action: Recent changes (within the past six months) have been made with the intention of maintaining those changes.[^8] (Hopefully, me in the future. Maybe by June or July.)
+4. Action: Recent changes (within the past six months) have been made with the intention of maintaining those changes.[^8] (Hopefully, me in the future. Maybe by June or July 2021.)
 5. Maintenance: Maintenance of the changes (more than six months) are taking place with the intent to keep up the new behavior. (Hopefully, me twenty pounds lighter and, overall, having healthier eating habits around November/December of this year.) 
-6. Termination: In this stage there is no desire to go back to the unhealthy behavior, and will not relapse (see: why crash dieting literally never works). This stage is rarely reached, many stay in the maintenance stage until they relapse.[^9]
+6. Termination: In this stage there is no desire to go back to the unhealthy behavior, and will not relapse (see: [why fad dieting literally never works](https://www.emilywyattsmiley.com/fad-diets-and-macros)). This stage is rarely reached, many stay in the maintenance stage until they relapse.[^9]
 
 > Change takes time. Change takes contemplation. Change takes determination.
 
 Even if you do find yourself in the Preparation or Action stage, you may not know how to *make* a goal.
 
-For example, “I want to physically feel better this year.” is not a goal. It sounds a lot like a New Years Resolution, or, maybe, the impetus for a goal, but it’s not a goal.
+For example, “I want to physically feel better this year,” is not a goal. It sounds a lot like a New Years Resolution, or, maybe, the impetus for a goal, but it’s not a goal.
 
 Goals are specific beasts.
 
@@ -82,7 +82,7 @@ For example:
 
 I want to physically feel better this year. This is not a goal. It’s a desire. One might argue, it’s the contemplation-preparation stage of my behavior change.
 
-In order to feel better, I need to eat healthier, and lose weight slowly and without crash dieting to avoid a relapse.
+In order to feel better, I need to eat healthier, and lose weight slowly and without fad/crash dieting to avoid a relapse.
 
 Even still, I need to be more specific, and acknowledge that this is a goal that will take time. It requires me to change my habits in a very long-term way. 
 
@@ -90,7 +90,7 @@ All goals should have three things:
 
 1. A declaration
 2. A quantifiable target
-3. A *reasonable*deadline
+3. A *reasonable* deadline
 4. A means through which you plan to accomplish your goal (not necessary, but I find it helps).
 
 ### Long-term goal
@@ -102,15 +102,15 @@ I will (declaration) lose twenty pounds (a quantifiable target) by June 1, 2021 
 I will only eat a food with added sugar twice a week. 
 This is a short-term goal. It is also indicative of what needs to happen in order for me to achieve my long-term goal (conscious eating) without removing the “unwanted behavior” entirely—which can result in an early relapse back into the “bad behavior” and result in my quitting all together. Essentially, short-term goals are baby steps.[^10] 
 
-My short-term goals will evolve as our habits change, and my environment changes. Maybe, eventually, my short-term goal will be: “I will only eat a piece of cake a month,” but let’s not get ahead of ourselves.
+My short-term goals will evolve as my habits change, and my environment changes. Maybe, eventually, my short-term goal will be: “I will only eat a piece of cake a month,” but let’s not get ahead of ourselves.
 
-You can have several short- and long-term goals, but your short-term goals should always support one, specific long-term goal like pillars holding up a house on the beach. 
+You can have several short- and long-term goals, but your short-term goals should always support one, specific, long-term goal like pillars holding up a house on the beach. 
 
 Without those pillars, your long-term goals could be washed away when your environment changes, and you find yourself in more “risky” situations.
 
 ## Contentment and Goals
 
-So, how does contentment play into goals and resolutions? If you're content, doesn't that mean you should be accepting of everything around you, and therefore not need to ever set a goal?
+So, how does contentment play into goals and resolutions? Doesn't being content mean you should be accepting of everything around you, and therefore not need to ever set a goal?
 
 Let go and let God, right?
  
@@ -118,19 +118,19 @@ Okay, here's the thing: I can accept that I gained twenty pounds in 2020. I can 
 
 That doesn't mean that I don't acknowledge I’d feel better physically and mentally if I ate a spinach omelette tomorrow for breakfast rather than chocolate chip pancakes.[^11] 
 
-Contentment doesn't neglect you of free will or the desire to better yourself. It frees you hating yourself because you made a choice that  may, or may not, have been right, or wrong. 
+Contentment doesn't neglect you of free will or the desire to better yourself. It frees you hating yourself because you made a choice that may, or may not, have been right, or wrong. 
 
 So, yeah, contentment and goals go hand in hand. In fact, they work in perfect harmony with one another. 
 
-Contentment, remember, is accepting things as they are. It’s about letting go of things we no longer have control of. I no longer have control of my eating decisions last night. I do have control of my decisions today.
+Contentment, remember, is accepting things as they are. It’s about letting go of things we no longer have control of. I no longer have control of what I ate last night, and the decisions I made to get myself there. I do have control of my decisions today, though.
 
 > For me, that’s an extremely powerful thing to realize. 
 
 Contentment may not speak to you today, or anytime in the near future. But if you do decide to make a goal this New Year, or a resolution, set yourself up for success. Support your long-term goals with smaller, more attainable goals. And if you screw up, **it’s okay**. Try again tomorrow. 
 
-Whatever your goals are, know this: None of this is easy. I’m not saying it will be, and I’m certainly not offering a quick fix. 
+Whatever your goals are, know this: None of this is easy. I’m not saying it will be, and I’m certainly not offering a quick fix. I'm just offering the tools to help all of us along the way. 
 
-Tools cannot fix that which is broken without the hands to guide them.[^12]
+Tools cannot fix that which is broken without hands to guide them.[^12]
 
 
 
