@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Contentment, Goals, & Resolutions
+title:  Contentment, Goals, and Resolutions
 date:   2021-1-4
 image:  images/content.jpg
 ---
@@ -12,6 +12,8 @@ I said to my husband, “You know, our wedding was beautiful; I had an absolute 
 My husband chuckled, and said, “Just content, huh? Not happy or anything else?”
 
 What he didn’t understand was: To me, being content is a huge accomplishment. 
+
+# Contentment
 
 Background: A few years ago I was diagnosed with chronic depression and generalized anxiety disorder.[^1] 
 
@@ -45,7 +47,7 @@ Like all things, this will evolve. With time, I’ll have a deeper understanding
 
 I think I’ll hold on to this concept of studying Contentment for a little while, and see where it takes me. It'll be a fun little experiment.
 
-## Goals
+# Goals
 
 We were walking our dog one morning, and my husband asked me, “What are your resolutions?”
 
@@ -93,12 +95,12 @@ All goals should have three things:
 3. A *reasonable* deadline
 4. A means through which you plan to accomplish your goal (not necessary, but I find it helps).
 
-### Long-term goal
+## Long-term goal
 A goal reads like this:
 I will (declaration) lose twenty pounds (a quantifiable target) by June 1, 2021 (a reasonable deadline) through intelligent decision-making around meals, and conscious eating (a means through which I  plan to accomplish my goal). 
 *(Note: I like to make my declarations in the affirmative future tense. “I will do X.” It takes away any question marks. “I wants” don’t necessarily happen. “I wills” are just a matter of time.)*
 
-### Short-term goal
+## Short-term goal
 I will only eat a food with added sugar twice a week. 
 This is a short-term goal. It is also indicative of what needs to happen in order for me to achieve my long-term goal (conscious eating) without removing the “unwanted behavior” entirely—which can result in an early relapse back into the “bad behavior” and result in my quitting all together. Essentially, short-term goals are baby steps.[^10] 
 
@@ -108,7 +110,7 @@ You can have several short- and long-term goals, but your short-term goals shoul
 
 Without those pillars, your long-term goals could be washed away when your environment changes, and you find yourself in more “risky” situations.
 
-## Contentment and Goals
+# Contentment and Goals
 
 So, how does contentment play into goals and resolutions? Doesn't being content mean you should be accepting of everything around you, and therefore not need to ever set a goal?
 
