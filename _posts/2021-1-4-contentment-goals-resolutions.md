@@ -31,7 +31,7 @@ So, believe me when I say this: When you are constantly battling a chemical imba
 
 > Feeling content is like being high. 
 
-Let’s not confused contentment with happiness here. Yes, I was happy on my honeymoon. Shit, we were in Kaui with absolutely no responsibilities. Of course I was happy. 
+Let’s not confuse contentment with happiness here. Yes, I was happy on my honeymoon. Shit, we were in Kaui with absolutely no responsibilities. Of course I was happy. 
 
 Contentment is an entirely different thing though, and, like all human experiences, it’s different for everybody. For me, it's a feeling of being settled and safe. It’s the acceptance of where you are in your timeline, and being accepted by those around you. 
 
