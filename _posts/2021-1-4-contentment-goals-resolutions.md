@@ -57,7 +57,7 @@ He laughed, and said, “I didn't realize you don't believe in goals.”
 
 After rolling my eyes, I said, “Of course I believe in goals. I just don't think an arbitrary date is a good reason to set a goal. In order to succeed, you have to want your goal for more reasons than just flipping a page in a calendar.”
 
-Statistically speaking, only nineteen percent of people maintain their resolutions. In fact, most people abandon their resolutions by mid-January.[^3] So really, if you’re just setting a goal, or resolution, “for the gram”, you might as well not even bother. 
+Statistically speaking, only nineteen percent of people maintain their resolutions. In fact, most people abandon their resolutions by mid-January.[^3] So really, if you’re just setting a goal, or resolution, “for the Gram”, you might as well not even bother. 
 
 There’s this thing called the Transtheoretical Model of Change. It’s studied in several fields from psychology to personal training. It’s not perfect, and doesn’t take certain things into account (like assuming everyone makes logical decisions, and “the social context in which change occurs”).[^4] However, it’s a good place to start re: understanding the psychology of behavior modification.
 
