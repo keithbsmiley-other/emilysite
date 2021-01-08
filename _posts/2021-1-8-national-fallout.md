@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “National Fallout: World War II’s Effect on the American Diet”
+title:  "National Fallout: World War II’s Effect on the American Diet"
 date:   2021-1-8
 image:  images/weapon.jpg
 ---
