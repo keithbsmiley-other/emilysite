@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "National Fallout: World War II’s Effect on the American Diet"
+title:  "Nutritional Fallout: World War II’s Effect on the American Diet"
 date:   2021-1-8
 image:  images/weapon.jpg
 ---
-
-
-# Nutritional Fallout: World War II’s Effect on the American Diet
 
 Truth be told I had absolutely no idea what I was getting into when I promised to write an article about the History of Dieting. I figured I could trim the fat, no pun intended, and narrow it down to the important bits. Now, the thought of writing one little blog about the entire history of dieting is laughable. 
 
