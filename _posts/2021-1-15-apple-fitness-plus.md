@@ -2,7 +2,7 @@
 layout: post
 title:  Apple Fitness +
 date:   2021-1-15
-image:  
+image:  images/af+.jpg
 ---
 
 
