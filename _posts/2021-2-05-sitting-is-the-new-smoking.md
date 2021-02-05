@@ -43,7 +43,7 @@ This is because our bodies are extremely energy-intensive. The human body is ene
 
 Because of all of this, humans evolved to expend energy “when it was necessary or rewarding.”[^9]
 
-Before you start screaming about the unhealthiness of the modern American diet, and high sugar intake, I get it. We eat more high-calorie, less nutrient-rich foods.[^10] And because our modern foods have high calorie content we *need* to work out to burn the excess stored energy, and stay healthy. I get your point. But, that’s not *my* point. 
+Before you start screaming about the unhealthiness of the modern American diet, and high sugar intake, I get it. We eat more high-calorie, less nutrient-rich foods.[^10] And because our modern foods have high calorie content we *need* to work out to burn the excess stored energy and stay healthy. I get your point. But, that’s not *my* point. 
 
 My point here is that the need to exercise is pretty insane evolutionarily speaking. In a world where movement could actually led to starvation, why on Earth would you move more for funsies? You wouldn’t.
 
