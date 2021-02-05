@@ -82,7 +82,7 @@ The same reason why you should move every thirty minutes or so: to use your musc
 
 Backed chairs (this goes for couches too) allow most of your muscles to turn off. Do you know what happens when your muscles are turned off for a long period of time? They wastes away. Quite literally: If you don’t use it, you lose it. 
 
-Now, I’m not saying your ass is going to fall off because you sit for long periods of time. What I am saying though is this: It is scientifically proven that our muscles get weak when we don’t use them. They atrophy. I’m not even going to put a foot note here, because that *feels* like common knowledge. 
+Now, I’m not saying your ass is going to fall off because you sit for long periods of time. What I am saying is this: It is scientifically proven that our muscles get weak when we don’t use them. They atrophy. I’m not even going to put a foot note here, because that *feels* like common knowledge. 
 
 So, why do we have bad posture? Our chairs allow us to turn off the muscles we should be working to maintain *good* posture. Backed chairs stop the need to sit upright on our own accord, allowing our core muscles to weaken. Backed chairs keep our hips tight, and lack of movement keep our knees inflamed. 
 
