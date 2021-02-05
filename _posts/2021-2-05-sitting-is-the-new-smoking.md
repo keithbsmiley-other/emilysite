@@ -84,13 +84,13 @@ Backed chairs (this goes for couches too) allow most of your muscles to turn off
 
 Now, I’m not saying your ass is going to fall off because you sit for long periods of time. What I am saying is this: It is scientifically proven that our muscles get weak when we don’t use them. They atrophy. I’m not even going to put a foot note here, because that *feels* like common knowledge. 
 
-So, why do we have bad posture? Our chairs allow us to turn off the muscles we should be working to maintain *good* posture. Backed chairs stop the need to sit upright on our own accord, allowing our core muscles to weaken. Backed chairs keep our hips tight, and lack of movement keep our knees inflamed. 
+So, why do we have bad posture? Our chairs allow us to turn off the muscles we should be working to maintain *good* posture. Backed chairs stop the need to sit upright on our own accord, allowing our core muscles to weaken. Backed chairs keep our hips tight, and lack of movement keeps our knees inflamed. Backed chairs rob us of burning extra calories—those rat bastards. 
 
-Backed chairs rob us of burning extra calories—those rat bastards. In a study similar to Lieberman’s, scientists proved that hunter-gatherer’s in Tanzania, the Hadza, had three times the levels of physical activity than advised by the U.S. federal health guidelines, but they sat just as much as sedentary Americans (just like Lieberman found).[^15] The way they sat, kneeling and squatting, required a constant light level of activity—more muscles were turned on at rest. Light levels of activity means more calorie burn. It means stronger core muscles. It means healthier humans, and less chronic illnesses that typically are correlated with sitting in developed cultures.[^16] I’m looking at you heart disease, diabetes, and some cancers.
+In a study similar to Lieberman’s, scientists proved that hunter-gatherer’s in Tanzania, the Hadza, had three times the levels of physical activity than advised by the U.S. federal health guidelines, but they sat just as much as sedentary Americans (just like Lieberman found).[^15] The way they sat, kneeling and squatting, required a constant light level of activity—more muscles were turned on at rest. Light levels of activity means more calorie burn. It means stronger core muscles. It means healthier humans, and less chronic illnesses that typically are correlated with sitting in developed cultures.[^16] I’m looking at you heart disease, diabetes, and some cancers.
 
 ## Conclude This Please, Emily
 
-I’m not saying throw away your couch and sit on the floor. I’m just saying be cognizant of what you’re putting your body through on a day to day basis. Be cognizant of how long you’ve been sitting. And for the love of all that’s holy: Move! Even if it’s just a little bit. I’ll bet you a burrito there’s dishes in your sink right now that could be cleaned.[^17] Your butt and your sink will thank you. Win-Win.
+The takeway: Be cognizant of what you’re putting your body through on a day to day basis. Be cognizant of how long you’ve been sitting. And for the love of all that’s holy: Move! Even if it’s just a little bit. I’ll bet you a burrito there’s dishes in your sink right now that could be cleaned.[^17] Your butt and your sink will thank you. Win-Win.
 
 
 
