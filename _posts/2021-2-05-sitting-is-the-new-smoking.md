@@ -70,7 +70,7 @@ Okay, now, let’s talk posture.
 
 **Get Off Your Throne, and Squat On The Floor With Us Plebes**
 
-If you look at the history of chairs—and now I can say I have (I do these things so you don’t have to)—you’ll see that chairs were actually tightly attached to social hierarchy throughout history. Zooming in on the Middle Ages, you’ll see that the more money you had the more likely you were to have a proper place to put your derrière.[^14] And when I say a “proper place”, I mean a chair with a back on it. A throne, if you will. Others less fortunate than the pope or king, sat on benches or stools. 
+If you look at the history of chairs—and now I can say I have (I do these things so you don’t have to)—you’ll see that chairs were actually tightly attached to social hierarchy throughout history. Zooming in on the Middle Ages, you’ll see that the more money you had the more likely you were to have a proper place to put your derrière.[^14] And when I say a “proper place”, I mean a chair with a back on it. A throne, if you will. Others less fortunate than the pope or king, sat on benches, stools, or, *gasp*, the floor. 
 
 Several cultures, especially those in Asian countries, gravitated toward squatting or sitting on the floor. It wasn’t just for leisure either, many of these cultures took to cooking, cleaning, working, and relaxing in a seated or squatting position.
 
