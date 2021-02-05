@@ -90,7 +90,9 @@ In a study similar to Lieberman’s, scientists proved that hunter-gatherer’s 
 
 ## Conclude This Please, Emily
 
-The takeway: Be cognizant of what you’re putting your body through on a day to day basis. Be cognizant of how long you’ve been sitting. And for the love of all that’s holy: Move! Even if it’s just a little bit. I’ll bet you a burrito there’s dishes in your sink right now that could be cleaned.[^17] Your butt and your sink will thank you. Win-Win.
+> The takeway: Is sitting the new smoking? No, that's absolutely ridiculous. 
+
+What a silly thing to claim. However, be cognizant of what you’re putting your body through on a day to day basis. Be cognizant of how long you’ve been sitting. And for the love of all that’s holy: Move! Even if it’s just a little bit. I’ll bet you a burrito there’s dishes in your sink right now that could be cleaned.[^17] Your butt and your sink will thank you. Win-Win.
 
 
 
