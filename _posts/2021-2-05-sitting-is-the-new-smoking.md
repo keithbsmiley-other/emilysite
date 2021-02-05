@@ -25,7 +25,7 @@ After Terry Gross did her Terry Gross thing, Lieberman opens with an important d
 
 “It’s just that we’ve created a world in which we don’t have to do much work anymore, right?” asks Lieberman. “We don’t have to be very physically active. And so today, people do something very strange, which is they— you know, they go on a treadmill. Or they, you know, go for a five-mile run in the morning for the sake of just the five-mile run…that’s exercise. And that’s a very modern behavior. People never did that before because until recently, people had to be much more physically active every day in order to get food, or sometimes, to avoid being somebody else’s food.”[^4]
 
-The act of exercise itself, it a modern phenomenon. Moving for the sake of movement is not a natural human behavior. 
+The act of exercise itself is a modern phenomenon. Moving for the sake of movement is not a natural human behavior. 
 
 (…um, I was going to put this next tid bit as a foot note, but it’s too good to potentially get overlooked by all you slackers who don’t read my, sometimes, amazing footnotes.
 
