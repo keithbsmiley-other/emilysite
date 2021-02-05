@@ -30,7 +30,7 @@ The act of exercise itself is a modern phenomenon. Moving for the sake of moveme
 (…um, I was going to put this next tid bit as a foot note, but it’s too good to potentially get overlooked by all you slackers who don’t read my, sometimes, amazing footnotes.
 
 > Did you know: The modern treadmill was invented in the Victorian era to torture prisoners. Oscar Wilde was “condemned to…trudge on a treadmill for, like, five, six hours a day to prevent him from enjoying himself.”[^5] 
-> 
+
 Treadmills were literally used as torture devices. 
 
 This just proves my point: Running is literally torture.[^6] )
@@ -56,7 +56,7 @@ Answer: Sit in a chairs for long periods of time.
 Okay, so get this, a few of Lieberman’s colleagues put an accelerometer on a some of the aforementioned hunter-gatherers. Turns out, the indigenous hunter-gathers sat for about ten hours a day. Which is about how much we would typically sit at any desk job.[^11]
 
 > It’s not weird, or even unnatural, to sit a lot.
-> 
+
 “So,” Lieberman says, “if you look at how much time people spend sitting at work, it’s not really that associated with heart disease or cancers or diabetes. But if you look at how much people sit when they’re not at work, well, then the numbers get a little bit scary.”[^12]
 
 The problem is what you do for the rest of the day. 
