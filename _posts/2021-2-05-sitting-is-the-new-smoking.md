@@ -2,7 +2,7 @@
 layout: post
 title:  "Fact or Fiction: Sitting Is The New Smoking"
 date:   2021-2-4
-image:  images/chair.jpg
+image:  images/chairs.jpg
 ---
 
 People in the fitness world go on and on and on about how bad sitting is for you. I’m guilty of this too. 
