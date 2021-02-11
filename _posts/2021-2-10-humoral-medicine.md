@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Humoral Medicine: The Hisotry of A 'Balanced Diet'"
+title:  "Humoral Medicine: The History of A 'Balanced Diet'"
 date:   2021-2-10
 image:  images/scale.jpg
 ---
