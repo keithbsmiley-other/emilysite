@@ -6,9 +6,12 @@ image:  images/scale.jpg
 ---
 
 
-Dieting became a part of human nature when humans stopped struggling for food. When you’re run/walking five miles a day to catch dinner, you don’t really give a shit about the nutritional value of said dinner. You just need the calories to run your [very energy-expensive body machine](https://www.emilywyattsmiley.com/sitting-is-the-new-smoking).
+Well, here it is: The second installation in the history of dieting series. This on starts back in the ancient times. Ancient Rome was flourishing. Slaves were building the pyramids in Egypt. You know, the ancient times.
 
-Therefore, there’s a pretty large chunk of human history that we can ignore—like the entire nomadic phase. So, fast forward to ancient civilization—think Ancient Greece (Athens, the Olympics, and the Parthenon) and Ancient Egypt (Fustat (modern day Cairo), mummies, and the Pyramids). Nomadic living is no longer a requirement. Agriculture, commerce, government, and art are now societal norms. It is at this point in human history when dieting first became a thing. However, the concept of “diet” to an ancient person did not look like our modern concept of "dieting". Though the word diet is derived from the greek “diaita”, calories were not constricted in ancient diets. [^1] However specific foods were prescribed to create balance throughout the body. [^2]
+
+But first, let's understand why we're starting there. When humans were living nomadically, the foods they put in their body weren't of a huge concern nutritionally. As long as it contained calories, and wasn't poisonous, nomadic humans ate to survive. When you’re run/walking five miles a day to catch dinner, you don’t really give a shit about how the food effects your overall health. You just need the calories to run your [very energy-expensive body](https://www.emilywyattsmiley.com/sitting-is-the-new-smoking).
+
+Therefore, there’s a pretty large chunk of human history that we can skip—like the entire nomadic phase of pre-historic human history. So, fast forward to ancient civilization—think Ancient Greece (Athens, the Olympics, and the Parthenon) and Ancient Egypt (Fustat (modern day Cairo), mummies, and the Pyramids). Nomadic living is no longer a requirement. Agriculture, commerce, government, and art are now societal norms. It is at this point in human history when dieting first became a thing. However, the concept of “diet” to an ancient person did not look like our modern concept of "dieting". Though the word diet is derived from the greek “diaita”, calories were not constricted in ancient diets. [^1] Instead, specific foods were prescribed to create balance throughout the body. [^2]
 
 This brings me to Hippocrates. 
 
