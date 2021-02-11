@@ -42,7 +42,7 @@ It’s at this point on our trip down Medical History Lane that we find ourselve
 
 To understand Renaissance medical history, you have to have at least a small understanding of world events prior. 
 
-Firs thing to note: Constantinople (now Istanbul), then the capital of the Roman Empire, prided itself on being the center of Western learning. It was truly impressive. 
+First thing to note: Constantinople (now Istanbul), then the capital of the Roman Empire, prided itself on being the center of Western learning. It was truly impressive. 
 
 Catholicism began to take a serious foothold throughout the city during the 4th Century. So serious in fact, that the church began to dictate “what direction the medical world took…Any view different from the established Roman Catholic view was labeled heresy and punished accordingly…The Roman Catholic Church stated that illnesses were punishments from God and those who were ill were so because they were sinners.” [^12]
 
