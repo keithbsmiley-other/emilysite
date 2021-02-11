@@ -8,7 +8,7 @@ image:  images/scale.jpg
 
 Well, here it is: The second installment of my History of Dieting series. This one starts back in the ancient times. Ancient Greece in roughly 450 BCE, to be exact.
 
-The concept of “diet” to an ancient Grecian did not look like our modern concept of "dieting". Though the word diet is derived from the greek “diaita”, calories were not constricted in ancient diets. [^1] Instead, specific foods were prescribed to create balance throughout the body. [^2]
+The concept of “diet” to an ancient Grecian did not look like our modern concept of "dieting". Though the word diet is derived from the greek “diaita”, calories were not necessarily restricted in ancient diets. [^1] Instead, specific foods were prescribed to create balance throughout the body. [^2]
 
 This brings me to Hippocrates. 
 
@@ -16,7 +16,7 @@ Ah, Hippocrates: the father of medicine, the author of the Hippocratic oath,   t
 
 Pull up your socks, and hold on to your tuchus. We’re about to go for a little stroll down one of my favorite paths: Medical History Lane.
 
-*Cue the music* Come with me, and you’ll be in a world of pure education…
+Cue the Willie Wonka music. *Come with me, and you’ll be in a world of pure education…*
 
 Anyway.
 
