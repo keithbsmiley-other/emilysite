@@ -58,7 +58,7 @@ Then came the crusades. The library was destroyed by the Franks and Venetians du
 
 Some works were saved. Some of the works were recopied and circulated through other texts. However, our understanding of ancient culture is extremely limited because of this. 
 
-Along with the eight crusades, the world saw three of the worst plagues in history (heard of the Black Death?), and extreme famine. So, why is a nine-hundred year chunk of human history referred to as the “Dark Ages”? Progress was, for the purposes of this article, essentially halted. Not lost, mind you, but halted.
+Along with the eight crusades, the world saw three of the worst plagues in history (heard of the Black Death?), and extreme famine. So, why is a nine-hundred year chunk of human history referred to as the “Dark Ages”? Societal progress (the continued adaptation of previously learned information--art, government, science--was, for the purposes of this article, halted. Not lost, mind you, but halted.
 
 Welp, we made it. We cut through the brambles. We stomped down the twigs. We machete-ed through those pesky, thorny vines. Now, we find ourselves back on a, somewhat, clearer path. Brush off the dirt. Put a Band-Aide™ on any cuts. Ice any bumps you might have.[^17] 
 
