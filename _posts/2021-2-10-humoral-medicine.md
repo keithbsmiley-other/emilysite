@@ -6,7 +6,7 @@ image:  images/scale.jpg
 ---
 
 
-Well, here it is: The second installation in the history of dieting series. This on starts back in the ancient times. Ancient Rome was flourishing. Slaves were building the pyramids in Egypt. You know, the ancient times.
+Well, here it is: The second installment of my history of dieting series. This on starts back in the ancient times. Ancient Rome was flourishing. Slaves were building the pyramids in Egypt. You know, the ancient times.
 
 
 But first, let's understand why we're starting there. When humans were living nomadically, the foods they put in their body weren't of a huge concern nutritionally. As long as it contained calories, and wasn't poisonous, nomadic humans ate to survive. When you’re run/walking five miles a day to catch dinner, you don’t really give a shit about how the food effects your overall health. You just need the calories to run your [very energy-expensive body](https://www.emilywyattsmiley.com/sitting-is-the-new-smoking).
