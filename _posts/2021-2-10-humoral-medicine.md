@@ -12,7 +12,7 @@ The concept of “diet” to an ancient Grecian did not look like our modern con
 
 This brings me to Hippocrates. 
 
-Ah, Hippocrates: the father of medicine, the author of the Hippocratic oath,   the creator of the theory behind the four humors.
+Ah, Hippocrates: the Father of Medicine, the author of the Hippocratic oath,   the creator of the theory behind the four humors.
 
 Pull up your socks, and hold on to your tuchus. We’re about to go for a little stroll down one of my favorite paths: Medical History Lane.
 
