@@ -6,10 +6,10 @@ image:  images/scale.jpg
 ---
 
 
-Well, here it is: The second installment of my history of dieting series. This one starts back in the ancient times. Roughly 450 BCE to be exact.
+Well, here it is: The second installment of my history of dieting series. This one starts back in the ancient times. Ancient Greece in roughly 450 BCE, to be exact.
 
 
-The year 450(ish) BCE. Agriculture, commerce, government, and art are societal norms in Ancient Greece. The concept of “diet” to an ancient Grecian did not look like our modern concept of "dieting". Though the word diet is derived from the greek “diaita”, calories were not constricted in ancient diets. [^1] Instead, specific foods were prescribed to create balance throughout the body. [^2]
+Agriculture, commerce, government, and art are societal norms in Ancient Greece. The concept of “diet” to an ancient Grecian did not look like our modern concept of "dieting". Though the word diet is derived from the greek “diaita”, calories were not constricted in ancient diets. [^1] Instead, specific foods were prescribed to create balance throughout the body. [^2]
 
 This brings me to Hippocrates. 
 
