@@ -217,7 +217,7 @@ Ultimately, it’s up to us to do the research. It’s up to us to put the corre
 
 	“Food Labels and Portion Sizes. Nutrition Certification. National Academy of Sports Medicine. March 4 2021. Online Course. [https://www.nasm.org](https://www.nasm.org).
 
-[^3]:	“Antioxidants: In Depth.” National Center for Complementary and Integrative Health, U.S. Department of Health and Human Services, Nov. 2013, [www.nccih.nih.gov/health/antioxidants-in-depth](www.nccih.nih.gov/health/antioxidants-in-depth). 
+[^3]:	“Antioxidants: In Depth.” National Center for Complementary and Integrative Health, U.S. Department of Health and Human Services, Nov. 2013, [www.nccih.nih.gov/health/antioxidants-in-depth](www.nccih.nih.gov/health/antioxidants-in-depth) 
 
 [^4]:	There is a band called the Free Radicals. They’re a jazz-influenced group from Houston. So there’s that. [https://en.wikipedia.org/wiki/Free\_Radicals\_(band)](https://en.wikipedia.org/wiki/Free_Radicals_(band))
 
