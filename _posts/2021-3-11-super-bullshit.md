@@ -109,7 +109,7 @@ But, the more often you introduce carcinogens to your body, the more you’re in
 
 All good points. Let me remind you: Knowledge is power. Now that you have knowledge, make better life choices. Or at least better understand the potential consequences of those choices.[^27]
 
-> \\#sorrynotsorry
+> \#sorrynotsorry
 
 Let me be clear here. There is no way that the human body has not: A. evolved some way to use free radicals to its advantage and B. Developed a way to help protect itself against free radicals. After all, the human body is built to survive. It is a machine that wants to keep on keeping on. 
 
