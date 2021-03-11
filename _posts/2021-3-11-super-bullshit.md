@@ -6,7 +6,7 @@ image:  images/antioxidants.jpg
 ---
 
 
-I started writing this article about superfoods. A general topic I figured would have a bunch of different categories that I could break down. But, the more I researched superfoods, the more I realized that superfoods are just healthy foods. Superfoods are literally just fruits and vegetables. It’s not rocket science, to be frank. The foods that are best for us are *spoiler alert* the foods that we already know are best for us.
+I started writing this article about superfoods -- a general topic I figured would have a bunch of different categories that I could break down. But, the more I researched superfoods, the more I realized that superfoods are just healthy foods. Superfoods are literally just fruits and vegetables. It’s not rocket science, to be frank. The foods that are best for us are *spoiler alert* the foods that we already know are best for us.
 
 That being said, I’m not going to sit here and write about why legumes, dark leafy greens, and oats are healthy. Other than to say they are the most packed with vitamins, minerals, and overall healthy things that make our bodies run as smoothly and efficiently as possible. And, honestly, I feel like I’ve pretty much already covered a lot of that in [my article about macros](https://www.emilywyattsmiley.com/fad-diets-and-macros). 
 
