@@ -95,7 +95,7 @@ Honestly, I haven’t heard anything truly bad about Apple Fitness +, and after 
 
 [^2]:	Which is absolutely baller. They’re the only app I know of that offers prenatal yoga. 
 
-[^3]:	I pulled this information off their website [downdogapp.com](www.downdogapp.com).
+[^3]:	I pulled this information off their website [downdogapp.com](https://www.downdogapp.com).
 
 [^4]:	I will say, I had to restart both my phone and watch to get them to connect once, but other than that it was flawless.
 

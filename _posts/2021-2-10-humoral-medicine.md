@@ -240,7 +240,7 @@ Humoral medicine—founded in different ancient cultures all over the world— a
 
 [^4]:	Ibid.
 
-[^5]:	“Emotions and Disease: The Balance of Passions.” U.S. National Library of Medicine, National Institutes of Health, 3 Nov. 2011, [www.nlm.nih.gov/exhibition/emotions/balance.html](www.nlm.nih.gov/exhibition/emotions/balance.html). 
+[^5]:	“Emotions and Disease: The Balance of Passions.” U.S. National Library of Medicine, National Institutes of Health, 3 Nov. 2011, [www.nlm.nih.gov/exhibition/emotions/balance.html](https://www.nlm.nih.gov/exhibition/emotions/balance.html). 
 
 [^6]:	Albala.
 
@@ -251,17 +251,17 @@ Humoral medicine—founded in different ancient cultures all over the world— a
 [^9]:	Do you know the etymology of the word “hysteria” or “hysterical”? During the 16th Century up until all too recently, hysteria was believed to be a “neurotic condition” found in only women brought on by the dysfunction of the uterus. In Latin, “hystericus” literally means “of the womb”. They also believed women could have something called “floating womb”. Hey, to all the old white men who came up with all this sexist bullshit: Fuck you, and the privileged as fuck horse you rode in on. 
 
 	This digression is brought to you by:
-	“Hysterical (Adj.).” Index, [www.etymonline.com/word/hysterical](www.etymonline.com/word/hysterical). 
+	“Hysterical (Adj.).” Index, [www.etymonline.com/word/hysterical](https://www.etymonline.com/word/hysterical). 
 
 [^10]:	You should check out what the Egyptians were studying. That shit is was closer to modern medicine than anyone is willing to admit. 
 
-[^11]:	Hajar, Rachel. “The Air of History (Part II) Medicine in the Middle Ages.” Heart Views : the Official Journal of the Gulf Heart Association, Medknow Publications &amp; Media Pvt Ltd, Oct. 2012, [www.ncbi.nlm.nih.gov/pmc/articles/PMC3573364/](www.ncbi.nlm.nih.gov/pmc/articles/PMC3573364/). 
+[^11]:	Hajar, Rachel. “The Air of History (Part II) Medicine in the Middle Ages.” Heart Views : the Official Journal of the Gulf Heart Association, Medknow Publications &amp; Media Pvt Ltd, Oct. 2012, [www.ncbi.nlm.nih.gov/pmc/articles/PMC3573364/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3573364/). 
 
 [^12]:	Ibid.
 
 [^13]:	Ibid.
 
-[^14]:	“Preserving The Intellectual Heritage--Preface • CLIR.” CLIR, 7 Feb. 2017, [www.clir.org/pubs/reports/bellagio/bellag1/](www.clir.org/pubs/reports/bellagio/bellag1/). 
+[^14]:	“Preserving The Intellectual Heritage--Preface • CLIR.” CLIR, 7 Feb. 2017, [www.clir.org/pubs/reports/bellagio/bellag1/](https://www.clir.org/pubs/reports/bellagio/bellag1/). 
 
 [^15]:	Harris, Michael. A History of Libraries in the Western World. 4th ed., The Scarecrow Press, 1999. 
 
@@ -279,11 +279,11 @@ Humoral medicine—founded in different ancient cultures all over the world— a
 
 [^22]:	Galen would cut into his patients right behind the ears to treat vertigo and headache. He additionally believed letting blood flow out through an incision in the temporal arteries could treat eye conditions. Not at all accurate, but hey, at least their head didn’t hurt anymore? Yikes.
 
-	Cohut, Maria. “What Is Bloodletting, and Why Was It a Popular Therapy?” Medical News Today, MediLexicon International, 16 Nov. 2020, [www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request](www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request). 
+	Cohut, Maria. “What Is Bloodletting, and Why Was It a Popular Therapy?” Medical News Today, MediLexicon International, 16 Nov. 2020, [www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request](https://www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request). 
 
 [^23]:	“John Hunter—one of the forefathers of modern surgery—described various other uses for bloodletting, including in the treatment of smallpox or gonorrhea.” In which he would AFFIX LEACHES TO HIS PATIENT’S TESTICLES.
 
-	Cohut, Maria. [www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request](www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request). 
+	Cohut, Maria. [www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request](https://www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request). 
 
 [^24]:	Ibid.
 
@@ -299,7 +299,7 @@ Humoral medicine—founded in different ancient cultures all over the world— a
 
 [^29]:	Greenstone, Gerry. “The History of Bloodletting.” BC Medical Journal, vol. 52, no. 1, Jan. 2010, pp. 12–14., [https://bcmj.org/premise/history-bloodletting](https://bcmj.org/premise/history-bloodletting). 
 
-[^30]:	Cohut, Maria. [www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request](www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request). 
+[^30]:	Cohut, Maria. [www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request](https://www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request). 
 
 [^31]:	Blood transfusions were made into a viable therapy my Austrian physician Karl Landsteiner in 1909—landing him a Nobel Prize in 1930.
 
@@ -307,13 +307,13 @@ Humoral medicine—founded in different ancient cultures all over the world— a
 
 [^32]:	Ibid.
 
-[^33]:	“Emotions and Disease: The Balance of Passions.” U.S. National Library of Medicine, National Institutes of Health, 3 Nov. 2011, [www.nlm.nih.gov/exhibition/emotions/balance.html](www.nlm.nih.gov/exhibition/emotions/balance.html). 
+[^33]:	“Emotions and Disease: The Balance of Passions.” U.S. National Library of Medicine, National Institutes of Health, 3 Nov. 2011, [www.nlm.nih.gov/exhibition/emotions/balance.html](https://www.nlm.nih.gov/exhibition/emotions/balance.html). 
 
-[^34]:	Skinner, Julia. “Put Lemon On Your Fish? Thank Humoral Theory.” The Epoch Times (Singapore), 7 Aug. 2019, [epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/](epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/). 
+[^34]:	Skinner, Julia. “Put Lemon On Your Fish? Thank Humoral Theory.” The Epoch Times (Singapore), 7 Aug. 2019, [epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/](https://epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/). 
 
 [^35]:	Albala.
 
-[^36]:	Skinner, Julia. [epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/](epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/)
+[^36]:	Skinner, Julia. [epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/](https://epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/)
 
 [^37]:	Albala.
 
@@ -323,11 +323,11 @@ Humoral medicine—founded in different ancient cultures all over the world— a
 
 [^40]:	Ibid.
 
-[^41]:	Skinner, Julia. [epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/](epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/)
+[^41]:	Skinner, Julia. [epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/](https://epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/)
 
 [^42]:	Mmmm, cookies….
 
-[^43]:	Skinner, Julia. [epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/](epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/)
+[^43]:	Skinner, Julia. [epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/](https://epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/)
 
 [^44]:	Ibid.
 
@@ -341,7 +341,7 @@ Humoral medicine—founded in different ancient cultures all over the world— a
 
 [^49]:	The Art of Flavor, [https://foodistkitchen.com/foodist-sample/the-art-of-flavor/](https://foodistkitchen.com/foodist-sample/the-art-of-flavor/).
 
-[^50]:	Skinner, Julia. [epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/](epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/)
+[^50]:	Skinner, Julia. [epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/](https://epochtimes.today/put-lemon-on-your-fish-thank-humoral-theory/)
 
 [^51]:	Breimeier, Chase. [www.frontiersmag.wustl.edu/2018/04/28/the-emergence-of-modern-humoralism/](https://frontiersmag.wustl.edu/2018/04/28/the-emergence-of-modern-humoralism/). 
 
@@ -351,14 +351,14 @@ Humoral medicine—founded in different ancient cultures all over the world— a
 
 [^54]:	Ibid.
 
-[^55]:	Jaiswal, Yogini S, and Leonard L Williams. “A Glimpse of Ayurveda - The Forgotten History and Principles of Indian Traditional Medicine.” Journal of Traditional and Complementary Medicine, Elsevier, 28 Feb. 2016, [www.ncbi.nlm.nih.gov/pmc/articles/PMC5198827/](www.ncbi.nlm.nih.gov/pmc/articles/PMC5198827/). 
+[^55]:	Jaiswal, Yogini S, and Leonard L Williams. “A Glimpse of Ayurveda - The Forgotten History and Principles of Indian Traditional Medicine.” Journal of Traditional and Complementary Medicine, Elsevier, 28 Feb. 2016, [www.ncbi.nlm.nih.gov/pmc/articles/PMC5198827/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5198827/). 
 
 [^56]:	Breimeier, Chase. [www.frontiersmag.wustl.edu/2018/04/28/the-emergence-of-modern-humoralism/](https://frontiersmag.wustl.edu/2018/04/28/the-emergence-of-modern-humoralism/). 
 
-[^57]:	Link, Rachael. “What Is the Ayurvedic Diet? Benefits, Downsides, and More.” Healthline, 31 July 2019, [www.healthline.com/nutrition/ayurvedic-diet#the-diet](www.healthline.com/nutrition/ayurvedic-diet#the-diet). 
+[^57]:	Link, Rachael. “What Is the Ayurvedic Diet? Benefits, Downsides, and More.” Healthline, 31 July 2019, [www.healthline.com/nutrition/ayurvedic-diet#the-diet](https://www.healthline.com/nutrition/ayurvedic-diet#the-diet). 
 
 [^58]:	Ibid.
 
-[^59]:	Jaiswal, Yogini S, and Leonard L Williams.[www.ncbi.nlm.nih.gov/pmc/articles/PMC5198827/](www.ncbi.nlm.nih.gov/pmc/articles/PMC5198827/). 
+[^59]:	Jaiswal, Yogini S, and Leonard L Williams.[www.ncbi.nlm.nih.gov/pmc/articles/PMC5198827/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5198827/). 
 
 [^60]:	I wrote a term paper on Egyptian Ophthalmology in graduate school. Crazy fascinating.

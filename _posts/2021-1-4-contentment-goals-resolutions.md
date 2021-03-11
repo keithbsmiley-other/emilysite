@@ -140,9 +140,9 @@ Tools cannot fix that which is broken without hands to guide them.[^12]
 
 [^2]:	Although, you can if you'd like. If you're into philosophy at all it’s worth the read.
 
-[^3]:	Morin, Amy. “This Is Why Most New Year's Resolutions Fail.” Psychology Today, Sussex Publishers, 31 Dec. 2019, [www.psychologytoday.com/us/blog/what-mentally-strong-people-dont-do/201912/is-why-most-new-years-resolutions-fail](www.psychologytoday.com/us/blog/what-mentally-strong-people-dont-do/201912/is-why-most-new-years-resolutions-fail). 
+[^3]:	Morin, Amy. “This Is Why Most New Year's Resolutions Fail.” Psychology Today, Sussex Publishers, 31 Dec. 2019, [www.psychologytoday.com/us/blog/what-mentally-strong-people-dont-do/201912/is-why-most-new-years-resolutions-fail](https://www.psychologytoday.com/us/blog/what-mentally-strong-people-dont-do/201912/is-why-most-new-years-resolutions-fail). 
 
-[^4]:	LaMorte, Wayne. “Behavioral Change Models.” The Transtheoretical Model (Stages of Change), Boston University School of Public Health, 9 Sept. 2019, [sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/BehavioralChangeTheories6.html](sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/BehavioralChangeTheories6.html). 
+[^4]:	LaMorte, Wayne. “Behavioral Change Models.” The Transtheoretical Model (Stages of Change), Boston University School of Public Health, 9 Sept. 2019, [sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/BehavioralChangeTheories6.html](https://sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/BehavioralChangeTheories6.html). 
 
 [^5]:	Ibid.
 

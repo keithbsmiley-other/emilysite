@@ -217,15 +217,15 @@ Ultimately, it’s up to us to do the research. It’s up to us to put the corre
 
 	“Food Labels and Portion Sizes". Nutrition Certification. National Academy of Sports Medicine. March 4 2021. Online Course. [https://www.nasm.org](https://www.nasm.org).
 
-[^3]:	“Antioxidants: In Depth.” National Center for Complementary and Integrative Health, U.S. Department of Health and Human Services, Nov. 2013, [www.nccih.nih.gov/health/antioxidants-in-depth](www.nccih.nih.gov/health/antioxidants-in-depth). 
+[^3]:	“Antioxidants: In Depth.” National Center for Complementary and Integrative Health, U.S. Department of Health and Human Services, Nov. 2013, [www.nccih.nih.gov/health/antioxidants-in-depth](https://www.nccih.nih.gov/health/antioxidants-in-depth). 
 
 [^4]:	There is a band called the Free Radicals. They’re a jazz-influenced group from Houston. So there’s that. [https://en.wikipedia.org/wiki/Free\_Radicals\_(band)](https://en.wikipedia.org/wiki/Free_Radicals_(band))
 
-[^5]:	Clegg, Brian. “What Is the Human Body Made of?” BBC Science Focus Magazine, 28 Aug. 2020, [www.sciencefocus.com/the-human-body/what-is-the-human-body-made-of/](www.sciencefocus.com/the-human-body/what-is-the-human-body-made-of/). 
+[^5]:	Clegg, Brian. “What Is the Human Body Made of?” BBC Science Focus Magazine, 28 Aug. 2020, [www.sciencefocus.com/the-human-body/what-is-the-human-body-made-of/](https://www.sciencefocus.com/the-human-body/what-is-the-human-body-made-of/). 
 
 [^6]:	Ibid.
 
-[^7]:	Villines, Zawn. “Free Radicals: How Do They Affect the Body?” Medical News Today, MediLexicon International, 29 July 2017, [www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body](www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body). 
+[^7]:	Villines, Zawn. “Free Radicals: How Do They Affect the Body?” Medical News Today, MediLexicon International, 29 July 2017, [www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body](https://www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body). 
 
 [^8]:	Ibid.
 
@@ -233,57 +233,57 @@ Ultimately, it’s up to us to do the research. It’s up to us to put the corre
 
 [^10]:	Ibid.
 
-[^11]:	Eldridge, Lynne. “What Exactly Are Free Radicals and Why Are They Important?” Verywell Health, 2 Feb. 2020, [www.verywellhealth.com/information-about-free-radicals-2249103](www.verywellhealth.com/information-about-free-radicals-2249103). 
+[^11]:	Eldridge, Lynne. “What Exactly Are Free Radicals and Why Are They Important?” Verywell Health, 2 Feb. 2020, [www.verywellhealth.com/information-about-free-radicals-2249103](https://www.verywellhealth.com/information-about-free-radicals-2249103). 
 
-[^12]:	Lobo, V, et al. “Free Radicals, Antioxidants and Functional Foods: Impact on Human Health.” Pharmacognosy Review, Medknow Publications &amp; Media Pvt Ltd, July 2010, [www.ncbi.nlm.nih.gov/pmc/articles/PMC3249911/](www.ncbi.nlm.nih.gov/pmc/articles/PMC3249911/). 
+[^12]:	Lobo, V, et al. “Free Radicals, Antioxidants and Functional Foods: Impact on Human Health.” Pharmacognosy Review, Medknow Publications &amp; Media Pvt Ltd, July 2010, [www.ncbi.nlm.nih.gov/pmc/articles/PMC3249911/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249911/). 
 
-[^13]:	Villines, Zawn. [www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body](www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body). 
+[^13]:	Villines, Zawn. [www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body](https://www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body). 
 
 [^14]:	Ibid.
 
 [^15]:	According to E. E. Tuppo and L. J. Forman, “There is increasing evidence that free radical-induced oxidative damage may play a role in the pathogenesis of Alzheimer’s disease…The brain is especially sensitive to oxidative damage because of its high content of readily oxidized fatty acids, high use of oxygen, and low levels of antioxidants.”
 
-	Tuppo, E. E., and L. J. Forman. “Free Radical Oxidative Damage and Alzheimer's Disease.” The Journal of the American Osteopathic Association, U.S. National Library of Medicine, Dec. 2001, [pubmed.ncbi.nlm.nih.gov/11794746/](pubmed.ncbi.nlm.nih.gov/11794746/). 
+	Tuppo, E. E., and L. J. Forman. “Free Radical Oxidative Damage and Alzheimer's Disease.” The Journal of the American Osteopathic Association, U.S. National Library of Medicine, Dec. 2001, [pubmed.ncbi.nlm.nih.gov/11794746/](https://pubmed.ncbi.nlm.nih.gov/11794746/). 
 
-[^16]:	Villines, Zawn. [www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body](www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body). 
+[^16]:	Villines, Zawn. [www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body](https://www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body). 
 
 	I feel a responsibility to note here that some of these diseases are also effected by genetics. Risk genes increase the likelihood of developing a disease, but do not guarantee that any one individual will get it. The Alzheimer’s Association notes, “Deterministic genes directly cause a disease, guaranteeing that anyone who inherits one will develop a disorder.” Both of these types of genes can possibly cause diseases such as Alzheimer’s, Huntington’s or Parkinson’s. If someone has a Risk gene for any of these diseases, however, free radicals may increase the chances of getting the disease.
 
-	“Is Alzheimer's Genetic?” Alzheimer's Disease and Dementia, [www.alz.org/alzheimers-dementia/what-is-alzheimers/causes-and-risk-factors/genetics](www.alz.org/alzheimers-dementia/what-is-alzheimers/causes-and-risk-factors/genetics). 
+	“Is Alzheimer's Genetic?” Alzheimer's Disease and Dementia, [www.alz.org/alzheimers-dementia/what-is-alzheimers/causes-and-risk-factors/genetics](https://www.alz.org/alzheimers-dementia/what-is-alzheimers/causes-and-risk-factors/genetics). 
 
-[^17]:	Lobo, V, et al. [www.ncbi.nlm.nih.gov/pmc/articles/PMC3249911/](www.ncbi.nlm.nih.gov/pmc/articles/PMC3249911/). 
+[^17]:	Lobo, V, et al. [www.ncbi.nlm.nih.gov/pmc/articles/PMC3249911/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249911/). 
 
-[^18]:	Gonzalez-Hunt, Claudia P., et al. “DNA Damage by Oxidative Stress: Measurement Strategies for Two Genomes.” Current Opinion in Toxicology, Elsevier, 3 Nov. 2017, [www.sciencedirect.com/science/article/abs/pii/S2468202017301341](www.sciencedirect.com/science/article/abs/pii/S2468202017301341). 
+[^18]:	Gonzalez-Hunt, Claudia P., et al. “DNA Damage by Oxidative Stress: Measurement Strategies for Two Genomes.” Current Opinion in Toxicology, Elsevier, 3 Nov. 2017, [www.sciencedirect.com/science/article/abs/pii/S2468202017301341](https://www.sciencedirect.com/science/article/abs/pii/S2468202017301341). 
 
-[^19]:	“DNA Damage: Causes and Effects.” Cell Biolabs, [www.cellbiolabs.com/DNA-Damage-Causes-Effects](www.cellbiolabs.com/DNA-Damage-Causes-Effects). 
+[^19]:	“DNA Damage: Causes and Effects.” Cell Biolabs, [www.cellbiolabs.com/DNA-Damage-Causes-Effects](https://www.cellbiolabs.com/DNA-Damage-Causes-Effects). 
 
 [^20]:	Ibid.
 
 [^21]:	Ibid.
 
-[^22]:	Kumar, Shital. “10 Common Carcinogens You Should Know About.” WebMD, WebMD, 17 July 2020, [www.webmd.com/cancer/know-common-carcinogens](www.webmd.com/cancer/know-common-carcinogens). 
+[^22]:	Kumar, Shital. “10 Common Carcinogens You Should Know About.” WebMD, WebMD, 17 July 2020, [www.webmd.com/cancer/know-common-carcinogens](https://www.webmd.com/cancer/know-common-carcinogens). 
 
-[^23]:	David, Kohn. “Alzheimer's Disease: The Facts.” CBS News, CBS Interactive, 24 Sept. 2002, [www.cbsnews.com/news/alzheimers-disease-the-facts/](www.cbsnews.com/news/alzheimers-disease-the-facts/). 
+[^23]:	David, Kohn. “Alzheimer's Disease: The Facts.” CBS News, CBS Interactive, 24 Sept. 2002, [www.cbsnews.com/news/alzheimers-disease-the-facts/](https://www.cbsnews.com/news/alzheimers-disease-the-facts/). 
 
-[^24]:	“Seniors And Diabetes: A Complete Guide.” Aging.com, 1 Dec. 2017, [aging.com/seniors-and-diabetes-a-complete-guide/](aging.com/seniors-and-diabetes-a-complete-guide/). 
+[^24]:	“Seniors And Diabetes: A Complete Guide.” Aging.com, 1 Dec. 2017, [aging.com/seniors-and-diabetes-a-complete-guide/](https://aging.com/seniors-and-diabetes-a-complete-guide/). 
 
-[^25]:	“Average Age for Cataract Surgery: Pacific Eye Institute: Upland.” Pacific Eye Institute, 20 Mar. 2020, [www.pacificeyelaser.com/what-is-the-average-age-for-cataract-surgery/](www.pacificeyelaser.com/what-is-the-average-age-for-cataract-surgery/). 
+[^25]:	“Average Age for Cataract Surgery: Pacific Eye Institute: Upland.” Pacific Eye Institute, 20 Mar. 2020, [www.pacificeyelaser.com/what-is-the-average-age-for-cataract-surgery/](https://www.pacificeyelaser.com/what-is-the-average-age-for-cataract-surgery/). 
 
-[^26]:	Magnifico, Laura. “Know Your Body: Rheumatoid Arthritis Symptoms in Women.” Healthline, Healthline, 14 Dec. 2020, [www.healthline.com/health/rheumatoid-arthritis-symptoms-women](www.healthline.com/health/rheumatoid-arthritis-symptoms-women). 
+[^26]:	Magnifico, Laura. “Know Your Body: Rheumatoid Arthritis Symptoms in Women.” Healthline, Healthline, 14 Dec. 2020, [www.healthline.com/health/rheumatoid-arthritis-symptoms-women](https://www.healthline.com/health/rheumatoid-arthritis-symptoms-women). 
 
 [^27]:	I say this with the full acknowledgement that I’m not perfect either. I had melted cheese on Tostitos yesterday for lunch. 
 
-[^28]:	“Understanding Antioxidants.” Harvard Health, Harvard Health Publishing, 10 Jan. 2019, [www.health.harvard.edu/staying-healthy/understanding-antioxidants](www.health.harvard.edu/staying-healthy/understanding-antioxidants). 
+[^28]:	Understanding Antioxidants. Harvard Health, Harvard Health Publishing, 10 Jan. 2019, [www.health.harvard.edu/staying-healthy/understanding-antioxidants](https://www.health.harvard.edu/staying-healthy/understanding-antioxidants). 
 
 [^29]:	Ibid.
 
-[^30]:	Ware, Megan. “Antioxidants: Health Benefits and Nutritional Information.” Medical News Today, MediLexicon International, 29 May 2018, [www.medicalnewstoday.com/articles/301506\#_noHeaderPrefixedContent](www.medicalnewstoday.com/articles/301506#_noHeaderPrefixedContent). 
+[^30]:	Ware, Megan. “Antioxidants: Health Benefits and Nutritional Information.” Medical News Today, MediLexicon International, 29 May 2018, [www.medicalnewstoday.com/articles/301506\#_noHeaderPrefixedContent](https://www.medicalnewstoday.com/articles/301506#_noHeaderPrefixedContent). 
 
-[^31]:	“Understanding Antioxidants.”[www.health.harvard.edu/staying-healthy/understanding-antioxidants](www.health.harvard.edu/staying-healthy/understanding-antioxidants). 
+[^31]:	“Understanding Antioxidants.”[www.health.harvard.edu/staying-healthy/understanding-antioxidants](https://www.health.harvard.edu/staying-healthy/understanding-antioxidants). 
 
 [^32]:	Ibid.
 
-[^33]:	“New Research Shows Cells Produce Antioxidants.” DW.COM, Deutsche Welle, 25 Jan. 2013, [www.dw.com/en/new-research-shows-cells-produce-antioxidants/a-16548128](www.dw.com/en/new-research-shows-cells-produce-antioxidants/a-16548128). 
+[^33]:	“New Research Shows Cells Produce Antioxidants.” DW.COM, Deutsche Welle, 25 Jan. 2013, [www.dw.com/en/new-research-shows-cells-produce-antioxidants/a-16548128](https://www.dw.com/en/new-research-shows-cells-produce-antioxidants/a-16548128). 
 
 [^34]:	Ibid.
 
@@ -293,11 +293,11 @@ Ultimately, it’s up to us to do the research. It’s up to us to put the corre
 
 [^37]:	Yes, finally, I’ve reached my point.
 
-[^38]:	Dix, Megan. “Everything You Should Know About Oxidative Stress.” Healthline, Healthline, 29 Sept. 2018, [www.healthline.com/health/oxidative-stress#prevention](www.healthline.com/health/oxidative-stress#prevention). 
+[^38]:	Dix, Megan. “Everything You Should Know About Oxidative Stress.” Healthline, Healthline, 29 Sept. 2018, [www.healthline.com/health/oxidative-stress#prevention](https://www.healthline.com/health/oxidative-stress#prevention). 
 
 [^39]:	List found on:
 
-	Pham-Huy, Lien Ai, et al. “Free Radicals, Antioxidants in Disease and Health.” International Journal of Biomedical Science : IJBS, Master Publishing Group, June 2008, [www.ncbi.nlm.nih.gov/pmc/articles/PMC3614697/](www.ncbi.nlm.nih.gov/pmc/articles/PMC3614697/). 
+	Pham-Huy, Lien Ai, et al. “Free Radicals, Antioxidants in Disease and Health.” International Journal of Biomedical Science : IJBS, Master Publishing Group, June 2008, [www.ncbi.nlm.nih.gov/pmc/articles/PMC3614697/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614697/). 
 
 	There are many others. Feel free to Google for it. It’s extensive, and varies by website.
 
@@ -305,16 +305,16 @@ Ultimately, it’s up to us to do the research. It’s up to us to put the corre
 
 [^41]:	For more info on omega-3 & omega-6 fatty acids go here: [https://www.emilywyattsmiley.com/fad-diets-and-macros](https://www.emilywyattsmiley.com/fad-diets-and-macros)
 
-[^42]:	Ware, Megan. [www.medicalnewstoday.com/articles/301506\#_noHeaderPrefixedContent](www.medicalnewstoday.com/articles/301506#_noHeaderPrefixedContent). 
+[^42]:	Ware, Megan. [www.medicalnewstoday.com/articles/301506\#_noHeaderPrefixedContent](https://www.medicalnewstoday.com/articles/301506#_noHeaderPrefixedContent). 
 
-[^43]:	Eldridge, Lynne. [www.verywellhealth.com/information-about-free-radicals-2249103](www.verywellhealth.com/information-about-free-radicals-2249103). 
+[^43]:	Eldridge, Lynne. [www.verywellhealth.com/information-about-free-radicals-2249103](https://www.verywellhealth.com/information-about-free-radicals-2249103). 
 
 [^44]:	Ibid.
 
-[^45]:	Ware, Megan. [www.medicalnewstoday.com/articles/301506\#_noHeaderPrefixedContent](www.medicalnewstoday.com/articles/301506#_noHeaderPrefixedContent). 
+[^45]:	Ware, Megan. [www.medicalnewstoday.com/articles/301506\#_noHeaderPrefixedContent](https://www.medicalnewstoday.com/articles/301506#_noHeaderPrefixedContent). 
 
 [^46]:	Ibid.
 
-[^47]:	“Understanding Antioxidants.” [www.health.harvard.edu/staying-healthy/understanding-antioxidants](www.health.harvard.edu/staying-healthy/understanding-antioxidants). 
+[^47]:	“Understanding Antioxidants.” [www.health.harvard.edu/staying-healthy/understanding-antioxidants](https://www.health.harvard.edu/staying-healthy/understanding-antioxidants). 
 
 [^48]:	In yoga we call this: Brahmacharya (bra-ma-char-ia)

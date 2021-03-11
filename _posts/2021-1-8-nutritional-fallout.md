@@ -153,15 +153,15 @@ All of this, even still, is just the tip of the ice berg. World War II and the U
 *Photo credit: Hennepin County Library*
 
 
-[^1]:	“Trans Fats.” www.heart.org. Accessed October 21, 2020. https://[www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.](www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat)
+[^1]:	“Trans Fats.” www.heart.org. Accessed October 21, 2020. https://[www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat)
 
 [^2]:	Wolf, Fred W. *Refrigerating Apparatus*. 
 
-[^3]:	Modern Marvels, [web.archive.org/web/20080326092256/www.history.com/exhibits/modern/fridge.html.](web.archive.org/web/20080326092256/www.history.com/exhibits/modern/fridge.html) 
+[^3]:	Modern Marvels, [web.archive.org/web/20080326092256/www.history.com/exhibits/modern/fridge.html.](https://web.archive.org/web/20080326092256/www.history.com/exhibits/modern/fridge.html) 
 
 [^4]:	As far as I can tell, that didn’t come about *because* of the war. It’s just a happy coincidence. 
 
-[^5]:	Tunc, Tanfer Enim, and Annessa Ann Babic. “Food on the Home Front, Food on the Warfront: World War II and the American Diet.” Taylor & Francis, 18 Apr. 2017, [www.tandfonline.com/doi/full/10.1080/07409710.2017.1311159.](www.tandfonline.com/doi/full/10.1080/07409710.2017.1311159) 
+[^5]:	Tunc, Tanfer Enim, and Annessa Ann Babic. “Food on the Home Front, Food on the Warfront: World War II and the American Diet.” Taylor & Francis, 18 Apr. 2017, [www.tandfonline.com/doi/full/10.1080/07409710.2017.1311159.](https://www.tandfonline.com/doi/full/10.1080/07409710.2017.1311159) 
 
 [^6]:	Ibid.
 
@@ -179,7 +179,7 @@ All of this, even still, is just the tip of the ice berg. World War II and the U
 
 [^13]:	Ibid.
 
-[^14]:	Butler, Stephanie. “How Hershey's Chocolate Helped Power Allied Troops During WWII.” History.com, A&amp;E Television Networks, 6 June 2014, [www.history.com/news/hersheys-chocolate-allied-d-day-rations-wwii](www.history.com/news/hersheys-chocolate-allied-d-day-rations-wwii). 
+[^14]:	Butler, Stephanie. “How Hershey's Chocolate Helped Power Allied Troops During WWII.” History.com, A&amp;E Television Networks, 6 June 2014, [www.history.com/news/hersheys-chocolate-allied-d-day-rations-wwii](https://www.history.com/news/hersheys-chocolate-allied-d-day-rations-wwii). 
 
 [^15]:	Ibid.
 
@@ -205,7 +205,7 @@ All of this, even still, is just the tip of the ice berg. World War II and the U
 
 	The story is way longer and significantly windier, but I’m cutting down for sanity’s sake.
 
-[^24]:	Jones, Tyler. “Historical Society to Offer Refresher on Coke's WWII Impact.” The Brunswick News, 19 Apr. 2017, [www.thebrunswicknews.com/life/historical-society-to-offer-refresher-on-cokes-wwii-impact/article_cbbfd3e8-4f2b-57dd-808c-1cbec9ce0861.html](www.thebrunswicknews.com/life/historical-society-to-offer-refresher-on-cokes-wwii-impact/article_cbbfd3e8-4f2b-57dd-808c-1cbec9ce0861.html). 
+[^24]:	Jones, Tyler. “Historical Society to Offer Refresher on Coke's WWII Impact.” The Brunswick News, 19 Apr. 2017, [www.thebrunswicknews.com/life/historical-society-to-offer-refresher-on-cokes-wwii-impact/article_cbbfd3e8-4f2b-57dd-808c-1cbec9ce0861.html](https://www.thebrunswicknews.com/life/historical-society-to-offer-refresher-on-cokes-wwii-impact/article_cbbfd3e8-4f2b-57dd-808c-1cbec9ce0861.html). 
 
 [^25]:	Ibid.
 
@@ -213,9 +213,9 @@ All of this, even still, is just the tip of the ice berg. World War II and the U
 
 [^27]:	Butler. “How Hershey's Chocolate Helped Power Allied Troops During WWII.”
 
-[^28]:	Journey Staff. “History of Coca-Cola: The War and What Followed: Coca-Cola GB.” The Coca-Cola Company, [www.coca-colaindia.com/stories/our-story-1941-1959--the-war-and-what-followed](www.coca-colaindia.com/stories/our-story-1941-1959--the-war-and-what-followed). 
+[^28]:	Journey Staff. “History of Coca-Cola: The War and What Followed: Coca-Cola GB.” The Coca-Cola Company, [www.coca-colaindia.com/stories/our-story-1941-1959--the-war-and-what-followed](https://www.coca-colaindia.com/stories/our-story-1941-1959--the-war-and-what-followed). 
 
-[^29]:	“Serving Our Country: Hershey Chocolate's Contributions to World War II.” Hershey Community Archives, 9 Apr. 2010, [www.hersheyarchives.org/encyclopedia/serving-the-country-hershey-chocolates-contributions-to-wwii/](www.hersheyarchives.org/encyclopedia/serving-the-country-hershey-chocolates-contributions-to-wwii/). 
+[^29]:	“Serving Our Country: Hershey Chocolate's Contributions to World War II.” Hershey Community Archives, 9 Apr. 2010, [www.hersheyarchives.org/encyclopedia/serving-the-country-hershey-chocolates-contributions-to-wwii/](https://www.hersheyarchives.org/encyclopedia/serving-the-country-hershey-chocolates-contributions-to-wwii/). 
 
 [^30]:	Ibid.
 
@@ -231,15 +231,15 @@ All of this, even still, is just the tip of the ice berg. World War II and the U
 
 [^36]:	Just ask your annoying uncle about the Coronavirus, and listen to him go on and go about how you mean the “China Virus”. #faceplam
 
-[^37]:	Baker, Jonathan. “Freedom Fries, Liberty Cabbage &amp; the Myth.” HPPR, 2018, [www.hppr.org/post/freedom-fries-liberty-cabbage-myth](www.hppr.org/post/freedom-fries-liberty-cabbage-myth). 
+[^37]:	Baker, Jonathan. “Freedom Fries, Liberty Cabbage &amp; the Myth.” HPPR, 2018, [www.hppr.org/post/freedom-fries-liberty-cabbage-myth](https://www.hppr.org/post/freedom-fries-liberty-cabbage-myth). 
 
 [^38]:	Tunc, 2017.
 
 	Although, I’m pretty sure modern hamburgers were actually created in the U.S., not Hamburg. Citation needed. 
 
-[^39]:	Stoller-Conrad, Jessica. “Canning History: When Propaganda Encouraged Patriotic Preserves.” NPR, NPR, 3 Aug. 2012, [www.npr.org/sections/thesalt/2012/08/02/157777834/canning-history-when-propaganda-encouraged-patriotic-preserves](www.npr.org/sections/thesalt/2012/08/02/157777834/canning-history-when-propaganda-encouraged-patriotic-preserves). 
+[^39]:	Stoller-Conrad, Jessica. “Canning History: When Propaganda Encouraged Patriotic Preserves.” NPR, NPR, 3 Aug. 2012, [www.npr.org/sections/thesalt/2012/08/02/157777834/canning-history-when-propaganda-encouraged-patriotic-preserves](https://www.npr.org/sections/thesalt/2012/08/02/157777834/canning-history-when-propaganda-encouraged-patriotic-preserves). 
 
-[^40]:	Schumm, Laura. “Food Rationing in Wartime America.” History.com, A&amp;E Television Networks, 23 May 2014, [www.history.com/news/food-rationing-in-wartime-america](www.history.com/news/food-rationing-in-wartime-america). 
+[^40]:	Schumm, Laura. “Food Rationing in Wartime America.” History.com, A&amp;E Television Networks, 23 May 2014, [www.history.com/news/food-rationing-in-wartime-america](https://www.history.com/news/food-rationing-in-wartime-america). 
 
 [^41]:	Barter systems were introduced among neighbors for those that wanted to trade certain stamps. Black markets for specific goods also popped up all over the nation. 
 
@@ -247,15 +247,15 @@ All of this, even still, is just the tip of the ice berg. World War II and the U
 
 [^42]:	Stoller-Conrad, Jessica. “Canning History: When Propaganda Encouraged Patriotic Preserves.”
 
-[^43]:	“Food Rationing and Canning in World War II.” National Women's History Museum, 13 Sept. 2017, [www.womenshistory.org/articles/food-rationing-and-canning-world-war-ii](www.womenshistory.org/articles/food-rationing-and-canning-world-war-ii). 
+[^43]:	“Food Rationing and Canning in World War II.” National Women's History Museum, 13 Sept. 2017, [www.womenshistory.org/articles/food-rationing-and-canning-world-war-ii](https://www.womenshistory.org/articles/food-rationing-and-canning-world-war-ii). 
 
 [^44]:	Ibid.
 
 	I’m not going to get into the gender stereotypes that the war effort essentially reversed here, but it seems like a fascinating read, no?
 
-[^45]:	“Economic Impact.” Beer Institute, 17 Nov. 2020, [www.beerinstitute.org/industryinsights/economic-impact/](www.beerinstitute.org/industryinsights/economic-impact/). 
+[^45]:	“Economic Impact.” Beer Institute, 17 Nov. 2020, [www.beerinstitute.org/industryinsights/economic-impact/](https://www.beerinstitute.org/industryinsights/economic-impact/). 
 
-[^46]:	Lowe, Miranda Summers. “How the Army Made Lager America's Beer.” War on the Rocks, 20 Dec. 2018, [warontherocks.com/2018/12/how-the-army-made-lager-americas-beer/](warontherocks.com/2018/12/how-the-army-made-lager-americas-beer/). 
+[^46]:	Lowe, Miranda Summers. “How the Army Made Lager America's Beer.” War on the Rocks, 20 Dec. 2018, [warontherocks.com/2018/12/how-the-army-made-lager-americas-beer/](https://warontherocks.com/2018/12/how-the-army-made-lager-americas-beer/). 
 
 
 	Which is hilarious to me, because in WWII many Americans refused to drink “German beer”. As long as it came from a domestic brewery (which most didn’t—Yuengling is the only mostly-domestically owned brewery in the U.S.) is was okay, I guess.
@@ -274,7 +274,7 @@ All of this, even still, is just the tip of the ice berg. World War II and the U
 
 [^52]:	Ibid.
 
-[^53]:	Saladino, Emily. “Beer and American Patriotism Are Inseparable Thanks to WWII.” VinePair, 10 Nov. 2017, [vinepair.com/articles/world-war-two-beer-patriotism/](vinepair.com/articles/world-war-two-beer-patriotism/). 
+[^53]:	Saladino, Emily. “Beer and American Patriotism Are Inseparable Thanks to WWII.” VinePair, 10 Nov. 2017, [vinepair.com/articles/world-war-two-beer-patriotism/](https://vinepair.com/articles/world-war-two-beer-patriotism/). 
 
 [^54]:	Ibid.
 
@@ -288,6 +288,6 @@ All of this, even still, is just the tip of the ice berg. World War II and the U
 
 [^59]:	Ruvio, Ayalla. “How Spam Went from Canned Necessity to American Icon.” Smithsonian.com, Smithsonian Institution, 5 July 2017, [www.smithsonianmag.com/food/how-spam-went-canned-necessity-american-icon-180963916/](https://www.smithsonianmag.com/food/how-spam-went-canned-necessity-american-icon-180963916/). 
 
-[^60]:	DeJesus, Erin. “A Brief History of Spam, an American Meat.” Eater, Eater, 9 July 2014, [www.eater.com/2014/7/9/6191681/a-brief-history-of-spam-an-american-meat-icon](www.eater.com/2014/7/9/6191681/a-brief-history-of-spam-an-american-meat-icon). 
+[^60]:	DeJesus, Erin. “A Brief History of Spam, an American Meat.” Eater, Eater, 9 July 2014, [www.eater.com/2014/7/9/6191681/a-brief-history-of-spam-an-american-meat-icon](https://www.eater.com/2014/7/9/6191681/a-brief-history-of-spam-an-american-meat-icon). 
 
 [^61]:	I didn’t mean to end this on a rhyme, but here we are.

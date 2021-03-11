@@ -132,9 +132,9 @@ What a silly thing to claim. However, be cognizant of what you’re putting your
 
 [^13]:	Lieberman says every 10 minutes here. But, damn, I mean how would we get anything done?
 
-[^14]:	Friedman, Uri. “The 5,000-Year History of the Chair.” The Atlantic, Atlantic Media Company, 30 Aug. 2016, [www.theatlantic.com/international/archive/2016/08/chairs-history-witold-rybczynski/497657/](www.theatlantic.com/international/archive/2016/08/chairs-history-witold-rybczynski/497657/). 
+[^14]:	Friedman, Uri. “The 5,000-Year History of the Chair.” The Atlantic, Atlantic Media Company, 30 Aug. 2016, [www.theatlantic.com/international/archive/2016/08/chairs-history-witold-rybczynski/497657/](https://www.theatlantic.com/international/archive/2016/08/chairs-history-witold-rybczynski/497657/). 
 
-[^15]:	Gersema, Emily. “Squatting and Kneeling May Be Better for Your Health than Sitting.” USC News, 28 Apr. 2020, [news.usc.edu/166572/squatting-kneeling-health-sitting-usc-research/](news.usc.edu/166572/squatting-kneeling-health-sitting-usc-research/). 
+[^15]:	Gersema, Emily. “Squatting and Kneeling May Be Better for Your Health than Sitting.” USC News, 28 Apr. 2020, [news.usc.edu/166572/squatting-kneeling-health-sitting-usc-research/](https://news.usc.edu/166572/squatting-kneeling-health-sitting-usc-research/). 
 
 [^16]:	Ibid.
 

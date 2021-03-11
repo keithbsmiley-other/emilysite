@@ -194,9 +194,9 @@ Use social media as a tool to serve you, rather than the other way around.
 
 [^4]:	I could just already hear you screaming at me about how inappropriately timed this article is. I’d argue it’s perfectly timed, but we’ll get to that.
 
-[^5]:	Mills, Jennifer S., et al. “‘Selfie’ Harm: Effects on Mood and Body Image in Young Women.” Body Image, Elsevier, 24 Aug. 2018, [www.sciencedirect.com/science/article/pii/S1740144517305326.](www.sciencedirect.com/science/article/pii/S1740144517305326) 
+[^5]:	Mills, Jennifer S., et al. “‘Selfie’ Harm: Effects on Mood and Body Image in Young Women.” Body Image, Elsevier, 24 Aug. 2018, [www.sciencedirect.com/science/article/pii/S1740144517305326.](https://www.sciencedirect.com/science/article/pii/S1740144517305326) 
 
-[^6]:	Newton, Phil. “What Is Dopamine?” Psychology Today, Sussex Publishers, 26 Apr. 2009, [www.psychologytoday.com/us/blog/mouse-man/200904/what-is-dopamine.](www.psychologytoday.com/us/blog/mouse-man/200904/what-is-dopamine) 
+[^6]:	Newton, Phil. “What Is Dopamine?” Psychology Today, Sussex Publishers, 26 Apr. 2009, [www.psychologytoday.com/us/blog/mouse-man/200904/what-is-dopamine.](https://www.psychologytoday.com/us/blog/mouse-man/200904/what-is-dopamine) 
 
 [^7]:	Ibid.
 
@@ -204,44 +204,44 @@ Use social media as a tool to serve you, rather than the other way around.
 
 [^9]:	*The Social Dilemma*. Directed by Jeff Orlowski, produced by Larissa Rhodes, 2020. Netflix, [https://www.netflix.com/watch/81254224?trackId=13752289&tctx=0%2C0%2C1256c304f543a6a7ec5dc00b7b17441102a83e6c%3Af42654af978255198ac0cde717c46d1773b1a667%2C1256c304f543a6a7ec5dc00b7b17441102a83e6c%3Af42654af978255198ac0cde717c46d1773b1a667%2Cunknown%2C.](https://www.netflix.com/watch/81254224?trackId=13752289&tctx=0%2C0%2C1256c304f543a6a7ec5dc00b7b17441102a83e6c%3Af42654af978255198ac0cde717c46d1773b1a667%2C1256c304f543a6a7ec5dc00b7b17441102a83e6c%3Af42654af978255198ac0cde717c46d1773b1a667%2Cunknown%2C)
 
-[^10]:	Royal Society for Public Health. “Instagram Ranked Worst for Young People's Mental Health.” RSPH, 17 May 2017, [www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html.](www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html) 
+[^10]:	Royal Society for Public Health. “Instagram Ranked Worst for Young People's Mental Health.” RSPH, 17 May 2017, [www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html.](https://www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html) 
 
 [^11]:	Ibid.
 
 [^12]:	Which reminds me. Hey, TikTok, can I pull you aside for a second. It’ll only be a second. Yeah? Mkay, cool. Hey. So, I was looking at #yoga on you the other day. And [this](https://www.tiktok.com/@kokofaceyoga/video/6866905443319434501?_d=secCgsIARCbDRgBIAIoARI%2BCjzKbeTkcXo9kDCERa4AsCW89KCxezzhPeCMGX9BvokigRffOT3q6NShzatyrOUxad3IeGl1EM9K1aHakssaAA%3D%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAA48upWu4BZF_yFi0-8pBZFjw7Z81eGq2vxoyHzjdE8qG0gVtM-VfDIsiGBwA1bICa&share_item_id=6866905443319434501&share_link_id=49B58E8A-E020-4828-85DA-3815238C032F&timestamp=1606937805&tt_from=sms&u_code=d972370a5f1121&user_id=6756462799541715974&utm_campaign=client_share&utm_medium=ios&utm_source=sms&source=h5_m) popped up. And then [this](https://www.tiktok.com/@vaneyoga/video/6852137047323413766?_d=secCgsIARCbDRgBIAIoARI%2BCjy8vRGGcCs79vACY8%2BDTr1ot1WZ6J%2BLYgt18EXWqhzNotiZN5qUUr4JVNgH7o3%2B2Pz7Ck%2FcjvM1KlL9uAYaAA%3D%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAA48upWu4BZF_yFi0-8pBZFjw7Z81eGq2vxoyHzjdE8qG0gVtM-VfDIsiGBwA1bICa&share_item_id=6852137047323413766&share_link_id=F28F8C9D-D041-4294-AB13-C56DD722D85B&timestamp=1606938432&tt_from=sms&u_code=d972370a5f1121&user_id=6756462799541715974&utm_campaign=client_share&utm_medium=ios&utm_source=sms&source=h5_m). And then [this](https://www.tiktok.com/@kti772/video/6893973820110081286?_d=secCgsIARCbDRgBIAIoARI%2BCjzfmltm8OKOxIbWvfuAnpgcylYrjtRHcb8%2FEsGYkrLN%2B3W7b47fyxH6WHkDDehP8nwmn20nIJLKgB49mEIaAA%3D%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAA48upWu4BZF_yFi0-8pBZFjw7Z81eGq2vxoyHzjdE8qG0gVtM-VfDIsiGBwA1bICa&share_item_id=6893973820110081286&share_link_id=41B4E33D-75FF-48EC-A595-BD0B13092A0C&timestamp=1606938512&tt_from=sms&u_code=d972370a5f1121&user_id=6756462799541715974&utm_campaign=client_share&utm_medium=ios&utm_source=sms&source=h5_m). [This](https://www.tiktok.com/@nathantriska/video/6850910531470052613?_d=secCgsIARCbDRgBIAIoARI%2BCjxGyruZ2Yh4JkFc0ww%2B%2FpovvYGua48K6rWTAyX6odcrzOh%2FrF1FIFdzVPXp0w%2FVN1pK10JYD21cPGRSJNEaAA%3D%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAA48upWu4BZF_yFi0-8pBZFjw7Z81eGq2vxoyHzjdE8qG0gVtM-VfDIsiGBwA1bICa&share_item_id=6850910531470052613&share_link_id=CC36031F-05F9-4C13-AC03-758B624B877D&timestamp=1606938705&tt_from=sms&u_code=d972370a5f1121&user_id=6756462799541715974&utm_campaign=client_share&utm_medium=ios&utm_source=sms&source=h5_m). And, lastly, [this](https://www.tiktok.com/@husseinyoga/video/6852184126632512774?_d=secCgsIARCbDRgBIAIoARI%2BCjy%2F%2BAFM5f%2F0YP7IVzlMdsmukPBtKQtVQFaHQPDIqyPVz%2FkXqpYicfZa2AZHDD4R8aFdhurpIuKvjUYJ7k0aAA%3D%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAA48upWu4BZF_yFi0-8pBZFjw7Z81eGq2vxoyHzjdE8qG0gVtM-VfDIsiGBwA1bICa&share_item_id=6852184126632512774&share_link_id=1162E7F8-3D53-4B94-9DA4-F41BF3AB8697&timestamp=1606938847&tt_from=sms&u_code=d972370a5f1121&user_id=6756462799541715974&utm_campaign=client_share&utm_medium=ios&utm_source=sms&source=h5_m). Hey, TikTok, is your #yoga doing okay, bro? Because, none of that is yoga. And at least one of those videos is perpetuating at least 3 really dangerous behaviors on a massive scale. Like, I’ll never be able to unsee that shit, you know? Now I know that’s a thing in this world. And I didn’t want to know. You know?
 
-[^13]:	Royal Society for Public Health. [www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html.](www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html) 
+[^13]:	Royal Society for Public Health. [www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html.](https://www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html) 
 
 [^14]:	Ibid.
 
 [^15]:	YouTube had the highest positivity score rating due to something called a Flow State. Flow state is a fascinating bit of psychology that I might talk about in a later article. Ibid.
 
-[^16]:	MacMillan, Amanda. “Why Instagram Is the Worst Social Media for Mental Health.” Time, Time, 25 May 2017, [time.com/4793331/instagram-social-media-mental-health/](time.com/4793331/instagram-social-media-mental-health/). 
+[^16]:	MacMillan, Amanda. “Why Instagram Is the Worst Social Media for Mental Health.” Time, Time, 25 May 2017, [time.com/4793331/instagram-social-media-mental-health/](https://time.com/4793331/instagram-social-media-mental-health/). 
 
-[^17]:	Person-Jones, Bridie. “Fitness Influencer Shows off Cellulite in Unedited Bikini Photo.” Daily Mail Online, Associated Newspapers, 29 June 2020, [www.dailymail.co.uk/femail/article-8469769/Fitness-influencer-shows-cellulite-unedited-bikini-photo.html.](www.dailymail.co.uk/femail/article-8469769/Fitness-influencer-shows-cellulite-unedited-bikini-photo.html) 
+[^17]:	Person-Jones, Bridie. “Fitness Influencer Shows off Cellulite in Unedited Bikini Photo.” Daily Mail Online, Associated Newspapers, 29 June 2020, [www.dailymail.co.uk/femail/article-8469769/Fitness-influencer-shows-cellulite-unedited-bikini-photo.html.](https://www.dailymail.co.uk/femail/article-8469769/Fitness-influencer-shows-cellulite-unedited-bikini-photo.html) 
 
-[^18]:	Mills, et al. [www.sciencedirect.com/science/article/pii/S1740144517305326.](www.sciencedirect.com/science/article/pii/S1740144517305326) 
+[^18]:	Mills, et al. [www.sciencedirect.com/science/article/pii/S1740144517305326.](https://www.sciencedirect.com/science/article/pii/S1740144517305326) 
 
 [^19]:	Ibid.
 
 [^20]:	Ibid.
 
-[^21]:	Chandra M.D., D.F.A.P.A., Ravi. “6 Problems of ‘Instagram Therapy.’” Psychology Today, 2019, [www.psychologytoday.com/us/blog/the-pacific-heart/201906/6-problems-instagram-therapy.](www.psychologytoday.com/us/blog/the-pacific-heart/201906/6-problems-instagram-therapy) 
+[^21]:	Chandra M.D., D.F.A.P.A., Ravi. “6 Problems of ‘Instagram Therapy.’” Psychology Today, 2019, [www.psychologytoday.com/us/blog/the-pacific-heart/201906/6-problems-instagram-therapy.](https://www.psychologytoday.com/us/blog/the-pacific-heart/201906/6-problems-instagram-therapy) 
 
-[^22]:	Mills, et al. [www.sciencedirect.com/science/article/pii/S1740144517305326.](www.sciencedirect.com/science/article/pii/S1740144517305326) 
+[^22]:	Mills, et al. [www.sciencedirect.com/science/article/pii/S1740144517305326.](https://www.sciencedirect.com/science/article/pii/S1740144517305326) 
 
-[^23]:	Arnold, Andrew. “Fitspiration On Social Media: Is It Helping Or Hurting Your Health Goals?” Forbes, Forbes Magazine, 27 Dec. 2018, [www.forbes.com/sites/andrewarnold/2018/11/26/fitspiration-on-social-media-is-it-helping-or-hurting-your-health-goals/?sh=1c86d60747f0.](www.forbes.com/sites/andrewarnold/2018/11/26/fitspiration-on-social-media-is-it-helping-or-hurting-your-health-goals/?sh=1c86d60747f0) 
+[^23]:	Arnold, Andrew. “Fitspiration On Social Media: Is It Helping Or Hurting Your Health Goals?” Forbes, Forbes Magazine, 27 Dec. 2018, [www.forbes.com/sites/andrewarnold/2018/11/26/fitspiration-on-social-media-is-it-helping-or-hurting-your-health-goals/?sh=1c86d60747f0.](https://www.forbes.com/sites/andrewarnold/2018/11/26/fitspiration-on-social-media-is-it-helping-or-hurting-your-health-goals/?sh=1c86d60747f0) 
 
 [^24]:	Ibid.
 
 [^25]:	Both of which are things people discuss ad nauseam on Instagram—me included. Make sure those people are qualified! And if something doesn’t feel right, stop doing it!
 
-[^26]:	Barnhart, Brent. “How to Rise Above Social Media Algorithms.” Sprout Social, 2 Dec. 2020, [sproutsocial.com/insights/social-media-algorithms/.](www.sproutsocial.com/insights/social-media-algorithms/) 
+[^26]:	Barnhart, Brent. “How to Rise Above Social Media Algorithms.” Sprout Social, 2 Dec. 2020, [sproutsocial.com/insights/social-media-algorithms/.](https://www.sproutsocial.com/insights/social-media-algorithms/) 
 
 [^27]:	Ibid.
 
 [^28]:	Ibid.
 
-[^29]:	Robinson, Lawrence. “Social Media and Mental Health.” HelpGuide.org, [www.helpguide.org/articles/mental-health/social-media-and-mental-health.htm.](www.helpguide.org/articles/mental-health/social-media-and-mental-health.htm) 
+[^29]:	Robinson, Lawrence. “Social Media and Mental Health.” HelpGuide.org, [www.helpguide.org/articles/mental-health/social-media-and-mental-health.htm.](https://www.helpguide.org/articles/mental-health/social-media-and-mental-health.htm) 
 
 [^30]:	Ibid.
