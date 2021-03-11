@@ -43,7 +43,7 @@ _Medical News Today_ notes, “If an atom has an outer shell that is not full, i
 
 Free radicals are unstable. In an effort to make up for their lacking electrons, they bond quickly with other substances.[^9]
 
-> > “When oxygen molecules split into single atoms that have unpaired electrons, they become unstable free radicals that seek other atoms or molecules with which to bond. If this continues to happen, it begins a process called oxidative stress.”[^10]
+> “When oxygen molecules split into single atoms that have unpaired electrons, they become unstable free radicals that seek other atoms or molecules with which to bond. If this continues to happen, it begins a process called oxidative stress.”[^10]
 
 ## What Causes The Production of Free Radicals & Oxidative Stress?
 
@@ -76,7 +76,7 @@ Oxidative stress can also lead to diseases such as:
 
 But wait there’s more.
 
-> > DNA and RNA are susceptible to oxidative damage.[^17] 
+> DNA and RNA are susceptible to oxidative damage.[^17] 
 
 According to an article on DNA damage in _Current Opinion in Toxicology_, “DNA damage is any modification to the structure of DNA that alters its coding properties and/or interferes with cell processes.”[^18] 
 
@@ -91,7 +91,7 @@ In laymen’s terms: DNA damage can lead to “mutations and genomic instability
 - Engine Exhaust
 - Pollution[^22]
 
-> > TL;DR: DNA damage brought on by oxidative stress caused by an increase of unstable free radicals in the body can lead to most cancers. 
+> TL;DR: DNA damage brought on by oxidative stress caused by an increase of unstable free radicals in the body can lead to most cancers. 
 
 ## The Free Radical 1-2 Punch
 
@@ -109,7 +109,7 @@ But, the more often you introduce carcinogens to your body, the more you’re in
 
 All good points. Let me remind you: Knowledge is power. Now that you have knowledge, make better life choices. Or at least better understand the potential consequences of those choices.[^27]
 
-> > \\#sorrynotsorry
+> \\#sorrynotsorry
 
 Let me be clear here. There is no way that the human body has not: A. evolved some way to use free radicals to its advantage and B. Developed a way to help protect itself against free radicals. After all, the human body is built to survive. It is a machine that wants to keep on keeping on. 
 
@@ -131,7 +131,7 @@ Tobias Dick, researcher at the German Cancer Research Center, says, “‘We use
 
 Our bodies create free radicals naturally. Our bodies can take care of free radicals naturally, to a point.[^36] What our bodies can’t deal with is an overwhelming amount of free radicals. 
 
-> > We have to put good shit in our bodies to counter for the bad shit we are also putting in our bodies.
+> We have to put good shit in our bodies to counter for the bad shit we are also putting in our bodies.
 
 We need to eat antioxidants.[^37] 
 
@@ -153,7 +153,7 @@ What does our body need to create antioxidants?[^39]
 
 One of the most important things to remember: 
 
-> > “Each antioxidant serves a different function and is not interchangeable with another. This is why is is important to have a varied diet.”[^42]
+> “Each antioxidant serves a different function and is not interchangeable with another. This is why is is important to have a varied diet.”[^42]
 
 Another important thing to point out: This list included chocolate and red wine. 
 
@@ -194,7 +194,7 @@ I find it crazy that certain foods have to be labeled “superfood” just to ma
 
 Fruits,  vegetables, and clean proteins (poultry and seafood namely), all have a place in our diet. We are omnivores for a reason. Humans evolved to eat a variety of foods—a variety of whole, unprocessed, foods.
 
-> > Kale farmers shouldn’t have to label their product as “super” just to get us to put it in our mouths. 
+> Kale farmers shouldn’t have to label their product as “super” just to get us to put it in our mouths. 
 
 I get it, though. It feels like the food industry has actively been working against our health for, what feels like, at least a hundred years. That’s why I write articles like [this one](https://www.emilywyattsmiley.com/nutritional-fallout). 
 
