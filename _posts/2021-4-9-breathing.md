@@ -58,7 +58,7 @@ Okay, now that we have that, we’re going to break this down even more. This ca
 
 Here's a little diagram if it helps:
 
-image:  images/nervoussystem.png
+images/nervoussystem.png
 
 There are two major parts to the nervous system.
 
@@ -117,7 +117,7 @@ Anxiety was super useful for our more cave-dwelling ancestors who needed to flee
 
 Dr. Katherine Rosa of the Harvard-affiliated Benson-Henry Institute for Mind Body Medicine says, “Today we are surrounded by so many stressors that we constantly stay in this state of tension. It doesn’t turn off, and we often don’t even notice it.”[^19] 
 
-> > ”The result: We have become a nation of chest breathers.”[^20]
+> ”The result: We have become a nation of chest breathers.”[^20]
 
 (This is a bit off topic, but I feel like it needs to be said. Cortisol essentially stops non-essential systems from happening in our body. It suppresses the immune system, the reproductive system, and growth processes. It can keep us feeling on edge, leading to unnatural long-term stress-caused self-destructive habits such as emotional eating, nail biting, hair plucking or pulling, and drastic mood swings (to name a few).
 
