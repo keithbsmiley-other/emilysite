@@ -270,7 +270,7 @@ Life is not relaxing all the time. In fact, life is quite stressful. If we can p
 
 [^5]:	Ibid.
 
-[^6]:	Reale, Jessica. “Yoga Anatomy: 6 Reasons Why the Diaphragm May Be the Coolest Muscle in the Body.” YogaUOnline, 29 Jan. 2016, [www.yogauonline.com/yoga-anatomy/yoga-anatomy-6-reasons-why-diaphragm-may-be-coolest-muscle-body](www.yogauonline.com/yoga-anatomy/yoga-anatomy-6-reasons-why-diaphragm-may-be-coolest-muscle-body). 
+[^6]:	Reale, Jessica. “Yoga Anatomy: 6 Reasons Why the Diaphragm May Be the Coolest Muscle in the Body.” YogaUOnline, 29 Jan. 2016, [https://www.yogauonline.com/yoga-anatomy/yoga-anatomy-6-reasons-why-diaphragm-may-be-coolest-muscle-body](https://www.yogauonline.com/yoga-anatomy/yoga-anatomy-6-reasons-why-diaphragm-may-be-coolest-muscle-body). 
 
 [^7]:	IecSimulations. The Nervous System In 9 Minutes. YouTube, YouTube, 14 Mar. 2017, [www.youtube.com/watch?v=44B0ms3XPKU](www.youtube.com/watch?v=44B0ms3XPKU). 
 
@@ -284,25 +284,25 @@ Life is not relaxing all the time. In fact, life is quite stressful. If we can p
 
 [^11]:	Ibid.
 
-[^12]:	McKay, Sarah. “Rethinking the Reptilian Brain.” Rethinking The Reptilian Brain., 16 Feb. 2021, [drsarahmckay.com/rethinking-the-reptilian-brain/](drsarahmckay.com/rethinking-the-reptilian-brain/). 
+[^12]:	McKay, Sarah. “Rethinking the Reptilian Brain.” Rethinking The Reptilian Brain., 16 Feb. 2021, [https://www.drsarahmckay.com/rethinking-the-reptilian-brain/](https://www.drsarahmckay.com/rethinking-the-reptilian-brain/). 
 
 [^13]:	Ibid.
 
 [^14]:	That is, of course, assuming that there’s not another reason for chest breath that inhibits the diaphragm’s natural movement—such as pregnancy, ridiculously tight pants, or intentionally not allowing your belly to expand while breathing for vanity’s sake.
 
-[^15]:	“Generalized Anxiety Disorder (GAD): Anxiety and Depression Association of America, ADAA.” Generalized Anxiety Disorder (GAD) \| Anxiety and Depression Association of America, ADAA, [adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad](adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad). 
+[^15]:	“Generalized Anxiety Disorder (GAD): Anxiety and Depression Association of America, ADAA.” Generalized Anxiety Disorder (GAD) \| Anxiety and Depression Association of America, ADAA, [https://www.adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad](https://www.adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad). 
 
-[^16]:	Sherwood Forest Hospitals. Information for Patients--"Flight or Flight" and Relaxed Breathing, NHS Foundation Trust, 2014, [www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf](www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf). 
+[^16]:	Sherwood Forest Hospitals. Information for Patients--"Flight or Flight" and Relaxed Breathing, NHS Foundation Trust, 2014, [https://www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf](http://www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf). 
 
-[^17]:	Solan, Matthew. “Ease Anxiety and Stress: Take a (Belly) Breather.” Harvard Health Blog, 26 Apr. 2019, [www.health.harvard.edu/blog/ease-anxiety-and-stress-take-a-belly-breather-2019042616521](www.health.harvard.edu/blog/ease-anxiety-and-stress-take-a-belly-breather-2019042616521). 
+[^17]:	Solan, Matthew. “Ease Anxiety and Stress: Take a (Belly) Breather.” Harvard Health Blog, 26 Apr. 2019, [https://www.health.harvard.edu/blog/ease-anxiety-and-stress-take-a-belly-breather-2019042616521](https://www.health.harvard.edu/blog/ease-anxiety-and-stress-take-a-belly-breather-2019042616521). 
 
-[^18]:	Sherwood Forest Hospitals. [www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf](www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf).
+[^18]:	Sherwood Forest Hospitals. [https://www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf](https://www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf).
 
-[^19]:	Solan. [www.health.harvard.edu/blog/ease-anxiety-and-stress-take-a-belly-breather-2019042616521](www.health.harvard.edu/blog/ease-anxiety-and-stress-take-a-belly-breather-2019042616521).
+[^19]:	Solan. [https://www.health.harvard.edu/blog/ease-anxiety-and-stress-take-a-belly-breather-2019042616521](https://www.health.harvard.edu/blog/ease-anxiety-and-stress-take-a-belly-breather-2019042616521).
 
 [^20]:	Ibid.
 
-[^21]:	Staff. “Chronic Stress Puts Your Health at Risk.” Mayo Clinic, Mayo Foundation for Medical Education and Research, 19 Mar. 2019, [www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037](www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037). 
+[^21]:	Staff. “Chronic Stress Puts Your Health at Risk.” Mayo Clinic, Mayo Foundation for Medical Education and Research, 19 Mar. 2019, [https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037). 
 
 [^22]:	Full disclose: I’m not a psychologist.
 
@@ -312,9 +312,9 @@ Life is not relaxing all the time. In fact, life is quite stressful. If we can p
 
 [^25]:	More on that later.
 
-[^26]:	Solan. [www.health.harvard.edu/blog/ease-anxiety-and-stress-take-a-belly-breather-2019042616521](www.health.harvard.edu/blog/ease-anxiety-and-stress-take-a-belly-breather-2019042616521).
+[^26]:	Solan. [https://www.health.harvard.edu/blog/ease-anxiety-and-stress-take-a-belly-breather-2019042616521](https://www.health.harvard.edu/blog/ease-anxiety-and-stress-take-a-belly-breather-2019042616521).
 
-[^27]:	Sherwood Forest Hospitals. [www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf](www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf).
+[^27]:	Sherwood Forest Hospitals. [https://www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf](https://www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf).
 
 [^28]:	Pointing out these symptoms takes a metric shit ton of practice. And getting rid of anxiety in the middle of a fight-or-flight response is extremely difficult. I’m by no means trying to down play this fact.
 
@@ -322,19 +322,19 @@ Life is not relaxing all the time. In fact, life is quite stressful. If we can p
 
 [^30]:	CRANIAL NERVE X COMING SOON TO A THEATER NEAR YOU!
 
-[^31]:	Breit, Sigrid, et al. “Vagus Nerve as Modulator of the Brain–Gut Axis in Psychiatric and Inflammatory Disorders.” Vagus Nerve as Modulator of the Brain-Gut Axis in Psychiatric and Inflammatory Disorders, Frontiers in Psychiatry, 1 Feb. 2018, [www.frontiersin.org/articles/10.3389/fpsyt.2018.00044/full](www.frontiersin.org/articles/10.3389/fpsyt.2018.00044/full). 
+[^31]:	Breit, Sigrid, et al. “Vagus Nerve as Modulator of the Brain–Gut Axis in Psychiatric and Inflammatory Disorders.” Vagus Nerve as Modulator of the Brain-Gut Axis in Psychiatric and Inflammatory Disorders, Frontiers in Psychiatry, 1 Feb. 2018, [https://www.frontiersin.org/articles/10.3389/fpsyt.2018.00044/full](https://www.frontiersin.org/articles/10.3389/fpsyt.2018.00044/full). 
 
 [^32]:	Fun fact: In a human fetus, the gonads actually start developing up in the stomach—not far from the diaphragm. That is where the blood and nerve supply are established. In both biological sexes, as the fetus develops, the gonads descend to the pelvic region. As the gonads move, they drag the vagus nerve along with them. The male testes finish their travels to the outside of the body. Incidentally, this is why biological males feel sick to their stomach when experiencing groin trauma. “The nerves to your testicles come out of the same plexus that serves your stomach and most of your intestines, and the pain fibers go back the same way.”
 
-	“Off-Topic: Your Gonads Are Innervated by Your Cranial Nerves.” Sauropod Vertebra Picture of the Week, 27 Jan. 2020, [svpow.com/2020/01/24/off-topic-your-gonads-are-innervated-by-your-cranial-nerves/](svpow.com/2020/01/24/off-topic-your-gonads-are-innervated-by-your-cranial-nerves/). 
+	“Off-Topic: Your Gonads Are Innervated by Your Cranial Nerves.” Sauropod Vertebra Picture of the Week, 27 Jan. 2020, [https://www.svpow.com/2020/01/24/off-topic-your-gonads-are-innervated-by-your-cranial-nerves/](svpow.com/2020/01/24/off-topic-your-gonads-are-innervated-by-your-cranial-nerves/). 
 
-[^33]:	ICU Advantage, director. Cranial Nerve BASICS - The 12 Cranial Nerves and How to REMEMBER Them! YouTube, YouTube, 10 Feb. 2020, www.youtube.com/watch?v=GJBnwZQ60Ss. 
+[^33]:	ICU Advantage, director. Cranial Nerve BASICS - The 12 Cranial Nerves and How to REMEMBER Them! YouTube, YouTube, 10 Feb. 2020, [https://www.youtube.com/watch?v=GJBnwZQ60Ss](https://www.youtube.com/watch?v=GJBnwZQ60Ss). 
 
-[^34]:	Megan Riehl, Psy. D. “An Easy Way to Beat Stress - and Build a Healthier Life.” Deep Breathing Exercises &amp; Techniques \| Michigan Health Blog, Michigan Health, 17 May 2016, [healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life](healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life). 
+[^34]:	Megan Riehl, Psy. D. “An Easy Way to Beat Stress - and Build a Healthier Life.” Deep Breathing Exercises &amp; Techniques \| Michigan Health Blog, Michigan Health, 17 May 2016, [https://www.healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life](https://www.healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life). 
 
 [^35]:	Ibid.
 
-[^36]:	Sara Kahn. “Learn How to Improve IBS Symptoms by Activating Vagus Nerve.” Improve IBS, SIBO, &amp; GERD Symptoms By Activating The Vagus Nerve, Belly Bliss Nutrition, 27 Sept. 2020, [sarakahnnutrition.com/tips/2020/09/27/improve-ibs-sibo-amp-gerd-symptoms-by-activating-the-vagus-nerve/](sarakahnnutrition.com/tips/2020/09/27/improve-ibs-sibo-amp-gerd-symptoms-by-activating-the-vagus-nerve/). 
+[^36]:	Sara Kahn. “Learn How to Improve IBS Symptoms by Activating Vagus Nerve.” Improve IBS, SIBO, &amp; GERD Symptoms By Activating The Vagus Nerve, Belly Bliss Nutrition, 27 Sept. 2020, [https://www.sarakahnnutrition.com/tips/2020/09/27/improve-ibs-sibo-amp-gerd-symptoms-by-activating-the-vagus-nerve/](https://www.sarakahnnutrition.com/tips/2020/09/27/improve-ibs-sibo-amp-gerd-symptoms-by-activating-the-vagus-nerve/). 
 
 [^37]:	Unless you’re buried, in the ocean, or stuck in outer space. In which case, why the hell are you reading this?
 
