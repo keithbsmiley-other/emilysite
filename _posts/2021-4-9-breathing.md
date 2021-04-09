@@ -290,7 +290,7 @@ Life is not relaxing all the time. In fact, life is quite stressful. If we can p
 
 [^14]:	That is, of course, assuming that there’s not another reason for chest breath that inhibits the diaphragm’s natural movement—such as pregnancy, ridiculously tight pants, or intentionally not allowing your belly to expand while breathing for vanity’s sake.
 
-[^15]:	“Generalized Anxiety Disorder (GAD): Anxiety and Depression Association of America, ADAA.” Generalized Anxiety Disorder (GAD) | Anxiety and Depression Association of America, ADAA, [adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad](adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad). 
+[^15]:	“Generalized Anxiety Disorder (GAD): Anxiety and Depression Association of America, ADAA.” Generalized Anxiety Disorder (GAD) \| Anxiety and Depression Association of America, ADAA, [adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad](adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad). 
 
 [^16]:	Sherwood Forest Hospitals. Information for Patients--"Flight or Flight" and Relaxed Breathing, NHS Foundation Trust, 2014, [www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf](www.sfh-tr.nhs.uk/media/3782/fight_or_flight_and_relaxed_breathing.pdf). 
 
@@ -330,7 +330,7 @@ Life is not relaxing all the time. In fact, life is quite stressful. If we can p
 
 [^33]:	ICU Advantage, director. Cranial Nerve BASICS - The 12 Cranial Nerves and How to REMEMBER Them! YouTube, YouTube, 10 Feb. 2020, www.youtube.com/watch?v=GJBnwZQ60Ss. 
 
-[^34]:	Megan Riehl, Psy. D. “An Easy Way to Beat Stress - and Build a Healthier Life.” Deep Breathing Exercises &amp; Techniques | Michigan Health Blog, Michigan Health, 17 May 2016, [healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life](healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life). 
+[^34]:	Megan Riehl, Psy. D. “An Easy Way to Beat Stress - and Build a Healthier Life.” Deep Breathing Exercises &amp; Techniques \| Michigan Health Blog, Michigan Health, 17 May 2016, [healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life](healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life). 
 
 [^35]:	Ibid.
 
