@@ -15,7 +15,7 @@ Looking at this from a very simplified view is both freeing and extremely restri
 
 A few weeks ago I started digging deeper into breathing exercises. My interest was piqued when I was chatting with a mentor of mine. 
 
-She asked me, “What do you think is the primary breathing muscle?” 
+She asked me, "What do you think is the primary breathing muscle?" 
 
 Because of my anxiety and desperation to impress someone I look up to, I panicked. And then, I thought about it. But nothing came to mind really. 
 
@@ -25,7 +25,7 @@ When I was done floundering, she said, “Okay, take in a deep breath.”
 
 I did. I took a few deep breaths. 
 
-“Ah, I see,” she said. “You’re a chest breather. So, your answer actually makes perfect sense for you.”
+"Ah, I see," she said. "You’re a chest breather. So, your answer actually makes perfect sense for you."
 
 The answer she was looking for, turns out, is the diaphragm. 
 
@@ -37,11 +37,11 @@ At rest, the diaphragm is shaped a like a parachute, and nestled within the rib 
 
 As you inhale, the diaphragm flattens.[^4]This flattening allows the lungs to fill with air. Your ribs expands because your internal organs are hesitant, and slow, to move as the diaphragm pushes against them. That is why the ribs expand to make room for air in the lungs.[^5]
 
-Physical Therapist Jessica Reale noted, “During inhalation as the diaphragm flattens to allow the lungs to fill with air, the diaphragm will ‘pull’ slightly on each of those attachments, effectively giving you a gentle mobilization.”[^6] 
+Physical Therapist Jessica Reale noted, "During inhalation as the diaphragm flattens to allow the lungs to fill with air, the diaphragm will ‘pull’ slightly on each of those attachments, effectively giving you a gentle mobilization."[^6] 
 
 > The diaphragm is what makes your belly lift, and your ribs expand, as you breath in.
 
-But for me, as a chest breather, I’m not really relying on my diaphragm as much as say, a “belly breather” might. 
+But for me, as a chest breather, I’m not really relying on my diaphragm as much as say, a "belly breather" might. 
 
 How we breath hugely impacts our nervous system. So, let’s talk about the nervous system before we get into the other stuff.
 
@@ -77,9 +77,9 @@ Let’s zoom in on the Sympathetic Nervous System.
 
 A lot of people studying the SNS, and deep diaphragmatic breathing in general, will pigeonhole the SNS to being trigger during moments of anxiety or fear—our fight or flight response. *But* that’s not all the SNS is useful for. 
 
-Dr. Sarah McKay, an Oxford University-educated neuroscientist points out, “The SNS evolved to _meet the body’s energy demands_ to all matter of threats _and_ challenges _and_ opportunities.”[^12]
+Dr. Sarah McKay, an Oxford University-educated neuroscientist points out, "The SNS evolved to _meet the body’s energy demands_ to all matter of threats _and_ challenges _and_ opportunities."[^12]
 
-She goes on to explain, “Consider a lion, an antelope, and an athlete. The lion chasing the antelope, the antelope itself, and the athlete running a 400m race all experience SNS activation that enables them to run fast and meet their particular challenge.”[^13]
+She goes on to explain, "Consider a lion, an antelope, and an athlete. The lion chasing the antelope, the antelope itself, and the athlete running a 400m race all experience SNS activation that enables them to run fast and meet their particular challenge."[^13]
 
 Which one of the being in the previous example is actually experiencing the fear or anxiety? Just one of the three—the antelope. 
 
@@ -111,9 +111,9 @@ Anxiety was super useful for our more cave-dwelling ancestors who needed to flee
 
 > Anxiety is *supposed* to be a short term reaction. However, many of us stay in these anxious emotional states constantly.
 
-Dr. Katherine Rosa of the Harvard-affiliated Benson-Henry Institute for Mind Body Medicine says, “Today we are surrounded by so many stressors that we constantly stay in this state of tension. It doesn’t turn off, and we often don’t even notice it.”[^19] 
+Dr. Katherine Rosa of the Harvard-affiliated Benson-Henry Institute for Mind Body Medicine says, "Today we are surrounded by so many stressors that we constantly stay in this state of tension. It doesn’t turn off, and we often don’t even notice it."[^19] 
 
-> ”The result: We have become a nation of chest breathers.”[^20]
+> "The result: We have become a nation of chest breathers."[^20]
 
 (This is a bit off topic, but I feel like it needs to be said. Cortisol essentially stops non-essential systems from happening in our body. It suppresses the immune system, the reproductive system, and growth processes. It can keep us feeling on edge, leading to unnatural long-term stress-caused self-destructive habits such as emotional eating, nail biting, hair plucking or pulling, and drastic mood swings (to name a few).
 
@@ -129,7 +129,7 @@ The goal here isn’t to keep the SNS shut off. The goal is to not let it take o
 
 ### The Parasympathetic Nervous System
 
-As previously mentioned, the Parasympathetic Nervous System (PNS) is the counter to the Sympathetic Nervous System (SNS). Think of the PNS as the “rest and digest” system.[^24] The PNS is what we’re trying to trigger when we practice deep belly breathing exercises. 
+As previously mentioned, the Parasympathetic Nervous System (PNS) is the counter to the Sympathetic Nervous System (SNS). Think of the PNS as the "rest and digest" system.[^24] The PNS is what we’re trying to trigger when we practice deep belly breathing exercises. 
 
 The way we trigger the PNS with diaphragmatic breathing is actually really, really cool.[^25]
 
@@ -147,7 +147,7 @@ We know what anxiety feels like, right?
 
 A quick reminder: Heart rate quickens. Sweaty palms and forehead. Dilated pupils. Fast and shallow breathing. Our mouths might become dry because suddenly saliva is not an essential need. Our stomachs may ache. All the symptoms.[^27]
 
-Since we know the symptoms, we can point to anxiety and say, “Hey, Anxiety. I see you. I appreciate you. But, I don’t need you right now.” 
+Since we know the symptoms, we can point to anxiety and say, "Hey, Anxiety. I see you. I appreciate you. But, I don’t need you right now." 
 
 Once you can stop yourself in the middle of an unnecessary fight-or-flight response, and recognize what is happening, you can actually calm your body down on a chemical level.[^28]
 
@@ -204,9 +204,9 @@ Bonkers, right?
 Yeah, bonkers.
 
 ### The Wandering Nerve
-There are twelve cranial nerves attached to our brains. We’re going to talk about Cranial Nerve X (ten). Which, honestly, is the most badass name for a nerve.[^30] Colloquially, Cranial Nerve X is called the Vagus Nerve. Vagus comes from the latin root “vaga-, vag-, or vago-”  meaning to wander, or move around (vagabond, vagrant, etc). Why that root word? Because it’s really freaking big.
+There are twelve cranial nerves attached to our brains. We’re going to talk about Cranial Nerve X (ten). Which, honestly, is the most badass name for a nerve.[^30] Colloquially, Cranial Nerve X is called the Vagus Nerve. Vagus comes from the latin root "vaga-, vag-, or vago-"  meaning to wander, or move around (vagabond, vagrant, etc). Why that root word? Because it’s really freaking big.
 
-The Vagus nerve is the longest nerve in the body. It’s actually two nerves that start on either side of the medulla oblongata. The vagus nerve runs down the throat (controls swallowing and vocalization), to the heart (stimulates reduction in the heart rate), to the intestines (regulates contractions of smooth muscles and glandular secretion), and, I’m going to argue, it continues down to your gonads.[^31] Hence the name “Wandering Nerve.”[^32]
+The Vagus nerve is the longest nerve in the body. It’s actually two nerves that start on either side of the medulla oblongata. The vagus nerve runs down the throat (controls swallowing and vocalization), to the heart (stimulates reduction in the heart rate), to the intestines (regulates contractions of smooth muscles and glandular secretion), and, I’m going to argue, it continues down to your gonads.[^31] Hence the name "Wandering Nerve."[^32]
 
 > Side Note: It’s not crazy to see a correlation from the path of the Vagus Nerve to the locations of the seven major chakras. Just sayin’.
 
@@ -219,8 +219,8 @@ Think of it like a massage for the PNS. With deep diaphragmatic breaths, we are 
 > When we practice deep belly breaths, we are telling the SNS that it’s not needed _right this minute_. 
 
 Something else I’ve noticed about diaphragmatic breathing, I actually digest food more easily. This is caused by two things:
-1. Psychologist Megan Riehl noted, “Diaphragmatic breathing massages the internal organs as the diaphragm moves up and down with each breath.”[^35]
-2. Nutritionist Sarah Khan pointed out, “The vagus nerve stimulates and regulates digestive organs.”[^36]We stimulate the vagus nerve through diaphragmatic breathing thus stimulating our digestive system.
+1. Psychologist Megan Riehl noted, "Diaphragmatic breathing massages the internal organs as the diaphragm moves up and down with each breath."[^35]
+2. Nutritionist Sarah Khan pointed out, "The vagus nerve stimulates and regulates digestive organs."[^36] We stimulate the vagus nerve through diaphragmatic breathing thus stimulating our digestive system.
 
 There are literal books on the vagus nerve. If you’re interested in it, there are people way more educated on the topic than I am. Feel free to dig in. I know I will.
 
