@@ -330,7 +330,7 @@ Life is not relaxing all the time. In fact, life is quite stressful. If we can p
 
 [^33]:	ICU Advantage, director. Cranial Nerve BASICS - The 12 Cranial Nerves and How to REMEMBER Them! YouTube, YouTube, 10 Feb. 2020, [https://www.youtube.com/watch?v=GJBnwZQ60Ss](https://www.youtube.com/watch?v=GJBnwZQ60Ss). 
 
-[^34]:	Megan Riehl, Psy. D. “An Easy Way to Beat Stress - and Build a Healthier Life.” Deep Breathing Exercises &amp; Techniques \| Michigan Health Blog, Michigan Health, 17 May 2016, [https://www.healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life](https://www.healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life). 
+[^34]:	Megan Riehl, Psy. D. “An Easy Way to Beat Stress - and Build a Healthier Life.” Deep Breathing Exercises &amp; Techniques \| Michigan Health Blog, Michigan Health, 17 May 2016, [https://healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life](https://www.healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life). 
 
 [^35]:	Ibid.
 
