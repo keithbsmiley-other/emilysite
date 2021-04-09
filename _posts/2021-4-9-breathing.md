@@ -56,10 +56,6 @@ The Nervous System has a few basic purposes.
 
 Okay, now that we have that, we’re going to break this down even more. This can get dense, but we’ll power through together.
 
-Here's a little diagram if it helps:
-
-images/nervoussystem.png
-
 There are two major parts to the nervous system.
 
 1. The Central Nervous System: brain and spinal cord
