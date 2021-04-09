@@ -264,7 +264,7 @@ Life is not relaxing all the time. In fact, life is quite stressful. If we can p
 [^3]:	It’s more complicated than this, but that gives you an idea of what we’re looking at.
 
 
-	“3D View of Diaphragm.” YouTube, 13 Oct. 2008, [youtu.be/hp-gCvW8PRY](youtu.be/hp-gCvW8PRY). 
+	“3D View of Diaphragm.” YouTube, 13 Oct. 2008, [http://www.youtu.be/hp-gCvW8PRY](http://www.youtu.be/hp-gCvW8PRY). 
 
 [^4]:	Thus, putting the diaphragm in its concentric state. Which still is a bit of a mind fuck for me. 
 
