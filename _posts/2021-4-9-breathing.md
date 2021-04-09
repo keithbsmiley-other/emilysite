@@ -326,7 +326,7 @@ Life is not relaxing all the time. In fact, life is quite stressful. If we can p
 
 [^32]:	Fun fact: In a human fetus, the gonads actually start developing up in the stomach—not far from the diaphragm. That is where the blood and nerve supply are established. In both biological sexes, as the fetus develops, the gonads descend to the pelvic region. As the gonads move, they drag the vagus nerve along with them. The male testes finish their travels to the outside of the body. Incidentally, this is why biological males feel sick to their stomach when experiencing groin trauma. “The nerves to your testicles come out of the same plexus that serves your stomach and most of your intestines, and the pain fibers go back the same way.”
 
-	“Off-Topic: Your Gonads Are Innervated by Your Cranial Nerves.” Sauropod Vertebra Picture of the Week, 27 Jan. 2020, [https://www.svpow.com/2020/01/24/off-topic-your-gonads-are-innervated-by-your-cranial-nerves/](svpow.com/2020/01/24/off-topic-your-gonads-are-innervated-by-your-cranial-nerves/). 
+	“Off-Topic: Your Gonads Are Innervated by Your Cranial Nerves.” Sauropod Vertebra Picture of the Week, 27 Jan. 2020, [https://www.svpow.com/2020/01/24/off-topic-your-gonads-are-innervated-by-your-cranial-nerves/](https://www.svpow.com/2020/01/24/off-topic-your-gonads-are-innervated-by-your-cranial-nerves/). 
 
 [^33]:	ICU Advantage, director. Cranial Nerve BASICS - The 12 Cranial Nerves and How to REMEMBER Them! YouTube, YouTube, 10 Feb. 2020, [https://www.youtube.com/watch?v=GJBnwZQ60Ss](https://www.youtube.com/watch?v=GJBnwZQ60Ss). 
 
