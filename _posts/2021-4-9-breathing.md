@@ -6,7 +6,7 @@ image:  images/breathe.jpg
 ---
 
 
-Okay, I’ve been playing with whether or not to write on this because, quite frankly, it’s a massive freaking topic. So, I’m going to supply you with an overview. The more I research this topic, the more I’ll be able to tell you. But, for now, let’s stick with an overview. 
+Okay, I’ve been playing with whether or not to write on this because, quite frankly, it’s a massive freaking topic. So, I’m going to supply you with an overview. The more I research this topic the more I’ll be able to tell you. But, for now, let’s stick with an overview. 
 
 Looking at this from a very simplified view is both freeing and extremely restricting. So, if you’re into breathing exercises please know that: 
 
