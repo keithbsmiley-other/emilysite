@@ -243,13 +243,13 @@ I’m not going to talk about any other breathing techniques in this article for
 
 ## The Take Away
 
-You don’t have to be some Kundalini Guru to use breathing techniques. But, if you’re anything like me, understanding the technique on an anatomical level, may help you understand why something like diaphragmatic breathing is an amazingly useful tool in your belt. 
+You don’t have to be some Kundalini Guru to use breathing techniques. But, if you’re anything like me understanding the technique on an anatomical level may help you understand why something like diaphragmatic breathing is an amazingly useful tool in your belt. 
 
 It costs no money to breath. Oxygen is almost always accessible and free.[^37] The practice itself is easy.
 
 I’ll leave you with this concept. 
 
-Life is not relaxing all the time. In fact, life is quite stressful. If we can prepare ourselves, in a safe, productive way, to deal with the constant stressors of life, why not try it at least once?[^38] 
+Life is not relaxing all the time. In fact, life is quite stressful. If we can prepare ourselves in a safe and productive way to deal with the constant stressors of life, why not try it at least once?[^38] 
  
 
 
