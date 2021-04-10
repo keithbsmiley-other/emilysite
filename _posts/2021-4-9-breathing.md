@@ -175,7 +175,7 @@ Notice how you feel in this moment. Know that you are in control of your anxiety
 
 Now, put your hands on your belly. 
 
-Breath in through your nose. Count to four as your inhale.
+Breathe in through your nose. Count to four as your inhale.
 
 Pull the air all the way down. Imagine trying to fill your belly, all the way down to your pelvis, with fresh air. Allow your belly to push your hand away.
 
