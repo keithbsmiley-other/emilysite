@@ -206,7 +206,9 @@ Yeah, bonkers.
 ### The Wandering Nerve
 There are twelve cranial nerves attached to our brains. We’re going to talk about Cranial Nerve X (ten). Which, honestly, is the most badass name for a nerve.[^30] Colloquially, Cranial Nerve X is called the Vagus Nerve. Vagus comes from the latin root "vaga-, vag-, or vago-"  meaning to wander, or move around (vagabond, vagrant, etc). Why that root word? Because it’s really freaking big.
 
-The vagus nerve is the longest nerve in the body. It’s actually two nerves that start on either side of the medulla oblongata. The vagus nerve runs down the throat (controls swallowing and vocalization), to the heart (stimulates reduction in the heart rate), to the intestines (regulates contractions of smooth muscles and glandular secretion), and, I’m going to argue, it continues down to your gonads.[^31] Hence the name "Wandering Nerve."[^32]
+The vagus nerve is the longest nerve in the body. It’s actually two nerves that start on either side of the medulla oblongata. The vagus nerve runs down the throat (controls swallowing and vocalization), to the heart (stimulates reduction in the heart rate), to the intestines (regulates contractions of smooth muscles and glandular secretion), and, I’m going to argue, it continues down to your gonads.[^31] 
+
+It basically runs from your skull all the way down your torso. Hence the name "Wandering Nerve."[^32]
 
 > Side Note: It’s not crazy to see a correlation from the path of the Vagus Nerve to the locations of the seven major chakras. Just sayin’.
 
