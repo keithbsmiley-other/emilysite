@@ -232,11 +232,11 @@ For now though, I’m going to step away from cranial nerve X in this blog becau
 
 Deep diaphragmatic breathing is just the tip of the breathing techniques iceberg. It’s Breathing Techniques 101. Which is one of the reasons why I wanted to start here. I also think it’s one of the best, and most useful, resources for people with higher levels of anxiety. 
 
-Breathing techniques used to make me uncomfortable because I didn’t understand them. I didn’t understand how important they could be do my body on a very real, chemical level. 
+Breathing techniques used to make me uncomfortable because I didn’t understand them. I didn’t understand how important they could be for my body on a very real, chemical level. 
 
 The more I learn, the more sold I am. The more sold I am, the more I want to research, learn, and practice. 
 
-I’m not going to talk about any other breathing techniques in this article for several reasons. 
+I’m not going to talk about any other breathing techniques in this article for a couple reasons. 
 
 1. I don’t know enough about them.
 2. This is a fascinating rabbit hole, and, like my research on the vagus nerve, my understanding is extremely surface level. When I’ve learned more, I’ll be back. I promise.
