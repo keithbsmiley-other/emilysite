@@ -69,7 +69,7 @@ The Peripheral Nervous System can then be split into two more branches:
 The Autonomic Nervous System can be further split into two parts.
 
 1. Sympathetic Nervous System: It is responsible for our fight or flight response and meeting other energy demands.[^10]
-2.  Parasympathetic Nervous System: Counter to the sympathetic nervous system. When the Sympathetic Nervous System is not longer needed, the parasympathetic nervous system helps bring other key systems of the body back to their resting/normal state.[^11] 
+2.  Parasympathetic Nervous System: Counter to the sympathetic nervous system. When the Sympathetic Nervous System is no longer needed, the parasympathetic nervous system helps bring other key systems of the body back to their resting/normal state.[^11] 
 
 ### The Sympathetic  Nervous System
 
