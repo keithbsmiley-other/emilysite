@@ -35,7 +35,7 @@ And the diaphragm is a freaking massive, fascinating muscle.
 
 At rest, the diaphragm is shaped a like a parachute, and nestled within the rib cage. It gets its shape from its attachments: the front of the lower rib cage, high in the front of the sternum, and deep in back of the lungs and spine.[^3] 
 
-As you inhale, the diaphragm flattens.[^4]This flattening allows the lungs to fill with air. Your ribs expands because your internal organs are hesitant, and slow, to move as the diaphragm pushes against them. That is why the ribs expand to make room for air in the lungs.[^5]
+As you inhale, the diaphragm flattens.[^4] This flattening allows the lungs to fill with air. Your ribs expands because your internal organs are hesitant, and slow, to move as the diaphragm pushes against them. That is why the ribs expand to make room for air in the lungs.[^5]
 
 Physical Therapist Jessica Reale noted, "During inhalation as the diaphragm flattens to allow the lungs to fill with air, the diaphragm will ‘pull’ slightly on each of those attachments, effectively giving you a gentle mobilization."[^6] 
 
