@@ -13,7 +13,7 @@ Looking at this from a very simplified view is both freeing and extremely restri
 1. You most likely know more than I do at this exact moment.[^1]
 2. There will be things I’m just not going to go near because they’re too complicated. This is a blog. Not a book.[^2]
 
-A few weeks ago I started digging deeper into breathing exercises. My interest was piqued when I was chatting with a mentor of mine. 
+A few weeks ago, I started digging deeper into breathing exercises. My interest was piqued when I was chatting with a mentor of mine. 
 
 She asked me, "What do you think is the primary breathing muscle?" 
 
