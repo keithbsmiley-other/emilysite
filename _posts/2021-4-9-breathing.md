@@ -97,7 +97,7 @@ No. There’s nothing wrong with you. But something to keep in mind:
 
 > Chest breathing is actually a stress response.[^14] 
 
-That lion, antelope, or athlete from the previous example would all be chest breathing during their individual bouts. Ideally, however, they would stop, and return to belly breathing, once their sympathetic nervous systems are no longer required—when the flee, fighting, or competition stops.
+That lion, antelope, or athlete from the previous example would all be chest breathing during their individual bouts. Ideally, however, they would stop and return to belly breathing once their sympathetic nervous systems are no longer required—when the flee, fighting, or competition stops.
 
 Let’s talk about anxiety for a second. (Something I *do* know a lot about.)
 
