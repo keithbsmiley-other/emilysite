@@ -75,7 +75,7 @@ The Autonomic Nervous System can be further split into two parts.
 
 Let’s zoom in on the Sympathetic Nervous System. 
 
-A lot of people studying the SNS, and deep diaphragmatic breathing in general, will pigeonhole the SNS to being triggered during moments of anxiety or fear—our fight or flight response. *But* that’s not all the SNS is useful for. 
+A lot of people studying the SNS, and deep diaphragmatic breathing in general, will pigeonhole the SNS into being triggered during moments of anxiety or fear—our fight or flight response. *But* that’s not all the SNS is useful for. 
 
 Dr. Sarah McKay, an Oxford University-educated neuroscientist points out, "The SNS evolved to _meet the body’s energy demands_ to all matter of threats _and_ challenges _and_ opportunities."[^12]
 
