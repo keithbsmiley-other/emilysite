@@ -214,7 +214,7 @@ It basically runs from your skull all the way down your torso. Hence the name "W
 
 Okay, we have this massive cranial nerve attached to the part of the brain that controls most of the Autonomic Nervous System (the medulla oblongata).[^33]
 
-And remember, the Vagus Nerve goes all the way down the torso, essentially. So, when we breath deeply into our diaphragm we are actually activating that nerve—therefore directly stimulating the parasympathetic nervous system.
+And remember, the vagus nerve goes all the way down the torso, essentially. So, when we breath deeply into our diaphragm we are actually activating that nerve—therefore directly stimulating the parasympathetic nervous system.
 
 Think of it like a massage for the PNS. With deep diaphragmatic breaths, we are triggering the PNS. Which in turn, tells our body to turn down the Sympathetic Nervous System (SNS), and reduce the adrenal and cortisol levels in our bodies. Not only does stimulation of the PNS decrease cortisol and adrenaline levels, it increases endorphins to encourage even more relaxation, and less muscle tension.[^34] 
 
