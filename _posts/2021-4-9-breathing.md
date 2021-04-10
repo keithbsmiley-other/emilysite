@@ -216,7 +216,7 @@ Okay, we have this massive cranial nerve attached to the part of the brain that 
 
 And remember, the vagus nerve goes all the way down the torso, essentially. So, when we breath deeply into our diaphragm we are actually activating that nerve—therefore directly stimulating the parasympathetic nervous system.
 
-Think of it like a massage for the PNS. With deep diaphragmatic breaths, we are triggering the PNS. Which in turn, tells our body to turn down the Sympathetic Nervous System (SNS), and reduce the adrenal and cortisol levels in our bodies. Not only does stimulation of the PNS decrease cortisol and adrenaline levels, it increases endorphins to encourage even more relaxation, and less muscle tension.[^34] 
+Think of it like a massage for the PNS. With deep diaphragmatic breaths, we are triggering the PNS. Which in turn, tells our body to turn down the Sympathetic Nervous System (SNS), and reduce the adrenal and cortisol levels in our bodies. Not only does stimulation of the PNS decrease cortisol and adrenaline levels, it increases endorphins to encourage even more relaxation and less muscle tension.[^34] 
 
 > When we practice deep belly breaths, we are telling the SNS that it’s not needed _right this minute_. 
 
