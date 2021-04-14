@@ -124,7 +124,7 @@ Their brain doesn’t have enough input to compute between the hot and cold. Onl
 > More sensory input allows the brain to re-compute what it’s feeling, and, therefore,  relieve pain.[^21]
 
 
-### But Why Are We Talking About Pain At All? Isn’t This Article About Balancing The Sympathetic and Parasympathetic Through Spinal Mobility?
+### But Why Are We Talking About Pain At All? Isn’t This Article About Balancing The Sympathetic and Parasympathetic Nervous Systems Through Spinal Mobility?
 
 Rogan et al noted, “In clinical and research settings in physiotherapy, the SNS is largely included in explanatory models for the development and chronification of pain. In osteopathy, for example, a model hypothesizes that disorders of the SNS can promote *and intensify* disease process. Especially the SNS can influence the trophicity (the nourishment of tissues) of various tissues as well as the blood circulation of the skin in the healthy and patients.”[^22]
 
