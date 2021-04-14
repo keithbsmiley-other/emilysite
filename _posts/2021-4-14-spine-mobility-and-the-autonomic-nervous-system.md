@@ -103,7 +103,7 @@ Why does it work, though?
 
 This study might explain it better.
 
-> “In the study, cognitive neuro­scientist Marjolein Kammers of University College London and her colleagues asked blindfolded par­ticipants to place their index and ring fingers in tubs of warm water while their middle fingers rested in cool water, a common experimental trick that creates the illusion that the middle fingers are burning hot. When the participants withdrew from the water and touched only their middle fingers of both hands together or joined only their outer fingers, they found little relief. Touching all three fingers to an experimenter’s hand also failed to reduce pain. Only when the participants entwined their three affected fingers on both hands did they soothe themselves, diminishing perceived pain by 64 percent.” [^19]
+“In the study, cognitive neuro­scientist Marjolein Kammers of University College London and her colleagues asked blindfolded participants to place their index and ring fingers in tubs of warm water while their middle fingers rested in cool water, a common experimental trick that creates the illusion that the middle fingers are burning hot. When the participants withdrew from the water and touched only their middle fingers of both hands together or joined only their outer fingers, they found little relief. Touching all three fingers to an experimenter’s hand also failed to reduce pain. Only when the participants entwined their three affected fingers on both hands did they soothe themselves, diminishing perceived pain by 64 percent.” [^19]
 
 If you’re all: “Great! I still don’t get it.”
 
