@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  detoxing-debunked
+title:  Detoxing Debunked
 date:   2021-4-21
 image:  images/spill.jpg
 ---
@@ -8,11 +8,11 @@ image:  images/spill.jpg
 
 Yeah, I know the title is a bit much. 
 
-Alrighty, fam. Today’s the day. We’re going to talk about the concept of detoxing. 
+Alrighty, fam. Today’s the day. We’re going to talk about "detoxing". 
 
 Detoxing gets thrown around a lot these days in both the nutrition and yoga circles. 
 
-The concept of detoxing is amazing. Do thing X to get all the toxins out of your body. 
+In theory, the concept of detoxing is amazing. Do thing X to get all the toxins out of your body. 
 
 So amazing, in fact, I can’t help but wonder…
 
@@ -22,9 +22,9 @@ Your body is literally *designed to eliminate toxins for you*. Why do you need t
 
 That’s kind of why peeing, pooping, and exhaling are things our bodies have to do. 
 
-Before I get started please know, this article comes from a place of love and peace. Not hate and anger. I’m just researching things, and explaining that research to you in a long form manner. 
+Before I get started please know, this article comes from a place of love and peace. Not hate and anger. Per usual, I’m just researching things, and explaining that research to you in a long-form manner. 
 
-Also know, this is being written by someone who has done juice/smoothie/soup “cleanses”, and used to teach hot yoga. 
+Also know, this is being written by someone who has done juice/smoothie/soup “cleanses”, and teaches yoga.
 
 One last disclaimer: I’m not here to shit on your personal or religious beliefs. You live your best life. I’m simply giving you scientific facts based on scientific studies. If you cleanse every so often for whatever reason, and you feel healthy and good, keep doing you.
 
@@ -36,13 +36,13 @@ Here we go.
 
 ### The Liver
 
-The liver has many jobs, most of which revolve around keeping bad stuff out of your body. It regulates chemical levels in the blood and excretes bile. That bile is what carries waste away from the liver. Every single blood cell that leaves the stomach and intestines goes through the liver.[^2] 
+The liver has many jobs, most of which revolve around keeping bad stuff out of your body. It regulates chemical levels in the blood and excretes bile. That bile is what carries waste away from the liver. Every single blood cell that leaves the stomach and intestines goes into the liver.[^2] 
 
-The liver then processes this blood. It breaks down, balances, and creates nutrients. It also metabolizes any drugs in the blood into nontoxic forms that the rest of the body can use.[^3] 
+The liver then processes this blood. It breaks down, balances, and creates nutrients. It also metabolizes any drugs in the blood into nontoxic forms that the rest of the body can use or safely excrete.[^3] 
 
 The liver is key to proper bodily function. Liver failure ends in death. Full stop. 
 
-Think of your liver as a very necessary, built in Brita Filter for your body. 
+Think of your liver as a very necessary, built-in Brita Filter for your body. 
 
 Your liver sits roughly beneath your diaphragm, and on top of your stomach, right kidney, and intestines.[^4] It is cone shaped, a dark, reddish-brown color, and weights about three pounds (in case you were wondering).[^5]
 
@@ -72,7 +72,7 @@ Toxins typically enter our bodies in two forms
 1. Endotoxins
 2. Exotoxins
 
-Endotoxins are toxins your body makes—they are literally made inside of you—such as feces, urea, and lactic acid (I did a whole IGTV thing on Lactic Acid. If you’re curious, check it out.).
+Endotoxins are toxins your body makes—they are literally made inside of you—such as feces, urea, and lactic acid (I did a whole IGTV thing on lactic acid. If you’re curious, [check it out](https://www.instagram.com/tv/CL5ibm7JdOy/?utm_source=ig_web_copy_link).
 
 Exotoxins are toxins that you introduce into your body. So pretty much any chemical you put inside of or on your body. Think cleaning products, pesticides, cosmetics, pollutants, etc.[^8] 
 
@@ -80,9 +80,9 @@ Exotoxins are toxins that you introduce into your body. So pretty much any chemi
 
 The liver is made to detox our bodies of *both* endo- and exotoxins.[^9]
 
-According to liver cancer specialist and surgeon Thomas Aloia, M.D., “Detoxifying the normal things we eat, breathe, and ingest is part of [the liver’s] job and keeps us alive.”
+According to liver cancer specialist and surgeon Thomas Aloia, M.D., “Detoxifying the normal things we eat, breathe, and ingest is part of \[the liver’s] job and keeps us alive.”
 
-So, really we need to take care of our internal Brita Filters™. 
+So, we need to really take care of our internal Brita Filters™. 
 
 Aloia continued, “The key is moderation. Don’t pack your liver full or fat, sugar, or alcohol, so the machine keeps doing its job well. It will handle all the things it needs to handle as long as it’s a healthy organ.”[^10]
 
@@ -94,9 +94,9 @@ Heather Alexander, author of _4 Detox Myths: Get the Facts_, on the University o
 
 Alcohol can add more fat to your liver.
 
-But Emily, I saw this ad for a liver cleanse and it said it can help me lose weight *and* heal my liver. 
+But Emily, I saw this ad for a liver cleanse on Instagram™ and it said it can help me lose weight *and* heal my liver. 
 
-Okay, first off. Yes, cleanses and detox diets will probably help you lose weight, but not for the reasons you’re probably thinking. 
+Okay, first off. Yes, cleanses and detox diets will probably help you lose weight, but not for the reasons you’re most likely thinking. 
 
 There are two ways you lose weight on a detox diet or cleanse:
 1. You lose water weight because you’re not taking in enough carbohydrates (which you will gain back post cleanse).
@@ -117,17 +117,19 @@ Treatment options available for a few types of liver disease include (again this
 I’m going to repeat this because it’s kind of a big deal. 
 
 > *The liver will heal itself* if you just stop feeding it toxic materials like excessive fats, sugars, and alcohol.* 
-Like accidentally ripping a lizard’s tail off over and over. If you just stop for a second you sick, sick bastard, that lizard will regrow its tail. 
+Like accidentally ripping a lizard’s tail off over and over, if you just stop for a second you sick, sick bastard, that lizard will regrow its tail. 
 
 > Overall, eating healthy whole foods is the best thing you can do for your liver. 
 
 Which, seriously, is what almost every single one of my nutrition-based articles come back to.
 
-Heather Alexander wrote, “If you switch to a healthy, plant-based diet of lean proteins, whole grains, fruits, and vegetables, you will likely get all the benefits detox products claim to offer, including inflammation reduction, improved digestions, more energy, and a boost to your immune system.”[^16]
+Heather Alexander wrote, “If you switch to a healthy, plant-based diet of lean proteins, whole grains, fruits, and vegetables, you will likely get all the benefits detox products claim to offer, including inflammation reduction, improved digestion, more energy, and a boost to your immune system.”[^16]
 
 So, a detox, such as a juice cleanse, isn’t actually going to “detox” your liver.  It won’t even heal your liver. 
 
-But maybe you still like doing them. You might see it as a jump start to eating healthier. Something to keep in mind: Not all cleanses are created equally.
+But maybe you still like doing them. You might see it as a jump start to eating healthier. Great! I get it. Been there. Done that.
+
+But, something to keep in mind: Not all cleanses are created equally.
 
 Some are down right dangerous.
 
@@ -139,7 +141,7 @@ First thing to note.
 
 According to Harvard Medical School, “Patients undergoing medical detoxification are usually treated in hospitals or clinics. The treatment generally involved the use of drugs and other therapies in a combination that depends on the type and severity of the toxicity.”[^18]
 
-Emeritus professor of complementary medicine at Exeter University, Edzard Ernst, said, there are two types of detox. One is the medical procedure mentioned above. “The other is the word being hijacked by entrepreneurs, quacks, and charlatans to sell a bogus treatment that allegedly detoxifies your body of toxin you’re supposed to have accumulated.”[^19]
+Emeritus professor of complementary medicine at Exeter University, Edzard Ernst, said, there are two types of detox. One is the medical procedure mentioned above. “The other is the word being hijacked by entrepreneurs, quacks, and charlatans to sell a bogus treatment that allegedly detoxifies your body of toxins you’re supposed to have accumulated.”[^19]
 
 So, there’s that.
 
@@ -147,11 +149,11 @@ Many cleanses that consist of nothing but juices, spices, maple syrup (I’m loo
 
 Laxative cleanses actually deplete the very necessary, and natural, flora (microorganisms) in your body that your digestive tract counts on to break down food.[^21] If you do cleanses such as these repeatedly, you actually risk disrupting your body’s acid-base balance, which could result in too much acid in your blood. This can lead to a coma, and/or death.[^22]
 
-Additionally, Guardian contributor, Dara Mohammadi noted, 
+Some are just a scam entirely, Guardian contributor, Dara Mohammadi, noted, 
 
-> “Other tactics are more insidious. Some colon-cleaning tablets contain a polymerizing agents that turns your feces into something like a plastic, so that when a massive rubbery poo snake lighters into your toilet you can stare back at it and feel vindicated in your purchase. Detoxing foot pads turn brown overnight with what manufacturers claim is toxic sludge drawn from your body. This sludge is nothing of the sort - a substance in the pads turns brown when it mixes with water from your sweat.”[^23]
+> “Other tactics are more insidious. Some colon-cleaning tablets contain a polymerizing agents that turns your feces into something like a plastic, so that when a massive rubbery poo snake slithers into your toilet you can stare back at it and feel vindicated in your purchase. Detoxing foot pads turn brown overnight with what manufacturers claim is toxic sludge drawn from your body. This sludge is nothing of the sort - a substance in the pads turns brown when it mixes with water from your sweat.”[^23]
 
-And if you’re still thinking cleanses and detox diets help you lose weight, think again.
+And, as previously mentioned, if you’re still thinking cleanses and detox diets help you lose weight long-term, think again.
 
 “Once the dieter resumes normal eating, rapid weight gain follows. Much of the weight loss achieved through this diet results from fluid loss related to extremely low carbohydrate intake and frequent bowel movements or diarrhea produced by salt water and laxative tea. When the dieter resumes normal fluid intake, this weight is quickly regained.”[^24]
 
@@ -163,12 +165,13 @@ Medical News Today reported, “According to the Office for Disease Prevention a
 
 BUT, we need to define a few things. 
 
-1. Juices: Juices are typically a combination of juices from a variety of fruits and vegetables. While tasty, juices can actually greatly limit specific nutrients you’re getting from said fruits and veggies. Juicers deliberately eliminate all the fiber from food. Fiber is essential to digestion, and gut health.[^26] Additionally, when made with specific fruits and vegetables (like beets and carrots) your blood sugar can spike tremendously (up to 40g of sugar in a 16 ounce serving).[^27] Since juice is the easiest this to digest for the body, the spike can come hard and fast. 
-2. Smoothies: Smoothies are typically a combination of blended fruits and vegetables.You can also add extra protein and healthy fat to smoothies to really boost the nutritional content. A smoothie can be a true meal replacement as they pack a rather large nutritional punch and can be quite filling. Because of this, they are higher in calories than juices. So, if you’re trying to lose weight, definitely use them as a meal replacement, and be sure to add fats and proteins for a well-rounded meal.[^28]
+1. Juices: Juices are typically a combination of fluids from a variety of fruits and vegetables. While tasty, juices can actually greatly limit specific nutrients you’re getting from said fruits and veggies. Juicers deliberately eliminate all of the fiber from food. Fiber is essential to digestion, and gut health.[^26] Additionally, when made with specific fruits and vegetables (like beets and carrots) your blood sugar can spike tremendously (up to 40g of sugar in a 16 ounce serving).[^27] Since juice is the easiest thing to digest for the body (there are no solids to break down in juice), the spike can come hard and fast. 
+2. Smoothies: Smoothies are typically a combination of blended fruits and vegetables. You can also add extra protein and healthy fat to smoothies to really boost the nutritional content. Smoothies can be a true meal replacement as they pack a rather large nutritional punch and can be quite filling. Because of this, they are higher in calories than juices. So, if you’re trying to lose weight, definitely use them as a meal replacement, and be sure to add fats and proteins 
+(avocado, Greek yogurt, or protein powder for example) for a well-rounded meal.[^28]
 
 ### To Detox Or Not To Detox
 
-One does not simply detox the liver with juice, a cleanse of lemon juice and cayenne, or a mess ton of smoothies and soups. Liver detoxes have never been proven to help heal the human liver. 
+One does not simply detox the liver with a mess ton of smoothies, soups, and/or juices. Liver detoxes have never been proven to help heal the human liver. 
 
 > Semi-Relevant Fun Fact: Broccoli, sprouts, mustard plants, cabbages (all bassicas) contain cyanide. “Eating it provides a tiny bit of poison that primes the enzymes in your liver to deal better with any other poisons.” Drinking *within moderation, you animal,* (a few glasses of wine or beer a week), is proven to have a similar effect.[^29]
 
@@ -188,31 +191,31 @@ Okay.
 
 ## Twist Out The Toxins
 
-I hate to admit that I used to buy into the whole “twists are detoxifying” garbage. I thought, let Yoga take the wheel. Why wouldn’t I believe the things my teachers were telling me. So, since my teacher said it, I can say it when I teach my classes. This is how lies, innocent but lies never-the-less, get perpetuated and spread.  
+I hate to admit that I used to buy into the whole “twists are detoxifying” myth. I thought, let Yoga take the wheel. Why wouldn’t I believe the things my teachers were telling me. So, since my teacher said it, I can say it when I teach my classes. This is how lies, innocent but lies never-the-less, get perpetuated and spread.  
 
-I’m honestly not going to spend a ton of time on this because it feel extremely obvious to me, and, to be frank, I can’t prove a negative.
+I’m honestly not going to spend a ton of time on this because it feels extremely obvious to me, and, to be frank, I can’t prove a negative:
 
 Hey, hey you guys. 
 
 Your liver is not a dish cloth. 
 
-Your liver is not something that can be “wrung” out. 
+> Your liver is not something that can be “wrung” out. 
 
 Your liver is your liver, and it doesn’t actually twist in your body when you twist. As previously mentioned, that is not how the liver works. The liver functions on a very cellular level.[^32]
 
 So no, you can’t twist away the bottle of Skinny Girl Margarita you had last night.
 
-### Stop Yelling At Me
+### Stop Yelling At Me, Yoga Teacher
 
 Let me explain my snark.
 
 The whole “your liver is like a dish rag” idea, probably came from B.K.S. Iyengar.[^33] He’s kind of a big deal in the yoga world.[^34]
 
-Iyengar taught that twisting asanas created this “squeeze-and-soak” action in the spine and internal organs.[^35] 
+Iyengar taught that twisting asanas (poses) created this “squeeze-and-soak” action in the spine and internal organs.[^35] 
 
 Author of _Myth vs. Fact: How Yoga Helps Detox Your Body_, Jennifer Williams-Fields explained the “squeeze-and-soak” theory, “The organ would become compressed in a twist, squeezing out old blood and waste, and then once released, fresh oxygenated blood would flow in, creating healthier organs-much like a dirty wash cloth can take on fresh clean water after being wrung out of the old dirty water.”[^36]
 
-This is what I was taught in my 200-hr teacher training.
+This is what I was taught in my 200-hr teacher training. 
 
 However, science has yet to back this theory up.[^37] 
 
@@ -226,7 +229,7 @@ BUT, honestly, so does all physical activity. Peake continued, “All physical a
 
 I’m not saying yoga asana doesn’t have its perks. It is hugely beneficial to the body. Through yoga you can absolutely learn how to more efficiently calm, and [find balance within](https://www.emilywyattsmiley.com/breathing), the nervous system. You practice and learn balance and mobility all while challenging your proprioception. Yoga is hard. Yoga is good. Yoga is wise. 
 
-AND, twisting specifically does help stimulate some of our internal organs—especially those responsible for elimination, such as the large and small intestines.[^42] I remember the first time I experienced this. After a massive twist I very suddenly had to use the restroom. In a very, very real way. In the middle of class. 
+AND, twisting in specific ways can help stimulate some of our internal organs—especially those responsible for elimination, such as the large and small intestines.[^42] I remember the first time I experienced this. After a massive twist I very suddenly had to use the restroom. In a very, very real way. In the middle of class. 
 
 ### Digestion and Twisting
 
@@ -234,13 +237,13 @@ AND, twisting specifically does help stimulate some of our internal organs—esp
 
 The intestines move digested food and liquid by a process called peristalsis. The National Institute of Diabetes and Digestive and Kidney Diseases explained, “The large, hollow organs of your GI tract contain a layer of muscle that enables their walls to move. The movement pushes food and liquid through your GI tract and mixes the contents within each organ. The muscle behind the food contracts and squeezes the food forward, while the muscle in the front of the food relaxes to allow the food to move.”[^43] 
 
-Ever watch a centipede or a millipede walk? That’s similar to how those muscles move. Kind of inch-worming digested food along your intestinal tract. Marching your literal shit towards your colon.
+Ever watch a centipede or a millipede walk? That’s similar to how those muscles move -- kind of inch-worming digested food along your intestinal tract -- marching your literal shit towards your colon.
 
-So, how does twisting help? It can (*notice how I said can*) help things literally move around, much like a gentle abdominal massage can encourage intestinal movement. 
+So, how can twisting help? It can (*notice how I said can*) help things literally move around, much like a gentle abdominal massage can encourage intestinal movement. 
 
-For the most part, as state by Kate Davidson, “Yoga may help relieve digestive issues by decreasing stress, increasing circulation, and promotion guy motility. However, scientists need to do more research to understand its role in specific digestive issues.”[^44]
+For the most part, as stated by Kate Davidson, “Yoga may help relieve digestive issues by decreasing stress, increasing circulation, and promoting gut motility. However, scientists need to do more research to understand its role in specific digestive issues.”[^44]
 
-> Fun Fact: Scientists and doctors are studying and prescribing yoga to their clients with IBS (irritable bowel syndrome). However, the theory has very little to do with peristalsis. The thought is this: IBS may be caused by an over-active sympathetic nervous system (fight, flight, or physical challenge response), which draws essential blood and other necessary chemicals and fluids from the digestive system to focus on fighting/fleeing/or fulfilling a physical challenge. Yoga, especially meditation and deep breathing exercises, have been proven to de-activate the sympathetic nervous system and activate the parasympathetic nervous system (rest and digest response), which, in turn, calms the digestion system and helps things return to a more normal state.[^45]
+> Fun Fact: Scientists and doctors are studying and prescribing yoga to their clients with IBS (irritable bowel syndrome). However, the theory has very little to do with peristalsis. The thought is this: IBS may be caused by an over-active sympathetic nervous system (fight, flight, or physical challenge response), which draws essential blood and other necessary chemicals and fluids away from the digestive system to focus on fighting/fleeing/or fulfilling a physical challenge. Yoga, especially meditation and deep breathing exercises, have been proven to de-activate the sympathetic nervous system and activate the parasympathetic nervous system (rest and digest response), which, in turn, calms the digestion system and helps things return to a more normal state.[^45]
 
 Keep in mind: I *teach* yoga for a living. I’m not trying to yuck your yum. 
 
