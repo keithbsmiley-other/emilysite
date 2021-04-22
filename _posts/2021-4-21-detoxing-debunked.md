@@ -251,14 +251,14 @@ I’m just saying, before you start throwing out random cues like “twist the t
 
 ## Okay, Fine. But At Least I Can Sweat Out The Toxins, Right? …RIGHT?!
 
-I can not tell you how many times I had hung over students in my studio. And, yes, you can absolutely tell if they’re drunk or hungover because their sweat smells like the bottle of Jack they crawled into the night before.
+I can not tell you how many times I had hung over students in my studio. And, yes, you can absolutely tell if they’re drunk or hungover because their sweat smells like the bottle of Jack into which they crawled the night prior.
 
-But, before you head out to the sauna though hear me out.
+But, before you head out to the sauna, hear me out.
 
 ### Sweating
 
 You have two different kinds of sweat glands. 
-1. Eccrine Glands: They are found throughout your body and are activated when body temperate rises, like in a hot yoga class. Kat Haegberg noted, “They secrete sweat that’s mainly made up of water and salt. And that’s what actually exiting your body when you work up a sweat in yoga—water and salt. The purpose of eccrine glade sweat is to help regulate your body temperature, not unload toxins.”[^46]
+1. Eccrine Glands: They are found throughout your body and are activated when body temperate rises, like in a hot yoga class. Kat Haegberg noted, “They secrete sweat that’s mainly made up of water and salt. And that’s what actually exiting your body when you work up a sweat in yoga -— water and salt. The purpose of eccrine glade sweat is to help regulate your body temperature, not unload toxins.”[^46]
 2. Apocrine Glands: They are located in concentrated areas of the body (read: armpits and groin). Heagberg added, “They’re activated when we’re stressed, and secrete sweat that’s mainly comprised of water and fat (and tend to produce a noticeable oder once it comes in contact with the bacteria on your skin).[^47]
 
 Sure, some other stuff gets in there as well. 
@@ -267,7 +267,7 @@ Sure, some other stuff gets in there as well.
 
 Amy Kraft of CBS News, and author of _Reality check: Does yoga release toxins from the body?_ wrote, “It is true that some toxins can dissolve in sweat, but only a trivial amount…” Dr. Pam Peake continued Kraft’s thought, “One percent of toxins at most get removed from the body through sweat.”[^48]
 
-Dr. John Mayer, a clinical psychologist and substance abuse expert said, “The body treats alcohol like a toxin, but the liver can only metabolize about twelve ounces of beer an hour.[^49] Registered dietitian, and ACSM exercise physiologist Jim White explained, “The body gets rid of the rest through a process called oxidation, which breaks the toxins down into smaller parts called diacetic [(or acetic)] acid, carbon dioxide, and water that the body can metabolize and excrete through urine, breathe, and sweat.”[^50] 
+Dr. John Mayer, a clinical psychologist and substance abuse expert said, “The body treats alcohol like a toxin, but the liver can only metabolize about twelve ounces of beer an hour.[^49] Registered dietitian, and ACSM exercise physiologist Jim White explained, “The body gets rid of the rest through a process called oxidation, which breaks the toxins down into smaller parts called diacetic \[(or acetic)] acid, carbon dioxide, and water that the body can metabolize and excrete through urine, breathe, and sweat.”[^50] 
 
 We sweat when we drink alcohol because, “drinking causes the blood vessels near the skin to enlarge, which causes people to feel flushed or hot and as a result triggers the body to sweat.”[^51]
 
@@ -277,15 +277,15 @@ This just means that, as Mayer explained, “You can’t sweat out the hangover,
 
 (Think about it. Your body may start to sweat if you eat too much animal protein (the steak sweats are real). But you don’t start excreting steak from your pores.) 
 
-Mayer continued, “In fact, if you sweat like crazy during hot yoga or a set of intervals and you’ll compound that dehydration problem, which may even worsen your hangover symptoms.”[^53]
+Mayer continued, “In fact, if you sweat like crazy during hot yoga or a set of intervals...you’ll compound that dehydration problem, which may even worsen your hangover symptoms.”[^53]
 
 But Emily, if we’re not sweating out toxic alcohol, why do I smell like a took a bath in a Jameson?
 
-Jim White said, “The higher the alcohol content of the drink or drinks the person consumed the night before, the more alcohol oxidation a person’s body will go through, which means more stink-causing diacetic [or acetic] acid.”[^54] 
+Jim White said, “The higher the alcohol content of the drink or drinks the person consumed the night before, the more alcohol oxidation a person’s body will go through, which means more stink-causing diacetic \[or acetic] acid.”[^54] 
 
 > Fun fact: Drinking water is the only way to fight the smell. It helps your body dilute the alcohol and excrete the liquid more quickly, which will help kill the hangover smell.[^55]
 
-All that being said, sweating is an extremely important part of body homeostasis. It is required to help cool our body temperature’s down as the liquid on our skin evaporates. Moving vigorously in any way helps increase circulation, which has massive benefits to the body.
+All that being said, sweating is an extremely important part of [body homeostasis](https://www.emilywyattsmiley.com/spine-mobility-and-the-autonomic-nervous-system). It is required to help cool our body temperature’s down as the liquid on our skin evaporates. Moving vigorously in any way helps increase circulation, which has massive benefits to the body.
 
 It’s also important to note, that while a key factor to body homeostasis, sweating too much can lead to serious dehydration. You have to drink water in order to maintain a healthy human body.
 
@@ -309,7 +309,7 @@ A fever is defined as an increase in your body’s temperature. As mentioned bef
 
 There is absolutely no scientific evidence that sweating will get rid of a fever or even help you feel better.[^59] 
 
-Fever is typically a sign of infection. And, similar to sweating out alcohol (I guess), you can’t sweat out infections.[^60]  
+Fever is typically a sign of infection. And, similar to sweating out alcohol (I guess?), you can’t sweat out infections.[^60]  
 
 This is a huge assumption, but my guess is the concept of sweating out a fever actually came from humoral medicine created way back when Hippocrates was a calf, and then was expounded upon during the Renaissance. If this piques your interest, [read this](https://www.emilywyattsmiley.com/humoral-medicine).
 
@@ -323,7 +323,7 @@ By which I mean eat healthy, whole foods.[^61]
 
 You cannot heal most of the damage done to your liver, but you can stop damaging your liver; thus, giving it time to heal itself. Stop drinking alcohol, or minimize your alcohol intake. Reduce your fatty food intake to a healthier amount. Drink more water. You know, all the basic things I’ve been writing about since I started this blog. 
 
-No, twisting does not wring out your liver like a dish rag. But, it does increase circulation. It does help digestion, and can help spinal mobility.
+No, twisting does not wring out your liver like a dish rag. But, it does increase circulation. It can help digestion, and aide in spinal mobility.
 
 And no, you can’t sweat out your hangover. You have to live with your mistakes. But, you can drink more water to help the process along. 
 
@@ -335,11 +335,11 @@ I’ll just quote Leslie Knope.
 
 > “Well, because I learned new information. When I was four I thought that chocolate milk came from brown cows, and then I flip-flopped when I found out that there was something called chocolate syrup.”[^62]
 
-For now, take solace in the fact that you’re body is an amazing machine with it’s own detoxing system. Sure, you can drink a healthy smoothie for lunch to get more vegetables. But toxins don’t come out of your feet at night because you have your special socks on. Pooping more just means you’re eating more fiber, not that you’re scraping the extra poop that shoved in the dark, mysterious corners of your colon. 
+For now, take solace in the fact that you’re body is an amazing machine with it’s own detoxing system. Sure, you can drink a healthy smoothie for lunch to get more vegetables. But toxins don’t come out of your feet at night because you have your special socks on. Pooping more just means you’re eating more fiber, not that you’re scraping the extra poop that's shoved in the dark, mysterious corners of your colon. 
 
 You can twist during yoga class to help increase circulation and spinal mobility. But you’re not wringing out your internal organs like a dish rag. And you’re not flushing out your organs by holding blood back then allowing it all to rush in. 
 
-And lastly, you can sweat all day long, it’s actually good for your skin (as long as you shower all the salt off quickly afterward), but that hangover headache will still be there until you get some damn water and electrolytes in your blood stream. 
+And lastly, you can sweat all day long (it’s actually good for your skin as long as you shower all the salt off quickly afterward) -- you might even feel better for a while after a work out because endorphins are a thing -- but, realistically, that hangover headache will still be there until you get some water and electrolytes in your blood stream. 
 
 We’re are always looking for short cuts, ways to enhance our bodies, and/or ways to make up for the bad things we put in our bodies. 
 
@@ -347,7 +347,7 @@ Unfortunately, there are no short cuts.
 
 Your body is a pretty amazing machine as is — no enhancement necessary.
 
-Stop putting bad things in your body, and maybe you won’t feel so bad.[^63]
+If you're otherwise healthy, and you don't feel great, maybe stop putting bad things in your body for a while, and let your body heal itself.[^63]
 
 *shrug* 
 
