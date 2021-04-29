@@ -5,8 +5,6 @@ date:   2021-4-29
 image:  images/bubbles.jpg
 ---
 
-# Micro-dosing Death: Carbon Balancing, Weight Loss, & Anxiety Reduction through Efficient Breathing & Breath Retention
-
 I know I’ve said this before, but I really mean it this time.
 
 This one’s a doozy.
