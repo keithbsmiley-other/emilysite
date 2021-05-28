@@ -64,49 +64,47 @@ Visualization is not an uncommon practive in a competitive setting. In fact, a l
 
 For example, rock climbers literally visualize the routes they are about to climb. If you go to a rock climbing gym, you might see people staring at the wall and making these weird moves with their arms and legs as they imagine what the route expects of them. Every grip, every twist of the hip, every dynamic movement is visualized before they even get on the wall.
 
-Jim Davies, author of _Just Imagining A Workout Can Make You Stronger_, and professor of cognitive psychology at Carleton University, writes, “Mental practice is one of the few effective performance enhancing activities. For example, doctors who mentally practice before engaging in a virtual-reality surgery outperform those who do not. One study, by Rutgers psychologist Rober Woolfolk, and colleagues, had people simply imagine putting a golf ball into the hole before they took their shot. The people who imagined making it had 30.4 perfect more successful putts than those who did not.”[^8]
+Jim Davies, author of _Just Imagining A Workout Can Make You Stronger_, writes, “Mental practice is one of the few effective performance enhancing activities. For example, doctors who mentally practice before engaging in a virtual-reality surgery outperform those who do not. One study, by Rutgers psychologist Rober Woolfolk, and colleagues, had people simply imagine putting a golf ball into the hole before they took their shot. The people who imagined making it had 30.4 percent more successful putts than those who did not.”[^8]
 
 It’s a very real strategy. And now it’s proven to work on a musculoskeletal level *and* a psychological level. 
 
-Elizabeth Quinn, author of _Do Visualization Exercises Help Build Strength_ writes, “…The general practice increases confidence and helps build the pathways in the nervous system that are aligned with reducing anxiety and distractions. Others point to the athlete’s ability to improve focus and attention and, much like a meditation, the mental visualization is not that different from actual physical rehearsal in that it helps an athlete prepare for their sport.”[^9]
+Elizabeth Quinn, author of _Do Visualization Exercises Help Build Strength?_ writes, “…The general practice increases confidence and helps build the pathways in the nervous system that are aligned with reducing anxiety and distractions. Others point to the athlete’s ability to improve focus and attention and, much like a meditation, the mental visualization is not that different from actual physical rehearsal in that it helps an athlete prepare for their sport.”[^9]
 
 ## Proprioceptive Training & Building Out New Neural Pathways
 
 As a yoga teacher and a personal trainer, I give a lot of cues to specific muscles. I remember I was teaching a private student, a runner, one day and I noticed he wasn’t really using his upper body for much. 
 
-I was like, “Hey, Client. Engage your lats when you go a specific yoga pose.”
+I was like, “Hey, Client, engage your lats when you go a specific yoga pose.”
 
 And he said, “I don’t know how.”
 
-That’s when I realized my client and I had an entirely new and exciting thing to work on. 
-
-You’ve might have heard the term: Neural pathway.
+That’s when I realized my client and I had an entirely new and exciting thing to work on: building a stronger neural pathway to help him flex his lats in isolation. 
 
 A neural pathway is created in the brain when you learn something new.[^10] The more you do the thing that created the neural pathway, the easier it is to perform. That is muscle memory.[^11] Every movement you make is the function of a neural pathway.
 
 Okay, take this journey with me.
 
-You notice an untrodden path on a hike at Point A. You decide to follow the path because you’re a strong, independent human who does what they want. After a while you find a waterfall: Point B.
+You pull off the side of the road and decide to go for a walk in the woods. There's no clear cut trail, but you go anyway. We'll call the point where you start your hike Point A. After a while you find a waterfall: Point B.
 
-The path to the waterfall is unclear though. There’s a lot of foliage. It’s a bit rocky. The trek was unpleasant, and difficult. But damn if that waterfall is beautiful, fulfilling, and makes you feel successful. So, you keep going. You notice the more you walk back and forth on the trail from Point A to Point B the more obvious and wider the trail becomes.
+The path to the waterfall is unclear though. There’s a lot of foliage. It’s a bit rocky. The trek was unpleasant, and difficult. But damn if that waterfall is beautiful, fulfilling, and makes you feel successful. So, you keep going. You notice the more you walk back and forth on the trail from Point A to Point B and back again, the more obvious and wider the trail becomes.
 
-Eventually, you decide you want to build a log cabin at Point B, and you create a dirt driveway from Pooint A leading to Point B.
+Eventually, you decide you want to build a log cabin at Point B, and you create a dirt driveway from Point A to Point B.
 
-Then you realize you love your log cabin and want to build a house with a few of your friends as neighbors. 
+Then you realize you love your log cabin and want to build a bigger house there. since you're there more often, you need a paved road. Something that's easier to get back and forth on.
 
 Now your dirt driveway from Point A to Point B is a paved, two-lane road.
 
 Then, you realize your kids need a school, and you would like a grocery store closer. You’ve essentially created a town (or a cult), and now you create a highway from Point A to Point B. Traffic along the pathway is ever-moving and easy. You can basically drive from Point A to Point B with your eyes closed.[^12] 
 
-That’s how neural pathways are formed. The more you perform an action, the wider the neural pathway becomes, the easier it is for your brain to talk to your muscles, the more frequently you will succeed in the task.[^13] 
+That’s how neural pathways are formed. The more you perform an action, the wider the neural pathway becomes, the easier it is for the neurons in your brain to travel to, and communicate with, your muscles. Thus, the task will be success more frequently.[^13] 
 
-That’s essentially what practicing does. If you’re trying to throw a three-pointer, you’re going to suck at first, probably. But, the more you do it, the less you have to consider the mechanics of the movement, and before you know it, your a freaking 3-pointer throwing master.[^14]
+That’s essentially what practicing is meant to do. If you’re trying to throw a three-pointer, you’re going to suck at first, probably. But, the more you do it, the less you have to consider the mechanics of the movement, and before you know it, your a freaking 3-pointer throwing master.[^14]
 
 This evolution of progress is called plasticity. It is the brains ability to create and strengthen new connections.[^15]
 
 All of that is to say visualizing the movement of a muscle can help create and strengthen neural pathways and cultivate better proprioception (the awareness of position and movement of the body) within the body.[^16]
 
-My client who didn’t understand how to engage his lats, had to stop and think about how to do that. I told him to think about doing a pull up. I watched his back muscles engage. Once I noticed his lats flexing I said, “That right there! That was it. Do it again!” Once he was able to isolate the necessary neural pathway to engage his lats, he was able to do it (with some thought at first mind you) over and over again. 
+My client who didn’t understand how to engage his lats, had to stop and think about how to do that. I told him to think about doing a pull up. I watched his back muscles engage. Once I noticed his lats flexing I said, “That right there! That was it. Do it again!” Once he the neural pathway was created and strengthened he was able to engage his lats (with some thought at first mind you) over and over again. 
 
 ### Plasticity and Brain Degeneration
 
