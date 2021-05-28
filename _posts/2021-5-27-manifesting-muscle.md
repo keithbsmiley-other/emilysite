@@ -5,8 +5,8 @@ date:   2021-5-27
 image:  images/brain.jpg
 ---
 
-So, I was in yoga teacher training last month and someone mentioned a study that proved just *thinking* about exercise can make us physically stronger.
-Let’s just say, I had a hard time believing them. 
+I was in yoga teacher training last month, and someone mentioned a study that proved just *thinking* about exercise can make us physically stronger.
+Let’s just say I had a hard time believing them. 
 
 But, I’m not here to call anyone a liar. 
 
@@ -17,7 +17,7 @@ Turns out, they were right.
 > And, now my mind is blown.
 
 (Before we get too deep into this, please understand two things:
-1. I am not a doctor. I am researching to better understand these concepts myself. I write these blogs to help myself learn and to hopefully help poke your curiosity about these topics.
+1. I am not a doctor. I am researching to better understand these concepts myself. I write these blogs to help myself learn and to hopefully help ignite your curiosity about these topics.
 2. When I discuss any kind of brain/body system I am referring to a healthy, able brain/body without injury, illness, or disability unless otherwise specified. I do this to ensure that I get my information as accurate as possible. Once I start digging into disabilities, illnesses, and injuries, things get significantly more complicated, and, like I said in my first point, I’m not a doctor.
 Okay, good chat.)
 
@@ -25,7 +25,7 @@ Okay, good chat.)
 
 My friend in teacher training was right. 
 
-Brain C. Clark and colleagues conducted a study that showed just thinking about exercise can make sure stronger.[^1] 
+Brain C. Clark and colleagues conducted a study that showed just *thinking* about exercise can make us stronger.[^1] 
 
 Clayton Mosher, author of “How to Grow Stronger Without Lifting Weights” explains, 
 
@@ -33,19 +33,23 @@ Clayton Mosher, author of “How to Grow Stronger Without Lifting Weights” exp
 
 In the abstract of the study, Clark et al notes, “These findings suggest neurological mechanisms, most likely at the cortical level, contribute significantly to disuse-induced weakness, and that regular activation of the cortical regions via imagery attenuates weakness and VA [voluntary activation] by maintaining normal level of inhibition.”[^3]
 
-Mosher writes, “Ten years ago, Guang Yue at the Cleveland Clinic reported that imaginary exercise increase the strength of fingers muscles by up to 35%…Kai Miller at the University of Washington, showed that imaginary exercise activated the same brain areas that are activated during real exercise.”[^4]
+In other words, visualizing a muscle movement can help build that muscle. 
+
+This isn't the onlly study that proves this either.
+
+Mosher notes, “Ten years ago, Guang Yue at the Cleveland Clinic reported that imaginary exercise increased the strength of fingers muscles by up to 35%…Kai Miller at the University of Washington, showed that imaginary exercise activated the same brain areas that are activated during real exercise.”[^4]
 
 Some studies have even proved that imaginary exercise can be enough to raise your heart rate.[^5]
 
 Clark’s study just proves this concept even further.
 
-Mosher points out that this isn’t a new concept, but it’s something that gets easily forgotten. 
+Mosher points out that this isn’t a new idea, but it’s something that gets easily forgotten. 
 
 In society, we separate the mind from the body. In fact, some people are described as having strength in one but not the other, example: brain vs brawn.[^6]
 
 > But, the brain and the body evolved as one unit—not two separate entities.
 
-You can keep the body active by keeping the mind active. They are connected. Woven together so tightly, I barely have to think about writing this sentence at all. I mean, I’m thinking about it now because I told myself I wasn’t think about it. Now it’s all I can think about. 
+You can keep the body active by keeping the mind active. They are connected. Woven together so tightly, I barely have to think about writing this sentence at all. I mean, I’m thinking about it now because I told myself not to think about it. Now it’s all I can think about. 
 
 Oh, God! What have I done?!
 
