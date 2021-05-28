@@ -285,7 +285,7 @@ And, maybe throw in a brain game during your rest intervals just to keep things 
 
 [^22]:	Ibid.
 
-[^23]:	This is true for performing physical tasks as well. When lifting weights, if you think about the specific muscle you’re isolating, your brain will engage more muscle fibers and work more of the muscle.
+[^23]:	This is true for performing physical tasks as well. When lifting weights, if you think about the specific muscle you’re isolating your brain will engage more muscle fibers and work more of the muscle.
 
 	Jones, Annie. “The Mind Muscle Connection and Superhuman Strength: Eric Bach Blog.” Bach Performance, 20 June 2017, [https://www.bachperformance.com/mind-muscle-connection-superhuman-strength-2/](https://www.bachperformance.com/mind-muscle-connection-superhuman-strength-2/). 
 
