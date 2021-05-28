@@ -293,7 +293,7 @@ And, maybe throw in a brain game during your rest intervals just to keep things 
 
 [^25]:	Ibid.
 
-[^26]:	Dr. Merzenich’s research was used to create brainHQ and I use an app called Brainwell. You can live your best life though and pick what works for you.
+[^26]:	Dr. Merzenich’s research was used to create brainHQ. I use an app called Brainwell. You can live your best life though and pick what works for you.
 
 [^27]:	Ibid.
 
