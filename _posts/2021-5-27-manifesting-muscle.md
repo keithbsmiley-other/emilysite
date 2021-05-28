@@ -2,7 +2,7 @@
 layout: post
 title:  Manifesting Muscle and Producing Pathways
 date:   2021-5-27
-image:  images/brain.jpg
+image:  images/brain1.jpg
 ---
 
 I was in yoga teacher training last month, and someone mentioned a study that proved just *thinking* about exercise can make us physically stronger.
