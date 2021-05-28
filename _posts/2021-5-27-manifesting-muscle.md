@@ -115,11 +115,13 @@ Dr. Michael Merzenich, a leading pioneer in brain plasticity research, writes,
 
 > You probably haven’t realized it, but as you acquire an ability — for example, the ability to read—you have actually created a system in the brain that does not exist, that’s not in place, in the non-reader. It [the ability; the brain system that controls the ability] actually evolves in you as it has been acquired through experience or learning.”[^17]
 
+I'll say it again for the people in the back. 
+
 The brain and body evolve and learn together.
 
-Furthermore, this proves that the brain is literally designed to be pushed and challenged. It is literally made to be constantly learning. It *needs* to be constantly learning.
+Furthermore, this proves that the brain is literally designed to be pushed and challenged. It is literally made to be constantly learning. It *needs* to be constantly learning in order to maintain strength and fight off cognitive decline.
 
-As a child, you *are* constantly learning. At first, you are learning to walk, talk, regulate emotions, and just generally be human being. Then, if you’re lucky, you go to school for the better half of two decades. 
+As a child, you *are* constantly learning. At first, you are learning to walk, talk, regulate emotions, and just generally be a human being. Then, if you’re lucky, you go to school for the better half of two decades. 
 
 As adulthood is reach, and settled into, the learning, generally, slows. Things that were once new and fresh can now run on autopilot. You are generally just using the same abilities you’ve now known for three to four decades. Dr. Merzenich believes this is the cause for cognitive decline.[^18] 
 
@@ -135,13 +137,13 @@ With the correct tools, cognitive decline can be reversed to a certain degree.
 
 Dr. Mercola, author of _Use It or Lose It: The Principles of Brain Plasticity_, explains, “A key factor or ingredient necessary for improving brain function or reversing functional decline is the *seriousness of purpose* with which you engage in a task. In other words, the task must be important to you, or somehow meaningful or interesting—it must hold your attention.”[^21]
 
-Well, I’ll be damned. That sounds a lot like visualization and the focus required to help build muscle without physically moving the fibers, no? 
+Well, I’ll be damned. That sounds a lot like visualization and the focus required to help build muscle without physically moving the fibers, does it not? 
 
 Mercola continues, “Rote memorization of nonsensical or unimportant items or even heavy work at non-challenging tasks will not stimulate your brain to create new connections or neurons.”[^22]
 
-> Your brain won’t put in the work to improve if it doesn’t give a shit about the work.[^23]
+> Simply put, your brain won’t put in the work to improve if it doesn’t give a shit about the work.[^23]
 
-If you go into the Apple Store™ and look up “brain training” you will see a ton of apps that honestly just kind of look like games. 
+If you go into the App Store™ in iTunes™ and look up “brain training” you will see a ton of apps that honestly just kind of look like games. (I am referred to Apple™ products because that is what I have immediate access to. I'm sure they are on other platforms as well.) 
 
 Some people refer to these as “brain gyms”.
 
@@ -153,7 +155,7 @@ Dr. Merzenich writes, “We know that rewards have to occur, or information or f
 
 In order for the brain to care is must work toward something important, and what’s more important than a little competition?
 
-There’s a metric shit ton of these “brain gyms” available on smart phones now. I’m not going to push any specific one here.[^26]
+There’s a metric shit ton of these “brain gyms” out there. I’m not going to push any specific one here.[^26]
 
 Who needs to practice these brain games? 
 
@@ -171,7 +173,7 @@ One such article is _Use it or lose it? More research suggests that mental activ
 
 Azar continues, “Neuropsychologists, along with teams of neurologists, neuroscientists, behavioral neurologists and other medical researchers are beginning to piece together data that point to the idea that keeping the brain active and stimulated may reduce the risk of Alzheimer’s disease. 
 
-I’m not going to talk about Alzheimer’s much more than this because the truth is, scientists still don’t really know what causes it or how to help it. There’s so many factors when it comes to degeneration among “diseased” brains, it’s hard to boil things down to such a micro level. And if *they* don’t know, I sure as hell won’t know. So, I’ll just leave you with this thought, science is now telling you playing a specific game on your phone for 10-20 minutes a day will help with brain health and stave off age-related brain degeneration. Why *wouldn’t* you take advantage of the down time? 
+I’m not going to talk about Alzheimer’s much more than this because the truth is, scientists still don’t really know what causes it or how to help it. There’s so many factors when it comes to degeneration among “diseased” brains; it’s hard to boil things down to such a micro level. And, if *they* don’t know, I sure as hell don’t know. So, I’ll just leave you with this thought, science is now telling you playing a specific game on your phone for 10-20 minutes a day will help with brain health and might stave off age-related brain degeneration. Why *wouldn’t* you take advantage if you can afford the time? 
 
 I mean hell, it’s for science!
 
@@ -183,25 +185,25 @@ With that acknowledgement, and brain games aside, what I’m really reading in a
 
 ### Variety Is Essential
 
-There is this phenomenon in the exercise world called “adaptive resistance”.[^30] Physical Therapist Brian Magat, author of “The Importance of Variety in Creating Your Exercise Program”, explains, “Adaptive resistance is when you have done an exercise over a long period of time, and your body no longer responds to it…By creating variation and changing exercises in your routine, you can create new stimulus, which creates more progress over time.”[^31] 
+There is this phenomenon in the exercise world called “adaptive resistance”.[^30] Brian Magat, author of “The Importance of Variety in Creating Your Exercise Program”, explains, “Adaptive resistance is when you have done an exercise over a long period of time, and your body no longer responds to it…By creating variation and changing exercises in your routine, you can create new stimulus, which creates more progress over time.”[^31] 
 
 That new stimulus is what allows the brain to create new neural pathways. In creating variety every so often in your workouts, or even your typical daily routines, you are asking the brain and body to evolve together and grow stronger.
 
 In case you’re curious about building your own work out regimen, here’s a tip from Magat, “When choosing exercises in a program, two to three variations should be chosen for each muscle or movement.”[^32]
 
-(Say what you will about Tony Horton, but P90X actually uses variety in a very intelligent way both in his specific workouts and over time in his three-month program. If you’re looking for an example, check out the P90X workout schedule. Magat also provides examples [here](https://www.uhhospitals.org/Healthy-at-UH/articles/2020/08/the-importance-of-variety-in-creating-your-exercise-program).)
+(Say what you will about Tony Horton, but P90X actually uses variety in a very intelligent way both in his specific workouts and over time in his three-month program. If you’re looking for an example, check out the [P90X workout schedule](https://www.amandaseghetti.com/p90x-workout-schedule/). Magat also provides examples [here](https://www.uhhospitals.org/Healthy-at-UH/articles/2020/08/the-importance-of-variety-in-creating-your-exercise-program).)
 
 ### Couch Potatoes Unite! 
 
 Okay, before you start making your couch potato propaganda, let’s pull back a little bit. Strength training is still extremely important for a healthy body and mind. As Quinn notes, “Sport-specific exercises are still the most effective method for building and maintain muscle strength, speed, power, and coordination.”[^33]
 
-Besides, like I alluded to before, and I’m reinforcing with this quote from Jim Davies right now, it’s been proven “that 20 minutes is the optimal amount of time for a mental practice session, according to a meta-analysis of many physical activities. Any less or more and the practice doesn’t stick as well.”[^34]
+Besides, like I alluded to before, and I’m reinforcing with this quote from Jim Davies right now, 
 
-> “Mental practice is a supplement, not an alternative.”[^35]
+> “Mental practice is a supplement, not an alternative.”[^34]
 
 Let’s put it this way. If you broke your leg and you can’t do squats, ask yourself to truly focus on every muscle, every tendon, every ligament, moving your body to do a squat. Do that for about twenty minutes a day, five times a week, and you might not lose the muscle mass your doctor was probably expecting. 
 
-But if you can do squats, then by all means do the damn squats. 
+But if you can do squats then by all means do the damn squats. 
 
 And, maybe throw in a brain game during your rest intervals just to keep things spicy. 
 
@@ -308,5 +310,3 @@ And, maybe throw in a brain game during your rest intervals just to keep things 
 [^33]:	Quinn, Elizabeth. [https://www.verywellfit.com/can-you-build-strength-with-visualization-exercises-3120698](https://www.verywellfit.com/can-you-build-strength-with-visualization-exercises-3120698). 
 
 [^34]:	Davies, Jim. [https://www.nautil.us/blog/just-imagining-a-workout-can-make-you-stronger](https://www.nautil.us/blog/just-imagining-a-workout-can-make-you-stronger). 
-
-[^35]:	Ibid.
