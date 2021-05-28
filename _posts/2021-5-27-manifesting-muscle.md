@@ -55,15 +55,14 @@ Oh, God! What have I done?!
 
 ## Other Perks Of Visualization
 
-I learned to play the piano as a kid. In high school, I dabbled in a few competitions, tried out for competitive musical schools and programs (and got into some (humble brag)), and, of course, my piano teacher hosted a recital every spring in which her students were expected to perform. I always had to have my music memorized. Something I kind of struggled with, honestly. But, because I’m me, I hated disappointing my piano teacher when I didn’t have a piece memorized by my deadlines. So, I had to figure out a way to practice more without frying my brain by physically practicing for several hours after school.
+I learned to play the piano as a young kid. I played throughout grade school. In high school, I dabbled in a few competitions, tried out for competitive musical schools and programs (and got into some (humble brag)), and, of course, my piano teacher hosted a recital every spring in which her students were expected to perform. I always had to have my music memorized. Something I struggled with, honestly. But, I hated disappointing my piano teacher when I didn’t have a piece memorized by my deadline. So, I had to figure out a way to practice more without frying my brain by physically practicing for several hours after school.
 
-I remember being bored in school sometimes, and literally practicing piano in my head. Visualizing the notes, the literal paper the sheet music was printed on, the feel of the keys beneath my fingers. I remember mentally watching my fingers move across the keys. I remember feeling my joints twitch as I mentally went over the more complicated runs. If my was really in it and I was truly focused, it would help me with my practice session later that day.
+I remember being bored in school sometimes and literally practicing piano in my head. Visualizing the notes, how the paper the sheet music was printed on smelled and felt as I turned the page, the feel of the keys beneath my fingers. I remember mentally watching my fingers move across the keys. I remember feeling my joints twitch as I mentally went over the more complicated runs. If my was really in it and I was truly focused, it would help me with my practice session later that day.
 
-I’m not saying I knew this before now, I obviously didn’t. I was just practicing the concept far before I understood it. A lot of people do.[^7]
+Visualization is not an uncommon practive in a competitive setting. In fact, a lot of people do it.[^7] Ask any competitive athete.
 
-For example, if you’re an athlete or in any competitive situation a coach might tell you to visual the upcoming event. 
 
-Rock climbers literally visualize the routes they are about to climb. If you go to a rock climbing gym, you might see people staring at the wall and making these weird moves with their arms and legs as they imagine what the route expects of them. 
+For example, rock climbers literally visualize the routes they are about to climb. If you go to a rock climbing gym, you might see people staring at the wall and making these weird moves with their arms and legs as they imagine what the route expects of them. Every grip, every twist of the hip, every dynamic movement is visualized before they even get on the wall.
 
 Jim Davies, author of _Just Imagining A Workout Can Make You Stronger_, and professor of cognitive psychology at Carleton University, writes, “Mental practice is one of the few effective performance enhancing activities. For example, doctors who mentally practice before engaging in a virtual-reality surgery outperform those who do not. One study, by Rutgers psychologist Rober Woolfolk, and colleagues, had people simply imagine putting a golf ball into the hole before they took their shot. The people who imagined making it had 30.4 perfect more successful putts than those who did not.”[^8]
 
