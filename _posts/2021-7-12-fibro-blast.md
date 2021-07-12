@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Connective Tissue, Collagen, and Fascia: It's A Fibro-Blast!
+title:  "Connective Tissue, Collagen, and Fascia: It's A Fibro-Blast!"
 date:   2021-6-12
 image:  images/fascia.jpg
 ---
