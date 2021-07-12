@@ -422,13 +422,13 @@ I’ll let Tom Myers take us out:
 
 [^1]:	Full disclosure, as I write this I’m watching the wildlife eat out of my in-laws’ bird feeders. There’s a massive squirrel who has taken up residence under them. It won’t let the chipmunks eat any of the seed. It keeps stomping at them like some story of bushy-tailed mob boss. Squirrels are dicks ya’ll. (Sample size: 1)
 
-[^2]:	OpenStax College. “Chapter 4: Anatomy and Physiology.” Lumen Learning, Rice University, [https://www.courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/](https://www.courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/). 
+[^2]:	OpenStax College. “Chapter 4: Anatomy and Physiology.” Lumen Learning, Rice University, [https://courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/](https://courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/). 
 
 [^3]:	Ibid.
 
 [^4]:	Frantz, Christian, et al. “The Extracellular Matrix at a Glance.” Journal of Cell Science, Company of Biologists, 15 Dec. 2010, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2995612/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2995612/). 
 
-[^5]:	OpenStax College.[https://www.courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/](https://www.courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/). 
+[^5]:	OpenStax College.[https://courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/](https://courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/). 
 
 [^6]:	Ibid.
 
@@ -438,7 +438,7 @@ I’ll let Tom Myers take us out:
 
 [^9]:	Carbs, eek!
 
-	OpenStax College.[https://www.courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/](https://www.courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/). 
+	OpenStax College.[https://courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/](https://courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/). 
 
 [^10]:	Ibid.
 
@@ -460,7 +460,7 @@ I’ll let Tom Myers take us out:
 
 [^18]:	desJardin-Park, Heather E, et al. [https://www.futuremedicine.com/doi/10.2217/rme-2018-0073](https://www.futuremedicine.com/doi/10.2217/rme-2018-0073). 
 
-[^19]:	OpenStax College.[https://www.courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/](https://www.courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/). 
+[^19]:	OpenStax College.[https://courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/](https://courses.lumenlearning.com/nemcc-ap/chapter/connective-tissue-supports-and-protects/). 
 
 [^20]:	Ibid.
 
@@ -520,7 +520,7 @@ I’ll let Tom Myers take us out:
 
 [^47]:	Ibid.
 
-[^48]:	“Boundless Anatomy and Physiology.” Lumen, [https://www.courses.lumenlearning.com/boundless-ap/chapter/layers-of-the-alimentary-canal/](https://www.courses.lumenlearning.com/boundless-ap/chapter/layers-of-the-alimentary-canal/). 
+[^48]:	“Boundless Anatomy and Physiology.” Lumen, [https://courses.lumenlearning.com/boundless-ap/chapter/layers-of-the-alimentary-canal/](https://courses.lumenlearning.com/boundless-ap/chapter/layers-of-the-alimentary-canal/). 
 
 [^49]:	Ibid.
 
@@ -572,4 +572,4 @@ I’ll let Tom Myers take us out:
 
 [^73]:	And a few other things.
 
-[^74]:	AtGoogleTalks. “Anatomy Trains | Tom Myers | Talks at Google.” YouTube, YouTube, 16 Nov. 2018, [https://www.youtube.com/watch?v=FOzsDItW7Bs&amp;t=1280s](https://www.youtube.com/watch?v=FOzsDItW7Bs&amp;t=1280s). 
+[^74]:	AtGoogleTalks. "Anatomy Trains | Tom Myers | Talks at Google." YouTube, YouTube, 16 Nov. 2018, [https://www.youtube.com/watch?v=FOzsDItW7Bs&amp;t=1280s](https://www.youtube.com/watch?v=FOzsDItW7Bs&amp;t=1280s). 
