@@ -572,4 +572,4 @@ I’ll let Tom Myers take us out:
 
 [^73]:	And a few other things.
 
-[^74]:	AtGoogleTalks. "Anatomy Trains | Tom Myers | Talks at Google." YouTube, YouTube, 16 Nov. 2018, [https://www.youtube.com/watch?v=FOzsDItW7Bs&amp;t=1280s](https://www.youtube.com/watch?v=FOzsDItW7Bs&amp;t=1280s). 
+[^74]:	AtGoogleTalks. "Anatomy Trains \| Tom Myers \| Talks at Google." YouTube, YouTube, 16 Nov. 2018, [https://www.youtube.com/watch?v=FOzsDItW7Bs&amp;t=1280s](https://www.youtube.com/watch?v=FOzsDItW7Bs&amp;t=1280s). 
