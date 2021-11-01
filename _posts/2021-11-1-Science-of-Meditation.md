@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “The Science of Meditation: A Hypothesis on How and Why Meditating Can Help Depression and Anxiety (Part 1)”
+title: "The Science of Meditation: A Hypothesis on How and Why Meditating Can Help Depression and Anxiety (Part 1)"
 image: images/brain2.jpg
 date:   2021-11-1
 ---
