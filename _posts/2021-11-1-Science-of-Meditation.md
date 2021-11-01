@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Science of Meditation: A Hypothesis on How and Why Meditating Can Help Depression and Anxiety (Part 1)"
-image: images/brain2.jpg
+image: images/brain3.jpg
 date:   2021-11-1
 ---
 
@@ -121,7 +121,7 @@ The action potential is sent down the axon (which is protected in a substance ca
 
 This side is of the neuron where the the axon terminals, or synaptic buttons can be found.[^24] 
 
-![Dr. Marc Dingman. \2-Minute Neuroscience:The Neuron. Youtube.](images/Neuron.png)
+![Dr. Marc Dingman. 2-Minute Neuroscience:The Neuron. Youtube.](images/Neuron.png)
 
 The synaptic buttons contain vesicles, or small sacks. Each vesicle can contain thousands of neurotransmitter cells.[^25] 
 
@@ -133,7 +133,7 @@ So, when the electrical signal, or action potential, excites the presynaptic neu
 1. Increase the likelihood of an action potential in the postsynaptic cell 
 2. Decrease the likelihood of an action potential in the postsynaptic cell[^29] 
 
-![Dr. Marc Dingman. \2-Minute Neuroscience:The Neuron. Youtube.](images/Vesicles.png)
+![Dr. Marc Dingman. 2-Minute Neuroscience:The Neuron. Youtube.](images/Vesicles.png)
 
 So, what happens to the neurotransmitters that didn’t bind to the postsynaptic cell? They either drift away (a process called diffusion), they are absorbed back into the presynaptic cell and are reused (a process called reuptake), or enzymes breakdown the neurotransmitters within the synaptic cleft.[^30] 
 
