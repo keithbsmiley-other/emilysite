@@ -133,7 +133,7 @@ So, when the electrical signal, or action potential, excites the presynaptic neu
 1. Increase the likelihood of an action potential in the postsynaptic cell 
 2. Decrease the likelihood of an action potential in the postsynaptic cell[^29] 
 
-![Dr. Marc Dingman. \2-Minute Neuroscience:The Neuron. Youtube.](images/Vesticles.png)
+![Dr. Marc Dingman. \2-Minute Neuroscience:The Neuron. Youtube.](images/Vesicles.png)
 
 So, what happens to the neurotransmitters that didn’t bind to the postsynaptic cell? They either drift away (a process called diffusion), they are absorbed back into the presynaptic cell and are reused (a process called reuptake), or enzymes breakdown the neurotransmitters within the synaptic cleft.[^30] 
 
