@@ -31,7 +31,7 @@ I need the science.
 
 So, I went on the hunt. 
 
-I fell down a few rabbit holes, many of which I’ll take bring you on a guided tour through. But on the whole, I never found a “why”. Many research studies just say something like those who meditate have more serotonin and dopamine and less depression and anxiety. And those who don’t, have less serotonin and dopamine and more depression and anxiety. 
+I fell down a few rabbit holes, many of which I’ll take you on a guided tour through. But on the whole, I never found a “why”. Many research studies just say something like those who meditate have more serotonin and dopamine and less depression and anxiety. And those who don’t, have less serotonin and dopamine and more depression and anxiety. 
 
 I screamed, “Why though!” at my computer screen far more often than I ever thought I would. 
 
