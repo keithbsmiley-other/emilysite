@@ -1,12 +1,9 @@
 ---
 layout: post
 title: "The Science of Meditation: A Hypothesis on How and Why Meditating Can Help Depression and Anxiety (Part 1)"
-image: images/Brain3.jpeg
+image: images/Brain3.jpg
 date:   2021-11-1
 ---
-
-# The Science of Meditation: A Hypothesis on How and Why Meditating Can Help Depression and Anxiety (Part 1)
-
 
 About three years after I moved from South Carolina to San Francisco I was diagnosed with chronic depression and generalized anxiety disorder. Two things I realized I had been struggling with for most of my childhood, into my adult life, and still do today.
 
