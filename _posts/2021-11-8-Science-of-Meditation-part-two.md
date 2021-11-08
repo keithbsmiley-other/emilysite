@@ -3,6 +3,7 @@ layout: post
 title: “The Science of Meditation: A Hypothesis on How and Why Meditating Can Help Depression and Anxiety (Part 2)”
 image: images/rabbit.jpg
 date:   2021-11-8
+---
 
 If you haven’t read last week’s article, [The Science of Meditation: A Hypothesis on How and Why Meditating Can Help Depression and Anxiety (Part 1)](https://www.emilywyattsmiley.com/Science-of-Meditation), I highly suggest you do that first. 
 
