@@ -6,13 +6,13 @@ date:   2021-11-15
 ---
 
 > “ ‘Who are *you*?” said the Caterpillar. 
-> 
+
 > This was not an encouraging opening for a conversation.
-> 
+
 > Alice replied, rather shyly, ‘I-I hardly know, Sir, just at present—at least I know who I *was* when I got up this morning, but I think I must have been changed several times since then.’
-> 
+
 > ‘What do you mean by that?’ said the Caterpillar, sternly. ‘Explain yourself!’
-> 
+
 > ‘I ca’n’t explain *myself*, I’m afraid, Sir,’ said Alice, ‘because I’m not myself, you see.’ “[^1]
 
 At the beginning of [part one](https://www.emilywyattsmiley.com/Science-of-Meditation) of this series I briefly discussed how I went through this traumatic experience of trying to figure out what antidepressants worked for me. Many of you probably thought, “You just didn’t take the time to find the one that worked for you.” 
