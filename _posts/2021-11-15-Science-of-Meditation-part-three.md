@@ -280,8 +280,6 @@ Next week we’ll talk about Dopamine and NDRIs. I might even try to explain why
 
 [^1]:	Carroll, Lewis, and Hugh Haughton. *Alice's Adventures in Wonderland ; and, through the Looking-Glass and What Alice Found There*. Barnes & Noble Books, 2003. 
 
-	Picture from John Tenniel’s original illustration from above source.
-
 [^2]:	By the way, if you’re a doctor or pharmacologist and read this and have comments. Please share them with me! I truly want to understand.
 
 [^3]:	Seretonin can also be found in blood platelets and through the CNS, just in smaller numbers.
