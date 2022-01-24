@@ -95,13 +95,11 @@ If you have been on SSRIs or NDRIs and you want to come off of them, however, pl
 
 ## Now Are You Going To Talk About Meditation?
 
-I’ve been telling you all along that all this stuff in connected? So, technically, I’ve been talking about meditation this whole time. 
-
-Just sayin’.
+Alas, no. 
 
 ## Next Time On The Science of Meditation
 
-I’ve been studying a lot about this, and realized I was missing a pretty key part of all of this: brain waves.
+I've been studying a lot about this, and realized I was missing a pretty key part of all of this: brain waves.
 
 So, that’s what we’ll discuss next time.
 
