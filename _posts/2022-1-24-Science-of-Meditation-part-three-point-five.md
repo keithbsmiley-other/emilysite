@@ -84,7 +84,7 @@ SNRIs are “serotonin-noradrenaline reuptake inhibitors”.
 There are more but you get the idea.
 
 
-![neurotransmitter venn diagram](images/low.png] 
+![neurotransmitter venn diagram](images/low.jpg) 
 
 
 ### Body Reliance
