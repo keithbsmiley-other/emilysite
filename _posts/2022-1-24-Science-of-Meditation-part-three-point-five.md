@@ -115,7 +115,7 @@ Then, we’ll put it all together.
 
 
 
-[^1]:	Carroll, Lewis, and Hugh Haughton. *Alice's Adventures in Wonderland ; and, through the Looking-Glass and What Alice Found There*. Barnes & Noble Books, 2003. 
+[^1]:	Carroll, Lewis, and Hugh Haughton. *Alice's Adventures in Wonderland; and, through the Looking-Glass and What Alice Found There*. Barnes & Noble Books, 2003. 
 
 [^2]:	I’m posting this with the full understanding that I took nearly a 3 month hiatus. I had some massive shifts in my life. I moved out of California. Then Christmas happened. Then New Years happened. All while unpacking and trying to get my life back in working order. But, don’t fret, I’m back now. Hip hip hooray!
 
