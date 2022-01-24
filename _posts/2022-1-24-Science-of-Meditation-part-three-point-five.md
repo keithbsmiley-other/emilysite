@@ -84,7 +84,7 @@ SNRIs are “serotonin-noradrenaline reuptake inhibitors”.
 There are more but you get the idea.
 
 
-![Gabriels, Gary & Lambert, Mike & Smith, Pete & Wiesner, Lubbe & Coopoo, Yoga. (2018). Fluoxetine contamination in Dietary/Nutritional Supplements (un)bridges the quality of life for the youth to the elderly consumer.](images/low.png] 
+![](images/low.png] 
 
 
 ### Body Reliance
