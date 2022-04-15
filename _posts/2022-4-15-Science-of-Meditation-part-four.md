@@ -80,7 +80,7 @@ Unlike Alpha waves (which I’ll get to in a second), gamma waves have been dete
 
 Other wave types, tend to stay in one region of the brain. For example, alpha waves tend to originate from the occipital lobe—which controls vision.[^23]
 
-![areas of the brain](images/brainareas.jpg)
+![Neuroanatomy From The Dana Foundation](images/brainareas.jpg)
 
 While many scientists connect gamma waves to concentration, others argue that beta waves are more geared toward concentration and problem solving and gamma is more connected to a “heightened awareness”.
 
@@ -150,7 +150,7 @@ So, if you can tap into theta waves more often, you are more likely to allow you
 
 I’m not saying you should stay in a theta state all day, every day. All states of brain waves are equally helpful and necessary to homeostasis. 
 
-!(more brainwave frequencies)[images/frequencies.jpg)
+![more brainwave frequencies](images/frequencies.jpg)
 
 ### Flow State
 
@@ -333,7 +333,7 @@ Stay tuned.
 
 	SciShow Psych. “What Do Different Brainwaves Mean? - Youtube.” *YouTube*, 10 Aug. 2017, [https://www.youtube.com/watch?v=gvpuOBezW0w](https://www.youtube.com/watch?v=gvpuOBezW0w). 
 
-[^7]:		, Michael C. “Electroencephalography (EEG) - Neurologic Disorders.” *Merck Manuals Professional Edition*, Merck Manuals, July 2021, [https://www.merckmanuals.com/professional/neurologic-disorders/neurologic-tests-and-procedures/electroencephalography-eeg](https://www.merckmanuals.com/professional/neurologic-disorders/neurologic-tests-and-procedures/electroencephalography-eeg). 
+[^7]:    Levin, Michael C. “Electroencephalography (EEG) - Neurologic Disorders.” *Merck Manuals Professional Edition*, Merck Manuals, July 2021, [https://www.merckmanuals.com/professional/neurologic-disorders/neurologic-tests-and-procedures/electroencephalography-eeg](https://www.merckmanuals.com/professional/neurologic-disorders/neurologic-tests-and-procedures/electroencephalography-eeg). 
 
 [^8]:	“Electroencephalogram (EEG).” Johns Hopkins Medicine, [https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg](https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg). 
 
@@ -468,7 +468,7 @@ Stay tuned.
 
 [^68]:	Don’t believe me? [They made an animated short together.](https://www.youtube.com/watch?v=rMLVqQDeY58)
 
-	![Dali and Disney](images/DaliandDisney.jpg)
+	![Dali and Disney courtesy of The Walt Disney Family Museum](images/DaliandDisney.jpg)
 
 	Don’t get me started on Disney. That guy is his own special kind of crazy. (Don’t @ me.)
 
