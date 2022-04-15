@@ -316,7 +316,7 @@ Stay tuned.
 
 [^1]:	Carroll, Lewis, and Hugh Haughton. *Alice’s Adventures in Wonderland; and, through the Looking-Glass and What Alice Found There*. Barnes & Noble Books, 2003.
 
-[^2]:	Healthwise Staff. “Electrical System of the Heart.” *Electrical System of the Heart* | *Michigan Medicine*, 31 Aug. 2020, [https://www.uofmhealth.org/health-library/te7147abc](https://www.uofmhealth.org/health-library/te7147abc). 
+[^2]:	Healthwise Staff. “Electrical System of the Heart.” *Electrical System of the Heart* \| *Michigan Medicine*, 31 Aug. 2020, [https://www.uofmhealth.org/health-library/te7147abc](https://www.uofmhealth.org/health-library/te7147abc). 
 
 [^3]:	Ibid.
 
@@ -349,7 +349,7 @@ Stay tuned.
 
 [^14]:	Ibid.
 
-[^15]:	“What Are Brainwaves?” *What Are Brainwaves? Types of Brain Waves | EEG Sensor and Brain Wave – UK*, [https://brainworksneurotherapy.com/what-are-brainwaves](https://brainworksneurotherapy.com/what-are-brainwaves). 
+[^15]:	“What Are Brainwaves?” *What Are Brainwaves? Types of Brain Waves \| EEG Sensor and Brain Wave – UK*, [https://brainworksneurotherapy.com/what-are-brainwaves](https://brainworksneurotherapy.com/what-are-brainwaves). 
 
 [^16]:	SciShow Psych. [https://www.youtube.com/watch?v=gvpuOBezW0w](https://www.youtube.com/watch?v=gvpuOBezW0w). 
 
@@ -357,7 +357,7 @@ Stay tuned.
 
 [^18]:	Larson, Jennifer. “Gamma Brain Waves: Uses, Purpose, Benefits, Function, More.” Edited by Alana Biggers, *Healthline*, Healthline Media, 22 June 2020, [https://www.healthline.com/health/gamma-brain-waves#other-brain-waves](https://www.healthline.com/health/gamma-brain-waves#other-brain-waves). 
 
-[^19]:	Big Think. “Superhumans: The Remarkable Brain Waves of High ... - Youtube.” *Superhumans: the Remarkable Brain Waves of High-Level Meditators | Daniel Goleman | Big Think*, YouTube, 13 Sept. 2018, [https://www.youtube.com/watch?v=10J6crRacZg](https://www.youtube.com/watch?v=10J6crRacZg). 
+[^19]:	Big Think. “Superhumans: The Remarkable Brain Waves of High ... - Youtube.” *Superhumans: the Remarkable Brain Waves of High-Level Meditators \| Daniel Goleman \| Big Think*, YouTube, 13 Sept. 2018, [https://www.youtube.com/watch?v=10J6crRacZg](https://www.youtube.com/watch?v=10J6crRacZg). 
 
 [^20]:	McDermott, Barry, et al. “Gamma Band Neural Stimulation in Humans and the Promise of a New Modality to Prevent and Treat Alzheimer's Disease.” Edited by Amy Clements-Cortes, *Journal of Alzheimer's Disease: JAD*, IOS Press, 19 July 2018, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6130417/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6130417/). 
 
