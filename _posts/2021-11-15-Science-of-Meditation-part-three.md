@@ -196,7 +196,7 @@ Enterochromaffin, for those that don’t know (read: me), are a type of speciali
 
 Constanza Alcaino et al., authors of “A population of gut epithelial enterochromaffin cells is mechanosensitive and requires Piezo2 to convert force into serotonin release”, argue that these enterochromaffin (EC) cells are also “mechanosensory cells  that release serotonin in response to epithelial forces, and thereby regulate intestinal fluid secretion.”[^46]
 
-Basically, Constanza Alcaino et al. argued that these EC cells response to mechanical stimulation. 
+Basically, Constanza Alcaino et al. argued that these EC cells respond to mechanical stimulation. 
 
 They tried to see if EE cells produced more serotonin by running volts of electrify to them. 
 
