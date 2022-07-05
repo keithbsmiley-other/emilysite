@@ -99,7 +99,7 @@ If you have been on SSRIs and you want to come off of them, however, please, ple
 I’m not going to delve too deeply here, because it’s not really relevant to this article. Just take my word for it, or the word of [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4108949/) that new research shows that serotonin plays a huge role  in the control of ejaculation. So far as to say, “The introduction of tricyclic antidepressants and SSRIs for the treatment of premature ejaculation has revolutionized our understanding of this problem and completely altered its management.”[^12]
 
 **PMS**
-Again, this isn’t really relevant to the point of this article/series, but I’ll touch on it anyway because it’s interesting. Premenstrual Syndrome beings in a womb-having human between 7 to 14 days prior to the start of a period.[^13]
+Again, this isn’t really relevant to the point of this article/series, but I’ll touch on it anyway because it’s interesting. Premenstrual Syndrome begins in a womb-having human between 7 to 14 days prior to the start of a period.[^13]
 
 According to Danielle Tworek, and Kenneth Varano D.O., authors of “How To Relieve Premenstrual Syndrome”, “symptoms can vary from month to month and woman to woman.”[^14]
 
