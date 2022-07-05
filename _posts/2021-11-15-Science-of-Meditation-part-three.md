@@ -157,7 +157,7 @@ Obviously, there’s way more to discuss here, but I feel like you know enough a
 
 According to Dalton and Drossman, “When the nerve impulses from the gut reach the brain, they may be experienced as more severe or less severe based on the regulatory activities of the brain-gut axis. Signals of pain or discomfort travel from the intestines up to the brain. The brain has the ability to “turn down” the pain by sending signals that block the nerve impulses produced in the GI tract.”[^34]
 
-Dalton and Drossman has recorded instances in which IBS actually impairs this “turn down the pain” ability. 
+Dalton and Drossman have recorded instances in which IBS actually impairs this “turn down the pain” ability. 
 
 > “In addition,” they continue, “the pain can become more severe when an individual is experiencing psychological distress.”[^35]
 
