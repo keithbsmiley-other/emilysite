@@ -192,7 +192,7 @@ I could literally quote this whole article to you, but I’m not. Instead we’l
 > If SSRIs are efficacious in IBS, primary central mechanism of action seems most plausible, but peripheral effects may still contribute, particularly in view of the huge amounts of 5HT stored by the enterochromaffin cells.”[^44]
 
 ### It’s Electric
-Enterochromaffin, for those that don’t know (read: me), are a type of specialized cell that live in the GI tract that play a large role in endocrine function. They also receive neural input that trigger the release of hormones. They are typically found on the outside of the lumen (opening of the tube-like structure that is your intestines) of the intestinal tract.[^45]
+Enterochromaffin, for those that don’t know (read: me), are a type of specialized cell that live in the GI tract that play a large role in endocrine function. They also receive neural input that trigger the release of hormones. They are typically found on the outside of the lumen (opening of the tube-like structure that is your intestines) of the intestinal tract.[^45] EC cells also make up the largest amount of intestinal epithelial enteroendocrine (EE) cells. EE cells are specific to the gastrointenstinal tract and pancreas. They serve an endcrinatic function by creating GI hormones or peptied. They serve as the largest part of the enteric endocrine system--the subset of the endocrine system just as the enteric nervous system is a smaller piece of the nervous system.
 
 Constanza Alcaino et al., authors of “A population of gut epithelial enterochromaffin cells is mechanosensitive and requires Piezo2 to convert force into serotonin release”, argue that these enterochromaffin (EC) cells are also “mechanosensory cells  that release serotonin in response to epithelial forces, and thereby regulate intestinal fluid secretion.”[^46]
 
@@ -202,7 +202,7 @@ They tried to see if EC cells produced more serotonin by running volts of electr
 
 After all, every movement we make inside or our of our body has an electrical current. 
 
-They concluded that yes, at least “subsets of… primary EC cells are mechanosensitive (about 60%).”[^47]
+They concluded that yes, at least “subsets of… primary EE (enteroendocrine, for those keeping track) cells are mechanosensitive (about 60%).”[^47]
 
 Therefore, EE cells can produce more serotonin when volts of electricity are run through them.
 
