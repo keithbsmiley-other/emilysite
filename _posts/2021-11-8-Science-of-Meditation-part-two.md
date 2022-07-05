@@ -271,7 +271,7 @@ Meaning, many of these PNS neurons bypass the spinal cord all together.[^61]
 
 According to Tindle and Tadi, “Cranial nerves carrying parasympathetic functions include the oculomotor nerve (III) acting on the eyes, the facial nerve (VII) working on the lacrimal gland, the salivary glands, and the mucous membranes within the nasal cavity, the glossopharyngeal nerve (IX) acting on the parotid gland, and the vagus nerve (X) acting on the viscera of the abdomen and thorax.”[^62]
 
-(But Emily, what about the section of the PNS that originates at the sacral spinal cord? There is actually speculation in the medical field that the sacral spinal cord houses the PNS at all. In fact, some argue it houses the SNS. So, I’m not going to dig deeper into it. It’s honestly not that relevant to what I’m getting at in this series anyway, and might just confuse you even more than you might already be.[^63] 
+(But Emily, what about the section of the PNS that originates at the sacral spinal cord? There is actually speculation in the medical field that the sacral spinal cord doesn't house the PNS at all. In fact, some argue it houses the SNS. So, I’m not going to dig deeper into it. It’s honestly not that relevant to what I’m getting at in this series anyway, and might just confuse you even more than you might already be.[^63] 
 
 See? I don’t drag you down all the rabbit holes I’ve trudged through. Just the important ones.)
 
