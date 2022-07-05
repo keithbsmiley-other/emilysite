@@ -198,7 +198,7 @@ Constanza Alcaino et al., authors of “A population of gut epithelial enterochr
 
 Basically, Constanza Alcaino et al. argued that these EC cells respond to mechanical stimulation. 
 
-They tried to see if EE cells produced more serotonin by running volts of electrify to them. 
+They tried to see if EC cells produced more serotonin by running volts of electrify to them. 
 
 After all, every movement we make inside or our of our body has an electrical current. 
 
