@@ -177,7 +177,7 @@ And do you remember how I mentioned that SSRIs work by blocking the uptake of th
 
 Great. 
 
-In his article, Dr. Talley mentions, “This occurs not just int he brain but also in the gut. Serotonin is an important gut neuromodulator. Hence increase local presence of 5HT in the gut following [serotonin transporter] (SERT) inhibition will lead to stimulation of multiple 5HT receptors, especially 5HT3 and 5HT4, that in turn may alter motor and sensory function.[^40]
+In his article, Dr. Talley mentions, “This occurs not just in the brain but also in the gut. Serotonin is an important gut neuromodulator. Hence increase local presence of 5HT in the gut following [serotonin transporter] (SERT) inhibition will lead to stimulation of multiple 5HT receptors, especially 5HT3 and 5HT4, that in turn may alter motor and sensory function.[^40]
 
 All of that is to say, with the use of SSRIs not only do you have more serotonin in your brain (potentially helping renew your brain’s pain blocking super power), but you have more serotonin in your gut—which we know from our new knowledge on the enteric system—can work independently of the brain and spinal cord.
 
