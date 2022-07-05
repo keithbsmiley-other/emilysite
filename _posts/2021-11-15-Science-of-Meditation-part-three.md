@@ -181,7 +181,7 @@ In his article, Dr. Talley mentions, “This occurs not just in the brain but al
 
 All of that is to say, with the use of SSRIs not only do you have more serotonin in your brain (potentially helping renew your brain’s pain blocking super power), but you have more serotonin in your gut—which we know from our new knowledge on the enteric system—can work independently of the brain and spinal cord.
 
-While the research (and proof) that SSRIs can help IBS sufferers, Talley points out 2 studies that may point in a positive direction.[^41] 
+While the opinions on whether or not SSRIs can help IBS sufferers vary from "it doesn't help at all" to "it helps all the time", Talley points out 2 studies that may point in a positive direction.[^41] 
 
 Talley writes, “Chial et al. tested venlafaxine in healthy volunteers, which at the dose used (150 mg) inhibits both 5HT and some norepinephrine (NE) reuptake. A sophisticated protocol assessed left colonic sensation, including the application of randomized order phasic distentions with the barostat. Venlafaxine reduced colonic compliance and relaxed the colon, reduced the normal increased colonic tone response to feeding, and reduced colonic sensation. The changes observed theoretically may accrue a benefit in IBS; up to 50% of patients with IBS report symptom exacerbations after a meal, and visceral hypersensitivity is considered a key abnormality in IBS.”[^42] 
 
