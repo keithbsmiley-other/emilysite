@@ -496,7 +496,7 @@ Hooray, serotonin!
 	(My friend’s name wasn’t Susan.)
 	(My acquaintance’s name wasn’t Tiffany.)
 
-[^69]:	Megan Riehl, Psy. D. “An Easy Way to Beat Stress - and Build a Healthier Life.” Deep Breathing Exercises &amp; Techniques /| Michigan Health Blog, Michigan Health, 17 May 2016, [healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life](healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life). 
+[^69]:	Megan Riehl, Psy. D. “An Easy Way to Beat Stress - and Build a Healthier Life.” Deep Breathing Exercises &amp; Techniques \| Michigan Health Blog, Michigan Health, 17 May 2016, [healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life](healthblog.uofmhealth.org/lifestyle/an-easy-way-to-beat-stress-and-build-a-healthier-life). 
 
 [^70]:	Ibid.
 
