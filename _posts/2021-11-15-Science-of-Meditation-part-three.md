@@ -212,7 +212,7 @@ Let’s backtrack a little bit. Remember how I basically quoted all of Christoph
 
 Yeah, I do too. You’re so attentive, dear reader. 
 
-Anyway, Alcaino’s test of electrical impulses kind of proves this theory…kind of. 
+Anyway, Alcaino’s test of electrical impulses proves this theory…kind of. 
 
 If you’ll remember the vagus nerve runs down into the belly, and it bypasses the   CNS. Therefore, it could be hypothesized that vagal stimulation can aid in increases serotonin levels in the gut. 
 
