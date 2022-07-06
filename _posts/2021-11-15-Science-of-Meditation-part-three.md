@@ -224,7 +224,7 @@ If you don’t remember the number one way to stimulate the vagus nerve. Just yo
 
 Okay, we’ve briefly touched on the fact that serotonin mostly resides in your gut. Let’s go back to that.
 
-### There’s Bacteria In Your Belly. Don’t Worry. It’s A Good Thing.
+### There Are Bugs In Your Belly. Don’t Worry. It’s A Good Thing.
 
 According to Dr. Siri Carpenter, author of “That gut feeling”, an article for the *American Psychological Association*, “If aliens were to swoop in from outer space and squeeze a human down to see what we’re made of, they would come to the conclusion that cell for cell, we’re mostly bacteria.”[^48]
 
