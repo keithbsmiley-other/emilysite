@@ -345,7 +345,7 @@ I'm here to help.[^36]
 
 [^14]:	The Food and Drug Administration gave food-makers three years to phase out artificial trans fat in 2015. In 2018, food-makers were given one more year to remove the compound.
 
-Dewey, Caitlin. "Analysis | Artificial Trans Fats, Widely Linked to Heart Disease, Are Officially Banned." *The Washington Post.* WP Company, April 27, 2019. [https://www.washingtonpost.com/news/wonk/wp/2018/06/18/artificial-trans-fats-widely-linked-to-heart-disease-are-officially-banned/.](https://www.washingtonpost.com/news/wonk/wp/2018/06/18/artificial-trans-fats-widely-linked-to-heart-disease-are-officially-banned/)
+Dewey, Caitlin. "Analysis \| Artificial Trans Fats, Widely Linked to Heart Disease, Are Officially Banned." *The Washington Post.* WP Company, April 27, 2019. [https://www.washingtonpost.com/news/wonk/wp/2018/06/18/artificial-trans-fats-widely-linked-to-heart-disease-are-officially-banned/.](https://www.washingtonpost.com/news/wonk/wp/2018/06/18/artificial-trans-fats-widely-linked-to-heart-disease-are-officially-banned/)
 
 [^15]:	"Learn the Facts about Fats." Mayo Clinic. Mayo Foundation for Medical Education and Research, February 1, 2019. [https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fat/art-20045550.](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fat/art-20045550)
 
