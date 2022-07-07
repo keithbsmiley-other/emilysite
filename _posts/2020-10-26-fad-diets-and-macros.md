@@ -13,7 +13,7 @@ As someone who struggles with self image, jumps on fad diets for, sometimes, yea
 
 > Almost all fad diets are absolute bullshit.
 
-(Sure, some diets, like keto—the ketogenic diet, have their place among *some* people. A lot of doctors prescribe keto to diabetics; it keeps blood sugar levels consistently low. It also has been studied in children on the autism spectrum, and was found to be a "potentially beneficial treatment option to improve the core features of autism spectrum disorder and warrants further investigation."[^3] My point is: if you don't *need* this diet, there are much easier ways to lose weight than mainlining avocados, and staring at the fruit section in the grocery store like it's a really good porn.[^4]
+(Sure, some diets, like keto—the ketogenic diet, have their place among *some* people. A lot of doctors prescribe keto to diabetics; it keeps blood sugar levels consistently low. It also has been studied in children on the autism spectrum, and was found to be a "potentially beneficial treatment option to improve the core features of autism spectrum disorder and warrants further investigation."[^3] My point is: if you don't *need* this diet, there are much easier ways to lose weight than mainlining avocados, and staring at the fruit section in the grocery store like it's a really good porn.[^4])
 
 Most fad diets aren't sustainable. They're exhausting. A lot of them aren't even actually healthy. And, let's be honest, most of them aren't very yummy.
 
