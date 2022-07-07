@@ -497,4 +497,4 @@ If you're otherwise healthy, and you don't feel great, maybe stop putting bad th
 
 [^62]:	Murray, Matt. “Gin It Up!” Parks and Recreation, season 6, episode 5, NBC, 17 Oct. 2013. 
 
-[^63]:	Sorry to end on a snarky note, but something the truth hurts…and can be snarky.
+[^63]:	Sorry to end on a snarky note, but sometimes the truth hurts…and can be snarky.
