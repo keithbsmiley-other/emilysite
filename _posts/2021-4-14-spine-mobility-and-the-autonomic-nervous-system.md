@@ -211,11 +211,11 @@ For now, breathe deeply, and, you know, move your spine around a little bit, jus
 [^2]:	If you don’t know what a tensegrity (tense-egg-grity) model is, look it up. Chances are you’ve seen one at least in passing. Check them out. They’re very cool.
 
 [^3]:	Couple of things:
-	1. It’s true, multitasking can be up to 40% less efficient.
+	A. It’s true, multitasking can be up to 40% less efficient.
 
 	Cherry, Kendra. “The Cognitive and Productive Costs of Multitasking.” Verywell Mind, 26 Mar. 2020, [https://www.verywellmind.com/multitasking-2795003](https://www.verywellmind.com/multitasking-2795003).  
 
-	2. It has been scientifically proven that even though single-cell organism don’t have a nervous system, they can still learn. The type of learning that can do is called, “habituation”.
+	B. It has been scientifically proven that even though single-cell organism don’t have a nervous system, they can still learn. The type of learning that can do is called, “habituation”.
 
 	CNRS. “A Single-Celled Organism Capable of Learning.” ScienceDaily, ScienceDaily, 27 Apr. 2016, [http://www.sciencedaily.com/releases/2016/04/160427081533.htm](http://www.sciencedaily.com/releases/2016/04/160427081533.htm). 
 
