@@ -559,7 +559,7 @@ Breathe out.
 
 [^21]:	Ibid.
 
-[^22]:	“Cellular Respiration Introduction | Biology (Video).” Khan Academy, Khan Academy, [https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/intro-to-cellular-respiration/v/introduction-to-cellular-respiration](https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/intro-to-cellular-respiration/v/introduction-to-cellular-respiration). 
+[^22]:	“Cellular Respiration Introduction \| Biology (Video).” Khan Academy, Khan Academy, [https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/intro-to-cellular-respiration/v/introduction-to-cellular-respiration](https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/intro-to-cellular-respiration/v/introduction-to-cellular-respiration). 
 
 [^23]:	Meerman, Ruben. [https://www.youtube.com/watch?v=4y1BAqOnhMM](https://www.youtube.com/watch?v=nM-ySWyID9o).
 
@@ -569,7 +569,7 @@ Breathe out.
 
 [^26]:	“Overview of Metabolism.” Khan Academy, Khan Academy, [https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-introduction-to-metabolism/a/overview-of-metabolism](https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-introduction-to-metabolism/a/overview-of-metabolism). 
 
-[^27]:	“Cellular Respiration Introduction | Biology (Video).” [https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/intro-to-cellular-respiration/v/introduction-to-cellular-respiration](https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/intro-to-cellular-respiration/v/introduction-to-cellular-respiration). 
+[^27]:	“Cellular Respiration Introduction \| Biology (Video).” [https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/intro-to-cellular-respiration/v/introduction-to-cellular-respiration](https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/intro-to-cellular-respiration/v/introduction-to-cellular-respiration). 
 
 [^28]:	Meerman. [https://www.youtube.com/watch?v=4y1BAqOnhMM](https://www.youtube.com/watch?v=nM-ySWyID9o).
 
@@ -579,7 +579,7 @@ Breathe out.
 
 [^31]:	Ibid.
 
-[^32]:	Douillard, John. “Boost Fat Metabolism with This Breathing Technique: John Douillard's LifeSpa.” John Douillard's LifeSpa | Ayurveda and Natural Health, 29 Aug. 2018, [https://www.lifespa.com/boost-fat-metabolism-breathing-technique/](https://www.lifespa.com/boost-fat-metabolism-breathing-technique/). 
+[^32]:	Douillard, John. “Boost Fat Metabolism with This Breathing Technique: John Douillard's LifeSpa.” John Douillard's LifeSpa \| Ayurveda and Natural Health, 29 Aug. 2018, [https://www.lifespa.com/boost-fat-metabolism-breathing-technique/](https://www.lifespa.com/boost-fat-metabolism-breathing-technique/). 
 
 [^33]:	Ibid.
 
