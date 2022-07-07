@@ -523,17 +523,17 @@ Breathe out.
 
 [^3]:	Fletemeyer, John R. “What Really Happens When Someone Drowns?” Aquatics International, 4 Apr. 2017, [https://www.aquaticsintl.com/lifeguards/what-really-happens-when-someone-drowns_o](https://www.aquaticsintl.com/lifeguards/what-really-happens-when-someone-drowns_o). 
 
-[^4]:	“Boundless Biology.” Breathing, Lumen, [https://www.courses.lumenlearning.com/boundless-biology/chapter/breathing/](https://www.courses.lumenlearning.com/boundless-biology/chapter/breathing/). 
+[^4]:	“Boundless Biology.” Breathing, Lumen, [https://www.coursehero.com/study-guides/boundless-biology/breathing/](https://www.coursehero.com/study-guides/boundless-biology/breathing/). 
 
 [^5]:	Ibid.
 
-[^6]:	“Why Do You Breathe?” British Lung Foundation, 9 Mar. 2021, [https://www.blf.org.uk/support-for-you/how-your-lungs-work/why-do-we-breathe](%E2%80%9CWhy%20Do%20You%20Breathe?%E2%80%9D%20British%20Lung%20Foundation,%209%20Mar.%202021,%20www.blf.org.uk/support-for-you/how-your-lungs-work/why-do-we-breathe%20). 
+[^6]:	“Why Do You Breathe?” British Lung Foundation, 9 Mar. 2021, [https://www.blf.org.uk/support-for-you/how-your-lungs-work/why-do-we-breathe](https://www.blf.org.uk/support-for-you/how-your-lungs-work/why-do-we-breathe). 
 
-[^7]:	“Boundless Biology.” [https://www.courses.lumenlearning.com/boundless-biology/chapter/breathing/](https://www.courses.lumenlearning.com/boundless-biology/chapter/breathing/). 
+[^7]:	““Boundless Biology.” Breathing, Lumen, [https://www.coursehero.com/study-guides/boundless-biology/breathing/](https://www.coursehero.com/study-guides/boundless-biology/breathing/). 
 
 [^8]:	Ibid.
 
-[^9]:	Hecht, Marjorie. “Alveoli: Function, Structures, and Lung Health.” Edited by Suzanne Falck, Healthline, Healthline Media, 26 Nov. 2018, [https://www.healthline.com/health/alveoli-function](https://www.healthline.com/health/alveoli-function.%20). 
+[^9]:	Hecht, Marjorie. “Alveoli: Function, Structures, and Lung Health.” Edited by Suzanne Falck, Healthline, Healthline Media, 26 Nov. 2018, [https://www.healthline.com/health/alveoli-function](https://www.healthline.com/health/alveoli-function). 
 
 [^10]:	“How Does Oxygen Get into the Bloodstream?” British Lung Foundation, 9 Mar. 2021, [https://www.blf.org.uk/support-for-you/how-your-lungs-work/oxygen-and-blood](https://www.blf.org.uk/support-for-you/how-your-lungs-work/oxygen-and-blood). 
 
@@ -543,7 +543,7 @@ Breathe out.
 
 [^13]:	Patel, Shivani, et al. “Physiology, Carbon Dioxide Retention.” StatPearls [Internet](#)., U.S. National Library of Medicine, 4 Jan. 2021, [https://www.ncbi.nlm.nih.gov/books/NBK482456/](https://www.ncbi.nlm.nih.gov/books/NBK482456/). 
 
-[^14]:	Rye, Connie, et al. “20.4 Transport of Gases in Human Bodily Fluids.” Concepts of Biology 1st Canadian Edition, BCcampus, 14 May 2015, [https://www.opentextbc.ca/biology/chapter/20-4-transport-of-gases-in-human-bodily-fluids/](https://www.opentextbc.ca/biology/chapter/20-4-transport-of-gases-in-human-bodily-fluids/). 
+[^14]:	Rye, Connie, et al. “20.4 Transport of Gases in Human Bodily Fluids.” Concepts of Biology 1st Canadian Edition, BCcampus, 14 May 2015, [https://opentextbc.ca/biology/chapter/20-4-transport-of-gases-in-human-bodily-fluids/](https://opentextbc.ca/biology/chapter/20-4-transport-of-gases-in-human-bodily-fluids/). 
 
 [^15]:	Ibid.
 
@@ -649,7 +649,7 @@ Breathe out.
 
 [^65]:	Nestor.
 
-[^66]:	Olgakabel. “To Hold or Not to Hold? Is Breath Holding Detrimental or Beneficial to Your Body?” Sequence Wiz, 9 Sept. 2020, [https://www.sequencewiz.org/2020/09/09/to-hold-or-not-to-hold-is-breath-holding-detrimental-or-beneficial-to-your-body/](https://www.sequencewiz.org/2020/09/09/to-hold-or-not-to-hold-is-breath-holding-detrimental-or-beneficial-to-your-body/). 
+[^66]:	Olgakabel. “To Hold or Not to Hold? Is Breath Holding Detrimental or Beneficial to Your Body?” Sequence Wiz, 9 Sept. 2020, [https://sequencewiz.org/2020/09/09/to-hold-or-not-to-hold-is-breath-holding-detrimental-or-beneficial-to-your-body/](https://sequencewiz.org/2020/09/09/to-hold-or-not-to-hold-is-breath-holding-detrimental-or-beneficial-to-your-body/). 
 
 [^67]:	Ibid.
 
