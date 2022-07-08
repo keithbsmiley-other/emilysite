@@ -367,8 +367,7 @@ I'm here to help.[^36]
 
 [^25]:	But, Emily, I'm running a 5k next month, don't I need to carbo-load? Oh my God, don't get me started on carbo-loading. Unless you're a marathon runner, tri-athete, or freaking Michael Phelps---you probably don't need to carbo-load.
 
-[^26]:	Speaking of being satiated, perform the following experiment. Eat half a cup of broccoli. Just half a cup. Down your gullet. Record how full you feel. Record if you could even finish it all. The next day, eat half a cup of pecans. Down it goes.
-Note your findings.Dollars to donuts the broccoli leaves you feeling fuller. Why? It’s a complex carbohydrate that takes *forever* to digest. Not to mention the amount of fiber that comes with half a cup of broccoli. Yowza.
+[^26]:	Speaking of being satiated, perform the following experiment. Eat half a cup of broccoli. Just half a cup. Down your gullet. Record how full you feel. Record if you could even finish it all. The next day, eat half a cup of pecans. Down it goes. Note your findings.Dollars to donuts the broccoli leaves you feeling fuller. Why? It’s a complex carbohydrate that takes *forever* to digest. Not to mention the amount of fiber that comes with half a cup of broccoli. Yowza.
 
 [^27]:	Royal Society of New Zealand. "How The Body Metabolizes Sugar." SugarScience.UCSF.edu, November 16, 2016. [https://sugarscience.ucsf.edu/sugar-metabolism.html.](https://sugarscience.ucsf.edu/sugar-metabolism.html)
 
