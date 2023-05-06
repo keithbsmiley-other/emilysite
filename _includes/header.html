@@ -16,23 +16,14 @@
                 <a href="{{ site.baseurl }}/" class="nav__link">Home</a>
               </li>
               {% for page in site.pages %}
-                {% unless page.name == 'tags.html' or page.name == '404.html' or page.title == 'Testimonials' %}
-              {% if page.title %}
-              <li class="nav__item">
-                <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
-              </li>
-              {% endif %}
+                {% unless page.name == 'tags.html' or page.name == '404.html' %}
+                  {% if page.title %}
+                  <li class="nav__item">
+                    <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
+                  </li>
+                  {% endif %}
                 {% endunless %}
               {% endfor %}
-              <li class="nav__item">
-                <a href="https://www.seminal.video/instructors/emilywyattsmiley" target="_blank" class="nav__link">Take Class</a>
-              </li>
-              <li class="nav__item">
-                <a href="https://www.youtube.com/channel/UCxANBPqKqU7bPME6y3frpjw" target="_blank" class="nav__link">YouTube</a>
-              </li>
-              <li class="nav__item">
-                <a href="{{ "/testimonials" | prepend: site.baseurl }}" class="nav__link">Testimonials</a>
-              </li>
               <li class="nav__icon nav__icon-search ion ion-md-search"></li>
             </ul>
           </div>
