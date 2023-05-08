@@ -4,8 +4,7 @@ title: Books in Progress
 permalink: /books-in-progress
 ---
 
-# Monstrum of Cael 
-### Book 1 in the Silvestrian Uprising Trilogy
+# Monstrum of Cael
 
 After being forced to fight against Silvestrian warriors like herself in gladiatorial games, Lyana is left with nothing but guilt, shame, and loneliness. 
 
