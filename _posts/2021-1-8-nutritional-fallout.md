@@ -14,7 +14,7 @@ What intrigued me most this week, is the effect World War II had on the American
 
 # Before the War
 
-Before we get into American during World War II, we need to briefly discuss pre-war America. As I mentioned in a [previous post](https://www.emilywyattsmiley.com/fad-diets-and-macros#fn:2), a German chemist discovered how to hydrogenate liquid fat, turning liquid into a semi-solid state.[^1] Once the system was mass produced, food manufactures began to use it in everything they could. Processing foods with hydrogenated fats extended the shelf life of their products.
+Before we get into America during World War II, we need to briefly discuss pre-war America. As I mentioned in a [previous post](https://www.emilywyattsmiley.com/fad-diets-and-macros#fn:2), a German chemist discovered how to hydrogenate liquid fat, turning liquid into a semi-solid state.[^1] Once the system was mass-produced, food manufactures began to use it in everything they could. Processing foods with hydrogenated fats extended the shelf life of their products.
 
 In-home refrigerators weren’t invented until 1913.[^2] The first self-contained unit didn’t exist until the 1920s. Refrigerators with separate freezers weren’t commonplace until the 1940s. Thanks, in large part, to the invention of Freon.[^3] It’s not that frozen food was impossible to store until after the war, it’s just that enough people could afford them, and the chemicals used in fridges weren’t safe enough until after World War II.[^4]
 
@@ -24,17 +24,17 @@ I’ve honestly never really given food science a second thought. At least, not 
 
 The U.S. military is actually responsible for a large number of our “instant” food technologies and processed food—powered cheeses (that good, good blue box—Kraft Mac & Cheese), instant drinks, cured meats, etc— all in an effort “to provide combat rations to soldiers”.[^6] 
 
-Before World War II, the U.S. Armed Forces produced three meals a day for about 400,000 troups. By the end of World War II, that number increased to almost 12,000,000.[^7] You read that correctly. We went from four hundred thousand people enlisted to twelve *million* people in about four years.[^8] That's a 3,000% increase. 
+Before World War II, the U.S. Armed Forces produced three meals a day for about 400,000 troops. By the end of World War II, that number increased to almost 12,000,000.[^7] You read that correctly. We went from four hundred thousand people enlisted to twelve *million* people in about four years.[^8] That's a 3,000% increase. 
 
-In order to feed everyone, the United States Military created hundreds of food science projects ranging from university studies, to private-sector studies, to governmental research facilities. This was the birth of the massive industry we now know as modern processed foods.[^9] 
+In order to feed everyone, the United States Military created hundreds of food science projects ranging from university studies to private-sector studies to government research facilities. This was the birth of the massive industry we now know as modern processed foods.[^9] 
 
 The story is long, and probably uninteresting to most of you, but it ends with the invention of the K-ration—or the shirt-pocket meal. It contained dry sausage, soy-flour biscuits, a chocolate bar (What’s up, Hershey), and hard candy.[^10] “Everything except for the meat was wrapped in cellophane...and then packed into a flat cardboard box.”[^11] Sound familiar? 
 
 You guys, they essentially gave WWII soldiers what would eventually become, Lunchables™. But even those rotted after a time. 
 
-The important thing to understand here: Soldiers needed more than just calories. If they had only needed calories, they could just eat Crisco by the handful. No, the war was long, and the body can’t survive, let alone be combat ready, on empty calories. These meals had to have some nutritional value. Vitamin and micro-nutrient deficiencies were a real concern.[^12]
+The important thing to understand here: Soldiers needed more than just calories. If they only needed calories, they could just eat Crisco by the handful. No, the war was long, and the body can’t survive, let alone be combat-ready, on empty calories. These meals had to have some nutritional value. Vitamin and micro-nutrient deficiencies were a real concern.[^12]
 
-The military continued on with the research. But it never quite found the right combination of things. Dairy went sour. Fats and meats went rancid. Vegetables and fruit rotted. Cans containing food rusted, contaminating its contents. There were reports of piles of military rations on the streets of European countries during the war. The truth was many soldiers would rather go hungry than eat what the military served.[^13]
+The military continued with the research. But it never quite found the right combination of things. The dairy went sour. Fats and meats went rancid. Vegetables and fruit rotted. Cans containing food rusted, contaminating their contents. There were reports of piles of military rations on the streets of European countries during the war. The truth was many soldiers would rather go hungry than eat what the military served.[^13]
 
 ## Coca-Cola & Hershey: Envoys of Peace & Sugar
  
@@ -46,26 +46,26 @@ As I snarkily mentioned above, the Hershey Company was one of the private compan
 
 Why slightly tastier than a boiled potato? The army didn’t want the bars to be so tasty that soldiers would eat them in “non-emergency situations”.[^15] 
 
-So, Hershey created the D-ration bar. A mixture of low-nutrition, high calorie (600 per 4 ounce bar in fact) bars whose batter was so vicious each bar had to be molded by hand since it was too thick to move through the normal factory machinery.[^16]
+So, Hershey created the D-ration bar. A mixture of low-nutrition, high-calorie (600 per 4-ounce bar in fact) bars whose batter was so vicious each bar had to be molded by hand since it was too thick to move through the normal factory machinery.[^16]
 
 “The combination of fat and oat flour made the chocolate bar a dense brick, and the sugar did little to mask the overwhelmingly bitter taste of dark chocolate. Since it was designed to withstand high temperatures, the bar was nearly impossible to bite into. Most men who ate it had to shave slices off with a knife before they could chew it.”[^17] Ew.
 
-Here’s where things get political, and relevant to the build up of the sugar industry today. 
+Here’s where things get political, and relevant to the build-up of the sugar industry today. 
 
-A massive amount of interest groups lobbied to the right to “shape public policy and influence business behavior” during World War II.[^18] “Among those interest groups lay the Chocolate and Cocoa Manufacturers Association and other sugar interest groups that Hershey and Coca-Cola relied on to influence government regulations on sugar.” [^19] 
+A massive amount of interest groups lobbied for the right to “shape public policy and influence business behavior” during World War II.[^18] “Among those interest groups lay the Chocolate and Cocoa Manufacturers Association and other sugar interest groups that Hershey and Coca-Cola relied on to influence government regulations on sugar.” [^19] 
 
-These interest groups would aide in helping Hershey and Coca-Cola circumvent the extreme sugar regulations that took place after the Japanese bombed Pearl Harbor.[^20] For the most part, they were successful.
+These interest groups would aid in helping Hershey and Coca-Cola circumvent the extreme sugar regulations that took place after the Japanese bombed Pearl Harbor.[^20] For the most part, they were successful.
 
 While the U.S. government asked Hershey to make their “little better than potatoes” rations, they asked Coca-Cola to create a munitions plant in Alabama.[^21] 
 
-Though, that’s not to say Coca-Cola didn’t have their hands full with their soft-drink production. “In the pre-war years, Coca-Cola became the most widely distributed mass-produced item in the United States. By 1941 Coca-Cola was also the largest soft drink manufacturer in the United States…”[^22] 
+Though, that’s not to say Coca-Cola didn’t have its hands full with its soft drink production. “In the pre-war years, Coca-Cola became the most widely distributed mass-produced item in the United States. By 1941 Coca-Cola was also the largest soft drink manufacturer in the United States…”[^22] 
 
 Then, the sugar restrictions hit. The government prioritized sugar for the military, highly restricting companies’ use of the product for commercial use. 
-So, the Hershey continued to create their ration bars, while Coca-Cola fought to prove the their soft-drink was a war-time necessity saying it was a taste of home that could soldiers reinvigorate the soldiers. Military contracts were supplied to both company, allowing both Coca-Cola and Hershey to circumvent the sugar regulations.[^23]
+So, Hershey continued to create their ration bars, while Coca-Cola fought to prove that their soft drink was a wartime necessity saying it was a taste of home that could soldiers reinvigorate the soldiers. Military contracts were supplied to both companies, allowing both Coca-Cola and Hershey to circumvent the sugar regulations.[^23]
 
 U.S. Army Gen. Dwight D. Eisenhower agreed with Coke’s statement on how American Coca-Cola is. In fact, he
 
-> “…made an urgent request…to Army Chief of Staff Gen. George Marshall asking not for more troops, but that three million bottles of crisp, refreshing All-American Coca-Cola be sent to soldiers in North Africa. Marshall approved Eisenhower’s request, know ing how important a taste of home would be in improving troop morale.”[^24]
+> “…made an urgent request…to Army Chief of Staff Gen. George Marshall asking not for more troops, but that three million bottles of crisp, refreshing All-American Coca-Cola be sent to soldiers in North Africa. Marshall approved Eisenhower’s request, knowing how important a taste of home would be in improving troop morale.”[^24]
 
 Coca-Cola built a plant in Algiers within six months of the request.[^25] 
 
@@ -79,11 +79,11 @@ Notice how all of these companies are still household names?
 
 Finally, on September 2, 1945, World War II ended with global elation. 
 
-The companies that did aide in the war effort through rations, or just supplying troops with five-cent bottles of soft drinks, became lauded as All-American, and prospered greatly after the war. “From the mid-1940s until 1960 the number of countries with (Coca-Cola) bottling operations nearly doubled.”[^28] And, “Hershey Chocolate Corporation received the Army-Navy ‘E’ Production award...Quartermaster General, Major General Gregory, came to Hershey to present the corporation and Milton Hershey with the award of achievement.”[^29] Rather than pushing for global expansion, Hershey decided to continue to invest in its company domestically.
+The companies that did aid in the war effort through rations, or just supplying troops with five-cent bottles of soft drinks, became lauded as All-American and prospered greatly after the war. “From the mid-1940s until 1960 the number of countries with (Coca-Cola) bottling operations nearly doubled.”[^28] And, “Hershey Chocolate Corporation received the Army-Navy ‘E’ Production award...Quartermaster General, Major General Gregory, came to Hershey to present the corporation and Milton Hershey with the award of achievement.”[^29] Rather than pushing for global expansion, Hershey decided to continue to invest in its company domestically.
 
 And yet:
 
-> “The lesson of World War II was clear: We needed more. Bigger budgets. Longer time lines. Better training. Closer cooperation. In a word—one originally proposed by President Theodore Roosevelt—more preparedness.”[^30]
+> “The lesson of World War II was clear: We needed more. Bigger budgets. Longer timelines. Better training. Closer cooperation. In a word—one originally proposed by President Theodore Roosevelt—more preparedness.”[^30]
 
 So, food technology continued to march on under the guise of military preparedness.
 
@@ -91,11 +91,11 @@ In the meantime though, U.S. food manufacturers realized how much money they cou
 
 > “Surplus provisions were sold in supermarkets, and manufacturers—mostly to ensure their own survival—began marketing canned and other packaged foods to middle class civilian consumers as items that would facilitate their busy lifestyles. Eventually, ‘instant’ food was democratized through mass production, becoming a generic and inexpensive part of American life.”[^31] 
 
-Thus, forever changing the national palate, “and creating new food ways based on processed cheeses and canned meat products.”[^32]
+Thus, forever changing the national palate, “and creating new foodways based on processed cheeses and canned meat products.”[^32]
 
 # Influences of Propaganda
 
-Okay, so propaganda is a pretty common tactic. It was extremely prevalent in the Jim Crow era.[^33] It’s highly common during war time. It was absolutely prevalent during WWII. Hitler used it.[^34] The British used it.[^35]. And, of course, the United States used it. It’s kind of crazy to think about how much propaganda changes a society. How quickly it becomes indoctrinated upon a mass populace.[^36] 
+Okay, so propaganda is a pretty common tactic. It was extremely prevalent in the Jim Crow era.[^33] It’s highly common during wartime. It was absolutely prevalent during WWII. Hitler used it.[^34] The British used it.[^35]. And, of course, the United States used it. It’s kind of crazy to think about how much propaganda changes a society. How quickly it becomes indoctrinated upon a mass populace.[^36] 
 
 ## Freedom Fries, and Liberty Cabbage
 
@@ -109,13 +109,13 @@ But, let’s be honest. These are terms that didn’t really stick. There’s a 
 
 ## Victory Gardens
 
-As I said before, canned food became a huge source of rations for soldiers over seas. With 12,000,000 soldiers suddenly needing sustenance, the canned food industry couldn’t keep up with the demand. So, what did both the British and United States government do? They encouraged “victory gardens.”[^39] They encouraged all citizens, in both suburban and urban areas, to plant and grow their own food so that the military could utilize the crops cultivated at mass production farms.
+As I said before, canned food became a huge source of rations for soldiers overseas. With 12,000,000 soldiers suddenly needing sustenance, the canned food industry couldn’t keep up with the demand. So, what did both the British and United States government do? They encouraged “victory gardens.”[^39] They encouraged all citizens, in both suburban and urban areas, to plant and grow their food so that the military could utilize the crops cultivated at mass-production farms.
 
 In fact, the limits and restrictions were so incredibly strict, people could not buy certain foods. “Every American was entitled to a series of war ration books filled with stamps that would be used to buy restricted items (along with payment), and within weeks of the first issuance, more than 91 perfect of the U.S. population had registered to receive them.”[^40]
 
-By the spring of 1942, “Americans were unable to purchase sugar without government-issued food coupons. Vouchers for coffee were introduced in November, and by March of 1943, meat, cheese, fats, canned fish, canned milk, and other processed foods were added to the list of rationed provisions.”[^41] Rationing for private businesses also applied for their commercial products. There were ways around it for private companies, but I’ll talk about about this later.
+By the spring of 1942, “Americans were unable to purchase sugar without government-issued food coupons. Vouchers for coffee were introduced in November, and by March of 1943, meat, cheese, fats, canned fish, canned milk, and other processed foods were added to the list of rationed provisions.”[^41] Rationing for private businesses also applied for their commercial products. There were ways around it for private companies, but I’ll talk about this later.
 
-Due to these restrictions, canning food at home was also highly encouraged by the U.S. Government. This was in effort to alleviate some of the pressure put on the canning industry that needed to reverse food for the U.S. military.[^42] Doing so was seen as being patriotic and aiding in the war effort.[^43]
+Due to these restrictions, the U.S. Government highly encouraged canning food at home to alleviate some of the pressure put on the canning industry that needed to reverse food for the U.S. military.[^42] Doing so was seen as being patriotic and aiding in the war effort.[^43]
 
 > “Historians estimate that by 1943 up to 20 million victory gardens were cultivated, helping sustain the needs of the country. Although wartime propaganda tended to portray gardening as a masculine activity, a wide variety of the population helped to grow produce, including women and children.”[^44]
 
@@ -124,9 +124,9 @@ Due to these restrictions, canning food at home was also highly encouraged by th
 
 As of 2018, the beer industry (not alcohol—just beer) “contributes more than $328 billion to the U.S. economy”.[^45] One of the most American things to do is have a beer and watch football. But not just any beer. No, the most American thing to do is to have a good ole-fashioned American lager—a Bud Lite, a Coors Lite, a Miller Lite, etc. 
 
-Setting aside the fact that the “lager” is a traditionally German yet we put the world “lite” on a bottle and call lagers “domestic” beers, to have a Bud, watch “the game” (whatever game that happens to be), and maybe grill out in the back yard is as American as the Fourth of July.[^46] 
+Setting aside the fact that the “lager” is traditionally German yet we put the word “lite” on a bottle and call lagers “domestic” beers, to have a Bud, watch “the game” (whatever game that happens to be), and maybe grill out in the back yard is as American as the Fourth of July.[^46] 
 
-Why are lite lagers so patriotic? As America entered World War II, many fought to keep the camps dry.[^47] After all, prohibition had just been repealed in 1933. However, the soldiers were not going to be stopped from finding their own escapes off base. Prostitution and boot-leg liquor found it’s way into the soldiers’ camps. To remedy this, the post exchange system was put into place. This system opened service clubs serving food, soft drinks, and beer.[^48] Beer on base meant less mingling with local women in foreign taverns and pubs—which tampered tempers in surrounding communities.[^49] Since the government mandated the beer served to service people have a low ABV (a measly three point two percent), lagers were a perfect option. 
+Why are lite lagers so patriotic? As America entered World War II, many fought to keep the camps dry.[^47] After all, prohibition had just been repealed in 1933. However, the soldiers were not going to be stopped from finding their own escapes off base. Prostitution and bootleg liquor found their way into the soldiers’ camps. To remedy this, the post-exchange system was put into place. This system opened service clubs serving food, soft drinks, and beer.[^48] Beer on base meant less mingling with local women in foreign taverns and pubs—which tampered tempers in surrounding communities.[^49] Since the government mandated the beer served to service people have a low ABV (a measly three point two percent), lagers were a perfect option. 
   
 Unlike English ales, lagers are low in alcohol content. Additionally, with imports highly regulated due to the military’s need to keep shipping lines open, domestic breweries had an extremely limited supply of malt and barley. Breweries on the brink of extinction due to prohibition found new life producing lite lagers.[^50] Beers started being canned rather than bottled to make the drink easier to ship. Some breweries even painted the can a deep green color to prevent the sun from reflecting on the bright metal.[^51]
 
@@ -138,17 +138,17 @@ These advertisements conveyed, “the sorts of Rockwellian ideals that might ins
 
 > …Moreover, it encourage American consumers to equate beer with nationalism—no small feat in 1942, just nine years after the repeal of Prohibition.”[^55]
 
-The message: Beer makes you happy. We could all be a little happier during the war. Boost your moral with beer![^56] This type of propaganda worked **well**. Beer sales increased by two-thirds from 1940 to 1950.[^57] 
+The message: Beer makes you happy. We could all be a little happier during the war. Boost your morale with beer![^56] This type of propaganda worked **well**. Beer sales increased by two-thirds from 1940 to 1950.[^57] 
 
-> Fun fact: Beer continued to follow troops around the world. “According to one estimate, solders in Vietnam consumed approximately 32 millions cans of beer **each month**.[^58]
+> Fun fact: Beer continued to follow troops around the world. “According to one estimate, soldiers in Vietnam consumed approximately 32 million cans of beer **each month**.[^58]
 
 # Conclusion
 
-It is undeniable that World War II has played a major role in how and what Americans eat. It: Introduced instant-foods and highly processed foods, changed the way Americans farmed, encouraged in-home food preservation techniques, altered our opinions on specific foods, and evolved the popularity of certain foods. 
+It is undeniable that World War II has played a major role in how and what Americans eat. It: Introduced instant foods and highly processed foods, changed the way Americans farmed, encouraged in-home food preservation techniques, altered our opinions on specific foods, and evolved the popularity of certain foods. 
 
 For example: Spam. Created in 1937 by the Hormel Foods Corporation, “over 150 million pounds (of Spam) were used in the war effort, making Spam a cornerstone of the troops’ diet. (Soldiers also used Spam’s grease to lubricate their guns and waterproof their boots.)”[^59]Hormel apparently embraces people’s love/hate relationship with the canned meat product so much so that, Jay Hormel, “the man who spam made rich,” kept a ‘Scurrilous File’. A collection of hate mail from American GIs.”[^60]
 
-All of this, even still, is just the tip of the ice berg. World War II and the U.S. military played a huge roll in the modern American diet. If you ever wonder why Americans eat the way we do, look no further than World War II.[^61] 
+All of this, even still, is just the tip of the iceberg. World War II and the U.S. military played a huge role in the modern American diet. If you ever wonder why Americans eat the way we do, look no further than World War II.[^61] 
 
 *Photo credit: Hennepin County Library*
 
@@ -223,7 +223,7 @@ All of this, even still, is just the tip of the ice berg. World War II and the U
 
 [^32]:	Ibid.
 
-[^33]:	I actually wrote a 50 page paper on racist propaganda in children cartoons from 1930-1953. Maybe I’ll post it sometime.
+[^33]:	I actually wrote a 50-page paper on racist propaganda in children's cartoons from 1930-1953. Maybe I’ll post it sometime.
 
 [^34]:	Learn more here: [https://encyclopedia.ushmm.org/content/en/article/nazi-propaganda](https://encyclopedia.ushmm.org/content/en/article/nazi-propaganda)
 
@@ -258,7 +258,7 @@ All of this, even still, is just the tip of the ice berg. World War II and the U
 [^46]:	Lowe, Miranda Summers. “How the Army Made Lager America's Beer.” War on the Rocks, 20 Dec. 2018, [warontherocks.com/2018/12/how-the-army-made-lager-americas-beer/](https://warontherocks.com/2018/12/how-the-army-made-lager-americas-beer/). 
 
 
-	Which is hilarious to me, because in WWII many Americans refused to drink “German beer”. As long as it came from a domestic brewery (which most didn’t—Yuengling is the only mostly-domestically owned brewery in the U.S.) is was okay, I guess.
+	Which is hilarious to me, because in WWII many Americans refused to drink “German beer”. As long as it came from a domestic brewery (which most didn’t—Yuengling is the only mostly-domestically owned brewery in the U.S.) it was okay, I guess.
 
 [^47]:	Ibid.
 
@@ -270,7 +270,7 @@ All of this, even still, is just the tip of the ice berg. World War II and the U
 
 [^51]:	Ibid.
 
-	I read enemy airplanes could literally spot a camp  due to the gleaming metal cans.
+	I read enemy airplanes could literally spot a camp due to the gleaming metal cans.
 
 [^52]:	Ibid.
 
@@ -290,4 +290,4 @@ All of this, even still, is just the tip of the ice berg. World War II and the U
 
 [^60]:	DeJesus, Erin. “A Brief History of Spam, an American Meat.” Eater, Eater, 9 July 2014, [www.eater.com/2014/7/9/6191681/a-brief-history-of-spam-an-american-meat-icon](https://www.eater.com/2014/7/9/6191681/a-brief-history-of-spam-an-american-meat-icon). 
 
-[^61]:	I didn’t mean to end this on a rhyme, but here we are.
+[^61]:	I didn’t mean to end this in a rhyme, but here we are.
