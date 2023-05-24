@@ -7,9 +7,9 @@ image:  images/Plate.JPG
 
 Just as there have always been, there are a lot of fad diets out right now.[^1] Trust me, I know, because I've tried most of them. The Atkins diet is a big one. As is the ketogenic diet, the South Beach diet, and the Zone diet, to name a few.[^2]
 
-My point is there's a metric shit ton of them out there, and a lot of people have no idea what it is they need, or don't need, to actually put into their body. So, I'm here to help clarify a few things. 
+My point is there's a metric shit ton of them out there, and a lot of people have no idea what it is they need or don't need, to actually put into their body. So, I'm here to help clarify a few things. 
 
-As someone who struggles with self image, jumps on fad diets for, sometimes, years at a time, and then epically plunges into the black abyss that is binge eating sugary treats, I can say with full confidence:
+As someone who struggles with self-image, jumps on fad diets for, sometimes, years at a time, and then epically plunges into the black abyss that is binge eating sugary treats, I can say with full confidence:
 
 > Almost all fad diets are absolute bullshit.
 
@@ -17,13 +17,13 @@ As someone who struggles with self image, jumps on fad diets for, sometimes, yea
 
 Most fad diets aren't sustainable. They're exhausting. A lot of them aren't even actually healthy. And, let's be honest, most of them aren't very yummy.
 
-So, to truly understand why fad diets are the absolute worst, we must educate ourselves. This article will focus on the fad diets that specifically alienate macros, or macronutrients, since those are the diets that are so popular right now.[^5]
+So, to truly understand why fad diets are the absolute worst, we must educate ourselves. This article will focus on the fad diets that specifically alienate macros (macronutrients) since those are the diets that are so popular right now.[^5]
 
 Macros are named such because you need a lot of each of them. There are three main macros: Fats, Carbohydrates, and Protein.[^6]
 
 ## Fats
 
-Okay, first things first. Your body *needs* *fat*. There, I said it. I would shout it from the mountain tops if I could, but I can't so I'll say it again:
+Okay, first things first. Your body *needs* *fat*. There, I said it. I would shout it from the mountaintops if I could, but I can't so I'll say it again:
 
 > In order to be a healthy human being, you need to physically consume fats.
 
@@ -41,7 +41,7 @@ Let's start with the least healthy type of fat and move our way up, shall we?
 
 The least healthy of the fats is trans fat. Small amounts of trans fat occur in animal protein (meat and dairy products). Those aren't the sources you really need to worry about, because the dosage is so low. It's the artificial stuff that's the real problem for most of us (and when I say most of us, I mean most of us globally. Trans fats are a problem all over the world. Not just in the U.S.)
 
-Trans fat increases bad cholesterol (LDL) and, *actively lowers good cholesterol* (HDL). It is linked to creating inflammation in the body, and increases you risk for heart disease and stroke. It can even contribute to insulin resistance.[^9] (Psst, insulin resistance is a fancy way of saying pre-diabetes or full blown Type 2 Diabetes depending on individual glucose levels.) So, again for effect:
+Trans fat increases bad cholesterol (LDL) and, *actively lowers good cholesterol* (HDL). It is linked to creating inflammation in the body and increases your risk for heart disease and stroke. It can even contribute to insulin resistance.[^9] (Psst, insulin resistance is a fancy way of saying pre-diabetes or full- blown Type 2 Diabetes depending on individual glucose levels.) So, again for effect:
 
 > Trans fats literally work against your health.
 
@@ -53,9 +53,9 @@ Healthier fats---like unsaturated fats---have a really short shelf life. They go
 
 In the early 1900s, a German chemist figured out how to hydrogenate liquid fat to produce a semi-solid fat. Thus, giving birth to trans fats. The hydrogenation technique let food stay on the shelf for longer, and it was cheap and easy to put into food. Therefore, food manufacturers immediately started utilizing hydrogenated fats, or trans fat.[^10] (Fun fact, the first product to contain trans fat was Crisco vegetable shortening.)[^11] [^12]
 
-Trans fats became really big over the next eighty years. "By the 1980s, many food manufacturers and restaurants had stopped using tallow and lard, replacing these fats with trans fat-based products, which had similar smoke points and were thought to be healthier."[^13] Spoiler alert: they were not.
+Trans fats became really big over the next eighty years. "By the 1980s, many food manufacturers and restaurants had stopped using tallow and lard, replacing these fats with trans-fat-based products, which had similar smoke points and were thought to be healthier."[^13] Spoiler alert: they were not.
 
-Real world examples of trans fats include:
+Real-world examples of trans fats include:
 
 - margarine
 - packaged snack food
@@ -70,7 +70,7 @@ The good news: The U.S. has banned artificial trans fats from commercially sold 
 
  
 
-TL;DR: Actively avoid trans fat to the best of your ability---especially outside of the U.S. Even in the states, check your nutrition labels. Big Snack is out there, waiting, with their Cheeto dust-covered finger tips slowly tapping together like a villain in a children's movie.[^16]
+TL;DR: Actively avoid trans fat to the best of your ability---especially outside of the U.S. Even in the States, check your nutrition labels. Big Snack is out there, waiting, with their Cheeto dust-covered fingertips slowly tapping together like a villain in a children's movie.[^16]
 
 ### Saturated Fat
 
@@ -88,13 +88,13 @@ Think about it like this: foods high in saturated fat will, typically, be a soli
 
 I'll be completely honest, a handful of recent studies have found that saturated fat might not be bad for you after all; which, I'm sure at least a few of you are yelling that exact fact at me right now as you read this.
 
-Well, stop it. I'm not trying to steal your saved up bacon grease, and I don't like getting screamed at. See what you made me do? You made me end my sentence in a preposition. Calm yourself. Read on.
+Well, stop it. I'm not trying to steal your saved-up bacon grease, and I don't like getting screamed at. See what you made me do? You made me end my sentence with a preposition. Calm yourself. Read on.
 
 Most scientists, and most studies, agree that saturated fat can increase your LDL cholesterol. (Stop yelling.) However, there are at least three studies, that I'm aware of, that argue saturated fat might not increase your risk for heart disease. (See I'm agreeing with you). Those same reports, though, concluded that you absolutely can *lower* your bad cholesterol if you replace saturated fat with polyunsaturated or monounsaturated fat (see next section).
 
-So, say you're sautéing vegetables for dinner, and you have the choice between butter and olive oil to lube up that pan. Do you go for something that may or may not be bad for you and your family? Or do you grab something that is definitely going to benefit their heart health?[^19]
+So, say you're sautéing vegetables for dinner, and you have the choice between butter and olive oil to lube up that pan. Do you go for something that may or may not be bad for you and your family? Or do you grab something that is going to benefit their heart health?[^19]
 
-TL;DR: Within reason, saturated fat isn't *terrible*, but there are definitely healthier options out there for you.
+TL;DR: Within reason, saturated fat isn't *terrible*, but there are healthier options out there for you.
 
 ### Monounsaturated and Polyunsaturated Fats
 
@@ -103,7 +103,7 @@ Monounsaturated fats and polyunsaturated fats help to
 -   lower risk of heart disease and stroke
 -   lower bad LDL cholesterol levels, and increase good HDL
 -   prevent abnormal heart rhythms
--   lower triglycerides (fat-based molecules found in the blood stream)
+-   lower triglycerides (fat-based molecules found in the bloodstream)
 -   lower blood pressure
 -   prevent hardening and narrowing of the arteries
 
@@ -126,9 +126,9 @@ Foods high in polyunsaturated fats are:
 
 ### Omega-3 and Omega-6 Fatty Acids
 
-This article, while already longer than I anticipated (and I'm not sorry, not sorry one bit), is an incredibly brief overview. However, I would be remiss if I didn't mention the special snowflake fatty-acids that reside under the proverbial roof of polyunsaturated fats.
+This article, while already longer than I anticipated (and I'm not sorry, not sorry one bit), is an incredibly brief overview. However, I would be remiss if I didn't mention the special snowflake fatty acids that reside under the proverbial roof of polyunsaturated fats.
 
-The human body can make most fatty acids. In fact, it can make all but two of them. The two your body absolutely, one-hundred percent cannot make are linoleic and linolenic acids. But we *need* them to be healthy humans. So, we have to ingest them. This is why they are most often referred to as essential fatty acids.[^20] Linoleic and linolenic acids are derived from foods containing omega-3 and omega-6 fatty acids. They also have anti-inflammatory properties.[^21]
+The human body can make most fatty acids. In fact, it can make all but two of them. The two your body absolutely, one hundred percent cannot make are linoleic and linolenic acids. But we *need* them to be healthy humans. So, we have to ingest them. This is why they are most often referred to as essential fatty acids.[^20] Linoleic and linolenic acids are derived from foods containing omega-3 and omega-6 fatty acids. They also have anti-inflammatory properties.[^21]
 
 You'll find these fatty acids mostly in salmon, trout, sardines, flaxseed, and walnuts to name a few.
 
@@ -142,17 +142,17 @@ First, let's talk calorie counting. I intentionally didn't include counting calo
 
 This could be an entirely new article (and might be later), but here's the short version: Our bodies are machines. They need calories (energy) to burn in order to not literally shut down (starve). If we take in too much energy, our body stores it in the form of glycogen and fat. When we have a calorie deficit, our body taps those reserves for energy.
 
-Therefore, the only way to actually lose *body fat* is to eat less calories than we burn. It's simple math.
+Therefore, the only way to actually lose *body fat* is to eat fewer calories than we burn. It's simple math.
 
 Fat, unsurprisingly, is energy *dense*. One gram of fat contains nine calories. That's a lot of energy in one tiny gram of fat.
 
-So, if you're looking at macro-based fad diets, you see a lot of your calories come from fat. Most of them, actually. But because fat is so energy dense, you don't need to eat a lot of it---if you're trying to lose weight.
+So, if you're looking at macro-based fad diets, you see a lot of your calories come from fat. Most of them, actually. But because fat is so energy-dense, you don't need to eat a lot of it---if you're trying to lose weight.
 
 Remember, keto/Atkins/Whatever doesn't in and of itself make you lose weight---the calorie deficit does (you might lose water weight, but that's a different conversation). So, even though you may have mathematically filled your energy requirements for that meal, are you really satiated?
 
-Like I said before, a lot of people claim fat-heavy diets reduce their appetite, and it might for them. It did not for me. That handful of pork rinds and three tablespoon of guacamole for lunch did not fill me up. Just sayin'.
+Like I said before, a lot of people claim fat-heavy diets reduce their appetite, and it might for them. It did not for me. That handful of pork rinds and three tablespoons of guacamole for lunch did not fill me up. Just sayin'.
 
-Which leads me to my next gripe, and the more important one.
+This leads me to my next gripe, and the more important one.
 
 > Not all fats are created equally.
 
@@ -182,32 +182,32 @@ And remember, it's more important to get fat than it is to get your carbs in the
 
 Quick math:
 
-At 9 calories/gram of fat you're looking at about 116 grams of fat. At 4 calories/gram of protein you're looking at about 94 grams of protein. At 4 calories/gram of carbohydrates you're looking at about 19 grams of carbohydrates. So, a day of meals might look like this:
+At 9 calories/gram of fat, you're looking at about 116 grams of fat. At 4 calories/gram of protein, you're looking at about 94 grams of protein. At 4 calories/gram of carbohydrates, you're looking at about 19 grams of carbohydrates. So, a day of meals might look like this:
 
 Breakfast
 
 -   three slices of bacon (10g fat; 9g protein)
 -   one cup of avocado (21g fat; 2.9g protein; 12 g carbs)
--   a little over one and half tablespoons of olive oil (22g fat) (for cooking---yeah, that shit counts too)
+-   a little over one and a half tablespoons of olive oil (22g fat) (for cooking---yeah, that shit counts too)
 -   two eggs (10g fat; 12g protein)
 
 Lunch
 
 -   an ounce of pecans (20.4g fat; 9g protein; 3.9g carbs)
--   one half a cup of chopped chicken breast (4.2g fat; 20g protein)
+-   half a cup of chopped chicken breast (4.2g fat; 20g protein)
 
 Dinner
 
 -   one half of a salmon fillet (28g fat; 40g protein)
--   one half a cup of raw broccoli (3g carbs)
+-   a one-half cup of raw broccoli (3g carbs)
 
 Might not seem terrible. I mean it's not a lot of food, but that's dieting, right?
 
 I mean, if you don’t mind completely neglecting a metric shit ton of nutrients, sure. 
 
-This is not a well rounded diet at all. Most of our *micro*nutrients come from carbs---whole fruits and vegetables specifically. I mean, sure, avocado has a bunch of good stuff in it---magnesium, potassium, vitamins B2, B3, B5, and B6, etc. Pecans are high in nutritional value as well---vitamins A and E, folic acid, calcium, etc. Broccoli is loaded with vitamins too. But, on the whole, the above example is not nearly enough of a well-rounded diet to be considered healthy. 
+This is not a well-rounded diet at all. Most of our *micro*nutrients come from carbs---whole fruits and vegetables specifically. I mean, sure, avocado has a bunch of good stuff in it---magnesium, potassium, vitamins B2, B3, B5, and B6, etc. Pecans are high in nutritional value as well---vitamins A and E, folic acid, calcium, etc. Broccoli is loaded with vitamins too. But, on the whole, the above example is not nearly enough of a well-rounded diet to be considered healthy. 
 
-Say it with me: We all need carbohydrates. Say it again, louder this time: We all need carbohydrates. LET THE LORD HERE YOUR VOICES! (Any Footloose fans out there? No? Okay, cool. I mean, whatever.)
+Say it with me: We all need carbohydrates. Say it again, louder this time: We all need carbohydrates. LET THE LORD HEAR YOUR VOICES! (Any Broadway cast Footloose fans out there? No? Okay, cool. I mean, whatever.)
 
 Anyway, we need carbs, ya'll. They give us nutrients. They help our bodies, and brains, run more efficiently. They supply us with immediate energy.
 
@@ -221,7 +221,7 @@ Calm down. The sugar goblins haven't gotten me yet, and before you run for the h
 
 We all need carbs.
 
-What we *don't* need are most simple carbs. Refined sugar, cane sugar, white bread, most cereals, most pastas, for example, are simple carbohydrates. Simple carbs are the carbohydrates that your body doesn't need to break down that much. On a molecular level, they’re already fairly similar to their broken down form—sugar. While some simple carbohydrates have their perks (even Coke-a-Cola can be considered slightly hydrating), they have limited nutritional value other than the immediate energy they provide.[^24] The problem is, most of the time, our bodies don't need that massive hit of immediate energy. So, it gets stored in and around our muscles as glycogen and body fat, awaiting the glorious day the Energy Gods in our bodies call upon them to be sacrificed for the greater good. And, unless we physically move our bodies for an extended period of time, in and around our muscles is where the glycogen and fat will stay.[^25]
+What we *don't* need are most simple carbs. Refined sugar, cane sugar, white bread, most cereals, most pastas, for example, are simple carbohydrates. Simple carbs are the carbohydrates that your body doesn't need to break down that much. On a molecular level, they’re already fairly similar to their broken-down form—sugar. While some simple carbohydrates have their perks (even Coke-a-Cola can be considered slightly hydrating), they have limited nutritional value other than the immediate energy they provide.[^24] The problem is, most of the time, our bodies don't need that massive hit of immediate energy. So, it gets stored in and around our muscles as glycogen and body fat, awaiting the glorious day the Energy Gods in our bodies call upon them to be sacrificed for the greater good. And, unless we physically move our bodies for an extended period of time, in and around our muscles is where the glycogen and fat will stay.[^25]
 
 Complex carbohydrates, on the other hand, typically are your dark leafy greens, grain-based breads, legumes, etc. They are higher in fiber, and therefore slower to digest; which means they're more likely to keep your blood sugar levels fairly stable, and they provide more energy for longer periods (again because of the slower digestion). Not to mention most of our micronutrients are in those legumes and dark leafy greens.[^26]
 
@@ -233,7 +233,7 @@ And before you say anything, yeah, fruit is technically also pure sugar.
 
 I've been mentioning fiber a lot in this section of the article. That's because it's really freaking important. Fiber is what makes you poop. And before you get all grossed out, let me let you in on a little secret: everybody poops. We all need to poop. It's a bodily function. Get over it.
 
-The thing that really got to me when I was on the keto diet is that it severely limits how much fiber you can take in, because the carbs are so limited. Hard-core high-fat, low-carb dieters *include* fiber in their carb intake. Which is absolutely insane, because some of that fiber is literally called "insoluble fiber". It's food that your body can't physically break down and absorb. It's only purpose is to push your actual shit through your intestines and out your poop hole.
+The thing that really got to me when I was on the keto diet is that it severely limits how much fiber you can take in because the carbs are so limited. Hard-core high-fat, low-carb dieters *include* fiber in their carb intake. This is absolutely insane because some of that fiber is literally called "insoluble fiber". It's food that your body can't physically break down and absorb. Its only purpose is to push your actual shit through your intestines and out your poop hole.
 
 The total dietary fiber intake for an adult human is between twenty-five to thirty grams a day from *whole foods* --- not supplements. The total average intake right now in the U.S. is about fifteen grams per day.
 
@@ -261,13 +261,13 @@ TL;DR: Eat whole fruits and vegetables. Don't skip them. Eat your fiber. Poop. Y
 
 ## Protein
 
-I feel like protein is the one macronutrient every one can agree we need. Your hair and nails are made of protein. It helps promote healthy skin. It is an essential building block of both bones and muscles. Some proteins in our bodies are hormones, and some act as messengers for other molecules that are key reactions inside the body.
+I feel like protein is the one macronutrient everyone can agree we need. Your hair and nails are made of protein. It helps promote healthy skin. It is an essential building block of both bones and muscles. Some proteins in our bodies are hormones and some act as messengers for other molecules that are key reactions inside the body.
 
-Additionally, protein is the only macronutrient that the body cannot actively store. Carbohydrates are broken down to sugar, and stored as glycogen. Fat is broken down, and stored in the body as lipids. There are no back-up reserves of protein in the body. It is essential to our diets. We have to eat it in order to survive.
+Additionally, protein is the only macronutrient that the body cannot actively store. Carbohydrates are broken down to sugar, and stored as glycogen. Fat is broken down, and stored in the body as lipids. There are no backup reserves of protein in the body. It is essential to our diets. We have to eat it in order to survive.
 
 That being said, you don't need as much of it as you might think. The current Recommended Dietary Allowance (RDA) for protein is point eight grams of protein per kilogram of body weight (though nutritionists seem to debate that number more and more often).[^30]
 
-So why do weight lifters need so much more protein? Why does everyone say to drink protein shakes after a work out if you don't need that much?
+So why do weightlifters need so much more protein? Why does everyone say to drink protein shakes after a workout if you don't need that much?
 
 All great questions.
 
@@ -285,17 +285,17 @@ So, why drink protein after a big workout? Why do weightlifters need more protei
 
 Something to keep in mind:
 
-> You absolutely, one-hundred percent can over eat protein. It is stored in your body mostly as fat. Supplement with caution.
+> You absolutely, one hundred percent can overeat protein. It is stored in your body mostly as fat. Supplement with caution.
 
-So, going back to fad, macro-based diets. Honestly, protein is the one I don't really have a problem with in regards to fad diets. Protein should comprise fifteen to thirty percent of your daily caloric intake. Most fad diets are actually spot on in this macro dosage. If you're looking at a high-protein, low-carbohydrate diet, I'd say refer back to the section where I go on and on about not getting enough nutrients from just protein and fat.
+So, going back to fad, macro-based diets. Honestly, protein is the one I don't really have a problem with regarding fad diets. Protein should comprise fifteen to thirty percent of your daily caloric intake. Most fad diets are actually spot on in this macro dosage. If you're looking at a high-protein, low-carbohydrate diet, I'd say refer back to the section where I go on and on about not getting enough nutrients from just protein and fat.
 
 ## Overall TL;DR: 
 
-All this is to say one simple thing: The best diet---for weight loss in otherwise healthy individuals---is one of balance and variety. Find foods that are nutrient-dense, have limited added sugars, and limited saturated fats. Eat complex carbohydrates. And for the love of all that's Holy: 
+All this is to say one simple thing: The best diet---for weight loss in otherwise healthy individuals---is one of balance and variety. Find nutrient-dense foods and take in limited added sugars and saturated fats. Eat complex carbohydrates. And for the love of all that's Holy: 
 
 > Have an open mind! Try new foods!
 
-We don't need fad diets to tell us how to lose weight. We just need a little bit of education, a little sense of humor, and a little bit of will power to get those bad habits out of our system.
+We don't need fad diets to tell us how to lose weight. We just need a little bit of education, a little sense of humor, and a little bit of willpower to get those bad habits out of our system.
 
 The last thing I'll say, and I swear it will be my last.
 
@@ -305,7 +305,7 @@ It's probably the most important thing I'll write.
 
 > It's okay if you screw up, and eat the "wrong" thing.
 
-And if you do screw up, and eat the "wrong" thing---like a snickers bar or whatever it happens to be---that doesn't mean you skip dinner because you used up your calories.[^35] All that does is rob your body of desperately needed nutrients.
+And if you do screw up, and eat the "wrong" thing---like a Snickers bar or whatever it happens to be---that doesn't mean you skip dinner because you used up your calories.[^35] All that does is rob your body of desperately needed nutrients.
 
 It's okay if you screw up, and eat the "wrong" thing.
 
@@ -317,9 +317,9 @@ You just need to be healthy.
 
 I'm here to help.[^36]
 
-[^1]:	I just fell down a pretty epic rabbit hole on the history of dieting. Guess what! Dieting has been going on for thousands of years. Eliminating specifc foods from one's diet got really big in the modern world when many Christian leaders connected dieting with "morality". These (men) literally believed spices and sugar led to sexual excess and civil disorder. So, expect me to write an article on that in the near future.
+[^1]:	I just fell down a pretty epic rabbit hole on the history of dieting. Guess what! Dieting has been going on for thousands of years. Eliminating specific foods from one's diet got really big in the modern world when many Christian leaders connected dieting with "morality". These (men) literally believed spices and sugar led to sexual excess and civil disorder. So, expect me to write an article on that in the near future.
 
-[^2]:	Notice how I didn't include veganism, vegetarianism, pescatarianism, etc? Don't @ me, bro.
+[^2]:	Notice how I didn't include veganism, vegetarianism, pescetarianism, etc? Don't @ me, bro.
 
 [^3]:	Lee, Ryan W Y, Michael J Corley, Alina Pang, Gaye Arakaki, Lisa Abbott, Michael Nishimoto, Rob Miyamoto, et al. Modified Ketogenic Gluten-Free Diet with MCT Improves Behavior in Children with Autism Spectrum Disorder. Physiology & behavior. U.S. National Library of Medicine, May 1, 2018. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5863039/.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5863039/)
 
@@ -327,7 +327,7 @@ I'm here to help.[^36]
 
 [^5]:	Unfortunately, most of them only focus on macros, rather than well-rounded nutrient intake---hence the being unhealthy.
 
-[^6]:	Some sources may argue that there are other macronutrients. The National Academy of Sports Medicine (or NASM) argues that alcohol is a macronutrient. While others argue that Water and Fiber should be included in the list as separate items. For the sake of simplicity, this article will focus on the three macros that every one can agree on.
+[^6]:	Some sources may argue that there are other macronutrients. The National Academy of Sports Medicine (NASM) argues that alcohol is a macronutrient. While others argue that Water and Fiber should be included in the list as separate items. For the sake of simplicity, this article will focus on the three macros that everyone can agree on.
 
 [^7]:	"Dietary Fats." www.heart.org. Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats)
 
@@ -337,7 +337,7 @@ I'm here to help.[^36]
 
 [^10]:	"Trans Fats." [www.heart.org.](http://www.heart.org./) Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat)
 
-[^11]:	So really, your grandma probably did use trans fat in her cooking. At least we did in the south. Boy howdy, did we love our Cisco.
+[^11]:	So really, your grandma probably did use trans fat in her cooking. At least we did in the South. Boy howdy, did we love our Crisco.
 
 [^12]:	"Trans Fats." [www.heart.org.](http://www.heart.org./) Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/trans-fat)
 
@@ -347,7 +347,7 @@ I'm here to help.[^36]
 
 [^15]:	"Learn the Facts about Fats." Mayo Clinic. Mayo Foundation for Medical Education and Research, February 1, 2019. [https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fat/art-20045550.](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fat/art-20045550)
 
-[^16]:	I'm just kidding. I don't actually know if Cheetos have trans fat in them. But I am sure Big Snack is a villain in a children's movie. Has to be. If it's not I'll happily write that after school special. PBS: Hollar at cha girl.
+[^16]:	I'm just kidding. I don't actually know if Cheetos have trans fat in them. But I am sure Big Snack is a villain in a children's movie. Has to be. If it's not I'll happily write that after-school special. PBS: Hollar at cha girl.
 
 [^17]:	"Saturated Fat." [www.heart.org.](http://www.heart.org/) Accessed October 21, 2020. [https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/saturated-fats.](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/saturated-fats)
 
@@ -365,9 +365,9 @@ I'm here to help.[^36]
 
 [^24]:	Seriously, don't @ me.
 
-[^25]:	But, Emily, I'm running a 5k next month, don't I need to carbo-load? Oh my God, don't get me started on carbo-loading. Unless you're a marathon runner, tri-athete, or freaking Michael Phelps---you probably don't need to carbo-load.
+[^25]:	But, Emily, I'm running a 5k next month, don't I need to carbo-load? Oh my God, don't get me started on carbo-loading. Unless you're a marathon runner, tri-athlete, or freaking Michael Phelps---you probably don't need to carbo-load.
 
-[^26]:	Speaking of being satiated, perform the following experiment. Eat half a cup of broccoli. Just half a cup. Down your gullet. Record how full you feel. Record if you could even finish it all. The next day, eat half a cup of pecans. Down it goes. Note your findings.Dollars to donuts the broccoli leaves you feeling fuller. Why? It’s a complex carbohydrate that takes *forever* to digest. Not to mention the amount of fiber that comes with half a cup of broccoli. Yowza.
+[^26]:	Speaking of being satiated, perform the following experiment. Eat half a cup of broccoli. Just half a cup. Down your gullet. Record how full you feel. Record if you could even finish it all. The next day, eat half a cup of pecans. Down it goes. Note your findings. Dollars to donuts the broccoli leaves you feeling fuller. Why? It’s a complex carbohydrate that takes *forever* to digest. Not to mention the amount of fiber that comes with half a cup of broccoli. Yowza.
 
 [^27]:	Royal Society of New Zealand. "How The Body Metabolizes Sugar." SugarScience.UCSF.edu, November 16, 2016. [https://sugarscience.ucsf.edu/sugar-metabolism.html.](https://sugarscience.ucsf.edu/sugar-metabolism.html)
 
