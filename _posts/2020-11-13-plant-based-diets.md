@@ -7,7 +7,7 @@ date:   2020-11-13
 
 Like most, my undergraduate university required a handful of required general education courses. So many courses in history. So many in math. So many in a foreign language.[^1] And, so many in science. They offered nutrition as one of the sciences, and I, a journalism major, thought it might be the easier of my options.[^2]
 
-Now, I was not that into nutrition at the time. I thought eating a peanut butter and jelly sandwich was eating *healthily*.[^3]
+Now, I was not that into nutrition at the time. I thought eating a peanut butter and jelly sandwich was eating *healthly*.[^3]
 
 I don’t remember a lot about the class, I’m not going to lie. The professor lost me when she required us to memorize the purposes and deficiencies of all the major vitamins.[^4] Anyhoo, one of the things I do remember, is that she said being a vegetarian is one of the healthiest diets you can possibly maintain.
 
@@ -15,19 +15,19 @@ Undergrad-Emily was unimpressed. Who, in college, can afford to buy fresh produc
 
 Currently, I both agree and disagree with my old nutrition professor. With the assumption that, as a vegan or vegetarian, you eat mostly fruits, vegetables, and grains. In fact, being a plant-based diet *can be* extremely beneficial. But, there’s a lot of foods that are technically vegan and vegetarian that are not good for you.
 
-Seriously, I once had a friend of mine tell me about how amazing her vegan experience was over beer and Oreos. 
+Seriously, I once had a friend of mine tell me about how amazing her vegan experience was over a pint of Sam Adams and Oreos. 
 
 What I’m trying to say is: Just because you’re eating a plant-based diet doesn’t mean you’re eating a healthy diet. 
  
 In order to truly understand how to eat a *healthy* plant-based diet, we need to understand that magical macro: Protein.
 
-I touched on protein in a [previous article](https://www.emilywyattsmiley.com/fad-diets-and-macros), but I didn’t really dig into it (protein consumption and digestion get fairly complication fairly quickly).  So, let’s dip a little more than our toes into the protein pool of knowledge, shall we?
+I touched on protein in a [previous article](https://www.emilywyattsmiley.com/fad-diets-and-macros), but I didn’t really dig into it (protein consumption and digestion get fairly complicated fairly quickly).  So, let’s dip a little more than our toes into the protein pool of knowledge, shall we?
 
-To review, protein does a lot of the heavy lifting in the body. It helps build strong hair and nails, and is a huge part of building (and strengthening) our bones and muscles. Some proteins help transport hormones to the appropriate areas, and others act as messengers for other molecules that have important reactions in the body. Our red blood cells contain protein, and keep our blood oxygenated.[^5] Every cell in the human body contains protein.[^6]
+To review, protein does a lot of the heavy lifting in the body. It helps build strong hair and nails, and is a huge part of building (and strengthening) our bones and muscles. Some proteins help transport hormones to the appropriate areas, and others act as messengers for other molecules that have important reactions in the body. Our red blood cells contain protein and keep our blood oxygenated.[^5] Every cell in the human body contains protein.[^6]
 
 > We *need* protein to survive. 
 
-Unlike other macros, protein is not stored in the body. Therefore, we have to replenish it through consumption.
+Unlike other macros, protein is not stored in the body. (If you overeat protein it is stored as fat.) Therefore, we have to replenish it through consumption.
 
 ## What is protein, really?
 
@@ -77,7 +77,7 @@ Let me explain.
 
 A complete protein is a protein that has all nine essential amino acids. You are most likely to find complete proteins in animal-based proteins: fish, poultry, meat, dairy products, and eggs. 
 
-An incomplete protein contains some, but not all, essential amino acids. Most grains, like rice, are too low in lysine to be considered complete; however, legumes like beans are higher in lysine. Badda. Bing. Badda. Boom. You’ve got all the essential amino acids. Plant-based foods such as this are commonly referred to as complementary proteins.[^12]
+An incomplete protein contains some, but not all, essential amino acids. Most grains, like rice, are too low in lysine to be considered complete; however, legumes like beans are higher in lysine. Add a little rice to your beans. Badda. Bing. Badda. Boom. You’ve got all the essential amino acids. Plant-based foods such as this are commonly referred to as complementary proteins.[^12]
 
 Want to know something really cool? You don’t even have to eat rice and beans in the same meal (but I mean c’mon, a veggie burrito is where it’s at). It’s less about what you eat in one meal, and more about what you eat over the course of the day.
 
@@ -115,15 +115,15 @@ However:
 There’s 8 grams of (complete) protein in 1 cup of quinoa.<br/>
 There’s 9 grams of (complete) protein in one cup of cooked green peas.
 
-I mean, sure, I could eat 6 cups of quinoa in a day to ensure I get enough protein, but do I want to? Also, have you even eaten a lot of quinoa in one day? Yeah, me neither, it’s a lot of freaking food. It's also a lot of calories.[^16] 
+I mean, yeah, I could eat 6 cups of quinoa in a day to ensure I get enough protein, but do I want to? Also, have you even eaten a lot of quinoa in one day? Yeah, me neither, it’s a lot of freaking food. It's also a lot of calories.[^16] 
 
 I watched a lecture yesterday with a professor, Dr. Neal Barnard, MD, in which he discusses “protein anxiety”. Essentially, he says the most common question he gets when he mentions eating a plant-based diet is: But where do you get your protein?  He explains, “If I am on a 2,000 calorie diet, and all I eat is broccoli I’ll have consumed 146 grams of protein.[^17] If all I eat is lentils, I’ll have consumed 157 grams of protein”. He went on and on like this for a while. Then he says, “The A.N.D. (Academy of Nutrition and Dietetics) weighed in on this and said, ‘Vegetarian and Vegan diets typically meet or exceed the recommended protein intakes...(then he paraphrases) as long as you’re eating food.’ He then equates “protein anxiety” to not getting enough oxygen when breathing air. Obviously, he’s being a little snark machine here saying if you breath air you are getting enough oxygen; therefore, if you eat food you get enough protein.[^18] He’s not wrong. Protein deficiency in the United State just doesn’t happen, like at all.[^19] The body may not run on all four cylinders (or whatever the hell the saying is), but it’ll be...fine.
 
-But here’s where I disagree.[^20] Mostly because Oreos and (many) beer are vegan. Most pre-packaged pasta is vegan. A metric shit ton of candy is vegan.[^21] A plethora of spirits are vegan. Taco Bell’s bean burritos (sans cheese) are vegan. Pillsbury crescent rolls are vegan. Pop Tarts. Krissy Kream Fruit Pies. Thomas bagels.
+But here’s where I disagree.[^20] Mostly because Oreos and (many) beer are vegan. Most pre-packaged pasta is vegan. A metric shit ton of candy is vegan.[^21] A plethora of spirits are vegan. Taco Bell’s bean burritos (sans cheese) are vegan. Pillsbury crescent rolls are vegan. Pop Tarts. Krispy Kream Fruit Pies. Thomas bagels.
 
-Anyway, I think—I hope—you get my point. If you don’t, my point is this: Sugar, tone of “the greatest threats to cardiovascular disease” in the United States, is vegan.[^22] There’s a lot of shit out there that’s vegan, and *not healthy*. I mean, spinach is only but so tasty. You know what *is* tasty *all the time*? Pasta. Candy. Oreos. Beer. Simple carbohydrates. Sugar.
+Anyway, I think—I hope—you get my point. If you don’t, my point is this: Sugar, “the greatest threats to cardiovascular disease” in the United States, is vegan.[^22] There’s a lot of shit out there that’s vegan, and *not healthy*. I mean, spinach is only but so tasty. You know what *is* tasty *all the time*? Pasta. Candy. Oreos. Beer. Simple carbohydrates. Sugar.
 
-Dr. Neal Barnard, MD, and my nutrition professor is making a giant assumption: Everyone eats as cognizantly as they do. When the fact is: Most Americans do not eat cognizantly.[^23]
+Dr. Neal Barnard, MD, and my nutrition professor from way back when, are making a giant assumption: Everyone eats as cognizantly as they do. When the fact is: Most Americans do not eat cognizantly ever.[^23]
 
 If we did eat mindfully, would the prevalence of obesity be in nearly half of the American population?[^24] Would “obesity-related conditions including heart disease, stroke, type 2 diabetes, and certain types of cancers be (sic) some of the leading causes of preventable, premature deaths (sic)” in the United States?[^25]
 
@@ -256,7 +256,7 @@ Just do your due diligence to learn what a healthy plant-based diet looks like, 
 
 [^22]:	Publishing, Harvard Health. “The Sweet Danger of Sugar.” Harvard Health, [www.health.harvard.edu/heart-health/the-sweet-danger-of-sugar.](https://www.health.harvard.edu/heart-health/the-sweet-danger-of-sugar) 
 
-[^23]:	And we *like it* like a lot. Like, almost at addict levels. In fact, I think I’ll have another fun-size Twix bar while I writing this. Ah, yea, that hits the spot.
+[^23]:	And we *like it* like a lot. Like, almost at addict levels. In fact, I think I’ll have another fun-size Twix bar while I writing this. Ah, yeah, that hits the spot.
 
 [^24]:	“Adult Obesity Facts.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 29 June 2020, [www.cdc.gov/obesity/data/adult.html.](https://www.cdc.gov/obesity/data/adult.html) 
 
