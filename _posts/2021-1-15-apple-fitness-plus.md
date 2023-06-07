@@ -16,9 +16,13 @@ Okay, to make all things equal here, we need to make sure we understand what you
 ** Apple Fitness + **
 1. Diverse Class Options: HIIT, Core, Yoga, Strength Training, Treadmill workouts, Cycling, Rowing, Dance, and Mindful Cooldown
 2. Number of Classes: There were 200+ videos at the launch of the feature, and they add some every week. 
-3. Cost: $10/month or $79.99/year. This one is a bit more complicated for Apple products. If you’re like me, and you were pretty ingratiated into Apple products prior to Apple Fitness +, you might have already been paying for Apple Music, Apple TV +, and more iCloud space for all of our pictures. We have a family plan that we share with my in-laws. So, we paid $19.95/month. For an extra ten dollars a month, we now get Apple Arcade, even more space for iCloud (2TB), Apple News +, and now, Fitness + on top of everything else. So if you buy into Apple One, you’re really getting way more bang for your buck than just a metric shit load of workout videos. Something to keep in mind. 
+3. Cost: $10/month or $79.99/year. This one is a bit more complicated for Apple products. If you’re like me, and you were pretty ingratiated into Apple products prior to Apple Fitness +, you might have already been paying for Apple Music, Apple TV +, and more iCloud space. We have a family plan that we share with my in-laws. So, we paid $19.95/month. For an extra ten dollars a month, you get Apple One. This entails Apple Arcade, even more space for iCloud (2TB), Apple News +, and now, Fitness + on top of everything else. So if you buy into Apple One, you’re really getting way more bang for your buck than just a metric shit load of workout videos. Something to keep in mind. 
 
-I will also add that I’m aware some of the companies I’m going to compare these prices to are smaller companies, who, obviously, don’t have the income Apple does. However, this is the nature of the beast now. Apple has set a very low bar (though FitBit charges the same amount for their premium service), and now the market will do what the market does. #Capitalism
+I will also add that I’m aware some of the companies I’m going to compare these prices to are smaller companies, who, obviously, don’t have the revenue Apple does. Therefore, they will charge more. However, this is the nature of the beast now. Apple has set a very low monthly fee (though FitBit charges the same amount for their premium service), and now the market will do what the market does. #Capitalism
+
+(Note: All of these prices are quotes as of January 2021. Things change over time.)
+
+### Other Services
 
 ** CorePower Yoga on Demand**
 1. Diverse Class Options: They have six different kinds of yoga class from actual beginner (encouraging, safe, informative cueing) to more advanced  vinyasa yoga, meditation classes, as well as Yoga Sculpt (yoga with weights or body weight work outs).
@@ -33,7 +37,7 @@ I will also add that I’m aware some of the companies I’m going to compare th
 ** Down Dog App **
 1. Diverse Class Options: Yoga, HIIT, Meditation, Barre, and Prenatal Yoga[^2]
 2. Number of Classes: Their class options are actually split into five different apps, but if you pay for one you have access to all of them. The fascinating thing about Down Dog is how they create their sequences. You give them an area of the body you want to work on, how long you want to work on it, and they create a sequence for you on the spot. It some straight up sorcery shit. While I haven’t always agreed with how the sequence turns out (I’ve had to do multiple chatarungas in a row in some sequences—not my jam), it does challenge my yoga teacher brain to think outside of my more formulaic way of sequencing. 
-3. Cost: *Arranges soapbox just so, and gently steps on it.* Let’s talk about how amazing Down Dog is for just a second. With just a small team of seven, they’re given 75,000 years (that’s right years) worth of free memberships to users who can’t afford it. They made their apps completely free during the beginning of the COVID lockdowns in March and April. They’ve also given free access to 600,000 students, teachers, and front line healthcare workers.[^3] They aren’t doing it for the money. They’re doing to help people. They are, hands down, one of the coolest, best-hearted, companies in subscription fitness that I know of. *Steps down from soapbox.*
+3. Cost: *Arranges soapbox just so, and gently steps on it.* Let’s talk about how amazing Down Dog is for just a second. With just a small team of seven, they’ve given 75,000 years (that’s right years) worth of free memberships to users who can’t afford it. They made their apps completely free during the beginning of the COVID lockdowns in March and April. They’ve also given free access to 600,000 students, teachers, and front line healthcare workers.[^3] They aren’t doing it for the money. They’re doing to help people. They are, hands down, one of the coolest, best-hearted, companies in subscription fitness that I know of. *Steps down from soapbox.*
 
 ## Accessibility
 When I say accessibility here, I mean how easy is it to get started with Apple Fitness +. The answer: it honestly kind of depends. I’d say, if you have an Apple Watch, Apple Fitness + is an absolute no brainer. The integration is amazing. When you start the workout on your iPhone, Apple TV, or iPad, it automatically starts on your watch. You can see your rings live on the screen. It tracks your heart rate and displays it on your screen as well, so you can easily keep track of how hard (or not) your heart is working.[^4]
@@ -51,14 +55,16 @@ Okay, so my only complaint here is a little weird because I’m critiquing the b
 
 It can be a little discouraging for those of us that aren’t at twenty percent body fat or less. That’s not to say the trainers don’t all have different body *types*; they do because they’re all from different areas of this planet. But, I wouldn’t call them “realistic” body types for a lot of us.[^6]
 
+(So, I'm editing this a bit later down the road. Apple has since hired trainers with different body types. They've also had multiple trainers lead classes throughout pregnancy which, as long as it's done in a healthy way, is really cool to see.)
+
 
 ## Intelligent Sequencing
 
-Since I’m coming at this with more experience than just, “I like doing workout videos”, I have so many questions that I’m struggling to find answers to. Did the trainers sequence their own class? Did someone else do it? Why did they chose this kind of sequence? Was it tested ahead of time on humans that aren’t hella fit? Were they all taught to give the same cues for the same positions? Essentially, what was Apple’s style guide here? I’m not asking because I want to rip it apart (although I have my grievances), I’m genuinely curious. 
+Since I’m coming at this with more experience than just, “I like doing workout videos”, I have so many questions that I’m struggling to find answers to. Did the trainers sequence their own class? Did someone else do it? Why did they choose this kind of sequence? Was it tested ahead of time on humans that aren’t hella fit? Were they all taught to give the same cues for the same positions? Essentially, what was Apple’s style guide here? I’m not asking because I want to rip it apart (although I have my grievances), I’m genuinely curious. 
 
 Because it’s near and dear to my heart, I’d like to talk about how Apple Fitness + treats beginners. I’ll start off by saying this: Apple has created an entire section dedicated to beginner practices. It includes strength, HIIT, yoga, and core exercises. They offer chair modifications in their yoga classes, and they break down the most common cues. It’s actually great, if someone can acknowledge that they are a beginner, or are just coming back to working out after a long stint of not being super physically active.
 
-Some of the trainers, however, do teach sequences that aren’t super beginner friendly. For example, if a beginner took the strength class I took today, their low back would seriously be hurting. We were bent over at the hips for about half the class. The trainer gave breaks, but even my low back was starting to hurt by the end of the class. 
+Some of the trainers, however, do teach sequences that aren’t super beginner friendly. For example, if a beginner took the strength class I took today, their low back would seriously be hurting. We were bent over at the hips for about half the class. The trainer gave breaks, but even *my* low back was starting to hurt by the end of the class. 
 
 Some people might be into that; to each their own. All I’m saying is some instructors are better at more consistent safety/form cueing than others, which is part of the reason why I want to know what Apple’s guidelines are for this kind of stuff.[^7]
 
@@ -69,9 +75,11 @@ Over all, I’d say the sequences were obviously put together by people who know
 ## Entertainment
 Okay, first off, it’s probably no surprise that these playlists *are* absolute fire. All of them. If you have Apple Music, you also have access to all of them. It’s changed my playlist life. Hey, whoever is making these playlists at Apple or designed the algorithm to create these playlists, keep up the good work. Also, you deserve a freaking raise. 
 
-Second, they give you the mood of each playlist. You can do yoga with some hip/hop vibes or chill vibes. You have “pure dance” options with cycling, treadmill, and HIIT. My strength class today had an anthems playlist that was phenomenal. So, you can pick the vibe your at that day, rather than having it chose for you. 
+Second, they give you the mood of each playlist. You can do yoga with some hip/hop vibes or chill vibes. You have “pure dance” options with cycling, treadmill, and HIIT. My strength class today had an anthems playlist that was phenomenal. So, you can pick the vibe your at that day, rather than having it choose for you. 
 
 I’ve seen a lot of people a little peeved that Apple Fitness + doesn’t have live classes, and therefore no real-time partner workouts. That doesn’t make a difference to me at all, honestly. Also, you can do a little work around. A friend of ours sent my husband a workout to try. I would see how many calories he burned, how long he did the work out, etc. If you want the competition aspect, share your workouts. 
+
+(You can also use FaceTime Sharing now to work out with friends and family.)
 
 Also, there’s been a way to “compete” and compare on the Apple Watch for a while now. You can send each other challenges or whatever. It’s fun if you’re into that. 
 
@@ -81,7 +89,7 @@ Third, I don’t know how Apple managed to do it, but none of these trainers are
 
 ## Conclusion
 
-If you’re already balls deep in Apple gear, Apple Fitness + is an absolute no-brainer. It’s reasonably priced for what it is. The integration of all the devices is fantastic. The heart-rate monitor (Apple Watch) has some of the most advanced technology for mass-produced heart-rate monitors on the planet, *and* it all sync with Apple Health. So your heart rate history, VO2 Max (if your watch can do that), calories burned, etc. are all right there in your phone. It’s kind of remarkable.
+If you’re already balls deep in Apple gear, Apple Fitness + is an absolute no-brainer. It’s reasonably priced for what it is. The integration of all the devices is fantastic. The heart-rate monitor (Apple Watch) has some of the most advanced technology for mass-produced heart-rate monitors on the planet, *and* it all syncs with Apple Health. So your heart rate history, VO2 Max (if your watch can do that), calories burned, etc. are all right there in your phone. It’s kind of remarkable.
 
 Over all, one of the best things about Apple Fitness +, if you have your watch and phone (or whatever Apple device you use), you have options. You can do whatever you want, whenever you want, and you have your choice of playlists and trainers. 
 
@@ -91,7 +99,7 @@ Honestly, I haven’t heard anything truly bad about Apple Fitness +, and after 
 
 
 
-[^1]:	I do have a bit of a bias both for and against CorePower for several reasons I’m not going to get into here. I used to work there pre-COVID, so you know, I know more about the company, and am trying to maintain an unbiased opinion.
+[^1]:	I do have a bit of a bias both for and against CorePower for several reasons I’m not going to get into here. I used to work there pre-COVID. So you know, I  am trying to maintain an unbiased opinion.
 
 [^2]:	Which is absolutely baller. They’re the only app I know of that offers prenatal yoga. 
 
