@@ -5,13 +5,13 @@ date:   2021-1-4
 image:  images/content.jpg
 ---
 
-My husband recently made all of my old photos accessible to my phone (rather than keeping them on a hard drive that we almost never looked at). I was scanning through these old photos when I came across our wedding photos. 
+My husband recently made all of my old photos accessible to my phone (rather than keeping them on a hard drive that we almost never look at). I was scanning through these old photos when I came across our wedding photos. 
 
 I said to my husband, “You know, our wedding was beautiful; I had an absolute blast. But, our honeymoon was probably one of the best trips we’ve ever taken together. I just remember being so content there.” 
 
 My husband chuckled, and said, “Just content, huh? Not happy or anything else?”
 
-What he didn’t understand was: To me, being content is a huge accomplishment. 
+What he didn’t understand was this: To me, being content is a huge accomplishment. 
 
 # Contentment
 
@@ -49,7 +49,7 @@ I think I’ll hold on to this concept of studying Contentment for a little whil
 
 # Goals
 
-We were walking our dog one morning, and my husband asked me, “What are your resolutions?”
+We were walking our dog one morning, and my husband asked me, “What are your New Year's resolutions?”
 
 I responded with, “I don't believe in resolutions.” 
 
@@ -76,7 +76,7 @@ Even if you do find yourself in the Preparation or Action stage, you may not kno
 
 For example, “I want to physically feel better this year,” is not a goal. It sounds a lot like a New Years Resolution, or, maybe, the impetus for a goal, but it’s not a goal.
 
-Goals are specific beasts.
+Goals are specific.
 
 Goals are thought through. 
 
