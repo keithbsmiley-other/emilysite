@@ -5,9 +5,9 @@ date:   2021-2-4
 image:  images/chairs.jpg
 ---
 
-People in the fitness world go on and on and on about how bad sitting is for you. I’m guilty of this too. 
+People in the fitness world go on and on and on about how bad sitting is for you. I’m guilty of this, too. 
 
-“Americans sit too much,” they say. “We work all day sitting down. It’s bad for us.”
+“Americans sit too much,” we say. “We work all day sitting down. It's detrimental to our health.”
 
 My response to this: Eeeehhhhh, not exactly, maybe. In fact, we may be demonizing sitting for all the wrong reasons.
 
@@ -33,7 +33,7 @@ The act of exercise itself is a modern phenomenon. Moving for the sake of moveme
 
 Treadmills were literally used as torture devices. 
 
-This just proves my point: Running is literally torture.[^6] )
+This just proves what I've been saying my whole life: Running is literally torture.[^6] )
 
 Anyhoo, pre-industrial humans had to carry heavy things, and walk places, and do a plethora of other everyday physical activities to survive. Even then, a lot of people didn’t have the appropriate calorie intake. So extra movement for the sake of movement is bonkers to pre-industrial humans. You’re wasting precious energy. That’s like telling a tiger to go for a 5-mile run without putting a zebra at the other end. It makes no sense evolutionarily speaking.[^7] 
 
@@ -64,7 +64,7 @@ The problem is what you do for the rest of the day.
 Math time:
 If you sit for 10 hours a day and sleep for 8.  That’s 18 hours a day of no physical activity. That leaves 6 hours for physical activity. 
 
-Notice how I said physical activity and not exercise? You can prevent inflammation, and possibly even joint dysfunction, just by moving. If you find that you’ve been sitting for a longer than 20-30 minutes: get up.[^13] Go pet your dog. Go to the bathroom. Grab some water. Whatever you wanna do. I’m not here to yuck your yum. Live your life. Just get up every once in a while. _Cue the singing angels_ This is what we call: Interrupted Sitting.
+Notice how I said physical activity and not exercise? You can prevent inflammation, and possibly even joint dysfunction, just by moving. If you find that you’ve been sitting for longer than 20-30 minutes: get up.[^13] Go pet your dog. Go to the bathroom. Grab some water. Whatever you wanna do. I’m not here to yuck your yum. Live your life. Just get up every once in a while. _Cue the singing angels_ This is what we call: Interrupted Sitting.
 
 Okay, now, let’s talk posture.
 
@@ -80,9 +80,9 @@ Why?
 
 The same reason why you should move every thirty minutes or so: to use your muscles. 
 
-Backed chairs (this goes for couches too) allow most of your muscles to turn off. Do you know what happens when your muscles are turned off for a long period of time? They wastes away. Quite literally: If you don’t use it, you lose it. 
+Backed chairs (this goes for couches too) allow most of your muscles to turn off. Do you know what happens when your muscles are turned off for a long period of time? They waste away. Quite literally: If you don’t use it, you lose it. 
 
-Now, I’m not saying your ass is going to fall off because you sit for long periods of time. What I am saying is this: It is scientifically proven that our muscles get weak when we don’t use them. They atrophy. I’m not even going to put a foot note here, because that *feels* like common knowledge. 
+Now, I’m not saying your ass is going to fall off because you sit for long periods of time. What I am saying is this: It is scientifically proven that our muscles get weak when we don’t use them. They atrophy. I’m not even going to put a foot note here for reference, because that *feels* like common knowledge. 
 
 So, why do we have bad posture? Our chairs allow us to turn off the muscles we should be working to maintain *good* posture. Backed chairs stop the need to sit upright on our own accord, allowing our core muscles to weaken. Backed chairs keep our hips tight, and lack of movement keeps our knees inflamed. Backed chairs rob us of burning extra calories—those rat bastards. 
 
@@ -118,7 +118,7 @@ What a silly thing to claim. However, be cognizant of what you’re putting your
 
 [^6]:	Don’t @ me, bro.
 
-[^7]:	Paleo bros getting any movement yet?
+[^7]:	Paleo bros, getting any movement yet?
 
 [^8]:	Ibid.
 
