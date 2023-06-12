@@ -11,7 +11,7 @@ I started writing this article about superfoods -- a general topic I figured wou
 That being said, I’m not going to sit here and write about why legumes, dark leafy greens, and oats are healthy. Other than to say they are the most packed with vitamins, minerals, and overall healthy things that make our bodies run as smoothly and efficiently as possible. And, honestly, I feel like I’ve pretty much already covered a lot of that in [my article about macros](https://www.emilywyattsmiley.com/fad-diets-and-macros). 
 
 If you came here for a basic list of superfoods, I must say two things:
-1. Have you read any of my other blogs? I don’t do short lists. This is long form research, baby!
+1. Have you read any of my other blogs? I don’t do short lists. This is long-form research, baby!
 2. If you do want a list of superfoods, go [here](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/get-smart-about-superfoods-infographic).[^1]
 
 Okay, now that that’s out of our way. We are going to zoom in a little bit. 
@@ -163,12 +163,12 @@ Just sayin’.
 
 According to Lynne Eldridge, MD, antioxidant supplements (nutrients in pill form rather than the food itself) don’t appear to have the same effect.[^43] 
 
-> > “ An example is lung cancer. Knowing that people who had a higher intake of foods rich in beta-carotene and vitamin E had a lower risk of developing lung cancer, researchers conducted a study in which one group of people took a daily supplement of beta-carotene and the other did not. Men who smoked and took beta-carotene actually had a higher risk of developing lung cancer.”[^44]
+> > “An example is lung cancer. Knowing that people who had a higher intake of foods rich in beta-carotene and vitamin E had a lower risk of developing lung cancer, researchers conducted a study in which one group of people took a daily supplement of beta-carotene and the other did not. Men who smoked and took beta-carotene actually had a higher risk of developing lung cancer.”[^44]
 
 
 Additionally, Megan Ware, RDN, notes, “The National Institutes of Health warn that high doses of antioxidant supplements can be harmful….A high dose of vitamin E has been found to increase the risk of prostate cancer, and the use of some antioxidant supplements has been linked to a greater risk of tumor growth.”[^45] It is also noted that some supplements can interfere with medications.[^46] 
 
-Because of this, it is extremely important to speak with a health professional before  taking supplemental antioxidants.
+Because of this, it is extremely important to speak with a health professional before taking supplemental antioxidants.
 
 In general: Try to eat your nutrients for antioxidants rather than taking supplements.
 
@@ -204,13 +204,13 @@ Ultimately, it’s up to us to do the research. It’s up to us to put the corre
 
 [^1]:	When you google “list of superfoods” you can get a list as short as 5 items to as long as 25-30. Mostly because superfoods can simply be boiled down to most fruits and vegetables. That list can go on and on and on and on and…well, you get my point.
 
-[^2]:	There are three different ways to see the term “organic” on a food label. 1. 100% organic means the product is made of only organic ingredients. 2. Organic means the product contains 95% or more organic ingredients. 3. Made with Organic Ingredients means the products contains 70% or more organic ingredients. Meaning 30% of the ingredients do not meet the “organic” standards.
+[^2]:	There are three different ways to see the term “organic” on a food label. 1. "100% Organic" means the product is made of only organic ingredients. 2. "Organic" means the product contains 95% or more organic ingredients. 3. "Made with Organic Ingredients" means the products contains 70% or more organic ingredients. Meaning 30% of the ingredients do not meet the “organic” standards.
 
 	The term “natural” can appear on literally any food label as it is not regulated by the FDA.
 
 	The term “grass-fed” means that the animal consumed grass versus grain or corn, however they’re not governmental regulation on how much or how often.
 
-	The term “cage-free” means the chickens *could have* roamed outside of a cage, doesn’t necessarily mean they did or how often they did. 
+	The term “cage-free” means the chickens *could have* roamed outside of a cage-- doesn’t necessarily mean they did or how often they did. 
 
 	And finally, “pasture-raised” means the animal spent time on a pasture or outdoors for some amount of time, but again, it’s not regulated how long or how often.
 
@@ -247,7 +247,7 @@ Ultimately, it’s up to us to do the research. It’s up to us to put the corre
 
 [^16]:	Villines, Zawn. [www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body](https://www.medicalnewstoday.com/articles/318652#How-do-free-radicals-damage-the-body). 
 
-	I feel a responsibility to note here that some of these diseases are also effected by genetics. Risk genes increase the likelihood of developing a disease, but do not guarantee that any one individual will get it. The Alzheimer’s Association notes, “Deterministic genes directly cause a disease, guaranteeing that anyone who inherits one will develop a disorder.” Both of these types of genes can possibly cause diseases such as Alzheimer’s, Huntington’s or Parkinson’s. If someone has a Risk gene for any of these diseases, however, free radicals may increase the chances of getting the disease.
+	I feel a responsibility to note here that some of these diseases are also effected by genetics. Risk genes increase the likelihood of developing a disease, but do not guarantee that any one individual will get it. The Alzheimer’s Association notes, “Deterministic genes directly cause a disease, guaranteeing that anyone who inherits one will develop a disorder.” Both of these types of genes can possibly cause diseases such as Alzheimer’s, Huntington’s or Parkinson’s. If someone has a risk gene for any of these diseases, however, free radicals may increase the chances of getting the disease.
 
 	“Is Alzheimer's Genetic?” Alzheimer's Disease and Dementia, [www.alz.org/alzheimers-dementia/what-is-alzheimers/causes-and-risk-factors/genetics](https://www.alz.org/alzheimers-dementia/what-is-alzheimers/causes-and-risk-factors/genetics). 
 
