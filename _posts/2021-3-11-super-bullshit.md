@@ -317,4 +317,4 @@ Ultimately, it’s up to us to do the research. It’s up to us to put the corre
 
 [^47]:	“Understanding Antioxidants.” [www.health.harvard.edu/staying-healthy/understanding-antioxidants](https://www.health.harvard.edu/staying-healthy/understanding-antioxidants). 
 
-[^48]:	In yoga we call this: Brahmacharya (bra-ma-char-ia)
+[^48]:	In yoga we call practicing moderation: Brahmacharya (bra-ma-char-ia)
