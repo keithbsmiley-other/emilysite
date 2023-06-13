@@ -6,8 +6,6 @@ image:  images/spill.jpg
 ---
 
 
-Yeah, I know the title is a bit much. 
-
 Alrighty, fam. Today’s the day. We’re going to talk about "detoxing". 
 
 Detoxing gets thrown around a lot these days in both the nutrition and yoga circles. 
@@ -16,7 +14,7 @@ In theory, the concept of detoxing is amazing. Do thing X to get all the toxins 
 
 So amazing, in fact, I can’t help but wonder…
 
-If we had to detox our bodies ourselves, wouldn’t the human race would’ve died out many, many years ago?[^1] 
+If we had to detox our bodies ourselves, wouldn’t the human race have died out many, many years ago?[^1] 
 
 Your body is literally *designed to eliminate toxins for you*. Why do you need to drink smoothies and do twists to release toxins when your liver, kidneys, skin, and lungs (to name a few) should already be filtering that shit out of you?
 
@@ -24,7 +22,7 @@ That’s kind of why peeing, pooping, and exhaling are things our bodies have to
 
 Before I get started please know, this article comes from a place of love and peace. Not hate and anger. Per usual, I’m just researching things, and explaining that research to you in a long-form manner. 
 
-Also know, this is being written by someone who has done juice/smoothie/soup “cleanses”, and teaches yoga.
+Also know, this is being written by someone who has done juice/smoothie/soup “cleanses.”
 
 One last disclaimer: I’m not here to shit on your personal or religious beliefs. You live your best life. I’m simply giving you scientific facts based on scientific studies. If you cleanse every so often for whatever reason, and you feel healthy and good, keep doing you.
 
@@ -44,9 +42,9 @@ The liver is key to proper bodily function. Liver failure ends in death. Full st
 
 Think of your liver as a very necessary, built-in Brita Filter for your body. 
 
-Your liver sits roughly beneath your diaphragm, and on top of your stomach, right kidney, and intestines.[^4] It is cone shaped, a dark, reddish-brown color, and weights about three pounds (in case you were wondering).[^5]
+Your liver sits roughly beneath your diaphragm, and on top of your stomach, right kidney, and intestines.[^4] It is cone-shaped, a dark, reddish-brown color, and weights about three pounds (in case you were wondering).[^5]
 
-There are 500 vital functions of the liver.[^6] I could have tried to reword this list I found on the Johns Hopkins Medicine website, but I didn’t. This is 100% yoinked.
+There are 500 vital functions of the liver.[^6] I could have tried to reword the I found on the Johns Hopkins Medicine website, but I didn’t. This is 100% yoinked.
 
 Here are a few:
 
@@ -137,15 +135,15 @@ Some are down right dangerous.
 
 First thing to note. 
 
-> Before detoxing became a fad it was a medical procedure. It was meant to rid the body of dangerous, life-threatening levels of alcohol, drugs or poisons.[^17] 
+> Before detoxing became a fad it was a medical procedure. It was meant to rid the body of dangerous, life-threatening levels of alcohol, drugs, or poisons.[^17] 
 
 According to Harvard Medical School, “Patients undergoing medical detoxification are usually treated in hospitals or clinics. The treatment generally involved the use of drugs and other therapies in a combination that depends on the type and severity of the toxicity.”[^18]
 
 Emeritus professor of complementary medicine at Exeter University, Edzard Ernst, said, there are two types of detox. One is the medical procedure mentioned above. “The other is the word being hijacked by entrepreneurs, quacks, and charlatans to sell a bogus treatment that allegedly detoxifies your body of toxins you’re supposed to have accumulated.”[^19]
 
-So, there’s that.
+So there's that.
 
-Many cleanses that consist of nothing but juices, spices, maple syrup (I’m looking at you Master Cleanse), are actually very, very dangerous. Studies have shown low-calorie diets and fasts actually screw with your body’s basal metabolic rate. It can’t keep up with you because it’s too busy struggling to survive on a very limited amount of available energy.[^20] Not to mention cleanses like this seriously lack the necessary nutrients your body needs to survive. 
+Many cleanses that consist of nothing but juices, spices, maple syrup (I’m looking at you Master Cleanse), are actually very, very dangerous. Studies have shown low-calorie diets and fasts actually screw with your body’s basal metabolic rate (BMR). It can’t keep up with you because it’s too busy struggling to survive on a very limited amount of available energy.[^20] Not to mention cleanses like this seriously lack the necessary nutrients your body needs to survive. 
 
 Laxative cleanses actually deplete the very necessary, and natural, flora (microorganisms) in your body that your digestive tract counts on to break down food.[^21] If you do cleanses such as these repeatedly, you actually risk disrupting your body’s acid-base balance, which could result in too much acid in your blood. This can lead to a coma, and/or death.[^22]
 
@@ -175,7 +173,7 @@ One does not simply detox the liver with a mess ton of smoothies, soups, and/or 
 
 > Semi-Relevant Fun Fact: Broccoli, sprouts, mustard plants, cabbages (all bassicas) contain cyanide. “Eating it provides a tiny bit of poison that primes the enzymes in your liver to deal better with any other poisons.” Drinking *within moderation, you animal,* (a few glasses of wine or beer a week), is proven to have a similar effect.[^29]
 
-I’ll say it again for the people in the back. 
+I’ll say it again for the people in the back: 
 
 There is absolutely no scientific proof that detox diets help to heal your liver *or* remove toxins from your body.[^30] 
 
@@ -191,7 +189,7 @@ Okay.
 
 ## Twist Out The Toxins
 
-I hate to admit that I used to buy into the whole “twists are detoxifying” myth. I thought, let Yoga take the wheel. Why wouldn’t I believe the things my teachers were telling me. So, since my teacher said it, I can say it when I teach my classes. This is how lies, innocent but lies never-the-less, get perpetuated and spread.  
+I hate to admit that I used to buy into the whole “twists are detoxifying” myth. I thought, let Yoga take the wheel. Why wouldn’t I believe the things my teachers were telling me? So, since my teacher said it, I can say it when I teach my classes. This is how lies, innocent but lies never-the-less, get perpetuated and spread.  
 
 I’m honestly not going to spend a ton of time on this because it feels extremely obvious to me, and, to be frank, I can’t prove a negative:
 
@@ -251,7 +249,7 @@ I’m just saying, before you start throwing out random cues like “twist the t
 
 ## Okay, Fine. But At Least I Can Sweat Out The Toxins, Right? …RIGHT?!
 
-I can not tell you how many times I had hung over students in my studio. And, yes, you can absolutely tell if they’re drunk or hungover because their sweat smells like the bottle of Jack into which they crawled the night prior.
+I can not tell you how many times I had hung over students in my studio. And, yes, you can absolutely tell if they’re drunk or hungover because their sweat smells like the bottle of Jack they crawled into the night prior.
 
 But, before you head out to the sauna, hear me out.
 
@@ -285,7 +283,7 @@ Jim White said, “The higher the alcohol content of the drink or drinks the per
 
 > Fun fact: Drinking water is the only way to fight the smell. It helps your body dilute the alcohol and excrete the liquid more quickly, which will help kill the hangover smell.[^55]
 
-All that being said, sweating is an extremely important part of [body homeostasis](https://www.emilywyattsmiley.com/spine-mobility-and-the-autonomic-nervous-system). It is required to help cool our body temperature’s down as the liquid on our skin evaporates. Moving vigorously in any way helps increase circulation, which has massive benefits to the body.
+All that being said, sweating is an extremely important part of [body homeostasis](https://www.emilywyattsmiley.com/spine-mobility-and-the-autonomic-nervous-system). It is required to help cool our body's temperature down as the liquid on our skin evaporates. Moving vigorously in any way helps increase circulation, which has massive benefits to the body.
 
 It’s also important to note, that while a key factor to body homeostasis, sweating too much can lead to serious dehydration. You have to drink water in order to maintain a healthy human body.
 
@@ -323,7 +321,7 @@ By which I mean eat healthy, whole foods.[^61]
 
 You cannot heal most of the damage done to your liver, but you can stop damaging your liver; thus, giving it time to heal itself. Stop drinking alcohol, or minimize your alcohol intake. Reduce your fatty food intake to a healthier amount. Drink more water. You know, all the basic things I’ve been writing about since I started this blog. 
 
-No, twisting does not wring out your liver like a dish rag. But, it does increase circulation. It can help digestion, and aide in spinal mobility.
+No, twisting does not wring out your liver like a dish rag. But, it does increase circulation. It can help digestion and aide in spinal mobility.
 
 And no, you can’t sweat out your hangover. You have to live with your mistakes. But, you can drink more water to help the process along. 
 
@@ -360,7 +358,7 @@ If you're otherwise healthy, and you don't feel great, maybe stop putting bad th
 
 
 
-[^1]:	I can absolutely guarantee you people, who lived into their 50s, 60s, and 70s, in the Victorian period were doing juice cleanses and yoga. They were too concerned with enslaved people of color and doing weird shit to women in hospitals and mental facilities.
+[^1]:	I can absolutely guarantee you people, who lived into their 50s, 60s, and 70s, in the Victorian period weren't doing juice cleanses and yoga. They were too concerned with enslaved people of color and doing weird shit to women in hospitals and mental facilities.
 
 [^2]:	“Liver: Anatomy and Functions.” Johns Hopkins Medicine, [https://www.hopkinsmedicine.org/health/conditions-and-diseases/liver-anatomy-and-functions](https://www.hopkinsmedicine.org/health/conditions-and-diseases/liver-anatomy-and-functions). 
 
