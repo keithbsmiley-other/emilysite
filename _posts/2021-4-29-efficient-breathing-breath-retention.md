@@ -59,7 +59,7 @@ So, there’s a balance of O2 (Oxygen) and CO2 (Carbon Dioxide) within our bodie
 
 Okay, so carbon dioxide is exhaled. We know this. But how does it get *in* the body in the first place. 
 
-According to Shivani Patel et al, authors of *Physiology, Carbon Dioxide Retention*, “Carbon dioxide is formed intracellularly as a byproduct of metabolism…CO2 plays various roles in the human body including regulation of blood pH, respiratory drive, and affinity of hemoglobin for oxygen. Fluctuating in CO2 levels are highly regulated and can cause disturbances in the human body if normal levels are not maintained.”[^13] 
+According to Shivani Patel et al, authors of *Physiology, Carbon Dioxide Retention*, “Carbon dioxide is formed intracellularly as a byproduct of metabolism…CO2 plays various roles in the human body including regulation of blood pH, respiratory drive, and affinity of hemoglobin for oxygen. Fluctuations in CO2 levels are highly regulated and can cause disturbances in the human body if normal levels are not maintained.”[^13] 
 
 So, yes, technically CO2 is a toxin, *but* it has other key roles within the body, specifically within the blood stream. CO2 is actually a huge part of [body homeostasis](http://www.emilywyattsmiley.com/spine-mobility-and-the-autonomic-nervous-system), and it is just as important as oxygen.
 
@@ -97,7 +97,7 @@ Okay, I’m not going to go into the nitty gritty on this, you should definitely
 
 Literally all of them. It’s in the name Carbo-(carbon) -hydrate (water (H2O)). Some carbohydrates will have more carbon, some will have more hydrogen, some will have more oxygen. 
 
-Examples of what I mean displayed as in an elemental string:
+Examples of what I mean displayed as an elemental string:
 
 Glucose = C6H12O6 (6 carbon, 12 hydrogen, and 6 oxygen molecules)[^22]
 
@@ -126,7 +126,7 @@ There are two different metabolic pathways in the body.
 
 The body will break glucose down (with the help of oxygen) through a process called Cellular Respiration.[^27] Cellular Respiration is a form of metabolism in the catabolic pathway.
 
-> One of the metabolic ways our body uses to break down food uses oxygen to help create heat and ready-to-use ATP (energy) for the body.
+> It is one of the metabolic ways our body breaks down food and uses oxygen to help create heat and ready-to-use ATP (energy) for the body.
 
 This can get super involved and complicated, but what I’m trying to point out is the body needs oxygen to help break down food on an atomic level. 
 
@@ -195,7 +195,7 @@ vs.
 
 How many miles do I have to jog to burn off this milkshake?
 
-## How Does This Relate To Different  Breathing Techniques 
+## How Does This Relate To Different Breathing Techniques 
 
 Armed with all the above information, we must ask: If CO2 creation is directly linked to our metabolism, can we alter our metabolism through different breathing techniques? Meaning, if we change how much oxygen we take in through breathing, will that effect our metabolic rate, and therefore burn more energy and create more CO2. 
 
@@ -205,7 +205,7 @@ Dr. John Douillard writes, “The average amount of air that is inspired or expi
 
 Let me restate just one part of that for the people in the back:
 
-> The average human only uses one sixth of their lung capacity.[^33]
+> The average human only uses one-sixth of their lung capacity.[^33]
 
 Basically, what John Douillard is saying is that if we use the full capacity of our lungs, we could lose weight faster by safely inhaling more oxygen and exhaling more carbon from our bodies.
 
@@ -218,7 +218,7 @@ Douillard conducted a study, published in the *Internal Journal of Neuroscience*
 1. No change in heart rate - Because the mouth is literally a bigger hole through which to breath, you’d think breathing through your nose would actually increase the heart rate. (Remember, when the CO2 levels in our blood get high and O2 levels get low, our bodies need us to breath more to create homeostasis in blood pH and hemoglobin/O2 association.) Douillard’s study found that the heart rate stayed the same during both nose breathing and mouth breathing. This suggests, “an ease and comfort during exertion using nose breathing that was unprecedented.”[^35]
 2. Nose breathing is actually more efficient. When subjects were asked to ride a stationary bike, their rate of breath for nose breathing was actually lower than that of mouth breathing. Nose breathing also allowed subjects to use all five lobes of the lungs.
 3. Perceived exertion was lower.
-4.  Parasympathetic Nervous System Activation. (If you’ve read my other articles, it should not surprise you that this was the most fascinating to me.) “Parasympathetic nervous system activation increased significantly during nose breathing as compared to mouth breathing. The receptors for the parasympathetic nervous system are found concentrated in the lower lobes of the lungs.”[^36] (Remember, the importance of [diaphragmatic breathing](https://www.emilywyattsmiley.com/breathing)?) 
+4. Parasympathetic Nervous System Activation. (If you’ve read my other articles, it should not surprise you that this was the most fascinating to me.) “Parasympathetic nervous system activation increased significantly during nose breathing as compared to mouth breathing. The receptors for the parasympathetic nervous system are found concentrated in the lower lobes of the lungs.”[^36] (Remember, the importance of [diaphragmatic breathing](https://www.emilywyattsmiley.com/breathing)?) 
 
 > Douillard continues, “This suggests that nose breathing more efficiently accesses the lower lobes where most of the fat-burning or CO2 exchange takes place.”[^37]
 
@@ -238,9 +238,9 @@ Here’s where things get both a little counter-intuitive, but also start to mak
 
 Berman continues,
 
-> Nasal breathing allows “for more oxygen to get to active tissues. 
+> "Nasal breathing allows “for more oxygen to get to active tissues. 
 
-That is because breathing through the nose releases nitric oxide, which is necessary to increase carbon dioxide in the blood, which, in turn, is what releases oxygen. Mouth breathing does not effectively release nitric oxide, which means the cells are not getting as much oxygen as through nasal breathing, which could lead to fatigue and stress.”[^40]
+"That is because breathing through the nose releases nitric oxide, which is necessary to increase carbon dioxide in the blood, which, in turn, is what releases oxygen. Mouth breathing does not effectively release nitric oxide, which means the cells are not getting as much oxygen as through nasal breathing, which could lead to fatigue and stress.”[^40]
 
 #### Wait, Wait, Wait. What Was That About Nitric Acid?
 
@@ -266,7 +266,7 @@ According to Dr. Rosalba Courtney, one study “showed that nitric oxide inhibit
 
 > Let me be clear here: nasal breathing has *not* been proven to prevent the contraction and replication of COVID-19. 
 
-However knowing that nasal breathing might help decrease our risk, and inserts some control over something that has made us feel helpless on a global level, might at least help decrease stress levels and boost our immune systems in the process. 
+However, knowing that nasal breathing might help decrease our risk, and inserts some control over something that has made us feel helpless on a global level, might at least help decrease stress levels and boost our immune systems in the process. 
 
 ### Breathing Diaphragmatically
 
@@ -336,7 +336,7 @@ Breathe naturally.
 
 How did that feel?
 
-There’s a sense of panic associated with suffocating. Your lungs urge for more. Your chest might attempt to expand creating a nagging tugging at the back of your throat. 
+There’s a sense of panic associated with suffocating. Your lungs yearn for more. Your chest might attempt to expand creating a nagging tugging at the back of your throat. 
 
 Many people have panic attacks if this moment is prolonged. Which, in turn, might make them feel like they’re dying.
 
@@ -368,7 +368,7 @@ Even though pills and creams replaced it, this science has never been disproven.
 
 It has also been proven that “those with the worst anxieties consistently suffer from the worst breathing habits. People with anorexia or panic or obsessive-compulsive disorders consistently have low carbon dioxide levels and a much greater fear of holding their breath. To avoid another attack, they breathe far too much and eventually become hyper sensitized to carbon dioxide and panic if they sense a rise in this gas. They are anxious because they’re over breathing, over breathing because they’re anxious.”[^65]
 
-You can reverse this by literally breathing less. In a recent study conducted by professor of Psychology Alicia Meuret, subjects were able to prevent panic attacks by “breathing slower and consciously increasing their CO2.”[^66] 
+You can reverse this by literally breathing less. In a recent study conducted by professor of Psychology, Alicia Meuret, subjects were able to prevent panic attacks by “breathing slower and consciously increasing their CO2.”[^66] 
 
 Stephanie Pappas, author of *To Stave Off Panic, Don’t Take a Deep Breath*, writes, “The treatment works by normalizing the baseline levels of carbon dioxide in the blood…making people less prone to hyperventilation and giving them the tools they need to reverse an attack.”[^67]
 
@@ -402,6 +402,8 @@ If you have ever felt this response, you might be able to recall what your breat
 
 It most likely felt shallow and light, with your inhales deeper than your exhales. It was kind of like quietly hyperventilating. Like with tech apnea, during stress responses such as this, your body de-prioritizes deep breaths and you might stop breathing all together at times. 
 
+(You'll actually see fear expressed by breath holding a lot in a variety of novels, "She released the breath she didn't realize she was holding...")
+
 When I thought about this, it honestly felt like it went against everything I thought I knew about breath. Why would we stop breathing in stressful situations? Wouldn’t we want *more* oxygen?
 
 First, we have to look at the fear response: Freeze. 
@@ -414,7 +416,7 @@ So, you freeze.
 
 Remember this fear isn’t the same kind of fear created by lack of oxygen or CO2 in the body—that panic is induced by your central chemoreceptors. 
 
-Remember, fear response is based in the amygdala.
+This fear response is based in the amygdala.
 
 Christopher Bergland, author of *Neuroscientists Discover the Roots of ‘Fear-Evoked Freezing”* writes, “Before deciding to flee or fight, most mammals freeze for a few milliseconds to assess the situation before making the next move.”[^73]
 
@@ -483,7 +485,7 @@ We can breathe more efficiently by inhaling and exhaling through our noses. Nasa
 
 We can also breathe more efficiently by inhaling and exhaling into our bellies rather than our chests. Diaphragmatic breathing can help trigger the parasympathetic nervous system, and fill all five lobes in our lungs. This can not only help us breath more efficiently in relation to your resting metabolic rate, but also when you are exercising. In fact, nasal breathing diaphragmatically is more effective than mouth breathing diaphragmatically. 
 
-We also learned that holding our breath consciously and with intention has several psychological and physiological benefits. Holding our breath can actually help prevent panic attacks from becoming full-blown, and can help ease asthma and COPD through teaching our central chemoreceptors—a basic function of all living organisms—to calm the f down. It’s called carbon dioxide therapy, and it’s been around since the at least the ancient Romans (and prior due to the breathing techniques found ancient yogic texts).
+We also learned that holding our breath consciously and with intention has several psychological and physiological benefits. Holding our breath can actually help prevent panic attacks from becoming full-blown, and can help ease asthma and COPD through teaching our central chemoreceptors—a basic function of all living organisms—to calm the f down. It’s called carbon dioxide therapy, and it’s been around since at least the ancient Romans (and earlier due to the breathing techniques found ancient yogic texts).
 
 Lastly, we discussed the freeze response and breath holding. Again, breath holding during a freeze response is actually an unconscious act. Therefore, being in a “frozen” state can be extremely detrimental to our health. The frozen states occurs when we feel trapped, and our body prepares us for a traumatic experience. We can feel this in traumatic experiences such as sexual assault or a home invasion, when we believe there’s a monster in our closet, *or* when called on in class, or speaking publicly. 
 
@@ -495,7 +497,7 @@ For now, allow your brain to absorb the information.
 
 Go for a walk. 
 
-Wear your mask, unless your vaccinated and outside.[^84]
+Wear your mask, unless you're vaccinated and outside.[^84]
 
 Breathe in.
 
