@@ -6,7 +6,7 @@ image:  images/scale.jpg
 ---
 
 
-Well, here it is: The second installment of my History of Dieting series. This one starts back in the ancient times. Ancient Greece in roughly 500-400 BCE, to be slightly more precise. 
+This one starts back in the ancient times. Ancient Greece in roughly 500-400 BCE, to be slightly more precise. 
 
 Today, our concept of dieting has two meanings: 
 1. What we eat as a population, i.e. the American Diet
@@ -16,15 +16,13 @@ For an Ancient Grecian, the idea of a diet means something completely different.
 
 Dieting back in the day was quite closely related to medical health and readily used as a medical treatment. 
 
-> A warning: today’s article is quite heavy on medical history. 
-
-Now that you’ve been warned: Pull up your socks, and hold on to your tuchus. We’re about to go for a little stroll down one of my favorite paths: Medical History Lane.
+> Tha'ts right. Pull up your socks. Put on your hiking boots. We’re about to go for a little stroll down Medical History Lane.
 
 ## Medical History Lane
 
 We’ll start with Hippocrates. 
 
-Ah, Hippocrates: the Father of Medicine, the author of the Hippocratic oath,   and the creator of Western humoral theory.
+Ah, Hippocrates: the Father of Medicine, the author of the Hippocratic oath, and the creator of Western humoral theory.
 
 We can’t start talking about medical history without at least mentioning Hippocrates. Like I said, the man is the Father of Medicine. Hippocrates lived from about 450 to 370 BCE. And, despite popular belief, most of his writings were actually written by several different people.[^3]
 
@@ -52,7 +50,7 @@ Despite this very…colorful…medical concept—which we will discuss at length
 
 I’ll explain, and then I’ll argue a form of humoral medicine is still practiced today.
 
-It’s at this point on our trip down Medical History Lane that we find ourselves a bit lost in the weeds. The once clear path of progress has devolved into a barely trudge-able bramble of weeds, twigs, and those vines with the thorny stems that bite through your jeans. Yes, this part of our path is dense, and dark. So, we’ll try to get through it as quickly as possible.
+It’s at this point on our trip down Medical History Lane that we find ourselves a bit lost in the weeds. The once clear path of progress has devolved into a barely trudge-able bramble of weeds, twigs, and those vines with the thorny stems that bite through your jeans. Yes, this part of our path is dense, and dark. It can be a bit scary here. So, just like going through a haunted house, we’ll try to get through it as quickly as possible.
 
 To understand Renaissance medical history, you have to have at least a small understanding of world events prior. 
 
@@ -76,7 +74,7 @@ Michael Harris, author of * A History of Libraries in the Western World*, wrote
 
 Some works were saved. Some of the works were recopied and circulated through other texts. However, our understanding of ancient culture is extremely limited because of this. 
 
-Along with the rise of monotheism, the world saw eight different holy wars fought on a global scale, three of the worst plagues in human history (heard of the Black Death?), and extreme famine. So, why is a nine-hundred year chunk of human history referred to as the “Dark Ages” (AKA medieval period or Middle Ages)? Societal progress (the evolution of knowledge in fields such as science, philosophy, government, and art), simply wasn’t prolific. Not lost, mind you, but slowed to a crawl. Physicians of the Middle Ages still practiced Humoral medicine as taught by Hippocrates and, later, Galen, but they didn’t push medical progress forward in any great way.
+Along with the rise of monotheism, the world saw eight different holy wars fought on a global scale, three of the worst plagues in human history (heard of the Black Death?), and extreme famine. So, why is a nine-hundred year chunk of human history referred to as the “Dark Ages” (AKA medieval period or Middle Ages)? Societal progress (the evolution of knowledge in fields such as science, philosophy, government, and art), simply wasn’t prolific. Not lost, mind you, but slowed to a crawl. Physicians of the Middle Ages still practiced humoral medicine as taught by Hippocrates and, later, Galen, but they didn’t push medical progress forward in any great way.
 
 Welp, we made it. We cut through the brambles. We stomped down the twigs. We machete-ed through those pesky, thorny vines. Now, we find ourselves back on a, somewhat, clearer path. Brush off the dirt. Put a Band-Aide™ on any cuts. Ice any bumps you might have.[^16] 
 
@@ -90,7 +88,7 @@ Good.
 
 Let’s continue down Medical History Lane, shall we?
 
-Germany’s Johannes Gutenberg invented the printing press in 1440, allowing for faster and easier communication. Moveable type was way more efficient that hiring scribes to write every letter by hand.
+Germany’s Johannes Gutenberg invented the printing press in 1440, allowing for faster and easier communication. Moveable type was way more efficient than hiring scribes to write every letter by hand.
 
 Meanwhile, in Florence, the Renaissance Age was starting to take shape. The Medici family, along with other incredibly rich families, started to financially support budding artists. Italian writers, politicians, scientists, and artists (Da Vinci, Descartes, Galileo, Hobbes, Chaucer, Dante…you get the idea) vowed to pull society into an Age of Enlightenment—and out of the “Dark Ages”. The humanism movement allowed for the idea that man was the center of his own universe—rather than what was taught under Catholicism. 
 
@@ -117,7 +115,7 @@ One way to find balance way to prescribe the eating of a certain food. Another w
 
 Bloodletting was common practice all the way back to Galen.[^22] Surgeons in the renaissance continued to use bloodletting as a treatment for fever, hypertension (high blood pressure), inflammation of the lungs, and pulmonary edema (excess fluid in the lungs).[^23] 
 
- According to Dr. Maria Cohut’s article _Bloodletting: Why doctors use to bleed their patients for health_, medieval and Renaissance-period physicians “would choose to make an incision either close to the part of the body requiring treatment or in an opposite side of the body that allegedly corresponded to the affected organ.”[^24] Illustrations of bloodletting litter medical books from this period. You can find one such image [here](https://en.wikipedia.org/wiki/File:Gersdorff_Feldbuch_s16.jpg).[^25]
+ According to Dr. Maria Cohut’s article _Bloodletting: Why doctors used to bleed their patients for health_, medieval and Renaissance-period physicians “would choose to make an incision either close to the part of the body requiring treatment or in an opposite side of the body that allegedly corresponded to the affected organ.”[^24] Illustrations of bloodletting litter medical books from this period. You can find one such image [here](https://en.wikipedia.org/wiki/File:Gersdorff_Feldbuch_s16.jpg).[^25]
 
 Bloodletting became so common a medical practice that barber-surgeons administered such treatments.[^26] “These individuals were men who could trim a person’s hair or beard, as well as pulling out badly damaged teeth and withdrawing blood.[^27] Ew. Ew ew. Ew.
 
@@ -125,7 +123,7 @@ Wanna hear something really terrifying?  Bloodletting was a fairly common practi
 
 Dr. Gerry Greenstone wrote in the *BC Medical Journal*, “the leech can help reduce venous congestion and prevent tissue necrosis. In this way it can be used in the postoperative care of skin grafts and re-implanted fingers, ears, and toes. Because of concern regarding second­ary infections a ‘mechanical leech’ has been developed at the University of Wisconsin.”[^29]
 
-However, it can be argued that because of all this blood letting, it became obvious to physicians of the late Middle Ages and Renaissance that humans needed a certain amount of blood in their body to survive. “By looking into how changing the volume of blood in the body might affect its health, doctors eventually came to understand more and more about blood circulation, the important of blood to health, and the characteristics of blood.”[^30] Which, in turn, contributed to the practice of blood transfusions “as early as the 1400s.”[^31] 
+However, it can be argued that because of all this blood letting, it became obvious to physicians of the late Middle Ages and Renaissance that humans needed a certain amount of blood in their body to survive. “By looking into how changing the volume of blood in the body might affect its health, doctors eventually came to understand more and more about blood circulation, the importance of blood to health, and the characteristics of blood.”[^30] Which, in turn, contributed to the practice of blood transfusions “as early as the 1400s.”[^31] 
 
 That being said, bloodletting was only a small portion of Western Humoral theory. Many times, a physician would prescribe a change in diet “for counteracting the imbalance by means of opposite forces.”[^32]
 
@@ -133,11 +131,11 @@ That being said, bloodletting was only a small portion of Western Humoral theory
 
 Thanks to Galen’s adaptation of Hippocrates’ theory, nearly everything in nature related to the humors. Therefore, certain foods promoted certain qualities, and related to specific humors. “Foods that are hot and dry promote yellow bile, for example.” [^34] So, “a cold and moist distemperature would be corrected with a hot and dry regimen that might include hot herbs.”[^35] Many of the guidelines as to what food belongs in which category of humor largely based on flavor. “Pleasant-tasting foods were often seen as more nourishing, and unpleasant foods less so.”[^36] Ken Albala, a Professor of History and Cultural Ambassador for Aspictopia at the University of the Pacific, notes, 
 
-> > “Sweetness indicates heat and moisture, which is a sure sign that a food will be nourishing. It is apparently the only flavor that newborn infants instinctively enjoy…Our natural aversion to bitter foods indicates, by the same logic, that they are not nutritious. They are the opposite of sweetness, which should mean schematically that they are cold and dry…”[^37]
+“Sweetness indicates heat and moisture, which is a sure sign that a food will be nourishing. It is apparently the only flavor that newborn infants instinctively enjoy…Our natural aversion to bitter foods indicates, by the same logic, that they are not nutritious. They are the opposite of sweetness, which should mean schematically that they are cold and dry…”[^37]
 
-In Ken Albala’s book, _Eating Right in the Renaissance_—upon which I have, admittedly, relied heavily for this part of the article—the system is described as complex and hard to follow. Even the physicians in the Renaissance struggled with the rules and guidelines for what foods accomplished the proper balance.[^38]Taste was a primary factor for sure, but other factors such as where the food came from, the texture of the thing, even the habitat in which the thing was grown or harvested were taken into account. 
+In Ken Albala’s book, _Eating Right in the Renaissance_—upon which I have, admittedly, relied heavily for this part of the article—the system is described as complex and hard to follow. Even the physicians in the Renaissance struggled with the rules and guidelines for what foods accomplished the proper balance.[^38] Taste was a primary factor for sure, but other factors such as where the food came from, the texture of the thing, even the habitat in which the thing was grown or harvested were taken into account. 
 
-“Cattle fed cold and dry oats become cold and dry; sheep fed grass become cold and moist.”[^39] If you were to eat steak from a cattle fed cold and dry oats, the black bile (cold and dry, remember?) in your body would increase.  “The predominant humor is passed from fodder to feeder down the food chain until it ends up on our table.”[^40]
+“Cattle fed cold and dry oats becomes cold and dry \[steak]; sheep fed grass becomes cold and moist \[mutton].”[^39] If you were to eat steak from a cattle fed cold and dry oats, the black bile (cold and dry, remember?) in your body would increase.  “The predominant humor is passed from fodder to feeder down the food chain until it ends up on our table.”[^40]
 
 Essentially, the humors boil down to one simple, yet prolific, thought experiment: You are what you eat.
 
@@ -149,13 +147,13 @@ Great question, dear reader. Man, you are one smart cookie.[^42]
 
 **The Modern Western Diet**
 
-Historian Julia Skinner, makes a lovely point in _The Epoch Times_, “While our larger cultural belief in the relationship between food and health changes over time, we are in a moment where the connection between the two is becoming re-emphasized. We see humoral theory’s legacy in common sayings (“starve a fever, feed a cold”)...Most interesting to me as a food historian is seeing long-standing humor-balancing combinations echoed in some of our most beloved modern flavor combinations, like mustard and pork or lemon and fish.”[^43] 
+Historian Julia Skinner, makes a lovely point in _The Epoch Times_, “While our larger cultural belief in the relationship between food and health changes over time, we are in a moment where the connection between the two is becoming re-emphasized. We see humoral theory’s legacy in common sayings (“starve a fever, feed a cold”)...Most interesting to me as a nutritionist and historian is seeing long-standing humor-balancing combinations echoed in some of our most beloved modern flavor combinations, like mustard and pork or lemon and fish.”[^43] 
 
 Humorists believed meats like fish and pork maintained moist, cooling natures. They, effectively, slowed the metabolism. “To balance out this cooling effect, oftentimes warming condiments and sides—acidic things like vinegar or lemon juice, or spicy things like mustard—would be added.”[^44]
 
-Skinner goes on to point out that these combination of flavors actually balance each other out.[^45] The acidity of a lemon might cut the savory, gamey taste of fish. Skinner proceeded to say, low-calorie diet cookbooks in the 1970s encouraged the combination of lemon and fish as a healthy option (and they still do—because fish is pretty healthy as far as meat is concerned).[^46]  “Hardly any of these cookbooks use the word ‘balance’ (or flavors, nutrients, or whatever else) when describing the dish and its health benefits. But even if not named, the concept is still there, in the idea of bringing multiple, often dissonant flavor profiles into a dish.[^47]
+Skinner goes on to point out that these combinations of flavors actually balance each other out.[^45] The acidity of a lemon might cut the savory, gamey taste of fish. Skinner proceeded to say, low-calorie diet cookbooks in the 1970s encouraged the combination of lemon and fish as a healthy option (and they still do—because fish is pretty healthy as far as meat is concerned).[^46]  “Hardly any of these cookbooks use the word ‘balance’ (or flavors, nutrients, or whatever else) when describing the dish and its health benefits. But even if not named, the concept is still there, in the idea of bringing multiple, often dissonant flavor profiles into a dish.[^47]
 
-Recipes that combine sweet and fatty flavors or salty and acidic flavors, “might be seen as an unwitting complement to humoral theory, that helped popularize this flavor combination in the western world.[^48]
+Recipes that combine sweet and fatty flavors or salty and acidic flavors, “might be seen as an unwitting complement to humoral theory, that helped popularize this flavor combination in the western world."[^48]
 
 > Did you know: “When you eat something fatty, the oils coat your tongue and eventually dull your taste receptors. Acid washes that fat away, allowing you to taste the flavors like your very first bite. This is one reason steak and red wine are best friends.”[^49]
 
@@ -173,7 +171,7 @@ Why is alternative medicine, often rooted in humoral medicine and dieting, comin
 
 For example, prolonged high stress situations can force someone to have chronic stomach pain. Biomedicine might help with the stomach pain by prescribing ultra strong Pepto, but it doesn’t always take the stress causing the stomach pain into account. 
 
-Sometimes, alternative medicine allows for a bit more “zooming out” than biomedicine might. “Since all of these treatments and systems of alternative medicine focus on the realignment of the components of the body—whether that be the Xing and Shen in tradition Chinese medicine or the three Doshas in Ayurvedic Medicine—in order to achieve better states of health, they directly coincide with the ideology of…humoralism.”[^53]
+Sometimes, alternative medicine allows for a bit more “zooming out” than biomedicine might. “Since all of these treatments and systems of alternative medicine focus on the realignment of the components of the body—whether that be the Xing and Shen in traditional Chinese medicine or the three Doshas in Ayurvedic Medicine—in order to achieve better states of health, they directly coincide with the ideology of…humoralism.”[^53]
 
 “Although biomedicine is key in curing certain issues, the personalized care and concern for each individual as well as the focus on addressing the root problem of a disease are tremendous advantages of alternative medicine.”[^54] 
 
@@ -181,13 +179,13 @@ Alternative medicine can promote mindfulness, self-awareness, and a healthier re
 
 **Ayurvedic Medicine**
 
-In the yoga world the Ayurvedic diet is really re-gaining steam. So I wanted to give it it’s due here.
+In the yoga world, the Ayurvedic diet is really re-gaining steam. So I wanted to give it it’s due here.
 
 I say re-gaining because, “ayurveda is considered as one of the oldest of the traditional systems of medicines accepted worldwide.”[^55] It is also proof that the general concept of humoral medicine was founded by several different ancients cultures across the globe.
 
- Ayurveda “characterizes the human as the combination of three Ayurvedic principles, known as Dosha, which can have a direct impact on character and also influence disease.”[^56]
+Ayurveda “characterizes the human as the combination of three Ayurvedic principles, known as Dosha, which can have a direct impact on character and also influence disease.”[^56]
 
-“According Ayurveda, five elements make up the universe — vayu (air), jala (water), Akash (space), tea (fire), and prithvi (earth)…These elements are believed to form three different doshas, which are defined as types of energy that circulate within your body. Each dosha is responsible for specific physiological functions.”[^57] 
+“According to Ayurveda, five elements make up the universe — vayu (air), jala (water), Akash (space), tea (fire), and prithvi (earth)…These elements are believed to form three different doshas, which are defined as types of energy that circulate within your body. Each dosha is responsible for specific physiological functions.”[^57] 
 
 Essentially, the Ayurvedic diet helps you [determine your dosha](https://chopra.com/dosha-quiz) (Pitta, Vata, and Kapha) based on your main personality characteristics.[^58] Then, you eat specific foods according to your dosha. Sound familiar? 
 
@@ -195,13 +193,13 @@ Good. It should. Much like the humors of Ancient Greece to the Renaissance, on t
 
 Don’t bite my head off yet, Ayruveda coaches. While there are similarities between Western humoral medicine and Aryuvedic medicine (they arrived at around the same time in ancient history, for example), I could make a very, very strong case that Aryuvedic medicine was/is way more advanced than Western humoral medicine…like way more advanced. “India has a rich history of traditional system of medicine based upon six systems, out of which Ayurveda stands to be the most ancient, most widely accepted, practiced and flourished indigenous system of medicine.[^59]
 
-Sidenote: Ancient Egyptian and Indian medicine were so advanced it’s pretty mind-blowing. Ancient Egypt had some seriously impressive medical treatments written out on papyri you can find even today.[^60] Traditional Ayruvedic disciplines understood the importance of separating internal medicine from treatment of psychological disorders. They understood there was a different between pediatric treatment and geriatric treatment. You guys, ancient India had Ear, Nose, and Throat doctors. 
+Sidenote: Ancient Egyptian and Indian medicine were so advanced. It’s pretty mind-blowing. Ancient Egypt had some seriously impressive medical treatments written out on papyri you can find even today.[^60] Traditional Ayruvedic disciplines understood the importance of separating internal medicine from treatment of psychological disorders. They understood there was a difference between pediatric treatment and geriatric treatment. You guys, ancient India had Ear, Nose, and Throat doctors. 
 
 I realize I’m on a bit of a tangent at this point, but it is *really* interesting.
 
 ## Fin
 
-This blog won’t always be this history heavy. It’s just bonkers to me that something created by ancient beings thousands of years ago still has such an important role to play in our lives today. I find it comforting that human history follows us around like a friendly shadow. It constantly reminds us to learn from our mistakes, to hold on to knowledge that works, and not be afraid to adapt and evolve that knowledge to progress society in a positive direction. 
+This blog won’t always be this history heavy. It’s just bonkers to me that something created by ancient beings thousands of years ago still has such an important role to play in our lives today. I find it comforting that human history follows us around like a friendly ghost. It constantly reminds us to learn from our mistakes, to hold on to knowledge that works, and not be afraid to adapt and evolve that knowledge to progress society in a positive direction. 
 
 Humoral medicine—founded in different ancient cultures all over the world— and humoral dieting are nothing new. It’s literally ancient knowledge. It was the foundation of encouraging balanced meals and complex flavor profiles. It laid the ground work for alternative medicine that has adapted and evolved for thousands of years. And even through all that evolution and learning, its footprint is still so incredibly prevalent in our lives.
 
@@ -248,7 +246,7 @@ Humoral medicine—founded in different ancient cultures all over the world— a
 
 [^8]:	Ibid.
 
-[^9]:	Do you know the etymology of the word “hysteria” or “hysterical”? During the 16th Century up until all too recently, hysteria was believed to be a “neurotic condition” found in only women brought on by the dysfunction of the uterus. In Latin, “hystericus” literally means “of the womb”. They also believed women could have something called “floating womb”. Hey, to all the old white men who came up with all this sexist bullshit: Fuck you, and the privileged as fuck horse you rode in on. 
+[^9]:	Do you know the etymology of the word “hysteria” or “hysterical”? During the 16th Century up until all too recently, hysteria was believed to be a “neurotic condition” found only in women brought on by the dysfunction of the uterus. In Latin, “hystericus” literally means “of the womb”. They also believed women could have something called “floating womb”. Hey, to all the old white men who came up with all this sexist bullshit: Fuck you, and the privileged as fuck horse you rode in on. Don't even ask me about the invention of the chainsaw. 
 
 	This digression is brought to you by:
 	“Hysterical (Adj.).” Index, [www.etymonline.com/word/hysterical](https://www.etymonline.com/word/hysterical). 
@@ -267,7 +265,7 @@ Humoral medicine—founded in different ancient cultures all over the world— a
 
 [^16]:	I will say here that there’s a lot more nuance to this. If you’re a historian, don’t @ me, bro. I know I’ve skipped a lot. I know a lot of the points I’ve made could be argued for or against. I’m just trying to write a semi-entertaining, hopefully, educational, article for people trying to understand the foundation of diets that have stupid rules like, “Don’t eat anything white.” Mmk? Mmk.
 
-[^17]:	Though I will admit, Catholicism still had a bit of a strangle hold on scientific study. Just ask Galileo.
+[^17]:	Though I will admit, Catholicism still had a bit of a say over scientific study. Just ask Galileo how much fun his 9 years of house arrest were. What? too soon?
 
 [^18]:	Albala.
 
@@ -277,7 +275,7 @@ Humoral medicine—founded in different ancient cultures all over the world— a
 
 [^21]:	Albala.
 
-[^22]:	Galen would cut into his patients right behind the ears to treat vertigo and headache. He additionally believed letting blood flow out through an incision in the temporal arteries could treat eye conditions. Not at all accurate, but hey, at least their head didn’t hurt anymore? Yikes.
+[^22]:	Galen would cut into his patients right behind the ears to treat vertigo and headache. He additionally believed letting blood flow out through an incision in the temporal arteries could treat eye conditions. Not at all accurate, but hey, at least their heads didn’t hurt anymore? Yikes.
 
 	Cohut, Maria. “What Is Bloodletting, and Why Was It a Popular Therapy?” Medical News Today, MediLexicon International, 16 Nov. 2020, [www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request](https://www.medicalnewstoday.com/articles/bloodletting-why-doctors-used-to-bleed-their-patients-for-health#People-were-bled-at-their-own-request). 
 
