@@ -20,9 +20,9 @@ That’s your nervous system telling your muscles to move in a very specific way
 
 What about walking from a paved parking lot to a sandy beach while sending a text message all at the same time? Now you’ve added spelling, reading, finger movement, walking, and proprioceptive awareness to not fall on your face because the ground is suddenly squishy and weird.
 
-How about cooking dinner, and helping your kids with their homework?
+How about cooking dinner while simultaneously helping your kids with their homework?
 
-Sure, statistically speaking the more we multitask the less efficient we really are at tasks, *but* without our nervous systems we might as well be amoebas.[^3]
+Sure, statistically speaking the more we multitask the less efficient we really are at those tasks, *but* without our nervous systems we might as well be amoebas.[^3]
 
 > Fun fact: Neurons in the human body fire at speeds of about 270 miles per hour.[^4]
 
@@ -30,13 +30,13 @@ So, here’s my thought. If the nervous system is so important, how can I make *
 
 I’m still pretty stuck on the concept of using the parasympathetic nervous system to control the sympathetic nervous system. If those words make no sense to you [read this](https://www.emilywyattsmiley.com/breathing) then continue down this rabbit hole with me. 
 
-Don’t want to [read this](https://www.emilywyattsmiley.com/breathing#fn:11)?  Fine. Be that way.
+Don’t want to [read this](https://www.emilywyattsmiley.com/breathing)?  Fine. Be that way.
 
 ### A Quick Recap:
 
 The Sympathetic Nervous System (SNS) controls our fight or flight response as well as meets other energy demands.
 
-The Parasympathetic Nervous System (PNS) is a counter to the sympathetic nervous system. When the (SNS) is no longer needed, the parasympathetic nervous system helps bring other key systems of the body return to their resting/normal state.[^5]
+The Parasympathetic Nervous System (PNS) is a counter to the sympathetic nervous system. When the SNS is no longer needed, the PNS helps bring other key systems of the body return to their resting/normal state.[^5]
 
 ## Body Homeostasis
 
@@ -44,20 +44,20 @@ Let’s talk about homeostasis. Emeritus Professor Kelvin Rodolfo of the Univers
 
 The best way to understand body homeostasis is to think about the temperature of the human body. The average human has a temperature of around 98.6 (plus or minus a few tenths of a degree). 
 
-Our bodies regulate our temperatures in a variety of ways. For example, if we get too hot, we sweat to make more moisture available for evaporation. We might also grow flush as our small blood vessels automatically expand to bring more heated blood closes to the surface of the body so that it can cool.[^7]
+Our bodies regulate our temperatures in a variety of ways. For example, if we get too hot, we sweat to make more moisture available for evaporation. We might also grow flush as our small blood vessels automatically expand to bring more heated blood closer to the surface of the body so that it can cool.[^7]
 
-If we get too cold, we sweat less, we we might shiver more, and, eventually, our blood circulation to the skin reduces to keep our more vital organ warmer. Therefore, our body is constantly trying to create homeostasis depending on the conditions of our environment.[^8]
+If we get too cold, we sweat less, we might shiver more, and, eventually, our blood circulation to the skin reduces to keep our more vital organs warmer. Therefore, our body is constantly trying to create homeostasis depending on the conditions of our environment.[^8]
 
 There are all in all three types of homeostatic regulations in the human body.
 1. Osmoregulation: Expels excess water, salts, and urea from the body.
-2. Thermoregulating: Regulates the bodies temperature as previously discussed. 
+2. Thermoregulating: Regulates the body's temperature as previously discussed. 
 3. Chemical Regulation: Releases insulin and glucagon into the blood to respond to rising and falling blood glucose levels, increases breathing to increase carbon dioxide in the blood, etc.[^9]
 
 Still not quite getting it?
 
 Okay, analogy time. Your body—just your body, the flesh bag in which you reside—is a car. 
 
-You, as the car’s driver, are your body’s variety of systems that help create and maintain the three types of body homeostasis. If you drove the car without ever lifting your foot from the pedal or pressing onto the gas, and/or never turned the wheel as the road ahead requires, you will certainly crash into something.
+You (your brain/nervous system), as the car’s driver, are your body’s variety of systems that help create and maintain the three types of body homeostasis. If you drove the car without ever lifting your foot from the pedal or pressing onto the gas, and/or never turned the wheel as the road ahead requires, you will certainly crash into something.
 
 That’s how body homeostasis works.
 
@@ -79,7 +79,7 @@ So, how can we work on this SNS/PNS balance?
 
 When I was sequencing my yoga class today, I started really getting into the seven movements of the spine.[^12] I started to wonder if spinal movement affected the nervous system at all. After all, our spinal cord is the information super highway of our bodies.[^13] 
 
-My [last article](https://www.emilywyattsmiley.com/breathing#fn:11) proved that we can stimulate the SNS and PNS through our breath, long muscular holds, and diaphragmatic breathing. So, the concept of physically working our spines in specific ways to stimulate balance between the PNS and SNS doesn’t seem that insane. Spinal movement to promote body homeostasis through SPB (sympathetic/parasympathetic balance) seems promising.
+My [last article](https://www.emilywyattsmiley.com/breathing) proved that we can stimulate the SNS and PNS through our breath, long muscular holds, and diaphragmatic breathing. So, the concept of physically working our spines in specific ways to stimulate balance between the PNS and SNS doesn’t seem that insane. Spinal movement to promote body homeostasis through SPB (sympathetic/parasympathetic balance) seems promising.
 
 Turns out, I wasn’t the only one who had that thought.
 
@@ -93,7 +93,7 @@ The real kicker for me though: “In the clinical context, this has important im
 
 Hypoalgesia is a decrease in sensitivity to painful stimuli. Hypoalgesia happens most often when painful stimuli are reduced somewhere along the neurological information highway. Essentially, hypoalgesia is when your brain isn’t told about, or can’t focus on, the pain you’re feeling. 
 
-Think about stubbing your toe. What’s the first thing you do after you’ve whammed your little piggy against that dammed table leg? 
+Think about stubbing your toe. What’s the first thing you do after you’ve whammed that little piggy against the dammed table leg? 
 
 You gently touch that little piggy. And if it still hurts, you rub that little piggy.[^18] It’s one of the first life hacks we tell our kids after they’ve accidentally hurt themselves, isn’t it?
 
@@ -128,11 +128,11 @@ Their brain doesn’t have enough input to compute between the hot and cold. Onl
 
 Rogan et al noted, “In clinical and research settings in physiotherapy, the SNS is largely included in explanatory models for the development and chronification of pain. In osteopathy, for example, a model hypothesizes that disorders of the SNS can promote *and intensify* disease process. Especially the SNS can influence the trophicity (the nourishment of tissues) of various tissues as well as the blood circulation of the skin in the healthy and patients.”[^22]
 
-An overactive SNS, perhaps in someone experiencing acute or chronic pain can cause an imbalance in muscle blood flow, can cause unnecessary muscle activation, and altered proprioception.[^23] Though this is significantly more common in those with chronic pain.
+An overactive SNS, perhaps in someone experiencing acute or chronic pain, can cause an imbalance in muscle blood flow. This can cause unnecessary muscle activation, and altered proprioception.[^23] Though this is significantly more common in those with chronic pain.
 
-> Fun fact: the same goes for populations with chronic stress. Our SNS are similarly triggered by mental stress and physical, musculoskeletal, pain. [^24]
+> Fun fact: the same goes for populations with chronic stress. Our SNS are similarly triggered by mental stress and physical, musculoskeletal pain. [^24]
 
-We have to at least briefly discuss pain because pain is a large part of SNS activation, and, therefore, throws off body homeostasis. 
+We have to at least briefly discuss pain because pain is a large part of SNS activation, and throws off body homeostasis. 
 
 ### Exercise and Hypoalgesia
 
@@ -144,15 +144,15 @@ Rice et al wrote, “In people with chronic widespread pain, lower parasympathet
 
 I’ve been talking about the SNS a lot, but the PNS is not to be forgotten here. 
 
-Hallman and Lyskov wrote, “Studies have shown that parasympathetic withdrawal can facilitate sympathetic dominance of an ANS (autonomic nervous system) response and thus contribute to inadequate stress responses and cardiovascular adjustments during recovery following exercise of during sleep.”[^27] 
+Hallman and Lyskov wrote, “Studies have shown that parasympathetic withdrawal can facilitate sympathetic dominance of an ANS (autonomic nervous system) response and thus contribute to inadequate stress responses and cardiovascular adjustments during recovery following exercise, or during sleep.”[^27] 
 
 They continued, “It is known that conditions of psychological stress or pain can result in reduced parasympathetic (vagal) activity, a state that is associated with increased morbidity and all-cause mortality. For instance, reduced heart rate variability (HRV) reflected diminished parasympathetic (vagal) activity in workers who reported high levels of perceived stress and in people afflicted with chronic muscle pain.”[^28]
 
-Okay, so the more can slow our heart rates the more our parasympathetic nervous system can be triggered. Makes sense. So, even though heart rate is regulated by both the SNS, and the PNS, the calmer we can make ourselves, the better our PNS will function. [^29] 
+Okay, so the more we can slow our heart rates the more our parasympathetic nervous system can be triggered. Makes sense. So, even though heart rate is regulated by both the SNS and the PNS, the calmer we can make ourselves the better our PNS will function. [^29] 
 
-Therefore, it can be concluded that the great our heart rate variability, the better our parasympathetic tone.[^30]
+Therefore, it can be concluded that the greater our heart rate variability, the better our parasympathetic tone.[^30]
 
-Hence the deep diaphragmatic breathing techniquesI discussed to trigger the PNS.
+Hence the deep diaphragmatic breathing techniques I discussed to trigger the PNS.
 
 But, can we trigger this through spinal mobility as well?
 
@@ -160,11 +160,11 @@ But, can we trigger this through spinal mobility as well?
 
 So, how can spine mobility help to create body homeostasis between the PNS and the SNS?
 
-Like anything else in the body, the nervous system can lose mobility. Physical Therapist, Joe Uhan wrote, The nervous system can lose mobility when any part of the spinal column become stiff…”[^31]
+Like anything else in the body, the nervous system can lose mobility. Physical Therapist, Joe Uhan wrote, The nervous system can lose mobility when any part of the spinal column becomes stiff…”[^31]
 
 Can we better serve our body homeostasis by mobilizing the spine in specific ways, then?
 
-Remember those Swiss physiotherapists we talked about earlier? In their review, they noted, “To date, only one pilot study on the possible effect of TSM [Thoracic Spine Movement] (T1-T5) on HRV [heart rate variability], BP [blood pressure], and HR [heart rate] as proxies for SPB [sympathetic/parasympathetic balance] has been published.”[^32]
+Remember those Swiss physiotherapists we talked about earlier? In their review, they noted, “To date, only one pilot study on the possible effect of TSM (Thoracic Spine Movement) (T1-T5) on HRV (heart rate variability), BP (blood pressure), and HR (heart rate) as proxies for SPB (sympathetic/parasympathetic balance) has been published.”[^32]
 
 Okay, I’m about to describe a scientific pilot study to you. It will be an overview, I’m leaving out some things for the sake of your and my sanity. If you’re interested in how they kept their tests as consistent as possible [go here](https://archivesphysiotherapy.biomedcentral.com/articles/10.1186/s40945-019-0067-2). 
 
@@ -182,7 +182,7 @@ They then rhythmically oscillated their subjects’ spines using anterior-poster
 
 On  the second day, the groups were switched. Group 1 performed the movements of group 2. Group 2 performed the movement of group 1.
 
-The results of the study were promising. “The results of the present pilot study suggest that TSM (T6 - T12) using PAM [posterior-anterior mobilization] but not APM [anterior-posterior mobilization] has the ability to induce SNS *and* PNS stimulation. The target parameters…changed significantly with large effect sizes after PAM.”[^36] (I added emphasis for effect.)
+The results of the study were promising. “The results of the present pilot study suggest that TSM (T6 - T12) using PAM (posterior-anterior mobilization) but not APM (anterior-posterior mobilization) has the ability to induce SNS *and* PNS stimulation. The target parameters…changed significantly with large effect sizes after PAM.”[^36] (I added emphasis for effect.)
 
 There’s more to be studied here. As mentioned, this is an overview, but there were some admitted inconsistencies in this study. Reminder: this was only a pilot study. 
 
@@ -206,7 +206,7 @@ Much like we can floss—or stretch—specific nerves, we might be able to help 
 
 For now, breathe deeply, and, you know, move your spine around a little bit, just in case I’m right.
 
-[^1]:	.
+[^1]:	(I'm not sure what this footnote was supposed to be...)
 
 [^2]:	If you don’t know what a tensegrity (tense-egg-grity) model is, look it up. Chances are you’ve seen one at least in passing. Check them out. They’re very cool.
 
@@ -266,7 +266,7 @@ For now, breathe deeply, and, you know, move your spine around a little bit, jus
 
 [^21]:	Ibid.
 
-	This article is buck wild. I don’t mention in the article because this is already a tangent, but it has been proven that adding sensory input can relieve chrome phantom limb pain experienced by some amputees. How? Using visual tricks with a mirror to fool the brain into the thinking the limb is still there. Once the brain is reassured the body is whole, the pain subsides. Mind. Blown.
+	This article is buck wild. I don’t mention it in this blog post because this is already a tangent, but it has been proven that adding sensory input can relieve chronic phantom limb pain experienced by some amputees. How? Using visual tricks with a mirror to fool the brain into the thinking the limb is still there. Once the brain is reassured the body is whole, the pain subsides. Mind. Blown.
 
 [^22]:	Rogan, Slavko, et al.  [https://www.archivesphysiotherapy.biomedcentral.com/articles/10.1186/s40945-019-0067-2](https://www.archivesphysiotherapy.biomedcentral.com/articles/10.1186/s40945-019-0067-2). 
 
