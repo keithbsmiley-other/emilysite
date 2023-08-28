@@ -13,7 +13,7 @@ Instagram & Threads: @emilywyattsmiley
 
 Mastadon: \@emilywyattsmiley@writing.exchange
 
-(I'm as bad at posting as I am at keeping up blogs.)
+(I'm as bad at posting on social media as I am at keeping up blogs.)
 
 
 
