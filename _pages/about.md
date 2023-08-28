@@ -11,7 +11,7 @@ You can find me on:
 
 Instagram & Threads: @emilywyattsmiley
 
-Mastadon: @emilywyattsmiley@writing.exchange
+Mastadon: \@emilywyattsmiley@writing.exchange
 
 
 
