@@ -3,7 +3,7 @@
 // *****************
 
 // Spaces
-$base-spacing-unit: 20px;
+$base-spacing-unit: 10px;
 
 
 // *****************
@@ -13,10 +13,10 @@ $brand-color: #d8534f;
 $dark: #212121;
 $gray: #7f7f7f;
 $light-gray: #eee;
-
+$border-color: #eee;
 
 // Background Colors
-$background-color: #fff;
+$background-color: #fdfdfd;
 
 // Body Color
 $text-color: $dark;
@@ -26,7 +26,7 @@ $heading-font-color: $dark;
 
 // Links
 $link-color: $dark;
-$link-color-hover: darken($dark, 15%);
+$link-color-hover: $brand-color;
 
 // Border
 $border-color: $light-gray;

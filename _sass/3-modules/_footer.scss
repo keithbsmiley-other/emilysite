@@ -1,8 +1,9 @@
 /* Footer */
 .footer {
+  width: 100%;
   padding: 80px 20px 40px;
   text-align: center;
-  background-color: $dark;
+  border-top: 1px solid $border-color;
 
   /* Footer Image */
   &.footer-image {
@@ -10,7 +11,6 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: $dark;
   
     &:before {
       content: "";
@@ -27,24 +27,25 @@
   /* Contact */
   .contact {
     position: relative;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
     
     .contact__item {
       display: inline-block;
-      margin: 0 10px;
+      margin: 0 20px;
     }
   
     .contact__link {
       display: inline-block;
-      width: 25px;
-      height: 25px;
-      font-size: 15px;
-      line-height: 25px;
+      width: 50px;
+      height: 50px;
+      font-size: 25px;
+      line-height: 35px;
       border-radius: 25px;
-      color: #fff;
+      // color: #fff;
       background-color: rgba(255, 255, 255, 0.25);
 
       &:hover {
+        color: #fff;
         background-color: $brand-color;
       }
     }
@@ -54,14 +55,14 @@
   .copyright {
     position: relative;
     font-size: 13px;
-    color: #fff;
+    // color: #fff;
   
-    .copyright__link {
-      color: darken(#fff, 20%);
+    // .copyright__link {
+    //   color: darken(#fff, 20%);
       
-      &:hover {
-        color: #fff;
-      }
-    }
+    //   &:hover {
+    //     color: #fff;
+    //   }
+    // }
   }
 }

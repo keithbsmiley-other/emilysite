@@ -4,9 +4,6 @@ title: Books in Progress
 permalink: /books-in-progress
 ---
 
-### The Silvestrian
+### Treading Water
 
-THE SILVESTRIAN is a 115,000 word epic fantasy about Lyana, a fledgling Silvestrian warrior, who just escaped from the king’s dungeons with the only friend she has left in the world—a snarky, panther-like familiar named Kess. An arrow caught Kess during the getaway, but a mysterious mage appears just in time to save her life. The mage, Jasper, tells Lyana that her sister, who she believed to be dead, is alive and wandering the dangerous roads of Cael alone. The three of them set out to find and protect the girl—whoever she may be—despite the threat of being recaptured by the king’s men. Along the way, Lyana and her company must survive incessant attacks from soldiers and a mysterious sorceress determined to bring her back to the castle, dead or alive. As Lyana grows closer to Jasper, she reveals more about how she and Kess were kidnapped from their own sacred land, held captive in the dungeons, forced to fight in the king’s gladiator-like games against other Silvestrian warriors like herself, and, ultimately, why they risked everything to escape.[^1]
-
-
-[^1]: This is Book 1 in the Caelian Uprising Trilogy
+Dallas London's brother is dead. He drowned off the coast of Maui. Now back home in San Francisco, Dallas has to learn how to cope. It isn't going well. Dallas barely sleeps, and a steady diet of stale pizza, Twinkies, and Lucky Strikes aren’t helping. Even worse, someone else in the Bay area has gone missing, triggering Dallas in a big way. She hallucinates a monster during her therapy appointment, but it was probably nothing. Because monsters aren't real. Deny, deny, deny becomes her mantra until her imaginary monster tries to actually kill her. Enter: Death. A snarky, sexy young woman who presents Dallas with a proposition. If Dallas finds out who is stealing the souls of the drowned, Death will protect Dallas from her very real monster problem. Desperate, she accepts Death's offer. The cost includes a quick trip to Hell—not a big deal; Dallas has been in hell since her brother died. But it will also force her to face her grief—which is enough to make her wish she'd been the one to sink into the Pacific abyss.

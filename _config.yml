@@ -1,24 +1,19 @@
-title: Emily Wyatt Smiley
+title: Emily Smiley
 # logo: "images/logo.svg"
 description: some description
 # baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://emilywyattsmiley.com"
 
 author:
-  name: Emily Wyatt Smiley
+  name: Emily Smiley
   bio: TODO
 
 # Contact links
 # twitter: https://twitter.com/
 # facebook: https://facebook.com/
-instagram: https://instagram.com/EmilyWyattSmiley
+instagram: https://instagram.com/EmilySmileyWrites
 # pinterest: https://pinterest.com/
 email: emilywyattsmiley@gmail.com
-
-hero: true
-# hero-title:
-# hero-subtitle:
-hero-image: images/Headshot.jpeg
 
 footer-image: images/footer.jpg
 

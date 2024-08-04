@@ -75,7 +75,7 @@ blockquote {
   line-height: 34px;
   border-left: 3px solid $brand-color;
   font-style: normal;
-  
+
   cite {
     font-size: 16px;
     font-style: normal;
@@ -104,7 +104,7 @@ pre {
 
 
 // Images
-img, 
+img,
 .zoom-img-wrap {
   max-width: 100%;
   height: auto;
@@ -127,7 +127,7 @@ a {
   text-decoration: underline;
   color: $link-color;
   transition: all .15s;
-  
+
   &:hover {
     color: $link-color-hover;
   }
