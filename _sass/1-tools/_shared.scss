@@ -4,7 +4,7 @@
 
 h1, h2, h3, h4, h5, h6,
 ul, ol, dl,
-blockquote, p, address,
+blockquote,  address,
 hr,
 table,
 fieldset, figure,
@@ -12,6 +12,9 @@ pre {
   margin-bottom: 30px;
 }
 
+iframe {
+  margin-top: 5px;
+}
 
 /**
  * Consistent indentation for lists.

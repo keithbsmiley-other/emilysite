@@ -114,6 +114,7 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
     @for $i from 0 through $columns {
       .col-m-#{$i} {
         width: percentage( $i / $columns );
+        padding-top: 10px;
       }
     }  
 
