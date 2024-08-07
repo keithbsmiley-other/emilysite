@@ -1,7 +1,13 @@
 /* Post */
 .page__title {
   text-align: center;
+  color: $light-gray;
+  background-image: url("images/blog-header.png");
+  background-repeat: no-repeat;
+  background-size: 65% 80px;
+  background-position: center;
 }
+
 .post__head {
   margin-bottom: 40px;
 
