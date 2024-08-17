@@ -1,9 +1,11 @@
-{% for book in site.books %}
+{% assign sorted_books = site.books | sort:"order" %}
+{% for book in sorted_books %}
 <!-- <div class="row"> -->
 <!-- 	<div class="col col-12"> -->
 <!-- 		<h1>{{ book.title | escape }}</h1> -->
 <!-- 	</div> -->
 <!-- </div> -->
+<div class="book">
 <div class="row">
 	<div class="col col-5 col-m-12">
 		<img class="row" src="{{ book.image | relative_url }}"/>
@@ -15,7 +17,8 @@
 
 <div class="row">
 	<div class="col col-12 col-m-12">
-		<iframe src="https://open.spotify.com/embed/playlist/4nC2yRtUdwzdV0i5956uY3?utm_source=generator&theme=1" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+		<iframe src="{{ book.spotify }}??utm_source=generator&theme=1" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 	</div>
+</div>
 </div>
 {% endfor %}
