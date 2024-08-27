@@ -1,7 +1,7 @@
 ---
 layout: books
 title: The Silvestrian
-image: images/The-silvestrian.jpg
+image: images/the-silvestrian.jpg
 spotify: https://open.spotify.com/embed/playlist/6kb0sLtqutpTdI7jxG06wQ
 order: 2
 ---
