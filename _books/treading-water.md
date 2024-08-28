@@ -11,4 +11,4 @@ Dallas London's brother is dead. He drowned off the coast of Maui. Now back home
 Treading Water is a finalist in the 2024 PNWA Unpublished Novel Contest in the Horror category.
 
 
-Below is a running playlist that gets me in the mood to work on this book.
+Below is a running playlist that gets me in the mood to work on this book. Ready to dive in? [Read chapter one](/treading-water-chapter-one).
