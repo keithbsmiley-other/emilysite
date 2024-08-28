@@ -9,7 +9,7 @@
         <div class="main-nav__box">
           <ul class="nav__list list-reset">
             {% for page in site.pages %}
-              {% unless page.name == 'tags.html' or page.name == '404.html' %}
+              {% unless page.skip == true %}
                 {% if page.title %}
                 <li class="nav__item">
                   <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
