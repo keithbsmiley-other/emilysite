@@ -12,4 +12,6 @@ order: 1
 
 &nbsp;&nbsp;&nbsp;&nbsp;Enter: Death. A snarky, sexy young woman who presents Dallas with a proposition. If Dallas finds out who is stealing the souls of the drowned, Death will protect Dallas from her very real monster problem. Desperate, Dallas accepts. The cost includes a quick trip to Hell—not a big deal; Dallas has been in hell since her brother died. But it will also force her to face her grief—which is enough to make her wish she'd just let the monster finish the job in the first place.<br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Treading Water came in first place in the Horror category of the 2024 PNWA Unpublished Novel Contest. Below is a running playlist that gets me in the mood to work on this book. Ready to dive in? [Read chapter one](/treading-water-chapter-one).
+&nbsp;&nbsp;&nbsp;&nbsp;Treading Water came in first place in the Horror category of the 2024 PNWA Unpublished Novel Contest. Below is a running playlist that gets me in the mood to work on this book.<br />
+
+Ready to dive in? [Read chapter one](/treading-water-chapter-one).
