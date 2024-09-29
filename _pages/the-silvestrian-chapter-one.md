@@ -35,11 +35,11 @@ Green leaves with serrated edges fluttered under her nose as she forced her brea
 </p>
 
 <p>
-She'd spent the past two days watching the old man who owned this land and the cottage sitting on it. As far as she could tell, he lived alone. No wife tended to the garden. No children visited. Every few hours, the old man would come out, cut a few leaves off of the prohiberty bush against the house, and return inside. Lyana needed the leaves from that medicinal herb, along with the food in the old man's cupboards and any other treasures the cabin might possess. This man's belongings were Lyana's only hope of keeping Kess alive, and Lyana had to keep Kess alive. Lyana's own life depended on it.
+She’d spent the past two days watching the old man who owned this land and the cottage sitting on it. As far as she could tell, he lived alone. No wife tended to the garden. No children visited. Every few hours, the old man would come out, cut a few leaves off of the prohiberty bush against the house, and return inside. Lyana needed the leaves from that medicinal herb, along with the food in the old man’s cupboards and any other treasures the cabin might possess. This man’s belongings were Lyana’s only hope of keeping Kess alive, and Lyana had to keep Kess alive. Lyana’s own life depended on it.
 </p>
 
 <p>
-She had been raised to practice diplomacy before resorting to violence. So, that was her plan. Diplomacy first. Violence second. She prayed to Sylva that the old man would be sympathetic to her cause. Perhaps, he would let her in. Offer her what she needed. She'd taken enough souls already.
+She had been raised to practice diplomacy before resorting to violence. So, that was her plan. Diplomacy first. Violence second. She prayed to Sylva that the old man would be sympathetic to her cause. Perhaps, he would let her in. Offer her what she needed. She’d taken enough souls already.
 </p>
 
 <p>
@@ -51,11 +51,11 @@ She took a step. A twig snapped underneath her. Another alert. She crouched even
 </p>
 
 <p>
-Her hand hovered over the dagger's hilt. She expected to see a battalion of the king’s men descend on her like ants from their crushed hill. But only the incessant croaking of that same chatty frog punctuated the night air. 
+Her hand hovered over the dagger’s hilt. She expected to see a battalion of the king’s men descend on her like ants from their crushed hill. But only the incessant croaking of that same chatty frog punctuated the night air. 
 </p>
 
 <p>
-Once she convinced herself she wasn’t about to be shot at, she stood. Her back ached. The bumps and bruises she'd acquired in the escape were healing nicely, but they still thrummed painfully in concert with her heartbeat. Her body yearned for a good night’s sleep and a decent meal.
+Once she convinced herself she wasn’t about to be shot at, she stood. Her back ached. The bumps and bruises she’d acquired in the escape were healing nicely, but they still thrummed painfully in concert with her heartbeat. Her body yearned for a good night’s sleep and a decent meal.
 </p>
 
 <p>
@@ -71,7 +71,7 @@ His age wore heavily on him. His skin pulled toward the earth as if eager to be 
 </p>
 
 <p>
-The old man’s watery, bloodshot eyes grew as large as plates as he took her in. Few had the privilege to meet a real Silvestrian warrior. She wasn’t a warrior anymore though. She had trained to be a warrior. She'd vowed to protect all that Sylva saw. But desperation had stolen the title of warrior from her and made her a threat instead.
+The old man’s watery, bloodshot eyes grew as large as plates as he took her in. Few had the privilege to meet a real Silvestrian warrior. She wasn’t a warrior anymore though. She had trained to be a warrior. She’d vowed to protect all that Sylva saw. But desperation had stolen the title of warrior from her and made her a threat instead.
 </p>
 
 <p>
@@ -87,11 +87,11 @@ Lyana took a step back. The muscles in her face relaxed. He wasn’t afraid of h
 </p>
 
 <p>
-His eyes softened as she paused. “You’re the one they’re looking for, aren’t you? You’re that Silvestrian that escaped."
+His eyes softened as she paused. “You’re the one they’re looking for, aren’t you? You’re that Silvestrian that escaped.”
 </p>
 
 <p>
-“Yes.” She was more than that though. She was the king's prized pet—a dog trained to enter the king's disgusting fighting pits over and over until there was nothing left of her soul. Lyana would never step foot into that ring again. 
+“Yes.” She was more than that though. She was the king’s prized pet—a dog trained to enter the king’s disgusting fighting pits over and over until there was nothing left of her soul. Lyana would never step foot into that ring again. 
 </p>
 
 <p>
@@ -99,11 +99,11 @@ The man’s bushy eyebrows connected just above his nose like a stretched-out ca
 </p>
 
 <p>
-The old man shifted his weight. "It's terrible what the king's done to your people." 
+The old man shifted his weight. “It’s terrible what the king’s done to your people.” 
 </p>
 
 <p>
-"Yes."
+“Yes.”
 </p>
 
 <p>
@@ -115,43 +115,43 @@ And there it was—the tell-tale quiver of fear. The unmistakable clacking of dr
 </p>
 
 <p>
-“The king’ll torture me and mine if I don’t tell him about you." He leaned on his pitchfork like it was a cane, not a potential weapon. In feeble hands even the sharpest sword is little better than a tool for tilling.
+“The king’ll torture me and mine if I don’t tell him about you.” He leaned on his pitchfork like it was a cane, not a potential weapon. In feeble hands even the sharpest sword is little better than a tool for tilling.
 </p>
 
 <p>
-“So, the way I see it you have two options,” the old man said. “Be on your way. I’ll give you a head start. I'll wait until sun up before I tell the king’s men. Or, you can face me, like you have the others in the pits.” He held the lantern a little higher. The soft light cast sharp shadows against his sagging face. “Are you really the monster they say you are?”
+“So, the way I see it you have two options,” the old man said. “Be on your way. I’ll give you a head start. I’ll wait until sun up before I tell the king’s men. Or, you can face me, like you have the others in the pits.” He held the lantern a little higher. The soft light cast sharp shadows against his sagging face. “Are you really the monster they say you are?”
 </p>
 
 <p>
-Lyana took another step back, letting the moonlight shine down on her. Her amber eyes reflected in the man's wide, black pupils. She opened her palms to show that she was unarmed. Although, since her bonding with Kess, Lyana was never truly unarmed. 
+Lyana took another step back, letting the moonlight shine down on her. Her amber eyes reflected in the man’s wide, black pupils. She opened her palms to show that she was unarmed. Although, since her bonding with Kess, Lyana was never truly unarmed. 
 </p>
 
 <p>
-"The king doesn't have to know," she said. "Let me into your home. My fe chooseling is wounded. We need your help." She paused, hoping her pleas for mercy would overcome the old man's terror. "Please. If my fe, Kess, dies, I won't be far behind her. You can save two lives tonight."
+“The king doesn’t have to know,” she said.“Let me into your home. My fe chooseling is wounded. We need your help.” She paused, hoping her pleas for mercy would overcome the old man’s terror.“Please. If my fe, Kess, dies, I won’t be far behind her. You can save two lives tonight.”
 </p>
 
 <p>
-Holding the man against his will wasn't an option. She had to trust the king would never know of her whereabouts. It was the only way to stay out of his pits. Keeping this man captive would ensure no trust between them. She had to hope he would do the right thing. 
+Holding the man against his will wasn’t an option. She had to trust the king would never know of her whereabouts. It was the only way to stay out of his pits. Keeping this man captive would ensure no trust between them. She had to hope he would do the right thing. 
 </p>
 
 <p>
-The old man licked his thin lips. "I can't do that." He readjusted his weight, pointed the pitchfork at Lyana, and lunged.
+The old man licked his thin lips.“I can’t do that.” He readjusted his weight, pointed the pitchfork at Lyana, and lunged.
 </p>
 
 <p>
-Lyana wished she hadn't seen the attack coming. She wished she hadn't been forced to prepare for this outcome, but fear and prejudice always outweighed mercy and kindness. She knew that better than perhaps anyone else in Cael. 
+Lyana wished she hadn’t seen the attack coming. She wished she hadn’t been forced to prepare for this outcome, but fear and prejudice always outweighed mercy and kindness. She knew that better than perhaps anyone else in Cael. 
 </p>
 
 <p>
-It only took one quick step. One simple flick of her wrist. Muscle memory guided the dagger between the old man's ribs before Lyana realized what had happened. Murder in the name of self preservation came too easily to her.
+It only took one quick step. One simple flick of her wrist. Muscle memory guided the dagger between the old man’s ribs before Lyana realized what had happened. Murder in the name of self preservation came too easily to her.
 </p>
 
 <p>
-The man gasped. Dark liquid pooled on her arm as she lowered the dying man to the ground. The coppery tang of his blood mixed with the dirt's earthy musk, creating a repulsive potpourri. He coughed. Blood bubbled in his mouth, threatening to spill from his lips.
+The man gasped. Dark liquid pooled on her arm as she lowered the dying man to the ground. The coppery tang of his blood mixed with the dirt’s earthy musk, creating a repulsive potpourri. He coughed. Blood bubbled in his mouth, threatening to spill from his lips.
 </p>
 
 <p>
-"You are a monster." His last words forced a line of deep red to run from the corner of his mouth.
+“You are a monster.” His last words forced a line of deep red to run from the corner of his mouth.
 </p>
 
 <p>
@@ -159,15 +159,15 @@ He was right. Lyana would always be forced to choose: protect Kess and herself o
 </p>
 
 <p>
-She'd escaped the castle after months in his dungeons, but the king had won anyway.
+She’d escaped the castle after months in his dungeons, but the king had won anyway.
 </p>
 
 <p>
-"I am what he made me." Lyana clenched her teeth as she wiped her blade across her pant leg. Once again, she slipped the weapon between her trousers and her belt vowing to one day rid herself of the damned thing. She would throw it in the ocean and watch it sink with the heft of the souls it had taken.
+“I am what he made me.” Lyana clenched her teeth as she wiped her blade across her pant leg. Once again, she slipped the weapon between her trousers and her belt vowing to one day rid herself of the damned thing. She would throw it in the ocean and watch it sink with the heft of the souls it had taken.
 </p>
 
 <p>
-Lyana dragged the old man's body behind the same rose bush she'd used as a shield not five minutes ago. She would take care of him later. Right now, she needed to retrieve her fe. 
+Lyana dragged the old man’s body behind the same rose bush she’d used as a shield not five minutes ago. She would take care of him later. Right now, she needed to retrieve her fe. 
 </p>
 
 <p>
