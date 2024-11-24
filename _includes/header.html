@@ -8,7 +8,8 @@
       <nav class="main-nav col-12">
         <div class="main-nav__box">
           <ul class="nav__list list-reset">
-            {% for page in site.pages %}
+            {% assign sorted_pages = site.pages | sort: 'order' %}
+            {% for page in sorted_pages %}
               {% unless page.skip == true %}
                 {% if page.title %}
                 <li class="nav__item">
