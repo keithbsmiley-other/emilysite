@@ -9,7 +9,7 @@ order: 2
 
 - 2024 PNWA Unpublished Horror Novel Contest Winner
 
-## Everything is Fine (short story)
+## [Everything is Fine](https://crowcrosskeys.com/2025/03/19/everything-is-fine-emily-smiley/) (short story)
 
 - Crystal Lake Publishing Short Story Contest Finalist
-- Crows and Cross Keys publication date early 2025
+- Crows and Cross Keys publication date March 19, 2025

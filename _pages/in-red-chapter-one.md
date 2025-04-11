@@ -14,24 +14,20 @@ In Red
 Chapter One
 </h3>
 
-<p style="text-indent:0;">
-The sun’s rays bounced off the water, snuck underneath her sunglasses, and stabbed Annabeth Jefferds directly in the eye. She squinted and nearly ran into a pack of people taking a selfie in front of the ferris wheel. They were laughing. Smiling. Having fun. It all felt very personal somehow.
+<p>
+The sun’s rays bounced off the Puget Sound, snuck underneath her sunglasses, and stabbed Annabeth Jefferds directly in the eye. She squinted and nearly ran into a pack of people taking a selfie in front of the ferris wheel. They were laughing. Smiling. It was like they were trying to piss her off.
 </p>
 
 <p>
-Probably because she was dying. Her legs ached. Her chest was on fire. Fine strands of her hair felt like spider webs sticking to her sweaty neck, and she was pretty sure she had snot on her upper lip. 
+Because while they were having the time of their lives, she was dying. Her legs ached. Her chest was on fire. Fine strands of her hair were spider webs sticking to her sweaty neck. A glob of viscous snot bounced on her upper lip as if it were a fleshy trampoline.
 </p>
 
 <p>
-<i>Running is good for your physical and mental health, they said. Running will help with your anxiety and depression, they said.</i> 
+<i>Running is good for your physical and mental health, they said. Running will help with your anxiety and depression, they said.</i>
 </p>
 
 <p>
-She should have known not to run here today. For six months out of the year, the cold and clouds pushed down on the locals like heat and pressure on carbon. Except, when the ground thawed, Seattle didn’t get diamonds. It got bastard zombies hungry for clam chowder, cream cheese-covered hotdogs, and sunshine. Hence the mob by the waterfront piers and Pike Place Market today. 
-</p>
-
-<p>
-It was all very unpleasant. Annabeth missed the dark days and long nights. Less people in the way. Less merciless sunshine. 
+“Any time now, endorphins,” she huffed. The naturally-induced chemical high was the only perk of running. Well, that and the promise of a nap and a banana afterward. There were few things better than the endorphin-rich post-run nap/banana combo.
 </p>
 
 <p>
@@ -39,15 +35,15 @@ A group stopped right in front of her on the sidewalk.
 </p>
 
 <p>
-“Tourists,” she muttered. 
+“Tourists,” she muttered.
 </p>
 
 <p>
-“We live in Cap Hill, asshole,” they yelled as she ran past them. 
+“We’re locals, asshole,” they yelled as she ran past them.
 </p>
 
 <p>
-<i>You should mutter more quietly.</i> Her running internal commentary had been particularly chatty these days. 
+<i>You should mutter more quietly.</i> Her running internal commentary had been particularly chatty for the past week.
 </p>
 
 <p>
@@ -55,7 +51,19 @@ A group stopped right in front of her on the sidewalk.
 </p>
 
 <p>
-Her feet slapped against the asphalt in methodical steps. Rhythmic. One. Two. One. Two. Right. Left. Right. Left. The rhythm was supposed to be soothing. It wasn’t. She was supposed to enter some kind of flow state, but the only thing flowing was the loogie that kept sloshing from one cheek to the other. She was too out of breath to swallow it down and if she spit it out she’d probably hit a zombie, anyway. 
+She should have known not to run in Central Waterfront today. For six months out of the year, the cold and clouds pushed down on the locals like heat and pressure on carbon. Except, when the ground thawed, Seattle didn’t get diamonds. It got bastard zombies hungry for clam chowder, cream cheese-covered hotdogs, and sunshine. Hence the mob by the waterfront piers and Pike Place Market today.
+</p>
+
+<p>
+It was all wildly unpleasant. Annabeth missed the dark days and long nights. Less people in the way. Less merciless sunshine. More quiet. More solitude.
+</p>
+
+<p>
+Her feet slapped against the cement in methodical steps. Rhythmic. Right. Left. Right. Left. <i>Nap. Banana. Nap. Banana.</i>
+</p>
+
+<p>
+The rhythm was supposed to be soothing. It wasn’t. She was supposed to enter some kind of flow state, but the only thing flowing was the loogie that kept sloshing from one cheek to the other. She was too out of breath to swallow it down and if she spit it out she’d probably hit a zombie, anyway.
 </p>
 
 <p>
@@ -63,11 +71,27 @@ Her feet slapped against the asphalt in methodical steps. Rhythmic. One. Two. On
 </p>
 
 <p>
-Right. Left. Right. Left. 
+“Phone call from: unknown number,” her phone’s virtual assistant chirped in her headphones. “Answer it?”
 </p>
 
 <p>
-She didn’t understand why she kept running. Seriously, she could actually die. Right here. Right now. Just fall over, dead. Lights out. Boom. Splat. Over.
+A bolt of adrenaline shot from her stomach into her legs. Her stride lengthened on instinct.
+</p>
+
+<p>
+<i>Stranger danger.</i>
+</p>
+
+<p>
+“No. Don’t answer.”
+</p>
+
+<p>
+Right. Left. Right. Left. Nap. Banana. Nap. Banana.
+</p>
+
+<p>
+Seriously, she could actually die. Right here. Right now. Just fall over, dead. Lights out. Boom. Splat. Over.
 </p>
 
 <p>
@@ -75,7 +99,15 @@ She didn’t understand why she kept running. Seriously, she could actually die.
 </p>
 
 <p>
-“Can’t fail…lazy.” She wheezed, and felt the eyes of strangers fall on her. 
+The light on the crosswalk turned, forcing her to jog in place. Great. Just freaking great.
+</p>
+
+<p>
+<i>These lights are always forever long. Stop running. Take a break.</i>
+</p>
+
+<p>
+“Can’t fail…lazy.” She wheezed, and felt the eyes of several pedestrians fall on her.
 </p>
 
 <p>
@@ -83,7 +115,11 @@ She didn’t understand why she kept running. Seriously, she could actually die.
 </p>
 
 <p>
-A little boy with chocolate on his lips and cheeks stared at her as she circumnavigated yet another clusterfuck. The boy’s pointer finger was hooked around his mother’s pinky. An otter stuffy was tucked underneath his armpit. 
+She rolled her eyes and kept jogging in place—<i>You look like an idiot.</i>—completely aware of how stupid she must have looked.
+</p>
+
+<p>
+A little boy with chocolate on his lips and cheeks stared at her from across the street. The boy’s pointer finger was hooked around his mother’s pinky. An otter stuffy was tucked underneath his armpit.
 </p>
 
 <p>
@@ -91,7 +127,7 @@ A little boy with chocolate on his lips and cheeks stared at her as she circumna
 </p>
 
 <p>
-“Shut up,” she panted.
+“Shut up,” she panted. Left. Right. Left. Right. More eyes. More judgement.
 </p>
 
 <p>
@@ -99,7 +135,15 @@ A little boy with chocolate on his lips and cheeks stared at her as she circumna
 </p>
 
 <p>
-Annabeth shoved her tongue into meaty part of her cheek. “Can’t,” she whispered slash panted then swallowed. “Scare the children,” she said, too loud.
+The light changed.
+</p>
+
+<p>
+<i>You could tell the kid about the otters. Knowledge is power and all that.</i>
+</p>
+
+<p>
+“Can’t,” she whispered slash panted then swallowed the loogie. “Scare the children,” she said, loudly, just as the boy and his mother walked past her.
 </p>
 
 <p>
@@ -111,15 +155,15 @@ The boy’s mother narrowed her eyes at Annabeth and pulled her son closer. He t
 </p>
 
 <p>
-She rolled her eyes and tapped her headphones. Her music volume rose, blocking out her heavy steps and rattling chest. 
+She gave an exasperated grunt and tapped her headphones. Her music volume rose, blocking out her heavy steps and rattling chest.
 </p>
 
 <p>
-Right. Left. Right. Left. 
+Right. Left. Right. Left. Nap. Banana. Endorphins. Peace. Quiet. Solitude.
 </p>
 
 <p>
-Sweat slid into her eyes. Her skin sizzled underneath the sun’s rays. Should have worn sunscreen. After an entire childhood in Satan’s butthole, AKA Charleston, SC, she should have learned by now. She squeegeed the sweat away from her eyes with a finger and forced herself to focus on the crowd around her. Anything to take her mind off running.
+Sweat slid into her eyes. Her skin sizzled underneath the sun’s rays. Should have worn sunscreen. After an entire childhood in the Lowcountry of South Carolina, she should have learned by now to always wear sunscreen. She squeegeed the sweat from her eyebrows with a finger and forced herself to focus on the crowd around her. Anything to take her mind off running.
 </p>
 
 <p>
@@ -135,15 +179,15 @@ A girl in a red and black leather jacket rose to her tiptoes and stuck her tongu
 </p>
 
 <p>
-Left. Right. Left.
+Right. Left. Right.
 </p>
 
 <p>
-A teen walked by wearing short shorts, a tank top, and a beanie that didn’t even cover her ears. Annabeth shivered. It was sunny, but it wasn’t shorts and tank top-weather. 
+A teen walked by wearing short shorts, a tank top, and a beanie that didn’t even cover her ears. Annabeth shivered. It was sunny, but it wasn’t shorts and tank top-weather.
 </p>
 
 <p>
-<i>What sea mammal is believed to go through fashion trends? Bonus point: What is the latest trend to date?</i>
+<i>What sea mammal was incorrectly reported to go through fashion trends? Bonus point: What was the latest “trend” to date?</i>
 </p>
 
 <p>
@@ -151,35 +195,27 @@ A teen walked by wearing short shorts, a tank top, and a beanie that didn’t ev
 </p>
 
 <p>
-Her music volume decreased, allowing her to hear just how loud her gasping breaths actually were now.
+Her music volume decreased. Her breaths came out in uneven guttural bursts.
 </p>
 
 <p>
-<i>No wonder the kid was scared of you.</i>
+<i>No wonder that kid was scared of you.</i>
 </p>
 
 <p>
-“Phone call from: unknown number,” her phone’s virtual assistant chirped in her headphones. “Answer it?” 
+“Phone call from: unknown number. Answer—“ The cheery phone assistant chirped.
 </p>
 
 <p>
-A bolt of adrenaline shot from her stomach into her legs. Her stride lengthened on instinct. “No.”
+“No,” she said just as a laugh rang out behind her. The sound cut through her noise-cancelling headphones. She jumped a little and glared at the culprit as he jogged past her.
 </p>
 
 <p>
-Some piece of shit company must have sold her contact information recently. She’d been getting calls from mystery numbers for two days now. Still, getting numbers from unknown callers set off her stranger-danger alarm bells all the same.
+Little white earbuds stuck out of his ears like fungal growths. “That’s so funny!” he said.
 </p>
 
 <p>
-A laugh rang out behind her. The sound cut through her noise-cancelling headphones. Still riding her adrenaline rush, she jumped a little and glared at the culprit as he jogged past her. 
-</p>
-
-<p>
-Little white earbuds stuck out of his ears like fungal growths. “That’s so funny!” he said. 
-</p>
-
-<p>
-Here Annabeth was, literally —<i>not literally</i>— dying and this man had the audacity to not only pass her, but hold a perfectly normal conversation while doing it. 
+Here Annabeth was, literally —<i>not literally</i>— dying and this man had the audacity to not only pass her, but hold a perfectly normal conversation while doing it.
 </p>
 
 <p>
@@ -191,31 +227,27 @@ Another mile down. She cut off onto Elliott Bay Trail. The tourists thinned out.
 </p>
 
 <p>
-On her left, waves from the bay splashed on the rocky shore. Train tracks ran parallel to her path to the right. Separated by a chain link fence topped with barbed wire, several linked crimson cars sat quietly in their gravel yard. The occasional Alaskan cedar provided the perfect perch for the local murder of crows. The trees’ long drooping branches reached for the ground. The trunks bent at odd angles. Dr. Seuss trees, Bean had called them last time she’d visited. Annabeth thought they looked more like old men, withering, melting back into the earth.
+On her left, waves from the bay splashed on the rocky shore. Train tracks ran parallel to her path to the right. Separated by a chain link fence topped with barbed wire, several linked crimson boxcars sat quietly in their gravel yard. The occasional Alaskan cedar provided the perfect perch for the local murder of crows. The trees’ long drooping branches reached for the ground. The trunks bent at odd angles. Dr. Seuss trees, her sister had called them last time she’d visited. Annabeth thought they looked more like old men, withering, melting back into the earth.
 </p>
 
 <p>
-A flash of movement on the gravel along the train tracks caught Annabeth’s eye. Something was running beside the tracks. She looked over. Nothing. Maybe it was a reflection. A glint of sun off a stubborn puddle. 
+A flash of movement on the gravel along the train tracks caught Annabeth’s eye. She looked over. Nothing. Maybe it was a reflection. A glint of sun off a stubborn puddle.
 </p>
 
 <p>
-She kept going. Making sure to stay on the path. More movement in the corner of her eye. She looked again. Okay, it was definitely something this time. 
+“Hey! Watch it!”
 </p>
 
 <p>
-She squinted, trying to get a better look. 
+Annabeth faced forward just in time to dart around Earbuds Guy who had apparently decided to stop in the middle of the path and stand there like he owned the whole trail.
 </p>
 
 <p>
-“Hey! Watch it!” 
+<i>The audacity!</i>
 </p>
 
 <p>
-Annabeth faced forward just in time to dart around earbuds guy from earlier. 
-</p>
-
-<p>
-He shook his head as he jogged past, muttering, “Fucking tourists.” 
+He shook his head as she jogged past, and mumbled, “Fucking tourists.”
 </p>
 
 <p>
@@ -223,23 +255,19 @@ He shook his head as he jogged past, muttering, “Fucking tourists.”
 </p>
 
 <p>
-Annabeth concentrated on her steps again. One. Two. One. Two. Right. Left. Right. Left. 
+Annabeth concentrated on her steps again. Nap. Banana. Nap. Banana. “Seriously, endorphins. Anytime now.”
 </p>
 
 <p>
-Another flash. 
+“ANNABETH!” Something screamed her name. High pitched and terrified.
 </p>
 
 <p>
-“ANNABETH!” Something had screamed her name. High pitched and terrified.
+Anna jumped, breaking her rhythm. Her toe caught on an uneven chunk of asphalt. She stumbled, feet stomping, chest leaning forward. Her arms windmilled. <i>Don’t fall. Don’t fall. Don’t fall.</i>
 </p>
 
 <p>
-Anna jumped, breaking her rhythm. Her toe caught on an uneven chunk of asphalt. She stumbled, feet stomping, chest leaning forward. Her arms windmilled. <i>Don’t fall. Don’t fall. Don’t fall.</i> 
-</p>
-
-<p>
-“Falling!” The words caught in her throat. Finally, her feet caught up with the rest of her body. She stood, chest heaving and eyes wide. 
+“Falling!” The word caught in her throat and came out in a terrified grunt. She managed to get her feet under her just in time. She stood, chest heaving and eyes wide.
 </p>
 
 <p>
@@ -247,7 +275,7 @@ Anna jumped, breaking her rhythm. Her toe caught on an uneven chunk of asphalt. 
 </p>
 
 <p>
-Train wheels turned slowly in her periphery. She stopped her music just in time to hear the wheels protest against the rusty track.
+Train wheels turned slowly in her periphery. She stopped her music just in time to hear them protest against the rusty track.
 </p>
 
 <p>
@@ -255,63 +283,43 @@ Train wheels turned slowly in her periphery. She stopped her music just in time 
 </p>
 
 <p>
-Two miles to go. 
+Two miles to go.
 </p>
 
 <p>
-<i>Just go home. What do the kids say these day? The juju here is weird.</i>
+<i>Just go home. What do the kids say these days? The juju here is weird.</i>
 </p>
 
 <p>
-She wiped a bead of sweat from her forehead. “That’s not what the kids say. Fuck, I’m old.” 
+She wiped a bead of sweat from her forehead. “That’s not what the kids say, is it? Fuck, I’m old.”
 </p>
 
 <p>
-The train pulled out entirely as she tapped her headphones to start her music again. A tangle of vines stood in the middle of the track. <i>Vines don’t stand.</i>
+The train pulled out entirely as she tapped her headphones to start her music again. “Phone call from: unknown number. Answer it?” the perky digital assistant sang.
 </p>
 
 <p>
-“It’s just a trellis.” She turned her music up. 
+Annabeth swallowed the jolt of adrenaline that ran from her stomach up her throat. Exhaustion was making her jumpy. Exhaustion and hunger mixed with the stress of the run.
 </p>
 
 <p>
-Black and purple roses ran along the vine like velvety soft bruises.
+“No.”
 </p>
 
 <p>
-<i>Who puts a trellis in the middle of a train yard?</i>
+<i>You’re tired. Go home, Annabeth.</i>
 </p>
 
 <p>
-“Not my circus. Not my monkey.” 
+ A trellis arch with <i>Rose Garden</i> engraved on the top stood to her left. A small patch of shrubbery separating the bike and pedestrian path, the Elliot Bay Trail Rose Garden was one of several rather random attractions along the water. Thick brambles of vines wrapped around the arch’s metal cylinders, climbing upwards. She walked through the arch. Low cut rose bushes lined either side of a short brick walkway.
 </p>
 
 <p>
-The vine twitched. No, that wasn’t possible. Vines didn’t twitch. They just sit there. It twitched again, an agitated muscle. 
+<i>This would feel like a tiny secret garden if you couldn’t see clear over the hedges.</i>
 </p>
 
 <p>
-“Phone call from: unknown number. Answer it?” the perky digital assistant sang directly into her ears.
-</p>
-
-<p>
-Annabeth swallowed the jolt of adrenaline that ran from her stomach up her throat. She pinched the bridge of her nose. “No.”
-</p>
-
-<p>
-<i>You’re tired. Go home, Anna.</i> 
-</p>
-
-<p>
-Exhaustion, that had to be what was making her so jumpy. Exhaustion and hunger mixed with the stress of the run. 
-</p>
-
-<p>
-<i>Has to be. Just eat a banana when you get home. Take a nap. You’ll be fine.</i>
-</p>
-
-<p>
-Annabeth checked her watch. “No time for a nap.”
+The roses weren’t blooming—it was too early in the year for that—but the waxy leaves were a deep green that demanded Annabeth’s attention. She bent down, feeling the serrated edges. A chilly wind blew in off bay. The sweat still coating her body was ice against her skin.
 </p>
 
 <p>
@@ -319,11 +327,11 @@ Annabeth checked her watch. “No time for a nap.”
 </p>
 
 <p>
-<i>They’re not going to stop calling, Anna. Answer it. Get it over with. Just tell them to take you off their list. They have to, legally, I think.</i>
+<i>They’re not going to stop calling, Annabeth. Answer it. Get it over with. Just tell them to take you off their list. They legally have to, I think.</i>
 </p>
 
 <p>
-Annabeth filled her lungs with fresh air and released slowly. Breathing exercises to help slow a rapid heart rate were the first thing her childhood therapist taught her. It was one of the few lessons that stuck.
+Annabeth filled her lungs with fresh air and released slowly. Breathing exercises to help slow a rapid heart rate were the first thing her childhood therapist had taught her. It was one of the few lessons that stuck.
 </p>
 
 <p>
@@ -331,35 +339,71 @@ Annabeth filled her lungs with fresh air and released slowly. Breathing exercise
 </p>
 
 <p>
-“Fine. Yes. Whatever.” 
+“Fine. Yeah. Whatever.” She stood and stretched her cramping legs.
 </p>
 
 <p>
-“Is this Annabeth Jefferds?” the voice on the other end of the line asked. 
+“Is this Annabeth Jefferds?” the voice on the other end of the line asked.
 </p>
 
 <p>
-“It’s Anna,” Annabeth said. Shit. No one from Seattle had called her Annabeth in her ten years of living here. 
+Shit. No one from Seattle had called her Annabeth in her ten years of living here. “It’s Anna.”
 </p>
 
 <p>
-Wings flapped in Annabeth’s face, forcing her to duck. A crow landed on a nearby park bench. Its black feathers had a sheen to them in the sunlight, making the bird look almost purple like a deep bruise. The crow watched Annabeth while it pecked at the peeling black paint on the wrought iron. Its tiny black head twitched left then right.
+Wings flapped in Annabeth’s face, forcing her to duck. A crow landed on a nearby park bench. Its black feathers had a sheen to them in the sunlight, making the bird look almost purple like a deep bruise.
 </p>
 
 <p>
-“Annabeth, my name is Nurse Nylah Brooks. I work at the Medical University of South Carolina…”
+“Hello, Annabeth, how are you doing today?” Annabeth could hear the twang on the other end of the line now—drawn out vowels and absent g’s. She’d moved three-thousand miles away, but her southern roots could still find her.
 </p>
 
 <p>
-The crow cawed. Annabeth glanced over her shoulder to see it hopping along the path behind her. Following her. Coincidence. Had to be. 
+<i>Most people would find such a reminder comforting.</i>
 </p>
 
 <p>
-A feather grazed her cheek, and for a moment she thought about the vines twitching on the trellis. She walked faster. The crow landed on the trail, blocking it. It was a massive thing—definitely bigger than that kid’s otter stuffy. One talon tapped on the asphalt. The other leg, she noticed, dangled. It was missing a foot. 
+Annabeth wasn’t most people.
 </p>
 
 <p>
-The crow didn’t budge as she walked toward it. 
+“F—fine.” Annabeth’s conversational muscle memory took over while she stared at the bird. The crow watched Annabeth while it pecked at the peeling black paint on the wrought iron. Its tiny black head twitched left then right. It snapped its beak. A piece of black paint hung from it like dead skin.
+</p>
+
+<p>
+<i>Focus, Annabeth.</i>
+</p>
+
+<p>
+She tore her eyes away. “Wait. Who are you?”
+</p>
+
+<p>
+“Nylah Brooks. I work for the Medical University of South Carolina. And I’m fine, thanks for asking.”
+</p>
+
+<p>
+Annabeth rolled her eyes. She did not miss the Southern expectation of exhausting niceties nor the immediate annoyance when she shirked said niceties.
+</p>
+
+<p>
+“I’m calling because…” the woman continued when Annabeth didn’t apologize for her lack of Southern gentility.
+</p>
+
+<p>
+The crow cawed. Annabeth glanced over her shoulder to see it hopping along the hedge beside her. Following her. Coincidence. Had to be. The corvid was a massive thing—definitely bigger than that kid’s otter stuffy. One talon tapped on the asphalt. A gnarled, scabby knob dangled where its ankle should have been.
+</p>
+
+<p>
+<i>Bird’s don’t have ankles. They have tarsi.</i>
+</p>
+
+<p>
+Whatever.
+</p>
+
+<p>
+The crow stared at her with one beady eye, then another.
 </p>
 
 <p>
@@ -367,55 +411,83 @@ The crow didn’t budge as she walked toward it.
 </p>
 
 <p>
-“Crows,” Annabeth hissed. Her familiar practice of distractions by way of trivia massaged the tension from her shoulders and chest.
+“Crows,” Annabeth mumbled. The crow stared up at her, watching.
 </p>
 
 <p>
-“I’m calling because your sister…”
+“…is your sister available?”
 </p>
 
 <p>
-Annabeth could hear the twang on the other end of the line now—drawn out vowels and absent g’s. Confirmation then that her southern roots could still reach her. Most people would find such a reminder comforting. 
+A brown mouse darted from the far hedge to the other. She eyed it, then the crow, with mild curiosity. After a childhood of growing up on a defunct plantation, she’d witnessed the circle of life far too many times to interfere. The crow’s head darted left and right, its attention torn between the meal and Annabeth.
 </p>
 
 <p>
-<i>I guess you’re not most people.</i>
+“Look, I’m not interested in whatever you’re sell—“ <i>Focus, Annabeth.</i> “Wait, did you say ‘my sister’?”
 </p>
 
 <p>
-“…sister had a procedure and…”
+“Yes, she was recently admitted to MUSC, and—“
 </p>
 
 <p>
-Annabeth checked her watch. “Look, I’m not interested in whatever you’re sell— Wait, did you say sister?” She stopped right in front of the crow. It stared up at her, watching. 
+“I just talked to her a few days ago,” Annabeth said. Her little sister, Bean, had been working on her PhD dissertation at Cornell’s School of Botany, but decided to go home on a whim, in spite of her smarts. “I have some research I need to do there. Besides, it has been too long since one of us visited Daddy,” Bean had said.
 </p>
 
 <p>
-“Is Bean okay?” She’d just talked to her little sister two days ago. Bean had been working on her dissertation at Cornell—she’d inherited their mother’s intelligence, Annabeth wasn’t so lucky. In spite of her smarts, last time they talked Bean had told Annabeth that she’d decided to go home on a whim. She wasn’t supposed to get there until later tonight. She had seemed fine.<i>“I have some research I need to do there. Besides, it has been too long since one of us visited Daddy.”</i>
+Annabeth had been more than willing to let her take on that particularly arduous task.
 </p>
 
 <p>
-Annabeth had been more than willing to let Bean take on that particularly arduous task. 
+“Is Bean okay?” she asked.
 </p>
 
 <p>
-“I’m sorry, it sounded like you said ‘Bean’,” the nurse said.
+“I’m sorry. Did you say ‘Bean’?” the woman asked.
 </p>
 
 <p>
-“Leigh,” Annabeth said. Her younger sister’s birth name felt foreign on her lips. Bean had been Leigh’s first word—<i>the weirdo</i>—and it had been her nickname ever since. “Is she okay?” 
+“Leigh.” Her younger sister’s birth name sounded wrong coming Annabeth’s lips. Bean had been Leigh’s first word. <i>Weirdo.</i> It had been her nickname ever since. “Is she okay?”
 </p>
 
 <p>
-“She came in a few days ago for a procedure and I’m calling to make sure her meds are—”
+“She came in a few days ago for an out-patient procedure and I’m calling —”
 </p>
 
 <p>
-Another runner jogged by, blonde ponytail bobbing in time with her steps. Annabeth stepped back into the grass to let her pass. The crow followed suit. 
+Another runner came toward Annabeth on the outside path, blonde ponytail bobbing in time with her steps. Annabeth and the crow watched Blondie jog by together.
 </p>
 
 <p>
-“I’m sorry. Did you say ‘a procedure?’ Can you give me some more specifics.”
+“‘A procedure?’ What happened?”
+</p>
+
+<p>
+Annabeth heard typing on the other end of the line. She scratched the side of her neck. Salt particles from her drying sweat dug into her skin.
+</p>
+
+<p>
+“Leigh didn’t check the box to share medical information with you. She just listed this number as a backup contact to get in touch with her.”
+</p>
+
+<p>
+Worry percolated in Annabeth’s chest, forcing her heart to beat harder and her palms to get sweatier. She wiped her hands on her nylon running shorts. “Then why don’t you call <i>her</i> number?”
+</p>
+
+<p>
+“We did. No answer, I’m afraid.”
+</p>
+
+<p>
+<i>That’s weird.</i> Bean was always on her phone or at least had it nearby.
+</p>
+
+<p>
+Frustration mixed with worry. Annabeth’s stomach twisted. She stretched and massaged her neck—a useless attempt to release the building tension.
+</p>
+
+<p>
+“At least tell me why she came in.”
 </p>
 
 <p>
@@ -423,55 +495,71 @@ Another runner jogged by, blonde ponytail bobbing in time with her steps. Annabe
 </p>
 
 <p>
-“HIPAA Laws prevent me from—” Nurse Brooks said.
+“HIPAA Laws prevent me from—” Nylah Brooks said.
 </p>
 
 <p>
-“Are we talking a mole removal or open-heart surgery? Should I be buying a plane ticket right now? Can you tell me that?”
+“You called me, remember!” Annabeth’s voice came out louder than she’d intended. She took a breath and ground her teeth, fighting the urge to scream at the woman on the other line. “Just tell me what happened. Are we talking a mole removal or open-heart surgery? Should I be buying a plane ticket right now? Can you at least tell me that?” She looked around and felt a little relief when she realized no one was around to eavesdrop on this particular conversation.
 </p>
 
 <p>
-<i>Do you really </i>want<i> to go back home to your father and that house?</i>
+“No. I can’t.” There was an acidic edge to Nylah’s sweet southern tone.
 </p>
 
 <p>
-So many memories. So much pain. 
+Annabeth roiled. Red hot heat, completely unrelated to the run, rose bloomed up her neck. She tried to stay composed, steady. “I just talked to Bean—er, Leigh—the other day. She seemed fine.”
 </p>
 
 <p>
-“No. I can’t.” There was an acidic edge to Nurse Brooks’ sweet southern tone. 
+Another chilly gust of wind blew a few of the leaves of the hedge and nearby rose bushes. They bobbed as if in agreement.
 </p>
 
 <p>
-“I just talked to Bean—er, Leigh—the other day. She seemed fine.”
+“I just need her to fill out this medical survey—“
 </p>
 
 <p>
-“I just need to know if she’s had a reaction to her meds—“
+ “Did you prescribe any medication? Bean’s allergic to most opiates.”
 </p>
 
 <p>
- “What kind of meds are we talking?” she asked. “Antibiotics?” Annabeth looked down at the crow. Still standing there, staring. It was too attentive. Too close. She tried to step away. It followed “Antipsychotics…?” 
+<i>Remember when she threw up for hours after getting her wisdom teeth pulled?</i>
 </p>
 
 <p>
-<i>It was just exhaustion. A banana will fix it.</i> 
+Annabeth would never forget. Bean had ruined her favorite Metallica t-shirt that day. Still too groggy from the anesthesia, Bean hadn’t been able to get to the toilet in time. Jelly-like crimson clots and yellow bile ran down James Hetfield’s face in thick streams. Bean fell asleep in Annabeth’s lap on the bathroom floor that night. Annabeth stayed up, vigilant, listening to her sister’s pained breaths and stroking her sweaty, matted hair, careful not to touch her tender, swollen cheeks. Their father hadn’t even bothered to check on them.
 </p>
 
 <p>
-Annabeth rubbed the waxy leaf of a strawberry tree between her fingers, trying to get her nervous energy out somewhere. Seagulls screamed from over the bay. 
+<i>Poor Bean. She was absolutely miserable.</i>
 </p>
 
 <p>
-“Ma’am, I can’t tell you—“ The nurse took a deep breath. “I’m just calling to make sure she’s not allergic to this new medication. But it sounds like you haven’t heard from her.” 
+“You didn’t give her opiates did you?” Annabeth asked the woman.
 </p>
 
 <p>
-The crow cawed at her again, and she swore this time it sounded like, “Save her!” 
+“<i>I</i> didn’t give her anything. I’m just a part-time administrative assist—“
 </p>
 
 <p>
-The leaf snapped off the branch as another surge of panic cut through her.
+“Antibiotics? She’s allergic to sulfa drugs, too.” Annabeth looked down at the crow. Still standing on the hedge, staring. It was too attentive. Too close. She stepped backward to the middle of the rose garden. It hopped forward, still on the hedge. A rose bud stuck up from the nearest bush.
+</p>
+
+<p>
+<i>Too early for roses.</i> Annabeth didn’t need the reminder.
+</p>
+
+<p>
+ Seagulls screamed from over the bay. The crow cried in response.
+</p>
+
+<p>
+“Ma’am, I can’t tell you—“ Nylah took a deep breath. “I just need her to take a surve—”
+</p>
+
+<p>
+The crow squawked again, and Annabeth swore this time it sounded like, “Save her!”
 </p>
 
 <p>
@@ -483,39 +571,35 @@ Fair point.
 </p>
 
 <p>
-“Annabeth—“ 
+She eyed the bud. It was bigger now. Opened, slightly. A black petal bulged out of the green bud casing. <i>It’s a calyx.</i> The base of the bloom was too wide. Too bulbous. Pregnant. The crow rustled the leaves of the hedge above her.
 </p>
 
 <p>
-The scream echoed in her ears, tearing into her brain.
+“Is your sister there or not?” Nylah sounded annoyed. That made two of them.
 </p>
 
 <p>
-“Annabeth, can you please confirm that Leigh is healing and taking her meds?” The nurse sounded annoyed.
+<i>Maybe it was an emergency.</i>
 </p>
 
 <p>
-That made two of them. Bean should have told Annabeth that she’d been home longer, and she should have told Annabeth that she was going to have a procedure. Bean lied. Or it was an emergency and no one called her to share the news. Either option wasn’t good. Which meant this nurse should tell her what the fuck is going on.
+“Someone should have called me.” She needed to know what the fuck was going on.
 </p>
 
 <p>
-The crow cawed again. “Save her!”
+“Ma’am?” Nylah asked. They were in a stalemate. Both unable to hang up with the other until information was given.
 </p>
 
 <p>
-“Ma’am?” the nurse said.
+Annabeth was annoyed. Annoyed at the crow. Annoyed at Bean. Annoyed at Nylah fucking Brooks.
 </p>
 
 <p>
-Fiery anger and cold waves of anxiety battled within her, giving her goosebumps. Something was wrong. “Jesus fuck, just tell me what’s going on!”
+“Save her!” The crow hopped closer, twisting its head at an impossible angle to study the rose. Annabeth took a step back.
 </p>
 
 <p>
-Silence. 
-</p>
-
-<p>
-“Ma’am.” The nurse spoke slowly. Her tone, measured. Accent, thicker. Sweeter. Molasses in Annabeth’s ears.
+“Is Leigh with you or not?“ Nylah spoke slowly. Her tone, measured. Accent, thicker. Molasses in Annabeth’s ears—slow and bitter sweet.
 </p>
 
 <p>
@@ -523,15 +607,7 @@ Silence.
 </p>
 
 <p>
-“There is absolutely no reason for you to raise your voice,” the nurse said.
-</p>
-
-<p>
-“I know,” Annabeth mumbled to herself.
-</p>
-
-<p>
-“Then you should also know that using the lord’s name in vein will not get—“
+Annabeth pinched the bridge of her nose, wishing her inner commentary would leave her in peace for just thirty-freaking-seconds. “Shut. Up.”
 </p>
 
 <p>
@@ -539,19 +615,15 @@ Silence.
 </p>
 
 <p>
-“Shut. Up.” 
+“Ma’am!” Nylah nearly shouted through the line. “That tone is completely unnecessary!”
 </p>
 
 <p>
-“Ma’am!” Nurse Brooks could hardly contain her voice. “That tone is completely unnecessary!”
+“No. You know what is unnecessary?” Annabeth turned and looked out over the bay. Somehow yelling at a vast expanse of water seemed kinder than yelling at plants. “This fucking phone call. If Bean—er, Leigh—is in Charleston, you should be calling my father, Halloran Jefferds. She’s staying in his house for Christ’s sake! You know what is unnecessary?”
 </p>
 
 <p>
-<i>Ooh, she’s pissed now.</i>
-</p>
-
-<p>
-“No. You know what is unnecessary?” Annabeth asked. “This fucking phone call. If Bean—er, Leigh—is in Charleston, you should be calling my father. Halloran Jefferds. She’s staying in his house for Christ’s sake! You know what is unnecessary?” “Ma’am.” The molasses was back.
+“Ma’am.” The molasses was back.
 </p>
 
 <p>
@@ -563,19 +635,7 @@ Annabeth was having none of it. “Not telling me what’s wrong with my little 
 </p>
 
 <p>
-Annabeth had lived in a state of panic since her mother died. Annabeth was only five years old. She could still smell her daycare teacher, Miss Gregory’s, perfume. Could see the sleep gunk in the corner of her watery eyes. Could hear the hiss of her dry skin as she nervously massaged her palms. 
-</p>
-
-<p>
-“There’s been an accident,” she’d said. 
-</p>
-
-<p>
-After that, most of Annabeth’s childhood had been spent waiting for more accidents. More horrific news. Anxiety hijacked her life. It took years of therapy and several fights with her father—who had his own, more isolated, way of dealing with grief—to learn how to cope with the loss of her mother. Ultimately, the only thing that had finally worked was leaving the south. Now she realized, all it took was one phone call. One phone call and once again she was trapped, kidnapped, by her own nervous system. One phone call to undo everything she’d been working on for most of her life. Once again she was that little five year old girl, waiting for another accident. 
-</p>
-
-<p>
-“Ma’am.” 
+“Ma’am.”
 </p>
 
 <p>
@@ -583,7 +643,7 @@ After that, most of Annabeth’s childhood had been spent waiting for more accid
 </p>
 
 <p>
-Annabeth pulled her phone out of her running belt and tapped a quick message. 
+Annabeth pulled her phone out of her running belt and tapped a quick message.
 </p>
 
 <p>
@@ -591,63 +651,107 @@ To Bean:
 </p>
 
 <p>
-Hospital just called and wanted to know how you’re taking to your new meds. I didn’t even know you were there yet. They said you had a procedure, Bean. WTF is going on?
+Hospital just called and wanted to know if you’re pleased with your recent experience. They said you had a procedure, Bean. WTF is going on?
 </p>
 
 <p>
-“Ma’am?” nurse Brooks asked. “Are you still there?” 
+“Ma’am?” Nylah asked. “Are you still there?” Her acidic-sweet twang stripped Annabeth’s nerves down to erratic sparks of frustration and angst.
 </p>
 
 <p>
-Annabeth took a breath. “Yeah, I’m here.” The words rode her exhale and took her adrenaline along for the ride. She was on edge. The nurse’s sticky sweet twang stripped her nerves down to erratic sparks of frustration and angst.
+<i>Calm down.</i>
 </p>
 
 <p>
-“Your father isn’t listed on Leigh’s paper,” Nurse Brooks said. “It would be illegal for me to call him.”
+Annabeth took a breath. “Yeah, I’m here.”
 </p>
 
 <p>
-Annabeth stared at her phone, waiting for the message she sent to Bean to be marked as read. Her little sister was always freakishly on top of her texts. She would almost always respond within minutes. 
+“Your father isn’t listed in Leigh’s chart,” Nylah said. “It would be illegal for me to call him. Just like it would be illegal for me to share any medical information with you.”
 </p>
 
 <p>
-“C’mon,” Annabeth urged under her breath.
+Annabeth stared at her phone, waiting for the message she sent to Bean to be marked as read. “C’mon, c’mon,” she whispered over and over, compelling her little sister to respond and tell her it was all a misunderstanding. Everything is fine.
 </p>
 
 <p>
-“Annabeth,” the nurse says. 
+The tag underneath the text message didn’t switch from <i>delivered</i> to <i>read</i>. No bubble with three dots appeared. Nothing.
 </p>
 
 <p>
-“I wasn’t talking to you.” 
+“Ma’am, did you hear me? I can’t tell you—“
 </p>
 
 <p>
-The tag underneath the text message didn’t switch from <i>delivered</i> to <i>read</i>. No bubble with three dots appeared. Nothing. Worry crawled up Annabeth’s arms and legs and threatened to close around her throat. She needed to move. Needed to get off the phone. Needed to know what the fuck was actually going on.
+A long, resigned sigh escaped Annabeth’s chest. “Yeah, I know. Look, Leigh’s not here. I live in Seattle and she’s down by y’all—you all. If I get a hold of her, I’ll tell her to call you.”
 </p>
 
 <p>
-“Annabeth, are you still there?” Nurse Brooks wasn’t going to have any answers.
+“Great.” The word was a whip. “Thank you for your time, Ms. Jefferds.” The line clicked.
 </p>
 
 <p>
-This was a waste of Annabeth’s time. “Look, I appreciate the call. If I get a hold of Leigh—“<i>Bean</i>”—I’ll tell her to call you.” 
+More sweat slid down Annabeth’s forehead and temples. She hated sweating almost as much as she hated snippy medical personnel.
 </p>
 
 <p>
-“Great.” The word was a whip. “Thank you for your time, Annabeth.” The line clicked. 
+She turned just in time to see a long, fuzzy string fall from between two of the petals of the opening bloom. Annabeth pocketed her phone and stepped toward the flower. She knelt down, and carefully slid a finger underneath the string. The crow watched as she gently ran it between her thumb and pointer finger. Rubbery.
 </p>
 
 <p>
- Annabeth ground her teeth as more sweat slid down her forehead and temples. She hated sweating. She hated snippy nurses.
+The rose spread open to its full extent. The mouse laid in the middle of the bloom. Its back legs were a mess of blood and exposed flesh. A tiny splinter of bone stuck out of its hip. The mouse’s front legs twitched and spasmed. Its tiny mouth hung open as if screaming. A chunk of furry pink meat clung to one of rose’s ink black petals.
 </p>
 
 <p>
-The crow hopped on its one foot and flapped its broad iridescent wings. “Save her!”
+“How did it get up there?”
 </p>
 
 <p>
-She was starting to hate crows, too.
+<i>Must have climbed up when you weren’t looking. Wanted a soft place to die, maybe.</i>
+</p>
+
+<p>
+The sun shone on the rose. The petals closest to the stem glistened deep red. A thin line of crimson trailed down the stem, and dripped off of a bright red thorn.
+</p>
+
+<p>
+<i>They’re not thorns, they’re prickles.</i>
+</p>
+
+<p>
+The sickly sweet stench of rot hadn’t set in yet, but the air of death loomed around the thing, wafting toward Annabeth.
+</p>
+
+<p>
+<i>What massive plant is known to mimic the texture and smell of raw and rotting meat to help pollinate itself?</i>
+</p>
+
+<p>
+“Titan Arnum,” she whispered.
+</p>
+
+<p>
+ Still kneeling, she scrunched her nose, and leaned away. But she couldn’t quite bring herself to look away. Something itched at the back of her brain. Something she’d locked away. Key long gone. Now the memory pounded on its prison door, demanding to be seen. Heard. Remembered. She closed her eyes. Red fingers knotted in brown hair. A coppery tang blending with thick heat, choking her. She can’t breathe. Can’t move. Her fingers tremble. A scream: “ANNABETH!”
+</p>
+
+<p>
+A train horn pierced the silence. Annabeth yelped in surprise. Her eyes flew open as she fell from kneeling to sitting on the brick walkway. She threw her hands back to stop herself from falling all the way back. Her breath came in heaving gulps. Her heart slammed against her chest. She took several deep breaths to calm herself. The memory once desperate to get out, quieted and faded back to the shadows of her mind as her heart rate slowed.
+</p>
+
+<p>
+The crow, lording over her from the top of the hedge, snapped its beak at her.
+</p>
+
+<p>
+<i>Go home, Annabeth. You’re exhausted.</i>
+</p>
+
+<p>
+Her cramping leg muscles made getting off the ground painful and slow. She wiped her dirty palms along the torso of her shirt. The mouse laid limply on the hedge beside the crow. A splayed pink paw hung from the tip of the crow’s beak. The bird tipped its head up, downing part of the mouse. It flapped its broad iridescent wings, lifted from the shrub, and snatched the rest of its meal with its one good leg. “Save her!”
+</p>
+
+<p>
+<i>Go home.</i>
 </p>
 
 </div>
