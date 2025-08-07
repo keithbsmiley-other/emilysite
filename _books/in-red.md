@@ -14,7 +14,7 @@ order: 3
 
 &nbsp;&nbsp;&nbsp;&nbsp;Back at home, Annabeth learns that her southern roots run deeper than she thought possible, and she may never be able to dig herself out. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Dig in. [Read chapter one](/in-red-chapter-one).
+&nbsp;&nbsp;&nbsp;&nbsp;[Read chapter one](/in-red-chapter-one).
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;Below is a running playlist that gets me in the mood to work on this book.
