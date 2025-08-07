@@ -11,7 +11,7 @@ order: 1
 &nbsp;&nbsp;&nbsp;&nbsp;Enter: Death. In the form of a snarky, sexy young woman, Death is drawn to Dallas’s issues just as much as Dallas is drawn to Death’s mysterious magnetism. Desperate, Dallas makes a deal with Death: Dallas will find out who is stealing the souls of the drowned, in exchange for protection from the demon hunting her. The cost? Dallas must come to terms with her incredible loss, even though it makes her wish she’d be the one to sink in the Pacific abyss.
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Treading Water came in first place in the Horror category of the 2024 PNWA Unpublished Novel Contest. Ready to dive in? [Read chapter one](/treading-water-chapter-one).<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Treading Water came in first place in the Horror category of the 2024 PNWA Unpublished Novel Contest, and is currently on submission. Ready to dive in? [Read chapter one](/treading-water-chapter-one).<br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;Below is a running playlist that gets me in the mood to work on this book.
 
