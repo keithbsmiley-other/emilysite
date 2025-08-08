@@ -435,7 +435,7 @@ A brown mouse darted from the far hedge to the other. Annabeth eyed it, then the
 </p>
 
 <p>
-“Look, I’m not interested in whatever you’re sell—“ <i>Focus, Annabeth.</i> “Wait, did you say ‘my sister’?”
+“Look, I’m not interested in whatever you’re sell—" <i>Focus, Annabeth.</i> “Wait, did you say ‘my sister’?”
 </p>
 
 <p>
