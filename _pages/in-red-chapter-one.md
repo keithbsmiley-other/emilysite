@@ -15,11 +15,11 @@ Chapter One
 </h3>
 
 <p>
-The sun’s rays bounced off the Puget Sound, snuck underneath her sunglasses, and stabbed Annabeth Jefferds directly in the eye. She squinted and nearly ran into a pack of people taking a selfie in front of the ferris wheel. They were laughing. Smiling. It was like they were trying to piss her off.
+The sun’s rays bounced off the Puget Sound, snuck underneath her sunglasses, and stabbed Annabeth Jefferds directly in the eye. She squinted and nearly ran into a pack of people taking a selfie in front of the ferris wheel. They were laughing. Smiling. Like they were trying to piss her off.
 </p>
 
 <p>
-Because while they were having the time of their lives, she was dying. Her legs ached. Her chest was on fire. Fine strands of her hair were spider webs sticking to her sweaty neck. A glob of viscous snot bounced on her upper lip as if it were a fleshy trampoline.
+Because while they were having the time of their lives, she was dying. Her legs ached. Her chest was on fire. Fine strands of her hair were spider webs sticking to her sweaty neck. A glob of viscous snot bounced on the fleshy trampoline of her upper lip.
 </p>
 
 <p>
@@ -43,7 +43,7 @@ A group stopped right in front of her on the sidewalk.
 </p>
 
 <p>
-<i>You should mutter more quietly.</i> Her running internal commentary had been particularly chatty for the past week.
+<i>You should mutter more quietly.</i> Her running internal commentary had been mouthy all week.
 </p>
 
 <p>
@@ -51,7 +51,7 @@ A group stopped right in front of her on the sidewalk.
 </p>
 
 <p>
-She should have known not to run in Central Waterfront today. For six months out of the year, the cold and clouds pushed down on the locals like heat and pressure on carbon. Except, when the ground thawed, Seattle didn’t get diamonds. It got bastard zombies hungry for clam chowder, cream cheese-covered hotdogs, and sunshine. Hence the mob by the waterfront piers and Pike Place Market today.
+She should have known not to run in Central Waterfront today. For six months out of the year, the cold and clouds pushed down on the locals like heat and pressure on carbon. But every April, when the ground thawed, Seattle didn’t expel diamonds. Instead, hordes of zombies bubbled up from the depths to mob the waterfront piers hungry for clam chowder, cream cheese-covered hotdogs, and sunshine. Hence the mob by the waterfront piers and Pike Place Market today.
 </p>
 
 <p>
@@ -87,7 +87,7 @@ A bolt of adrenaline shot from her stomach into her legs. Her stride lengthened 
 </p>
 
 <p>
-Right. Left. Right. Left. Nap. Banana. Nap. Banana.
+Right. Left. Nap. Banana.
 </p>
 
 <p>
@@ -111,7 +111,7 @@ The light on the crosswalk turned, forcing her to jog in place. Great. Just frea
 </p>
 
 <p>
-<i>They’re probably going to talk about you later. ”Did you see that girl talking to herself while she was running by the waterfront today?” they’ll whisper. “What do you think she was on? Dunno. She looked so normal. You just never know about people.”</i>
+<i>They’re probably going to talk about you later. “Did you see that girl talking to herself while she was running by the waterfront today?” they’ll whisper. “What do you think she was on? Dunno. She looked so normal. You just never know about people.”</i>
 </p>
 
 <p>
@@ -119,11 +119,15 @@ She rolled her eyes and kept jogging in place—<i>You look like an idiot.</i>�
 </p>
 
 <p>
+Left. Right. Nap. Banana.
+</p>
+
+<p>
 A little boy with chocolate on his lips and cheeks stared at her from across the street. The boy’s pointer finger was hooked around his mother’s pinky. An otter stuffy was tucked underneath his armpit.
 </p>
 
 <p>
-<i>Otters are known to be serial killers. Necrophiliacs.</i>
+<i>Otters are known to be serial killers. And necrophiliacs.</i>
 </p>
 
 <p>
@@ -143,7 +147,7 @@ The light changed.
 </p>
 
 <p>
-“Can’t,” she whispered slash panted then swallowed the loogie. “Scare the children,” she said, loudly, just as the boy and his mother walked past her.
+“Can’t,” she whispered-slash-panted then swallowed the loogie. “Scare the children,” she said, loudly, just as the boy and his mother walked past her.
 </p>
 
 <p>
@@ -151,15 +155,15 @@ The boy’s mother narrowed her eyes at Annabeth and pulled her son closer. He t
 </p>
 
 <p>
-<i>Nicely done, Anna.</i>
+<i>Nicely done, Annabeth.</i>
 </p>
 
 <p>
-She gave an exasperated grunt and tapped her headphones. Her music volume rose, blocking out her heavy steps and rattling chest.
+She cleared a blob of phlegm from her throat and tapped her headphones. Her music volume rose, blocking out her heavy steps and rattling chest.
 </p>
 
 <p>
-Right. Left. Right. Left. Nap. Banana. Endorphins. Peace. Quiet. Solitude.
+Right. Left. Banana. Nap. Endorphins. Peace. Quiet. Solitude.
 </p>
 
 <p>
@@ -219,7 +223,7 @@ Here Annabeth was, literally —<i>not literally</i>— dying and this man had t
 </p>
 
 <p>
-<i>Asshole.</i>
+<i>Douchebag.</i>
 </p>
 
 <p>
@@ -263,7 +267,7 @@ Annabeth concentrated on her steps again. Nap. Banana. Nap. Banana. “Seriously
 </p>
 
 <p>
-Anna jumped, breaking her rhythm. Her toe caught on an uneven chunk of asphalt. She stumbled, feet stomping, chest leaning forward. Her arms windmilled. <i>Don’t fall. Don’t fall. Don’t fall.</i>
+Annabeth jumped, breaking her rhythm. Her toe caught on an uneven chunk of asphalt. She stumbled, feet stomping, chest leaning forward. Her arms windmilled. <i>Don’t fall. Don’t fall. Don’t fall.</i>
 </p>
 
 <p>
@@ -279,7 +283,15 @@ Train wheels turned slowly in her periphery. She stopped her music just in time 
 </p>
 
 <p>
-“A train horn,” she said. “It was just a train horn.” She wiped her salmon shirt sleeve underneath her nose. It came away wet with snot. Sweat dripped off her chin.
+“A train horn,” she said. “It was just a train horn.” She wiped her shirt sleeve underneath her nose. It came away wet with snot. Sweat dripped off her chin.
+</p>
+
+<p>
+<i>Cute</i>.
+</p>
+
+<p>
+Shut up.
 </p>
 
 <p>
@@ -319,7 +331,7 @@ Annabeth swallowed the jolt of adrenaline that ran from her stomach up her throa
 </p>
 
 <p>
-The roses weren’t blooming—it was too early in the year for that—but the waxy leaves were a deep green that demanded Annabeth’s attention. She bent down, feeling the serrated edges. A chilly wind blew in off bay. The sweat still coating her body was ice against her skin.
+The roses weren’t blooming—it was too early in the year for that—but the waxy leaves were a deep green that demanded Annabeth’s attention. She bent down, feeling the serrated edges. A chilly wind blew in off the bay. The sweat still coating her body was ice against her skin.
 </p>
 
 <p>
@@ -351,11 +363,11 @@ Shit. No one from Seattle had called her Annabeth in her ten years of living her
 </p>
 
 <p>
-Wings flapped in Annabeth’s face, forcing her to duck. A crow landed on a nearby park bench. Its black feathers had a sheen to them in the sunlight, making the bird look almost purple like a deep bruise.
+Wings flapped in Annabeth’s face, forcing her to duck. A crow landed on a nearby park bench. Its black feathers had a sheen to them in the sunlight, casting the purple of a deep bruise over the bird.
 </p>
 
 <p>
-“Hello, Annabeth, how are you doing today?” Annabeth could hear the twang on the other end of the line now—drawn out vowels and absent g’s. She’d moved three-thousand miles away, but her southern roots could still find her.
+“Hello, Annabeth, how are you doing today?” The twang hung thick on the other end of the line now—drawn out vowels and absent g’s. She’d moved three-thousand miles away, but her southern roots could still find her.
 </p>
 
 <p>
@@ -367,7 +379,7 @@ Annabeth wasn’t most people.
 </p>
 
 <p>
-“F—fine.” Annabeth’s conversational muscle memory took over while she stared at the bird. The crow watched Annabeth while it pecked at the peeling black paint on the wrought iron. Its tiny black head twitched left then right. It snapped its beak. A piece of black paint hung from it like dead skin.
+“F—fine.” Annabeth’s conversational muscle memory took over while she stared at the crow. The bird watched Annabeth while it pecked at the peeling black paint on the wrought iron. Its tiny black head twitched left then right. It snapped its beak. A piece of black paint hung from it like dead skin.
 </p>
 
 <p>
@@ -391,7 +403,7 @@ Annabeth rolled her eyes. She did not miss the Southern expectation of exhaustin
 </p>
 
 <p>
-The crow cawed. Annabeth glanced over her shoulder to see it hopping along the hedge beside her. Following her. Coincidence. Had to be. The corvid was a massive thing—definitely bigger than that kid’s otter stuffy. One talon tapped on the asphalt. A gnarled, scabby knob dangled where its ankle should have been.
+The crow cawed. Annabeth glanced over her shoulder to see it hopping along the hedge beside her. Following her. Coincidence. Had to be. The corvid was a massive thing—definitely bigger than that kid’s otter stuffy. One talon tapped the shrub. A gnarled, scabby knob dangled where its other ankle should have been.
 </p>
 
 <p>
@@ -415,11 +427,11 @@ The crow stared at her with one beady eye, then another.
 </p>
 
 <p>
-“…is your sister available?”
+“…is your sister available?” the woman asked.
 </p>
 
 <p>
-A brown mouse darted from the far hedge to the other. She eyed it, then the crow, with mild curiosity. After a childhood of growing up on a defunct plantation, she’d witnessed the circle of life far too many times to interfere. The crow’s head darted left and right, its attention torn between the meal and Annabeth.
+A brown mouse darted from the far hedge to the other. Annabeth eyed it, then the crow, with mild curiosity. After a childhood of growing up on a defunct plantation, she’d witnessed the circle of life far too many times to interfere. The crow’s head darted left and right, its attention torn between the meal and Annabeth.
 </p>
 
 <p>
@@ -443,7 +455,7 @@ Annabeth had been more than willing to let her take on that particularly arduous
 </p>
 
 <p>
-“I’m sorry. Did you say ‘Bean’?” the woman asked.
+“I’m sorry. Did you say ‘Bean’?”
 </p>
 
 <p>
@@ -451,7 +463,7 @@ Annabeth had been more than willing to let her take on that particularly arduous
 </p>
 
 <p>
-“She came in a few days ago for an out-patient procedure and I’m calling —”
+“She came in a few days ago for an out-patient procedure. I’m calling —”
 </p>
 
 <p>
@@ -507,7 +519,7 @@ Frustration mixed with worry. Annabeth’s stomach twisted. She stretched and ma
 </p>
 
 <p>
-Annabeth roiled. Red hot heat, completely unrelated to the run, rose bloomed up her neck. She tried to stay composed, steady. “I just talked to Bean—er, Leigh—the other day. She seemed fine.”
+Annabeth roiled. Red hot heat, completely unrelated to the run, bloomed up her neck. She tried to stay composed, steady. “When did she come in? I just talked to Bean—er, Leigh—the other day. She seemed fine.”
 </p>
 
 <p>
@@ -527,7 +539,7 @@ Another chilly gust of wind blew a few of the leaves of the hedge and nearby ros
 </p>
 
 <p>
-Annabeth would never forget. Bean had ruined her favorite Metallica t-shirt that day. Still too groggy from the anesthesia, Bean hadn’t been able to get to the toilet in time. Jelly-like crimson clots and yellow bile ran down James Hetfield’s face in thick streams. Bean fell asleep in Annabeth’s lap on the bathroom floor that night. Annabeth stayed up, vigilant, listening to her sister’s pained breaths and stroking her sweaty, matted hair, careful not to touch her tender, swollen cheeks. Their father hadn’t even bothered to check on them.
+Annabeth would never forget. Bean had ruined her favorite Metallica t-shirt that day. Still too groggy from the anesthesia, Bean hadn’t been able to get to the toilet in time. Jelly-like crimson clots and yellow bile ran down James Hetfield’s face in thick streams. Bean fell asleep in Annabeth’s lap on the bathroom floor that night. Annabeth stayed up, vigilant, listening to her sister’s pained breaths and stroking her sweaty, matted hair, careful not to touch her tender, swollen cheeks.
 </p>
 
 <p>
@@ -535,7 +547,7 @@ Annabeth would never forget. Bean had ruined her favorite Metallica t-shirt that
 </p>
 
 <p>
-“You didn’t give her opiates did you?” Annabeth asked the woman.
+“You didn’t give her opiates did you?” Annabeth asked.
 </p>
 
 <p>
@@ -563,7 +575,7 @@ The crow squawked again, and Annabeth swore this time it sounded like, “Save h
 </p>
 
 <p>
-<i>True or false: Members of the Corvid family can mimic human speech!</i>
+<i>True or false: Members of the Corvid family can mimic human speech?</i>
 </p>
 
 <p>
@@ -571,7 +583,7 @@ Fair point.
 </p>
 
 <p>
-She eyed the bud. It was bigger now. Opened, slightly. A black petal bulged out of the green bud casing. <i>It’s a calyx.</i> The base of the bloom was too wide. Too bulbous. Pregnant. The crow rustled the leaves of the hedge above her.
+She eyed the bud. It was bigger now. Opened, slightly. A black petal bulged out of the green bud casing. <i>It’s called a calyx.</i> The base of the bloom was too wide. Too bulbous. Pregnant. The crow rustled the leaves of the hedge above her.
 </p>
 
 <p>
@@ -595,7 +607,7 @@ Annabeth was annoyed. Annoyed at the crow. Annoyed at Bean. Annoyed at Nylah fuc
 </p>
 
 <p>
-“Save her!” The crow hopped closer, twisting its head at an impossible angle to study the rose. Annabeth took a step back.
+“Save her!” The crow hopped closer, twisting its head at an impossible angle to study the rose. Annabeth retreated again.
 </p>
 
 <p>
@@ -607,11 +619,15 @@ Annabeth was annoyed. Annoyed at the crow. Annoyed at Bean. Annoyed at Nylah fuc
 </p>
 
 <p>
-Annabeth pinched the bridge of her nose, wishing her inner commentary would leave her in peace for just thirty-freaking-seconds. “Shut. Up.”
+Annabeth pinched the bridge of her nose, wishing her inner commentary would leave her in peace for just thirty-freaking-seconds.
 </p>
 
 <p>
 <i>Two point three million gallons of molasses flooded Boston, killing twenty-one people.</i>
+</p>
+
+<p>
+“Shut. Up.”
 </p>
 
 <p>
@@ -639,7 +655,7 @@ Annabeth was having none of it. “Not telling me what’s wrong with my little 
 </p>
 
 <p>
-<i>Bean is fine. It’s just a misunderstanding. Text her. You’ll see.</i>
+<i>Text her.</i>
 </p>
 
 <p>
@@ -655,6 +671,14 @@ Hospital just called and wanted to know if you’re pleased with your recent exp
 </p>
 
 <p>
+Annabeth checked Bean’s location—something they’d been sharing since the feature existed. Bean was at their father’s house. Or at least her phone was.
+</p>
+
+<p>
+<i>Bean is never without her phone. She’s there.</i>
+</p>
+
+<p>
 “Ma’am?” Nylah asked. “Are you still there?” Her acidic-sweet twang stripped Annabeth’s nerves down to erratic sparks of frustration and angst.
 </p>
 
@@ -667,7 +691,7 @@ Annabeth took a breath. “Yeah, I’m here.”
 </p>
 
 <p>
-“Your father isn’t listed in Leigh’s chart,” Nylah said. “It would be illegal for me to call him. Just like it would be illegal for me to share any medical information with you.”
+“Your father’s contact information isn’t listed in Leigh’s chart,” Nylah said. “It would be illegal for me to call him. Just like it would be illegal for me to share any medical information with you.”
 </p>
 
 <p>
@@ -699,7 +723,7 @@ She turned just in time to see a long, fuzzy string fall from between two of the
 </p>
 
 <p>
-The rose spread open to its full extent. The mouse laid in the middle of the bloom. Its back legs were a mess of blood and exposed flesh. A tiny splinter of bone stuck out of its hip. The mouse’s front legs twitched and spasmed. Its tiny mouth hung open as if screaming. A chunk of furry pink meat clung to one of rose’s ink black petals.
+The rose spread open to its full extent. A mouse laid in the middle of the bloom. Its back legs were a mess of blood and exposed flesh. A tiny splinter of bone stuck out of its hip. The mouse’s front legs twitched and spasmed. Its tiny mouth hung open as if screaming. A chunk of furry pink meat clung to one of rose’s ink black petals.
 </p>
 
 <p>
@@ -727,11 +751,11 @@ The sickly sweet stench of rot hadn’t set in yet, but the air of death loomed 
 </p>
 
 <p>
-“Titan Arnum,” she whispered.
+“Titan Arum,” she whispered.
 </p>
 
 <p>
- Still kneeling, she scrunched her nose, and leaned away. But she couldn’t quite bring herself to look away. Something itched at the back of her brain. Something she’d locked away. Key long gone. Now the memory pounded on its prison door, demanding to be seen. Heard. Remembered. She closed her eyes. Red fingers knotted in brown hair. A coppery tang blending with thick heat, choking her. She can’t breathe. Can’t move. Her fingers tremble. A scream: “ANNABETH!”
+Still kneeling, she scrunched her nose, and leaned away. But she couldn’t quite bring herself to look away. Something itched at the back of her brain. Something she’d locked away. Key long gone. Now the memory pounded on its prison door, demanding to be seen. Heard. Remembered. She closed her eyes. Red fingers knotted in brown hair. A coppery tang blending with thick heat, choking her. She can’t breathe. Can’t move. Her fingers tremble. A scream: “ANNABETH!”
 </p>
 
 <p>
