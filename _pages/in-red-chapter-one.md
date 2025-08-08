@@ -207,7 +207,7 @@ Her music volume decreased. Her breaths came out in uneven guttural bursts.
 </p>
 
 <p>
-“Phone call from: unknown number. Answer—“ The cheery phone assistant chirped.
+“Phone call from: unknown number. Answer—” The cheery phone assistant chirped.
 </p>
 
 <p>
@@ -435,11 +435,11 @@ A brown mouse darted from the far hedge to the other. Annabeth eyed it, then the
 </p>
 
 <p>
-“Look, I’m not interested in whatever you’re sell—" <i>Focus, Annabeth.</i> “Wait, did you say ‘my sister’?”
+“Look, I’m not interested in whatever you’re sell—” <i>Focus, Annabeth.</i> “Wait, did you say ‘my sister’?”
 </p>
 
 <p>
-“Yes, she was recently admitted to MUSC, and—"
+“Yes, she was recently admitted to MUSC, and—”
 </p>
 
 <p>
@@ -527,7 +527,7 @@ Another chilly gust of wind blew a few of the leaves of the hedge and nearby ros
 </p>
 
 <p>
-“I just need her to fill out this medical survey—“
+“I just need her to fill out this medical survey—”
 </p>
 
 <p>
@@ -551,7 +551,7 @@ Annabeth would never forget. Bean had ruined her favorite Metallica t-shirt that
 </p>
 
 <p>
-“<i>I</i> didn’t give her anything. I’m just a part-time administrative assist—“
+“<i>I</i> didn’t give her anything. I’m just a part-time administrative assist—”
 </p>
 
 <p>
@@ -567,7 +567,7 @@ Annabeth would never forget. Bean had ruined her favorite Metallica t-shirt that
 </p>
 
 <p>
-“Ma’am, I can’t tell you—“ Nylah took a deep breath. “I just need her to take a surve—”
+“Ma’am, I can’t tell you—” Nylah took a deep breath. “I just need her to take a surve—”
 </p>
 
 <p>
@@ -611,7 +611,7 @@ Annabeth was annoyed. Annoyed at the crow. Annoyed at Bean. Annoyed at Nylah fuc
 </p>
 
 <p>
-“Is Leigh with you or not?" Nylah spoke slowly. Her tone, measured. Accent, thicker. Molasses in Annabeth’s ears—slow and bitter sweet.
+“Is Leigh with you or not?” Nylah spoke slowly. Her tone, measured. Accent, thicker. Molasses in Annabeth’s ears—slow and bitter sweet.
 </p>
 
 <p>
@@ -699,7 +699,7 @@ The tag underneath the text message didn’t switch from <i>delivered</i> to <i>
 </p>
 
 <p>
-“Ma’am, did you hear me? I can’t tell you—“
+“Ma’am, did you hear me? I can’t tell you—”
 </p>
 
 <p>
