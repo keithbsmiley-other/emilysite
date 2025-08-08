@@ -611,7 +611,7 @@ Annabeth was annoyed. Annoyed at the crow. Annoyed at Bean. Annoyed at Nylah fuc
 </p>
 
 <p>
-“Is Leigh with you or not?“ Nylah spoke slowly. Her tone, measured. Accent, thicker. Molasses in Annabeth’s ears—slow and bitter sweet.
+“Is Leigh with you or not?" Nylah spoke slowly. Her tone, measured. Accent, thicker. Molasses in Annabeth’s ears—slow and bitter sweet.
 </p>
 
 <p>
