@@ -439,7 +439,7 @@ A brown mouse darted from the far hedge to the other. Annabeth eyed it, then the
 </p>
 
 <p>
-“Yes, she was recently admitted to MUSC, and—“
+“Yes, she was recently admitted to MUSC, and—"
 </p>
 
 <p>
