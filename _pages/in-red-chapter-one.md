@@ -663,11 +663,7 @@ Annabeth pulled her phone out of her running belt and tapped a quick message.
 </p>
 
 <p>
-To Bean:
-</p>
-
-<p>
-Hospital just called and wanted to know if you’re pleased with your recent experience. They said you had a procedure, Bean. WTF is going on?
+To Bean: Hospital just called and wanted to know if you’re pleased with your recent experience. They said you had a procedure, Bean. WTF is going on?
 </p>
 
 <p>
