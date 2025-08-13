@@ -12,3 +12,5 @@ order: 4
 <br />
 
 [Read chapter one](/dev-null-chapter-one).<br />
+
+Below is a running playlist that gets me in the mood to work on this book.
