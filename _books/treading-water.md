@@ -1,7 +1,6 @@
 ---
 layout: books
 title: Treading Water
-image: images/TWwithWinner.png
 spotify: https://open.spotify.com/embed/playlist/4nC2yRtUdwzdV0i5956uY3
 order: 1
 ---
