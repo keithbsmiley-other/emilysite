@@ -12,6 +12,6 @@ order: 4
 &nbsp;&nbsp;&nbsp;&nbsp;User Aletheia_Darling started listening to the podcast one year ago, after her mother went missing on a canoe trip along the Russian River. They became a moderator shortly thereafter so that they could read everything on the forum before Merrier censored it. Aletheia has a theory about a few of the stories on NorCal Creeps, one they’re not sure they can keep to themselves much longer. Some of the stories are real. Something is wiping people, things, and sometimes entire towns from reality. Aletheia is going to find out who. The answers are in the stories. They just have to keep listening. 
 <br />
 
-[Read chapter one](/dev-null-chapter-one).<br />
+&nbsp;&nbsp;&nbsp;&nbsp;[Read chapter one](/dev-null-chapter-one).<br />
 
-Below is a running playlist that gets me in the mood to work on this book.
+&nbsp;&nbsp;&nbsp;&nbsp;Below is a running playlist that gets me in the mood to work on this book.
