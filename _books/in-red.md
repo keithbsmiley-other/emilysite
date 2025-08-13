@@ -1,6 +1,7 @@
 ---
 layout: books
 title: In Red
+subhead: A Southern Gothic Horror Novel
 spotify: https://open.spotify.com/embed/playlist/3uz0Y95hR90sBldIwi6dw1
 order: 3
 ---

@@ -1,6 +1,7 @@
 ---
 layout: books
 title: Treading Water
+subhead: A Horror/Fantasy Hybrid Novel
 spotify: https://open.spotify.com/embed/playlist/4nC2yRtUdwzdV0i5956uY3
 order: 1
 ---
