@@ -13,3 +13,7 @@ order: 2
 
 - Crystal Lake Publishing Short Story Contest Finalist
 - Crows and Cross Keys publication date March 19, 2025
+
+## Writing Community Service
+
+- [2026 Kitsap 20 Under 40 Leadership Honoree](https://leadershipkitsap.org/20-under-40/)
