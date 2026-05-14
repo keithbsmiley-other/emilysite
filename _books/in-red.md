@@ -6,15 +6,12 @@ spotify: https://open.spotify.com/embed/playlist/3uz0Y95hR90sBldIwi6dw1
 order: 3
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;Thirty-two-year-old Annabeth Jefferds has spent her entire adult life in Seattle trying to de-program the lessons she learned as a child of the South: stay quiet, do what you’re told, don’t ask questions. Re-starting her life is going well until Annabeth receives a phone call. Her sister, Bean, is sick and her father isn't answering his phone. To make sure Bean is safe, Annabeth must go back to South Carolina and once again endure the life she’d left behind. 
+&nbsp;&nbsp;&nbsp;&nbsp;Thirty-three-year-old Annabeth Jefferds has spent her entire adult life in Seattle, de-programming the lessons she learned as a child of the South: stay quiet, do what you’re told, don’t ask questions. Until a phone call reporting that her younger sister is sick and under the care of her abusive father sends her back to South Carolina and the trauma she endured.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Once home, the weird keeps piling up. Strange animals roam the woods. Her father insists on carving cutlery from bones and hosting macabre tours through the family home ([helleboretours.com](helleboretours.com)). Her sister spends her time in and out of coherent thought. Gum—the ex-boyfriend Annabeth thought she'd spend her life with—insists on taking her out. They all consume her waking hours. And then there’s the house… That damned house.
+    
+&nbsp;&nbsp;&nbsp;&nbsp;Annabeth's southern roots run deeper than she thought possible, and she may never be able to dig herself out. 
 <br />
-
-&nbsp;&nbsp;&nbsp;&nbsp;The more time Annabeth spends at home, the more she realizes there’s something strange going on. Annabeth sees odd animals lurking on the edge of the forest, but that can’t be. Rabbits don’t have human thumbs for ears and foxes with broken necks can’t just scamper away. She must be imagining things. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;Meanwhile, Annabeth's ex-boyfriend, Gum, keeps reminding her of the life she left behind, Bean spends her days lying in bed, in and out of coherent thought, and their father wastes his time puttering around the property, muttering to himself. 
-<br />
-
-&nbsp;&nbsp;&nbsp;&nbsp;Annabeth quickly learns that her southern roots run deeper than she thought possible, and she may never be able to dig herself out. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Read chapter one](/in-red-chapter-one).
 <br />
