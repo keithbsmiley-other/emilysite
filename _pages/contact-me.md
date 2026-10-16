@@ -6,8 +6,7 @@ image: images/emily.jpg
 skip: true
 ---
 
-For inquiries about my books, please reach out to my agent, [AJ Van
-Belle](https://www.thebookeralbertagency.com/aj-van-belle.html).
+For inquiries about my books, please reach out to my agent, [John Baker]([https://petersfraserdunlop.com/agent/john-baker/])
 
 <br />
 
