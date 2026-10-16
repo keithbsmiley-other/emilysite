@@ -13,6 +13,7 @@ order: 2
 
 - Crystal Lake Publishing Short Story Contest Finalist
 - Crows and Cross Keys publication date March 19, 2025
+- Published by The Creepy Podcast 2026
 
 ## Writing Community Service
 
