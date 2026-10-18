@@ -3,7 +3,7 @@ layout: books
 title: Treading Water
 subhead: A Horror/Fantasy Hybrid Novel
 spotify: https://open.spotify.com/embed/playlist/4nC2yRtUdwzdV0i5956uY3
-order: 1
+order: 5
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;Dallas London's brother is presumed dead after going missing off the coast of Maui. Now back home in San Francisco, Dallas does denial in style: no sleep and a steady diet of stale pizza, cigarettes, and intrusive thoughts about her brother’s decaying body. But when a philanthropist’s son disappears under eerily similar circumstances and Dallas starts seeing demons lurking in the shadows of her apartment, even she can’t pretend she’s fine. <br />
