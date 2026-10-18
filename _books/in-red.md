@@ -3,7 +3,7 @@ layout: books
 title: In Red
 subhead: A Southern Gothic Horror Novel
 spotify: https://open.spotify.com/embed/playlist/3uz0Y95hR90sBldIwi6dw1
-order: 3
+order: 1
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;Thirty-three-year-old Annabeth Jefferds has spent her entire adult life in Seattle, de-programming the lessons she learned as a child of the South: stay quiet, do what you’re told, don’t ask questions. Until a phone call reporting that her younger sister is sick and under the care of her abusive father sends her back to South Carolina and the trauma she endured.
