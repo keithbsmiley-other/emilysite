@@ -7,6 +7,9 @@ skip: true
 ---
 
 For inquiries about publicity or questions about my work, email me at [EmilySmileyWrites@gmail.com](mailto:emilysmileywrites@gmail.com)
+
+<br />
+
 For inquiries about my books, please reach out to my agent, [John Baker](https://petersfraserdunlop.com/agent/john-baker/).
 
 <br />
