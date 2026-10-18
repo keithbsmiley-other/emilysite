@@ -17,4 +17,4 @@ Artisan Resource Network (BARN)](https://bainbridgebarn.org), please email me at
 <br />
 
 For anything else, please email me at
-[emilysmileywritesy@gmail.com](mailto:emilysmileywrites@gmail.com)
+[emilysmileywrites@gmail.com](mailto:emilysmileywrites@gmail.com)
